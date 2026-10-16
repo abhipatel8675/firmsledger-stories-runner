@@ -249,7 +249,45 @@ The company emphasizes quick, reliable trade-in evaluations and a broad parts in
 
 # Minnesota Farmhouse
 
-_skipped: not enough facts_
+**Old description:** Custom handcrafted furniture that your kids and grandkids will fight over!
+
+## About
+Minnesota Farmhouse operates from Cambridge, Minnesota, where it produces custom handcrafted furniture. The company's founding year, ownership structure, and founders are not publicly disclosed.
+
+The workshop specializes in custom dining tables and other furniture pieces, each built by hand using traditional woodworking methods. No details on facility size, headcount, or production volumes are available.
+
+The furniture is marketed toward residential customers looking to elevate home decor with heirloom-quality pieces for dining rooms and kitchens. The company highlights that its products are made in Cambridge, Minnesota, and are designed to be durable enough for generations.
+
+The company's stated differentiation rests on handcrafted construction and the promise of furniture that lasts long enough to become a family heirloom.
+
+## Known for
+- Handcrafted construction
+- Made in Cambridge, Minnesota
+- Heirloom-quality durability
+
+## Capabilities
+- Custom furniture manufacturing
+- Handcrafted woodworking
+- Custom dining table production
+
+## Industries
+- Residential furniture
+- Home decor
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Cambridge, Minnesota
+
+<details><summary>Sources</summary>
+
+- Company name: Minnesota Farmhouse -> /
+- Location: Cambridge, MN -> /
+- Product: Custom handcrafted furniture and dining tables -> /
+- Made in Cambridge, MN -> /
+- Website: http://www.minnesotafarmhouse.com/ -> db
+</details>
+
+---
 
 # Mispillion River Brewing
 

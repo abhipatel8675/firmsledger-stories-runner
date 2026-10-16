@@ -443,30 +443,29 @@ Metal Creations emphasizes the use of marine‑grade materials and a hands‑on 
 **Old description:** We repair and restore all metals — brass, copper, steel, aluminum, zinc, and white metal. From antique hardware to custom fabrication.
 
 ## About
-Metal Doctors operates from East Providence, Rhode Island. The shop was founded by Frank, a metalworker with over three decades of experience who began his career at his father-in-law's metal shop, eventually running that operation before striking out on his own. Frank handles every project himself, from intake to finish, with no team handoffs.
+Metal Doctors operates from East Providence, Rhode Island. The shop was founded by Frank, a metalworker with over three decades of experience who learned the trade under his father‑in‑law and later ran an entire metal operation before striking out on his own. Frank handles every project himself, from intake to finish, with no handoffs or additional staff.
 
-The shop specializes in metal restoration and custom fabrication across a range of metals including brass, copper, steel, aluminum, zinc, and white metal — with a noted specialty in white and pot metal that few shops handle. Services span complete body restoration and panel fabrication for rare vehicles, rust repair, period-correct finishing, custom architectural elements, bespoke furniture, decorative art, railings, gates, specialized tooling, and prototype development. Welding capabilities cover TIG, MIG, stick, brazing, and soldering for aluminum, stainless steel, cast iron, and other alloys, with mobile welding available for on-site repairs. Frank works alone, so every piece moves through the shop under a single pair of hands.
+The business focuses on metal restoration, repair, and custom fabrication. Services include complete body restoration and panel fabrication for rare vehicles, rust repair, period‑correct finishing, and hardware reproduction. The shop works with brass, copper, steel, aluminum, zinc, white metal, pot metal, stainless steel, and cast iron. Welding capabilities cover TIG, MIG, stick, brazing, and soldering, and mobile welding is offered for on‑site repairs. Frank also produces custom architectural elements, railings, gates, bespoke furniture, decorative metal art, specialized tools, and one‑off prototypes.
 
-Clients include antique and classic vehicle owners, vintage furniture collectors, museums, private collections, and residential and commercial customers needing architectural metalwork. The shop has restored items such as a rusted dump trailer and a rusted-through floor pan, and its work has gone to museums and private collections as well as local individuals.
+Clients range from museums and private collectors seeking authentic restoration of antique cars and vintage furniture to commercial and residential customers needing custom railings, gates, and architectural fixtures. The shop has fabricated parts for rare vehicles and produced specialized equipment for industrial clients.
 
-The company distinguishes itself through its willingness to tackle white metal and pot metal repairs that most shops decline, and through Frank's solo-craftsman model that eliminates handoffs. Other metalworkers reportedly bring him repairs they cannot complete, and he applies the same care to museum pieces as to neighborhood projects.
+Frank’s specialization in white metal and pot metal — materials many shops avoid — sets the operation apart. He emphasizes that every piece receives the same care whether it is destined for a museum or a local customer, and the single‑craftsman model ensures continuity from start to finish.
 
 ## Known for
 - White metal and pot metal restoration specialty
-- Solo craftsman model — no handoffs, one person start to finish
-- Mobile welding for on-site repairs
+- Single craftsman handles every project start to finish
+- Decades of experience with challenging metal repairs
+- Mobile welding services for on-site repairs
 - Period-correct metal finishing techniques
-- Handles repairs other shops turn away
 
 ## Capabilities
 - Metal restoration
 - Complete body restoration and panel fabrication
 - Rust repair and metal preservation
-- Custom metal parts fabrication for rare vehicles
-- Precision welding for structural integrity
-- Period-correct metal finishing techniques
+- Custom metal parts fabrication
+- Period-correct metal finishing
 - Metal furniture repair and restoration
-- Structural reinforcement while maintaining original design
+- Structural reinforcement
 - Metal cleaning, refinishing, and repainting
 - Hardware replacement, repair, and reproduction
 - Custom architectural metal elements and fixtures
@@ -480,39 +479,45 @@ The company distinguishes itself through its willingness to tackle white metal a
 - Aluminum welding
 - Stainless steel welding
 - Cast iron welding
-- Brazing and soldering
+- Brazing
+- Soldering
 - Mobile welding services
 - Structural and ornamental welding
 
 ## Industries
-- Antique vehicle restoration
+- Antique/classic car restoration
 - Vintage furniture restoration
-- Classic car restoration
-- Rare vehicle restoration
-- Museum conservation
+- Museums
 - Private collections
-- Architectural metalwork
-- Custom metal fabrication
-- Antique hardware restoration
+- Commercial architectural metalwork
+- Residential architectural metalwork
+- Bespoke furniture
+- Decorative metal art
+- Specialized tools and equipment fabrication
+- Prototype development
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
-- **Ownership:** Sole proprietor (Frank)
 - **Headquarters:** East Providence, Rhode Island
 
 <details><summary>Sources</summary>
 
-- Location: East Providence, RI -> db
-- Founder: Frank, over 30 years experience, started at father-in-law's shop, ran it, then started Metal Doctors -> /
-- Solo operation: Frank handles every piece himself, no team -> /
-- Metals worked: brass, copper, steel, aluminum, zinc, white metal, pot metal -> /
-- Specialty: white metal and pot metal restoration -> /
-- Services: metal restoration, custom fabrication, welding (TIG, MIG, stick, brazing, soldering), mobile welding -> /
-- Specific capabilities: complete body restoration, panel fabrication, rust repair, period-correct finishing, architectural elements, furniture, decorative art, railings, gates, tooling, prototypes -> /
-- Industries: antique/classic/rare vehicles, vintage furniture, museums, private collections, architectural metalwork -> /
-- Differentiators: white/pot metal specialty, solo craftsman, mobile welding, period-correct finishes, takes jobs others decline -> /
+- Company name: Metal Doctors -> db
+- Location: East Providence, Rhode Island -> db
+- Description: repair and restore all metals, custom fabrication -> db
+- Website: https://metaldoctors.net/ -> db
+- Capabilities list -> db
+- Products list -> db
+- Homepage content: services, founder Frank, history, address, contact -> /
+- Founder Frank, over three decades experience, learned from father-in-law, runs solo -> /
 - Materials: brass, copper, steel, aluminum, zinc, white metal, pot metal, stainless steel, cast iron -> /
-- Company type: contract manufacturer/job shop (custom fabrication, restoration, welding for clients) -> /
+- Welding processes: TIG, MIG, stick, brazing, soldering -> /
+- Mobile welding services -> /
+- Custom architectural elements, railings, gates, furniture, decorative art -> /
+- Prototype development and one-off pieces -> /
+- Clients: museums, private collections, commercial/residential -> /
+- White metal/pot metal specialty -> /
+- Single craftsman model -> /
 </details>
 
 ---

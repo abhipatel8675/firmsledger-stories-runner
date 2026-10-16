@@ -292,31 +292,35 @@ Missouri Medical Supply emphasizes a quick and easy Medicare claims process and 
 **Old description:** Furnishing homes in Missouri and beyond with the unique beauty of reclaimed barn wood.
 
 ## About
-Missouri Reclaimed Furniture operates from Springfield, Missouri, where founder David began crafting custom pieces from salvaged barn wood. The company's exact founding year is not publicly stated, but its focus on reclaiming history through wood deconstruction has defined its work since inception.
+Missouri Reclaimed Furniture operates from Springfield, Missouri, where founder David builds custom pieces from salvaged barn wood. The business grew from his passion for the rich patina and history embedded in each timber, and a commitment to environmentally responsible deconstruction and reuse of quality materials. David brings experience and tradition to his trade while maintaining the quality and integrity of the reclaimed wood.
 
-The shop produces customized cabinetry, custom furniture, and offers cabinet resurfacing, wood flooring replacement, and wood door repair. Each piece is handcrafted from reclaimed barn wood, selected for its rustic character and unique patina. No facility size or headcount figures are disclosed.
+The shop produces customized cabinetry, cabinet resurfacing, custom furniture, wood flooring replacement, and wood door repair. Every item is handcrafted to the client’s specifications, with the reclaimed wood’s rustic character ensuring that no two pieces are alike. The company describes its work as “meticulous care just for you,” though scale details such as facility size, headcount, or annual volume are not publicly disclosed.
 
-The company serves residential customers across Missouri and beyond, providing one-of-a-kind furnishings and renovation services for homeowners seeking distinctive, environmentally responsible woodwork.
+The company serves residential customers throughout Missouri and beyond, furnishing homes with one-of-a-kind furniture and built-ins. Its project examples focus on homeowners seeking character-rich conversation pieces rather than commercial or industrial clients.
 
-David emphasizes environmental responsibility through the deconstruction and reuse of quality materials, giving each creation a story rooted in the wood's history. The combination of traditional craftsmanship and reclaimed materials positions the business as a source for true custom work with a sustainable ethos.
+David emphasizes that the time-worn wood has a story that continues in each creation, positioning the reuse of salvaged material as both an aesthetic and ecological differentiator. The firm’s stated aim is to add character or a conversation piece to each home through carefully customized work.
 
 ## Known for
+- Handcrafted custom pieces from reclaimed barn wood
 - Environmentally responsible deconstruction and reuse of materials
-- Handcrafted unique pieces with rustic character
-- True custom work from reclaimed barn wood
-- Customized cabinetry, furniture, and repair services
+- Each item unique due to wood’s natural rustic character
+- Customized cabinetry and furniture built to client specifications
+- Repair and resurfacing services for existing woodwork
 
 ## Capabilities
 - Custom cabinetry
 - Cabinet resurfacing
-- Custom furniture manufacturing
-- Wood flooring installation
+- Custom furniture
+- Wood flooring replacement
 - Wood door repair
-- Reclaimed wood deconstruction
+- Handcrafted woodworking
+- Reclaimed wood processing
 
 ## Industries
 - Residential furniture
-- Custom cabinetry
+- Cabinetry
+- Flooring
+- Door repair
 - Home renovation
 
 ## Company details
@@ -325,13 +329,12 @@ David emphasizes environmental responsibility through the deconstruction and reu
 
 <details><summary>Sources</summary>
 
-- Headquarters: Springfield, Missouri -> db
-- Founder: David -> /
-- Services: Customized cabinetry, cabinet resurfacing, custom furniture, wood flooring replacement, wood door repair -> /
-- Materials: Reclaimed barn wood, salvaged wood -> /
-- Environmental focus: Deconstruction and reuse of quality materials -> /
-- Company description: Furnishing homes with reclaimed barn wood -> /
-- Tagline: History Salvaged. Beauty Reclaimed. True Custom Work. -> /
+- Springfield, Missouri headquarters -> db
+- Founder David creates custom items from salvaged barn wood -> /
+- Services: custom cabinetry, cabinet resurfacing, custom furniture, wood flooring replacement, wood door repair -> /
+- Uses reclaimed barn wood, environmentally responsible deconstruction and reuse -> /
+- Phone (417) 496-3821 -> /
+- Website timestamp 2019-08-27 (Kevin Oldham) -> /
 </details>
 
 ---

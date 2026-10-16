@@ -3,41 +3,43 @@
 **Old description:** The Plymouth, Michigan location of Rebo Lighting and Electronics specializes in the development and testing of our high-quality LED lighting solutions.
 
 ## About
-Rebo Lighting and Electronics is headquartered in Sparta, Tennessee, with a major tech center in Plymouth, Michigan. The company's roots trace back to automotive lighting bulb manufacturing; the Sparta plant was launched in 1972, and the business evolved through mergers including the combination of Wagner and Tung‑Sol to become a large-scale bulb producer. Today Rebo operates as a global development and supply partner for innovative automotive lighting systems, with additional manufacturing and technical sites in Eisenach, Germany; Chongqing, Shanghai, and Wuxi, China; and a planned Eastern Europe location.
+Rebo Lighting and Electronics is headquartered in Sparta, Tennessee, with a major tech center in Plymouth, Michigan. The company traces its roots to the merger of Wagner and Tung-Sol, which created a automotive bulb manufacturer. The Sparta plant was launched in 1972 and celebrated its 50th anniversary in 2022. Ownership details and founders are not publicly disclosed.
 
-The company designs, engineers, and manufactures exterior and interior lighting systems. Its in‑house capabilities span design, optical engineering, R&D, metallization, projection and holographics, prototyping, surface‑mount technology (SMT), high‑speed automation, injection molding, and plastic welding. Rebo's manufacturing footprint includes dedicated production facilities in Sparta, Eisenach, Chongqing, and Wuxi, supported by tech centers in Plymouth, Eisenach, and Shanghai. The firm reports serving more than 40 global OEMs.
+Rebo develops and manufactures automotive lighting systems, including exterior and interior LED solutions. Its in-house capabilities span design, optics, metallization, projection and holographics, prototyping, surface-mount technology (SMT), high-speed automation, injection molding, and plastic welding. The Sparta facility handles manufacturing, injection molding, and fabrication, while the Plymouth tech center focuses on LED development and testing. The company serves over 40 global OEMs and has shipped more than five billion bulbs historically.
 
-Rebo's customer base consists almost entirely of automotive original equipment manufacturers. A noted example is the first lit badge produced for the Ford Mustang. The company positions itself as a flexible, knowledgeable partner for unique automotive lighting challenges, drawing on a history that includes shipping over five billion bulbs before exiting the bulb business.
+The primary industry served is automotive, with customers including major OEMs such as Ford, for which Rebo produced the first lit badge for the Mustang. The company operates globally with manufacturing and tech centers in the United States, Germany, China, and upcoming locations in Eastern Europe.
 
-Rebo emphasizes its over 100 years of accumulated experience and a commitment to innovative, reliable lighting solutions that balance safety, comfort, and style. The firm's differentiation rests on its integrated design‑to‑manufacturing model, global footprint, and ability to deliver fast, flexible solutions for complex automotive lighting programs.
+Rebo emphasizes its over 100 years of combined experience and a commitment to innovative, reliable lighting solutions that prioritize safety, comfort, and style.
 
 ## Known for
+- In-house manufacturing, injection molding, and fabrication at Sparta, Tennessee facility
+- Global footprint with tech centers and manufacturing sites in the US, Germany, and China
 - Over 100 years of automotive lighting experience
-- Integrated design, prototyping, and manufacturing under one roof
-- Global footprint with tech centers in the US, Germany, and China
-- Serves 40+ global automotive OEMs
-- In-house SMT, injection molding, and plastic welding capabilities
+- Surface-mount technology (SMT) production lines in multiple locations
+- Dedicated LED development and testing at Plymouth, Michigan tech center
 
 ## Capabilities
 - Design
-- Technology
-- Optics
-- R&D
+- Technology development
+- Optics engineering
+- Research and development
 - Metallization
-- Projection and Holographics
+- Projection and holographics
 - Prototyping
-- Surface-mount Technology (SMT)
-- High Speed Automation
-- Injection Molding
-- Plastic Welding
+- Surface-mount technology (SMT)
+- High-speed automation
+- Injection molding
+- Plastic welding
+- Manufacturing
 - Fabrication
+- LED lighting development and testing
 
 ## Industries
 - Automotive
 - Automotive lighting
 
 ## Equipment
-- SMT line
+- SMT production line
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -46,21 +48,17 @@ Rebo emphasizes its over 100 years of accumulated experience and a commitment to
 <details><summary>Sources</summary>
 
 - Headquarters in Sparta, Tennessee -> db
-- Sparta plant launched 1972 -> db (products array)
-- Global development and supply partner for automotive lighting systems -> homepage
-- Capabilities: Design, Technology, Optics, R&D, Metallization, Projection and Holographics, Prototyping, SMT, High Speed Automation, Injection Molding, Plastic Welding -> /capabilities
-- Locations: Plymouth (MI), Sparta (TN), Eisenach (Germany), Chongqing (China), Shanghai (China), Wuxi (China) -> homepage
-- Serves 40+ global OEMs -> homepage
-- First lit badge product for Ford Mustang -> db (products array)
+- Plymouth, Michigan tech center for LED development and testing -> /
+- Sparta plant launched 1972 -> / (products list)
+- Merger of Wagner and Tung-Sol -> / (products list)
 - Over 100 years of experience -> /capabilities
-- Fast, Flexible, and Knowledgeable Solutions for Unique Automotive Challenges -> db (industries_served)
-- Merge with Tung-Sol, Wagner merged with Tung-Sol -> db (industries_served)
-- Company forms into Chongqing Yanfeng Johnson Controls Automotive Components Co -> db (industries_served)
-- Rebo Germany purchase of former Autotest plant -> db (products array)
-- Rebo Germany established SMT production line -> db (products array)
-- Rebo Europe launches first production parts out of Serbia -> db (products array)
-- Sparta exits bulb business, shipped over 5 billion bulbs -> db (products array)
-- Sparta, TN celebrates 50 year anniversary -> db (products array)
+- In-house manufacturing, injection molding, fabrication at Sparta -> /
+- Capabilities: Design, Optics, R&D, Metallization, Projection, Holographics, Prototyping, SMT, High Speed Automation, Injection Molding, Plastic Welding -> /capabilities
+- Serves 40+ global OEMs -> /
+- Shipped over 5 billion bulbs historically -> / (products list)
+- First lit badge for Ford Mustang -> / (products list)
+- Global locations: US, Germany, China, Eastern Europe -> /
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -70,33 +68,33 @@ Rebo emphasizes its over 100 years of accumulated experience and a commitment to
 **Old description:** Don't crush your cores!  Use our online inventory and valuation software to maximize your profits. Use our patented technology to increase the yield on your vehicles.
 
 ## About
-Rebuilders Automotive Supply (RAS) operates from Coventry, Rhode Island, with a second location in Tampa, Florida. The company has been a global full-line buyer of automotive cores for more than 50 years, though a specific founding year is not publicly disclosed. Ownership details and founder names are not provided in available sources.
+Rebuilders Automotive Supply (RAS) operates from Coventry, Rhode Island, with a second location in Tampa, Florida. The company has been a global full-line buyer of automotive cores for more than 50 years, though a specific founding year is not disclosed. Ownership details and founder names are not publicly stated.
 
-RAS purchases automotive cores from a network of over 2,000 salvage yards, metal recyclers, and self-service yards worldwide. The company provides an online inventory and valuation software platform, backed by patented technology, to help suppliers maximize core yield and profits. RAS positions itself as the largest supplier to the largest remanufacturers, offering a full-line core buying service supported by experienced purchasing professionals.
+RAS purchases used automotive components—known as cores—from a network of over 2,000 salvage yards, metal recyclers, and self-service yards worldwide. It supplies these cores to the largest remanufacturers in the industry. The company provides a web-based core purchasing platform, proprietary inventory and valuation software, and patented technology designed to increase yield on vehicles.
 
-The primary customers are automotive remanufacturers who require a steady supply of cores for rebuilding. RAS also serves core suppliers, surplus dealers, salvage yards, and metal recyclers by providing a web-based purchasing network that connects them with buyers. The company's industry partnerships span the automotive aftermarket and recycling sectors.
+The primary customers are automotive remanufacturers who require a steady supply of cores for rebuilding. On the supply side, RAS works with global core suppliers, surplus dealers, salvage yards, and metal recyclers. The company positions itself as the largest supplier to the largest remanufacturers.
 
-RAS differentiates itself through its patented valuation technology and online software, which aim to increase the yield on vehicles and prevent cores from being crushed. The company emphasizes its extensive global network and long-standing experience as key reasons suppliers and remanufacturers choose its services.
+RAS differentiates itself through its patented valuation technology and online software that helps suppliers maximize profits from cores that might otherwise be crushed. The platform aims to increase the yield on vehicles by accurately assessing core value.
 
 ## Known for
 - Patented core valuation technology
 - Online inventory and valuation software for suppliers
-- Global full-line core buyer with over 50 years of experience
-- Largest supplier to the largest remanufacturers
-- Network of over 2,000 salvage yards, metal recyclers, and self-service yards
+- Network of 2,000+ salvage yards, recyclers, and self-service yards
+- Global full-line core buyer serving largest remanufacturers
+- Web-based core purchasing platform
 
 ## Capabilities
-- Core purchasing
-- Core valuation
-- Online inventory management
-- Patented yield optimization
-- Global core supply network management
+- Core purchasing and buying
+- Core valuation and assessment
+- Inventory management software
+- Web-based core procurement network
+- Core supply to remanufacturers
 
 ## Industries
 - Automotive remanufacturing
-- Salvage yards
+- Automotive recycling and salvage
+- Core supply and distribution
 - Metal recycling
-- Automotive core supply
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -104,76 +102,139 @@ RAS differentiates itself through its patented valuation technology and online s
 
 <details><summary>Sources</summary>
 
-- Headquarters in Coventry, RI and Tampa, FL -> /
+- Headquarters in Coventry, RI and Tampa, FL -> db
 - Global full-line buyer of cores for more than 50 years -> /
-- Online inventory and valuation software with patented technology -> /
 - Largest supplier to largest remanufacturers -> /
 - Network of over 2000 salvage yards, metal recyclers, self-service yards -> /
-- Company name Rebuilders Automotive Supply -> db
-- Website coresupply.com -> db
-- Industry partnerships focus -> db
+- Online inventory and valuation software -> /
+- Patented technology to increase yield -> /
+- Web-based core purchasing network -> /
+- Copyright 2020 -> /
 </details>
 
 ---
 
 # Redefined Woodworking Co
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** Having trouble finding high quality furniture that fits your space, is durable and customizable?
+
+## About
+Redefined Woodworking Co. operates from Menifee, California. The company was founded by Eric and Sara Ruby after Eric's woodworking hobby, encouraged by his wife, grew into a business venture. Eric, a U.S. Naval Academy graduate with a mechanical engineering background, and Sara, a former teacher and mentor, relocated with the Navy before settling in Southern California to establish the shop.
+
+The workshop produces custom furniture with a focus on dining tables, using heirloom-quality materials and experienced craftsmanship. Services include furniture design consulting, wood species education, delivery and assembly of finished pieces, and woodworking classes for enthusiasts. The operation is a small, husband-and-wife team; no facility size, headcount, or production volumes are disclosed.
+
+The primary customers are residential clients seeking bespoke furniture that fits their space and aesthetic, particularly families wanting a durable gathering table. The company also serves individuals interested in learning woodworking through hands-on classes. Concrete examples from the input include clients who request custom tables with specific dimensions, wood species, and design details, as well as students enrolling in woodworking education.
+
+The founders' stated philosophy is "Invest in things that last." They emphasize an extensive consultation process to ensure client desires are fully understood and aim to exceed expectations. The business was started to provide structurally sound, generational furniture and to share the joy of woodworking through education.
+
+## Known for
+- Excellent consultation process ensuring desires fully understood
+- Heirloom-quality materials and experienced craftsmanship
+- Wood species education and design consulting
+- Delivery and assembly included
+- Woodworking classes offered
+
+## Capabilities
+- Custom furniture manufacturing
+- Woodworking
+- Furniture design consulting
+- Wood species education
+- Delivery and assembly
+- Woodworking classes
+
+## Industries
+- Custom furniture
+- Residential furniture
+- Woodworking education
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Family-owned (husband-wife team)
+- **Headquarters:** Menifee, California
+
+<details><summary>Sources</summary>
+
+- Location: Menifee, California -> /about
+- Founders: Eric and Sara Ruby -> /about
+- Business origin: Eric's woodworking hobby encouraged by Sara -> /about
+- Eric's background: U.S. Naval Academy 2010, BS Mechanical Engineering -> /about
+- Sara's background: Cal Poly San Luis Obispo 2012, Teaching Credential -> /about
+- Specializes in dining tables -> /about
+- Offers furniture design consulting, wood species education, delivery and assembly, woodworking classes -> /, /about
+- Philosophy: Invest in things that last -> /about
+- Excellent consultation process -> /about
+- Heirloom quality materials -> /
+- Handcrafted, American-made -> /
+- Customizable options -> /
+</details>
+
+---
 
 # Redirected Wood Company
 
 **Old description:** We work with sawmills that source their lumber from sustainably managed forrests
 
 ## About
-Based in Glenside, Pennsylvania, Redirected Wood Company was founded by Meek and Brittany as a fundraising effort during their multi-year adoption process. The couple, both licensed counselors, turned a charity auction of a handmade table into a full-time venture after bringing their first child home from Ethiopia in 2017.
+Redirected Wood Company operates from Glenside, Pennsylvania. The business was founded by Meek and Brittany, a husband-and-wife team who previously worked as licensed counselors specializing in trauma-affected children. Their path to furniture making began during a prolonged adoption process; a fundraising silent auction featuring a handcrafted table generated unexpected demand, turning a charitable effort into a full-time venture.
 
-The company handcrafts custom furniture from sustainably sourced solid wood, using traditional joinery methods in its workshop. Its product line spans dining tables, coffee tables, live-edge slabs, cutting boards, floating shelves, and desks for residential clients, as well as conference tables, executive desks, standing desks, reception furnishings, and storage pieces for commercial spaces. Steel bases and other materials are incorporated for commercial projects.
+The company produces custom furniture in its own workshop, where expert craftsmen use traditional joinery techniques to build tables, desks, floating shelves, cutting boards, and live-edge pieces from sustainably harvested solid wood and steel. Every item is made to order, with customers selecting wood species, finishes, and dimensions. The shop also fabricates commercial-grade office furniture such as conference tables, executive desks, standing desks, reception furnishings, filing cabinets, credenzas, and bookcases.
 
-Redirected Wood serves homeowners seeking made-to-order pieces and businesses including offices, restaurants, and hospitality venues that need custom conference tables, community tables, or high-volume desk orders. The firm offers free consultations for commercial projects and works directly with clients to tailor dimensions, wood species, and finishes.
+Clients range from homeowners seeking dining tables, coffee tables, and end tables to businesses outfitting offices, restaurants, and bars. Commercial projects have included community tables for restaurants, high-volume desk orders for offices, and custom reception pieces. The firm offers free design consultations for commercial customers to tailor solutions to specific spaces.
 
-The business exists to fund the founders' mission of providing safe, loving homes for vulnerable children through adoption and foster care. Profits support their growing family and a planned internship program for youth aging out of foster care, tying each sale to a social purpose.
+The founders state that the enterprise exists to fund their mission of providing safe, loving homes for vulnerable children through foster care and adoption. Profits support their growing family and a planned internship program for youth aging out of foster care. They emphasize sustainably sourced materials, handcrafted quality without shortcuts, and a direct relationship between each purchase and their social impact.
 
 ## Known for
-- Sustainably sourced lumber from managed forests
 - Handcrafted using traditional joinery methods
-- Custom furniture made to order with no shortcuts
-- Social mission supporting adoption and foster care
-- Free consultations for commercial projects
+- Sustainably sourced solid wood and steel
+- Custom made-to-order with no shortcuts
+- Free design consultations for commercial projects
+- Social mission funding foster care and adoption
 
 ## Capabilities
 - Custom furniture manufacturing
-- Handcrafted joinery
-- Live edge slab fabrication
-- Commercial furniture fabrication
-- Custom table building
-- Cutting board manufacturing
-- Floating shelf fabrication
+- Woodworking
+- Traditional joinery
+- Live edge table fabrication
+- Commercial furniture manufacturing
+- Office furniture manufacturing
+- Conference table manufacturing
 - Desk manufacturing
-- Barn door fabrication
+- Standing desk manufacturing
+- Reception furniture manufacturing
+- Filing cabinet manufacturing
+- Credenza manufacturing
+- Bookcase manufacturing
+- Floating shelf manufacturing
+- Cutting board manufacturing
+- Custom finishing
+- Wood species selection
+- Design consultation
 
 ## Industries
-- Residential
-- Commercial
-- Office
-- Restaurant
+- Residential furniture
+- Commercial furniture
+- Hospitality furniture
+- Office furniture
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Family-owned
 - **Headquarters:** Glenside, Pennsylvania
 
 <details><summary>Sources</summary>
 
-- Headquarters: Glenside, Pennsylvania -> db
-- Founders: Meek and Brittany -> /about-us
-- Origin: Fundraising auction during adoption process -> /about-us
-- First child adopted June 2017 -> /about-us
-- Products: Custom furniture, tables, cutting boards, shelves, desks, commercial office furniture -> /, /about-us
-- Process: Handcrafted, traditional joinery, sustainably sourced solid wood -> /, /about-us
-- Materials: Solid wood, furniture grade lumber, steel, variety of wood species -> /, /about-us
-- Markets: Residential, commercial (offices, restaurants) -> /, /about-us
-- Social mission: Provide safe homes for vulnerable children, adoption/foster care, planned internship program -> /about-us
-- Differentiators: Sustainable sourcing, handcrafted, custom made-to-order, social impact, free commercial consultations -> /, /about-us
+- Founders Meek and Brittany started company from adoption fundraising event -> /about-us
+- Company located in Glenside, Pennsylvania -> db
+- Handcrafted furniture using traditional joinery -> /
+- Sustainably sourced solid wood from managed forests -> /
+- Custom residential tables, desks, shelves, cutting boards -> /
+- Commercial office furniture including conference tables, desks, reception furnishings -> /
+- Free consultations for commercial projects -> /
+- Social mission supporting vulnerable children and foster care -> /about-us
+- Plans for internship program for kids aging out of foster care -> /about-us
+- Materials: solid wood, steel, reclaimed wood -> /
+- Products: live edge tables, floating shelves, cutting boards -> /
+- Made-to-order with no shortcuts -> /
+- Workshop with expert craftsmen -> /
 </details>
 
 ---
@@ -183,39 +244,41 @@ The business exists to fund the founders' mission of providing safe, loving home
 **Old description:** For the best experience on our site, be sure to turn on Javascript in your browser.
 
 ## About
-ReelPower Industrial is headquartered in Oklahoma City, Oklahoma. The company does not disclose its founding year, ownership structure, or founders in the provided materials.
+Reel Power Industrial operates from Oklahoma City, Oklahoma, where it designs and manufactures standard and custom reeling, coiling, and spooling machines, along with downstream extrusion equipment for metal and wire processing. The company’s product portfolio spans coiling machines, take-ups, payoffs, payouts, lifting and trailer systems, reel racking, stands, storage, tools, and measuring devices such as the Digital stop-to-length 3100 counter with 1/64″ to 7/8″ OD capabilities. It also offers heavy-duty floor-mounted shaftless take-ups, lock handle assemblies, and complete automated packaging systems. Beyond hardware, Reel Power Industrial provides processing solutions, field service, consulting, and a preventative maintenance program.
 
-The company designs and manufactures standard and custom reeling, coiling, and spooling equipment. Its product lineup includes coiling machines, take-ups, payoffs and payouts, lifting and trailer systems, downstream extrusion equipment, reel racking and storage, tools, and measuring devices such as the Digital stop-to-length 3100 counter (1/64″–7/8″ OD). ReelPower also offers heavy-duty floor-mounted shaftless take-ups, automated packaging solutions, and complete field service and consulting backed by a one-year warranty and a preventative maintenance program. Production capabilities are described as reaching up to 1,000 feet per minute.
+The company serves a diverse set of industries including communications, electric vehicle, fiber optics (5G), rail, oil and gas, government and defense, power generation, medical, aerospace, pipe, wind energy, hose, and data centers. Its equipment is used in applications ranging from wire insulation respooling for aircraft and automotive harness testing to high-throughput production lines targeting speeds up to 1,000 feet per minute.
 
-ReelPower serves a diverse set of industries, including communications, electric vehicle, fiber optics (5G), rail, oil and gas, government and defense, power generation, medical, aerospace, pipe, wind energy, and hose manufacturing. The company also lists medical equipment and data centers among its application areas.
-
-ReelPower emphasizes six pillars: speed (faster processing and throughput), automation (robotics to address labor shortages), safety (operator protection), packaging (automated product protection), system integration (holistic equipment solutions), and service (dedicated field support). These commitments are presented as the foundation of its market differentiation.
+Reel Power Industrial distinguishes itself through a focus on speed, automation, safety, automated packaging, system integration, and dedicated field service, and it backs its equipment with a one-year warranty.
 
 ## Known for
-- Machines designed for higher throughput and faster processing speeds
-- Automation and robotics to mitigate labor shortages
-- Operator safety as a core design principle
-- Complete automated packaging for product protection
+- Machines designed for higher throughput, up to 1,000 feet per minute
+- Automation and robotics to address labor shortages
+- Comprehensive safety measures for operators
+- Complete automated product packaging systems
 - Holistic system integration and dedicated field service
 
 ## Capabilities
-- Coiling machines
+- Coiling
+- Reeling
+- Spooling
+- Winding
 - Take-ups
-- Payoffs & payouts
-- Lifting & trailers
-- Downstream extrusion equipment
-- Reel racking, stands & storage
+- Payoffs
+- Payouts
+- Lifting
+- Trailers
+- Downstream extrusion
+- Reel racking
+- Stands
+- Storage
 - Tools
-- Measurers
-- Medical equipment handling
-- Steel wire payoffs & take-ups
-- Data center solutions
-- Preventative maintenance programs
-- Field service & consulting
-- Custom equipment design & build
-- Digital stop-to-length measurement (3100 counter)
-- Automated product packaging
+- Measuring
+- Field service
+- Consulting
+- Preventative maintenance
 - System integration
+- Automated packaging
+- Digital stop-to-length measuring
 
 ## Industries
 - Communications
@@ -230,13 +293,14 @@ ReelPower emphasizes six pillars: speed (faster processing and throughput), auto
 - Pipes
 - Wind Energy
 - Hose
-- Medical Equipment
 - Data Centers
-- Steel Wire
 
 ## Equipment
 - Digital stop-to-length 3100 counter
 - Heavy Duty Floor mounted shaftless take-ups
+- Lock Handle Assembly with Hardware 0210-1073
+- Part #13650-329 (Washers, Clevis Pins, Spring Pin, Cotter Pins)
+- Downstream Extrusion Equipment
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -244,57 +308,84 @@ ReelPower emphasizes six pillars: speed (faster processing and throughput), auto
 
 <details><summary>Sources</summary>
 
-- Headquarters: Oklahoma City, Oklahoma -> db
-- Designs and builds standard & custom reeling and coiling equipment -> /
-- Offers one-year warranty -> /
-- Provides complete field service and consulting -> /
-- Has Preventative Maintenance program -> /
-- Serves industries: Communications, Electric Vehicle, Fiber Optics (5G), Train, Oil & Gas, Government/Defense, Power, Medical, Aircraft, Pipes, Wind Energy, Hose -> /
-- Capabilities include coiling machines, take-ups, payoffs, lifting & trailers, downstream extrusion, reel racking, tools, measurers -> /
-- Digital stop-to-length 3100 counter with 1/64″-7/8″ OD capabilities -> capabilities array
-- Heavy Duty Floor mounted shaftless take-ups -> products array
-- Lock Handle Assembly with Hardware 0210-1073* -> products array
-- Part #13650-329 -> products array
-- Improved Production up to 1000 FPM -> products array
-- Automation and robotics to assist production -> products array
-- Automated product packaging -> products array
-- System integration holistic approach -> /
-- Safety measures for operators -> /
-- Speed, automation, safety, packaging, system integration, service commitments -> /
-- YouTube channel mentioned -> /
+- Location: Oklahoma City, Oklahoma -> db
+- Designs and builds standard and custom reeling, coiling, spooling equipment -> homepage
+- Offers downstream extrusion equipment -> homepage
+- Product line includes coiling machines, take-ups, payoffs, payouts, lifting, trailers, reel racking, stands, storage, tools, measurers -> homepage
+- Provides processing solutions, field service, consulting, preventative maintenance -> homepage
+- Specific products: Digital stop-to-length 3100 counter, heavy-duty floor-mounted shaftless take-ups, lock handle assembly, part #13650-329 -> homepage
+- Industries served: Communications, Electric Vehicle, Fiber Optics (5G), Train, Oil & Gas, Government/Defense, Power, Medical, Aircraft, Pipes, Wind Energy, Hose, Data Centers -> homepage
+- Commitments: speed, automation, safety, packaging, system integration, service -> homepage
+- One-year warranty on equipment -> homepage
+- Preventative maintenance program -> homepage
+- Production speeds up to 1,000 FPM -> homepage
 </details>
 
 ---
 
 # Regal Rexnord
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** Manufactures electric motors, generators, and mechanical power transmission components.
+
+## About
+Regal Rexnord is headquartered in Milwaukee, Wisconsin, and was founded in 1955. The company operates as a manufacturer of electric motors, generators, and mechanical power transmission components. Ownership details and founder names are not publicly disclosed in the available data.
+
+The company produces electric motors, generators, and mechanical power transmission components. With a workforce of approximately 30,000 employees, Regal Rexnord operates at a large industrial scale, though specific facility sizes, production volumes, and part number counts are not provided in the source data.
+
+Regal Rexnord serves the alternative energy sector, among other industries. The company's industry list includes "Alternative Energy" and indicates a broad market reach with the phrase "Any Industry, Any Challenge," though specific customer examples are not detailed in the input.
+
+The input does not state a specific founding mission or stated differentiator for Regal Rexnord.
+
+## Capabilities
+- Electric motor manufacturing
+- Generator manufacturing
+- Mechanical power transmission component manufacturing
+
+## Industries
+- Alternative Energy
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1955
+- **Employees:** 30000
+- **Headquarters:** Milwaukee, Wisconsin
+
+<details><summary>Sources</summary>
+
+- Founded in 1955 -> db
+- Headquartered in Milwaukee, Wisconsin -> db
+- Employee count 30,000 -> db
+- Manufactures electric motors, generators, and mechanical power transmission components -> db
+- Serves alternative energy industry -> db
+</details>
+
+---
 
 # Reliance Manufacturing Corporation
 
 **Old description:** We have a diverse line of manufacturing equipment under one roof including state of
 
 ## About
-Reliance Manufacturing Corporation has operated from Woodinville, Washington since 1968. The company began as a fabrication and manufacturing shop and has grown to serve a range of industrial and commercial markets from its 14,000-square-foot manufacturing center.
+Reliance Manufacturing Corporation has operated from Woodinville, Washington, since its founding in 1968. The company began as a fabrication and manufacturing shop and has remained in the same location for over five decades.
 
-The shop runs a diverse equipment lineup under one roof, including water jet cutting, laser cutting, turret punching, and multi-tool head CNC machining, along with shearing, punching, press brake forming, rolling, roll bending, machining, spot welding, and assembly. It produces both custom and standard product lines: Reliance Stove Products, Reliance Chimney & Fireplace Products, and a broad range of food-service equipment such as case trim, trash management systems, beverage and food handling counters, customer seating, product preparation equipment, and architectural enhancements. The facility handles volumes from single-unit prototypes to full production runs.
+The 14,000-square-foot facility houses a diverse equipment lineup under one roof, including water jet cutting, laser cutting, turret punching, and multi-tool head CNC machining. Sheet metal services cover shearing, punching, press brake forming, rolling, roll bending, machining, spot welding, welding, and assembly. The shop runs everything from single-unit prototypes to full production runs.
 
-Reliance serves the food-service industry (provisionary, grocery, and restaurant segments), as well as laboratory, research, and educational institutions, with over 35 years of experience in those sectors. Additional markets include fireplace and stove, furniture and fixtures, signage, and general sheet metal fabrication.
+Reliance serves laboratory, research, and educational institutions, with over 35 years in those sectors. It also supplies the food service industry — provisionary, grocery, and restaurant clients — with products such as case trim, trash management systems, beverage and food handling counters, customer seating, and architectural enhancements. Additional product lines include Reliance Stove Products and Reliance Chimney & Fireplace Products, along with furniture, fixtures, and signage.
 
-The company emphasizes cost-effective, versatile solutions backed by fabricators with decades of experience and a full-service sheet metal capability that allows it to manage projects from design through assembly.
+The company emphasizes its consolidated equipment base and full-service sheet metal capability as a way to deliver cost-effective, versatile solutions for custom and standard orders alike.
 
 ## Known for
-- 14,000-square-foot manufacturing center with diverse equipment under one roof
-- Capability from single-unit prototypes to production volumes
+- Diverse manufacturing equipment under one roof
+- 14,000-square-foot facility handling prototypes to production
 - Over 35 years serving laboratory, research, and educational sectors
-- Full-service sheet metal fabrication including design through assembly
-- In-house water jet, laser, turret punch, and multi-tool CNC machining
+- Full-service sheet metal fabrication with water jet, laser, turret punch, and multi-tool CNC
+- Custom and standard product lines for food service and hearth markets
 
 ## Capabilities
 - Water jet cutting
 - Laser cutting
 - Turret punching
-- Multi-tool head CNC machining
+- Multi-tool CNC machining
 - Shearing
 - Punching
 - Press brake forming
@@ -302,24 +393,25 @@ The company emphasizes cost-effective, versatile solutions backed by fabricators
 - Roll bending
 - Machining
 - Spot welding
+- Welding
 - Assembly
 - Sheet metal fabrication
 
 ## Industries
-- Food Service
 - Laboratory
 - Research
 - Educational
-- Fireplace/Stove
-- Furniture/Fixtures
+- Food service
+- Institutional
+- Furniture and fixtures
 - Signage
-- Sheet Metal Fabrication
+- Hearth products
 
 ## Equipment
-- Water jet cutting
-- Laser cutting
-- Turret punching
-- Multi-tool head CNC machining
+- Water jet cutting systems
+- Laser cutting systems
+- Turret punch presses
+- Multi-tool CNC machining centers
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -328,17 +420,17 @@ The company emphasizes cost-effective, versatile solutions backed by fabricators
 
 <details><summary>Sources</summary>
 
-- Founded 1968 -> db
-- Headquarters Woodinville, Washington -> db
-- 14,000-square-foot manufacturing center -> products array
+- Founded 1968 -> homepage
+- Headquarters Woodinville, WA -> homepage
+- 14,000 sq ft facility -> products array
 - Equipment: water jet, laser, turret punch, multi-tool CNC -> homepage
-- Processes: shearing, punching, press brake forming, rolling, roll bending, machining, spot welding, assembly -> capabilities array
-- Products: Reliance Stove Products, Reliance Chimney & Fireplace Products, food service equipment -> products array
+- Processes: shearing, punching, press brake forming, rolling, roll bending, machining, spot welding, welding, assembly -> capabilities array
 - Volume: single unit prototypes to production -> products array
-- Industries: Food Service, Laboratory, Research, Educational -> capabilities array
-- Industries: Fireplace/Stove, Furniture/Fixtures, Signage, Sheet Metal -> homepage
-- 35 years service to Laboratory, Research, Educational sectors -> capabilities array
-- Fabricators with over 30 years experience -> homepage
+- Industries: laboratory, research, educational (35+ years) -> capabilities array
+- Industries: food service (provisionary, grocery, restaurant) -> products array
+- Products: stove, chimney/fireplace, food service equipment, furniture/fixtures, signage -> homepage and products array
+- Differentiator: diverse equipment under one roof -> homepage
+- Differentiator: full-service sheet metal for cost-effective solutions -> capabilities array
 </details>
 
 ---
@@ -348,38 +440,38 @@ The company emphasizes cost-effective, versatile solutions backed by fabricators
 **Old description:** Since 1982 • Family Owned • Built to Perform • Rotomolded in the USA • Traffic Safety • Material Handling • Custom OEM Solutions • Serious Capacity • Real Relationships
 
 ## About
-Remcon Plastics was founded in November 1982 by Peter and Doren Connors in Pennsylvania. The venture was backed by the savings of both families — Bill and Nancy Remmey (Doren’s parents) and Lorraine Connors (Pete’s mother) — and named Remcon in their honor. The founders bet that a small, family-owned rotational molding company could compete with larger manufacturers by building better products and standing behind them. In 1990, after eight years in Conshohocken, the company moved to Reading, Pennsylvania, tripling its plant size.
+Remcon Plastics was founded in November 1982 by Peter and Doren Connors in Pennsylvania. The venture was backed by the Remmey and Connors families — Doren's parents Bill and Nancy Remmey and Pete's mother Lorraine Connors — whose savings and names (Remcon = Remmey + Connors) launched the business. The founders believed a small, family-owned rotational molder could compete with larger firms by building more durable products and standing behind them. In 1990, after eight years in Conshohocken, the operation moved to Reading, Pennsylvania, tripling plant size.
 
-Today, Remcon operates a 75,000-square-foot facility in Reading with eight rotational molding machines. It produces material handling containers, MASH-compliant water-filled traffic barricades and longitudinal channelizers, and custom OEM rotationally molded components. Automation and advanced production systems enable output levels uncommon in rotational molding, supporting steady production and reliable deliveries. Key engineering innovations include the reinforced beaded 'R' lip that eliminated a common bulk-bin failure point, and a replaceable pallet system that extends container life by separating the wear component from the structural body.
+Today, Remcon runs a 75,000-square-foot facility in Reading with eight rotational molding machines. It produces material handling containers, MASH-compliant water-filled traffic barricades and longitudinal channelizers, and custom OEM rotationally molded components. Automation and advanced production systems increase capacity and consistency, and the company also works with production partners who share its engineering and quality standards.
 
-Remcon serves traffic safety, material handling, and custom OEM markets. Its traffic safety line includes MASH-compliant water-filled barricades and channelizers built for real-world jobsite performance. Material handling products range from bulk bins and hoppers to the FBP bin with an integrated pallet. The company also provides custom rotational molding for OEM customers; one of its first OEM accounts from the early 1980s remains a customer today. Products are sold through a network of regional representatives across the United States and territories.
+Remcon serves traffic safety, material handling, and custom OEM markets. Its traffic safety line includes the Guardsafe 36 barricade and other MASH-compliant channelizers used on jobsites nationwide. Material handling products feature the FBP bin with integrated pallet, the Dry Bulk Hopper, and bulk containers incorporating the patented "R" lip reinforced rim and replaceable pallet system. One original OEM customer from the early 1980s remains a partner today.
 
-The company’s differentiation rests on durability, disciplined engineering, and integrity. Founder Pete Connors, an engineer with an MBA, applied stress-crack-resistant polyethylene formulations from DuPont to re-engineer common failure modes, raising industry standards for bin longevity from 12–24 months to over 10 years. Remcon remains family-owned and actively led by the founder, with the next generation — Tracy Connors as Executive Vice President and CEO, and James Connors as Director of Design — bringing outside experience to modernize operations while preserving the original commitment to keeping their word.
+The company's differentiation traces to its founding principles: durability over shortcuts, thoughtful design to prevent field failures, and integrity in every decision. Pete Connors, still active as president, engineered the "R" lip and replaceable pallet system that extended bin life from months to over a decade, reshaping industry expectations. Leadership has transitioned to the next generation — Tracy Connors as CEO and James Connors as Director of Design — while maintaining the family-owned structure and the original commitment to standing behind every product shipped.
 
 ## Known for
-- Reinforced beaded 'R' lip eliminates common bulk-bin failure points
-- Replaceable pallet system separates wear component from structural body
-- MASH-compliant water-filled barricades and longitudinal channelizers for jobsite performance
-- Advanced automation and production systems deliver output levels uncommon in rotational molding
-- Multi-generational family leadership with engineering focus
+- Family-owned since 1982 with multi-generational leadership
+- 75,000 sq ft facility with 8 rotational molding machines and automation
+- MASH-compliant traffic safety products (Guardsafe 36, longitudinal channelizers)
+- Patented "R" lip reinforced beaded rim and replaceable pallet system for material handling containers
+- 40+ year OEM partnerships and production partner network
 
 ## Capabilities
 - Rotational molding
 - Custom OEM rotational molding
 - Material handling container manufacturing
 - MASH-compliant traffic safety product manufacturing
-- Product design and engineering (reinforced beaded rim, replaceable pallet system)
-- Automation and advanced production systems
-- Production scheduling and efficiency systems
-- Production partner network for geographic reach
+- Water-filled barricade production
+- Longitudinal channelizer production
+- Automation for rotational molding
+- Advanced production systems
+- Design and engineering
+- Production partner network
+- Stress crack resistant polyethylene processing
 
 ## Industries
-- Traffic Safety
-- Material Handling
-- Custom OEM
-
-## Equipment
-- Eight rotational molding machines
+- Traffic safety
+- Material handling
+- Custom OEM rotational molding
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -390,64 +482,109 @@ The company’s differentiation rests on durability, disciplined engineering, an
 <details><summary>Sources</summary>
 
 - Founded 1982 by Peter and Doren Connors in Pennsylvania -> /about-us
-- Family-owned, backed by Remmey and Connors families -> /about-us
-- Headquarters in Reading, Pennsylvania since 1990 -> /about-us
-- 75,000 sq ft facility with eight rotational molding machines -> /about-us
+- Family-owned, named after Remmey and Connors families -> /about-us
+- Initial investors: Bill and Nancy Remmey, Lorraine Connors -> /about-us
+- Moved to Reading, PA in 1990, tripling plant size -> /about-us
+- 75,000 sq ft facility with 8 rotational molding machines -> /about-us
 - Produces material handling containers, MASH-compliant traffic safety products, custom OEM rotationally molded components -> /about-us
-- Invented reinforced beaded 'R' lip and replaceable pallet system -> /about-us
-- MASH-compliant water-filled barricades and longitudinal channelizers -> /about-us
+- Automation and advanced production systems for capacity -> /about-us
+- Works with production partners -> /about-us
+- Pete Connors invented "R" lip reinforced beaded rim and replaceable pallet system -> /about-us
+- Guardsafe 36 barricade introduced 2016 -> /about-us
+- MASH-compliant water-filled traffic barricades and longitudinal channelizers -> /about-us
+- Material handling products: FBP bin, Dry Bulk Hopper, bulk containers -> /about-us
 - Multi-generational leadership: Pete Connors (President), Tracy Connors (EVP/CEO), James Connors (Director of Design) -> /about-us
 - One OEM customer from early 1980s still a customer -> /about-us
-- Uses advanced production systems and automation -> /about-us
-- Works with trusted production partners -> /about-us
-- Pete Connors engineering degree and MBA, started in rotational molding 1977 -> /about-us
-- Guardsafe 36 barricade introduced 2016 -> /about-us
-- Product spotlights: Guardsafe 36, Dry Bulk Hopper, FBP bin -> /
-- Traffic safety and material handling representative networks -> /
+- Founded on principles: durability, thoughtful design, integrity -> /about-us
+- Headquarters: Reading, Pennsylvania -> db
+- Founded year: 1982 -> db
+- Description includes Family Owned, Rotomolded in USA, Traffic Safety, Material Handling, Custom OEM Solutions -> db
 </details>
 
 ---
 
 # Rencher Industries
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** Rencher Industries specializes in unique products for motion picture, broadcast, and new media
+
+## About
+Rencher Industries operates from Winston-Salem, North Carolina, where it focuses on boutique manufacturing for the camera department. The company does not disclose its founding year, ownership structure, or founders' names in the available materials.
+
+The firm designs and assembles all of its products in-house, with many components also fabricated internally. Its catalog includes power adapters such as the USB-Sink 28V and XLR Power Adapter, battery adapters like the PowerBlock USB-C PD and Arriflex SR Battery Adapter, voltage monitoring tools (Micro Voltmeter, Inline Voltmeter), a Mini Production Router, and custom-machined brass T-Studs. The company describes its approach as "boutique manufacturing" and emphasizes that items are "Designed and Assembled in USA."
+
+Rencher Industries serves the motion picture, broadcast, and new media sectors, specifically targeting camera department professionals. Its products address on-set power distribution, battery integration, and voltage monitoring needs. The company also invites custom work, directing inquiries to its sales email.
+
+The company highlights several differentiators: domestic design and assembly, in-house component fabrication, insured shipping at no extra cost, and a willingness to produce custom items. These points are presented as the core reasons customers choose Rencher for specialized camera-department hardware.
+
+## Known for
+- Designed and Assembled in USA
+- Boutique manufacturing for camera department
+- All products designed and assembled in-house
+- Many components manufactured in-house
+- Insured shipping at no extra cost
+- Custom manufacturing available on request
+
+## Capabilities
+- Product design
+- In-house assembly
+- In-house component machining
+- Custom manufacturing
+- Boutique/small-batch production
+
+## Industries
+- Motion picture
+- Broadcast
+- New media
+- Camera department equipment
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Winston-Salem, North Carolina
+
+<details><summary>Sources</summary>
+
+- Location: Winston-Salem, North Carolina -> db
+- Specializes in motion picture, broadcast, new media products -> db, /
+- Designs and assembles all products in-house -> /
+- Many components made in-house -> /
+- Designed and Assembled in USA -> /
+- Boutique manufacturing for camera department -> /
+- Product examples: USB-Sink 28V, Intersex Plate, XLR Power Adapter, PowerBlock, BreakerBatt, Arriflex SR Battery Adapter, Micro Voltmeter, Inline Voltmeter, Mini Production Router, custom-machined brass T-Studs -> /
+- Offers custom work -> /
+- Insured shipping at no extra cost -> /
+- Sales contact: sales@rencherindustries.com -> /
+</details>
+
+---
 
 # Rengo Packaging, Inc
 
 **Old description:** gained over the last 50 years in the Hawaii packaging industry
 
 ## About
-Rengo Packaging, Inc. operates from Kapolei, Hawaii, where it has served the local packaging market for over 50 years. The company emphasizes its Hawaiian roots with the tagline “Manufactured in Hawaii. For all of Hawaii.”
+Rengo Packaging, Inc. operates from Kapolei, Hawaii, where it has accumulated over 50 years of experience in the islands' packaging industry. The company was established to serve local businesses with manufactured packaging solutions, though a specific founding year and ownership structure are not publicly disclosed.
 
-The company produces custom packaging solutions and provides structural design engineering to optimize product protection and sales appeal. It also integrates mechanical packaging systems, automating box-forming and packing lines, and uses computer-aided design (CAD) to create product samples for customer approval. Additional services include logistics optimization, pallet configuration, and food-safety-compliant packaging certified by third-party auditors. The facility is described as environmentally friendly, with sustainable product lines and high-tech operations.
+The company produces custom packaging on-site, offering structural design engineering, mechanical packaging systems for automated box-forming and packing lines, and logistics services that include pallet configuration optimization. Its environmentally friendly facility uses computer-aided design (CAD) to create product samples, and it emphasizes sustainable product lines alongside food-safety-compliant packaging certified by third-party auditors.
 
-Rengo serves a broad customer base ranging from farmers and small businesses to international corporations. Its food-safety compliance makes it a supplier for agricultural and food-processing clients, while its local manufacturing capability supports any Hawaii-based operation needing quick turnaround.
+Rengo serves a broad customer base ranging from farmers and small businesses to international corporations across Hawaii. Its packaging solutions are tailored to agricultural producers, local retailers, and larger enterprises requiring shipping and protective packaging.
 
-The company differentiates itself through on-island manufacturing that enables short lead times, a professional local service team with decades of experience, and a focus on sustainable, high-tech packaging solutions. It positions itself as Hawaii’s premier packaging source, offering end-to-end support from design to logistics.
+The company differentiates itself through short lead times enabled by on-island manufacturing, comprehensive support from design through logistics, and a focus on total customer satisfaction with environmentally responsible operations.
 
 ## Known for
-- On-island manufacturing for short lead times
-- Food safety compliance certified by third-party auditors
-- Structural design engineering for custom packaging
-- Mechanical packaging systems integration
-- Logistics optimization and pallet configuration
+- Short lead times via on-island manufacturing
+- Food safety compliant packaging certified by third-party auditors
+- Sustainable product lines with efficient high-tech operations
+- Structural design engineering and mechanical packaging automation
+- Logistics optimization and pallet configuration services
 
 ## Capabilities
 - Custom packaging manufacturing
 - Structural design engineering
 - Mechanical packaging systems (box-forming and packing line automation)
-- CAD product sampling
-- Logistics services (pallet configuration, optimization)
+- Logistics services (pallet configuration optimization)
+- Computer-Aided Design (CAD) for product samples
 - Food safety compliant packaging
 - Sustainable packaging solutions
-
-## Industries
-- Agriculture (farmers)
-- Small businesses
-- International corporations
-
-## Equipment
-- Computer-Aided Design (CAD)
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -455,17 +592,15 @@ The company differentiates itself through on-island manufacturing that enables s
 
 <details><summary>Sources</summary>
 
-- Headquarters: Kapolei, Hawaii -> /
-- Over 50 years experience in Hawaii packaging industry -> /
-- Manufactured in Hawaii, for all of Hawaii -> /
-- Custom packaging, structural design engineering, mechanical packaging systems, CAD sampling, logistics services -> /
-- Food safety compliant, certified by third-party auditors -> /
-- Environmentally friendly facility, sustainable product lines, high-tech operations -> /
-- Serves farmers, small businesses, international corporations -> /
-- Short lead time with on-island manufacturing -> /
-- Local service from friendly professional team -> /
-- Capabilities from db: service from our friendly and professional team, Logistics Services -> db
-- Products from db: certified by third-party auditors, sustainable product lines with efficient high-tech operations, CAD product samples -> db
+- Location: Kapolei, Hawaii -> db
+- Over 50 years experience in Hawaii packaging industry -> page "/"
+- Manufactured in Hawaii, on-island manufacturing -> page "/"
+- Custom packaging, structural design engineering, mechanical packaging systems, logistics services, CAD for samples -> page "/"
+- Food safety compliant, certified by third-party auditors -> page "/"
+- Environmentally friendly facility, sustainable product lines -> page "/"
+- Serves farmers, small businesses, international corporations -> page "/"
+- Short lead time with on-island manufacturing -> page "/"
+- Comprehensive support including product samples, mechanical packaging systems, structural design engineering, logistics services -> page "/"
 </details>
 
 ---

@@ -3,24 +3,28 @@
 **Old description:** We provide professional fiber installation services to homes and businesses, ensuring high-speed internet and enhanced communication capabilities.
 
 ## About
-STS Cable Services, Inc. is based in Charlotte, North Carolina, where it provides professional fiber optic installation services to residential and commercial customers. The company does not publicly disclose its founding year, ownership structure, or the names of its founders.
+STS Cable Services, Inc. operates from Charlotte, North Carolina, providing professional fiber optic installation to residential and commercial customers. The company does not disclose its founding year or ownership structure, and no founders are named in its public materials.
 
-The company specializes in end-to-end fiber optic installation, from initial consultation and design through final testing and commissioning. Its technicians are described as highly trained and certified, using industry-standard equipment and materials to deploy fiber networks for high-speed internet and enhanced communication capabilities. No facility size, headcount, or annual project volume is published.
+The firm specializes in end-to-end fiber deployment, handling initial consultation, installation, and final testing for both homes and businesses. No facility size, headcount, or project volume figures are published.
 
-STS Cable Services serves both homeowners and businesses seeking to upgrade their connectivity infrastructure. Typical engagements include residential fiber-to-the-home deployments and commercial fiber installations for office buildings, retail spaces, and other facilities requiring reliable, high-bandwidth connections.
+The service targets two broad customer segments: homeowners seeking faster internet and businesses needing enhanced communication capabilities. The company emphasizes flexible scheduling and competitive pricing, offering detailed quotes before work begins. No specific industry verticals or named clients are referenced.
 
-The company emphasizes flexible scheduling, competitive pricing, and a safety-first approach, stating that its technicians follow all industry safety guidelines. Customer satisfaction is cited as a top priority, with the firm highlighting its use of high-quality equipment and materials to ensure durable, reliable installations.
+STS Cable Services positions itself on transparency, safety compliance, and customer satisfaction. It states that technicians follow all industry safety guidelines and that the team strives to exceed expectations on every job. The company was founded to bring fast, reliable fiber connectivity to the Charlotte area, though the exact origin story is not detailed.
 
 ## Known for
-- Flexible scheduling and competitive pricing
-- Highly trained and certified technicians
-- Use of high-quality equipment and materials
-- Adherence to industry safety guidelines
+- Flexible scheduling for residential and commercial jobs
+- Transparent, detailed quotes provided before work begins
+- Technicians certified and trained to industry safety standards
+- Uses high-quality equipment and materials for durability
+- Customer satisfaction emphasized as top priority
 
 ## Capabilities
 - Fiber optic installation
-- Fiber optic testing
-- Fiber network consultation
+- Residential fiber installation
+- Commercial fiber installation
+- Pre-installation consultation
+- Post-installation testing
+- Project estimation and quoting
 
 ## Industries
 - Residential
@@ -32,16 +36,16 @@ The company emphasizes flexible scheduling, competitive pricing, and a safety-fi
 
 <details><summary>Sources</summary>
 
-- Company name: STS Cable Services, INC -> db
-- Headquarters: Charlotte, North Carolina -> db
-- Service: professional fiber installation services to homes and businesses -> db
+- Company name STS Cable Services, INC -> db
+- Headquarters Charlotte, North Carolina -> db
+- Service: professional fiber installation for homes and businesses -> /
 - Team of dedicated professionals, highly trained and certified technicians -> /about
 - Flexible scheduling and competitive pricing -> /about
+- Detailed quotes before work begins -> /about
 - Use of best equipment and materials -> /about
-- Adherence to industry safety guidelines -> /about
+- Technicians follow industry safety guidelines -> /about
 - Customer satisfaction top priority -> /about
-- Years of experience in the industry -> /about
-- Website: http://www.stscableservices.com/ -> db
+- End-to-end process: consultation, installation, final testing -> /about
 </details>
 
 ---
@@ -51,63 +55,55 @@ The company emphasizes flexible scheduling, competitive pricing, and a safety-fi
 **Old description:** Our entire line of Off-Road products will upgrade every one of the elements of your ride: speed, power, and style.
 
 ## About
-STV Motorsports operates from a facility at 6160 North Hollywood Boulevard in Las Vegas, Nevada. The business is organized as a limited liability company, though the founding year and founders' names are not disclosed in public materials.
+STV Motorsports operates from a facility in Las Vegas, Nevada. The company does business as STV Motorsports, LLC, though the founding year and ownership structure are not publicly disclosed on its website.
 
-The company stocks and sells a broad range of off-road vehicle parts, accessories, and tools, including rocker switches, LED light bars, fog lights, racing harnesses, switch dash panels, mounting brackets, and UTV-specific tools. In addition to resale, the shop provides CNC fabrication services and has built custom CNC plasma tables for customers. The product catalog covers nearly all major off-road brands and models, with new items added monthly.
+The business stocks and sells a broad catalog of off-road parts and accessories — rocker switches, LED light bars, fog lights, racing harnesses, switch dash panels, mounting brackets, and UTV-specific tools — covering cars, trucks, UTVs, ATVs, boats, scooters, motorcycles, snowmobiles, and sand rails. In addition to reselling established brands, the shop runs a CNC fabrication department that builds custom plasma cutting tables, as noted by a racing team that commissioned one for its own shop.
 
-Customers range from individual off-road enthusiasts to professional racing teams such as Alexander Racing Development, which purchases clutch tools, whip lights, switches, and harnesses from the company. The served segments include UTV, ATV, sand rail, snowmobile, motorcycle, boat, scooter, and mini-bike markets.
+Customers range from individual enthusiasts to professional outfits such as Alexander Racing Development, which purchases clutch tools, whip lights, harnesses, and switches. The company emphasizes that no job is too big or too small, and it adds new part numbers monthly to expand brand and model coverage.
 
-STV Motorsports emphasizes customer service, free shipping on all orders (with some restrictions), and a 100% money-back guarantee. The ability to produce custom CNC-fabricated components such as plasma tables distinguishes the shop from pure retailers.
+It backs purchases with free shipping on all orders (some restrictions apply) and a 100 percent money-back guarantee.
 
 ## Known for
-- Free shipping on all orders (some restrictions apply)
-- 100% money-back guarantee
-- Custom CNC fabrication and plasma table manufacturing
-- Exceptional customer service noted in buyer reviews
-- Monthly product catalog expansion across all major off-road brands
+- Free shipping on all orders with a 100% money-back guarantee
+- Custom CNC plasma table fabrication
+- Monthly expansion of brand and model coverage
+- No job too big or too small policy
 
 ## Capabilities
 - CNC fabrication
-- Custom plasma table manufacturing
-- Off-road parts and accessories retail
-- Racing harness supply
-- Switch dash panel supply
-- LED lighting supply
-- UTV/ATV tool supply
-- Mounting bracket supply
+- Plasma table manufacturing
+- Off-road parts distribution
+- Custom fabrication
+- Switch panel assembly
+- Harness assembly
 
 ## Industries
 - Off-road vehicles
-- UTV/ATV
-- Racing
 - Powersports
-- Sand rail
-- Snowmobile
-- Motorcycle
-- Boat
-- Scooter
-- Mini bikes
+- Automotive
+- Marine
+- Recreational vehicles
+- Racing
 
 ## Equipment
 - CNC plasma table
 
 ## Company details
-- **Company Type:** Retailer
-- **Ownership:** LLC
+- **Company Type:** Distributor / reseller
 - **Headquarters:** Las Vegas, Nevada
 
 <details><summary>Sources</summary>
 
-- Location: 6160 N Hollywood Blvd, Ste 110, Las Vegas, NV 89115 -> /
-- LLC structure: STV Motorsports, LLC -> /
-- Product range: off-road parts, accessories, tools, CNC fabrication -> /about-us
-- Custom CNC plasma table build for Alexander Racing Development -> /
-- Free shipping on all orders -> /
-- 100% money back guarantee -> /
-- Customer service praised in reviews -> /
-- Serves UTV, ATV, sand rail, snowmobile, motorcycle, boat, scooter, mini bikes -> /about-us
-- Monthly new product additions -> /about-us
-- Business hours Mon-Fri 8:00 AM - 4:30 PM -> /
+- Location: Las Vegas, NV -> db, /, /about-us
+- Business name: STV Motorsports, LLC -> /, /about-us
+- Products: off-road parts, accessories, tools, CNC fabrication -> /, /about-us
+- Industries: car, truck, UTV, ATV, boat, scooter, mini bikes, motorcycle, snowmobile, sand rail -> /about-us
+- Custom CNC plasma table manufacturing -> / (customer review)
+- Free shipping and money-back guarantee -> /, /about-us
+- Customer service praised -> /, /about-us
+- Hours: Mon-Fri 8:00 AM - 4:30 PM -> /, /about-us
+- Phone: +1 (702) 701-7101 -> /, /about-us
+- Website: http://www.stvmotorsports.com/ -> db
 </details>
 
 ---
@@ -117,28 +113,27 @@ STV Motorsports emphasizes customer service, free shipping on all orders (with s
 **Old description:** Our dressings, marinades, and sauces bring flavor to your meals.
 
 ## About
-SVB Foods, Inc. is headquartered in Martinsburg, West Virginia, where it operates a production facility and fulfillment warehouses. The company traces its origins to a beeyard, growing from that start into a food manufacturing business focused on dressings, sauces, honey, and condiments.
+SVB Foods, Inc. operates its headquarters and production facility in Martinsburg, West Virginia. The company traces its roots to a beeyard, where a passion for honey and quality ingredients laid the foundation for a food manufacturing business built on hard work and a love for great food. No founding year or founder names are disclosed in public materials.
 
-The company manufactures a range of products including dressings, marinades, sauces, honey, and condiments. It offers private label manufacturing for retailers and brand owners, providing custom-formulated products with rigorous quality control and efficient production. Its foodservice division supplies restaurants, catering operations, and hospitality venues. The mid-Atlantic location enables cost-effective shipping to key destinations, supported by additional fulfillment warehouses.
+The company manufactures dressings, sauces, honey, and condiments, offering private label manufacturing and custom formulation services for retailers and brand owners. It also supplies foodservice channels, providing reliable products for restaurants, catering, and hospitality operations. The Martinsburg facility is complemented by fulfillment warehouses that extend shipping reach across the mid‑Atlantic region and beyond.
 
-SVB Foods serves retail chains, brand owners seeking private label solutions, and foodservice operators such as restaurants and catering companies. The company emphasizes its ability to meet strict retail standards for quality, safety, and consistency.
+SVB Foods serves retail chains, private label brands, and foodservice operators. Its customer base includes retailers that demand strict quality, safety, and consistency standards, as well as restaurant and catering businesses seeking menu‑ready dressings and sauces.
 
-The business was founded on a commitment to thoughtful ingredients, careful craftsmanship, and doing things the right way. It positions itself as a partner that shares values with customers, aiming to bring quality products to more tables.
+The company emphasizes thoughtful ingredient selection, careful craftsmanship, and a commitment to doing things the right way. It highlights rigorous quality control, efficient production, and a partnership approach grounded in shared values as key differentiators.
 
 ## Known for
-- Custom-formulated private label products for retailers and brand owners
-- Rigorous quality control and efficient production processes
-- Mid-Atlantic production facility and fulfillment warehouses for cost-effective shipping
+- Custom formulation for private label brands
+- Foodservice solutions for restaurants and catering
+- Rigorous quality control and efficient production
+- Mid‑Atlantic location with fulfillment warehouses for cost‑effective shipping
 - Expertise in dressings, sauces, honey, and condiments
-- Foodservice solutions tailored for restaurants, catering, and hospitality
 
 ## Capabilities
 - Private label manufacturing
-- Foodservice solutions
 - Custom formulation
+- Foodservice solutions
 - Quality control
-- Dressing and sauce production
-- Honey and condiment production
+- Production
 - Fulfillment and warehousing
 
 ## Industries
@@ -146,7 +141,7 @@ The business was founded on a commitment to thoughtful ingredients, careful craf
 - Foodservice
 - Hospitality
 - Catering
-- Private label branding
+- Restaurants
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -155,16 +150,13 @@ The business was founded on a commitment to thoughtful ingredients, careful craf
 <details><summary>Sources</summary>
 
 - Headquarters and production facility in Martinsburg, WV -> /
-- Fulfillment warehouses for broader territory -> /
-- Originated from a beeyard -> /about
+- Company started in a beeyard -> /about
 - Manufactures dressings, sauces, honey, condiments -> /
-- Offers private label manufacturing with custom formulation -> /
+- Offers private label manufacturing and custom formulation -> /
 - Provides foodservice solutions for restaurants, catering, hospitality -> /
-- Emphasizes rigorous quality control and efficient production -> /
-- Mid-Atlantic location for cost-effective shipping -> /
+- Fulfillment warehouses for broader shipping -> /
 - Serves retailers and brand owners -> /
-- Company values: thoughtful ingredients, careful craftsmanship, doing things the right way -> /about
-- Partnership approach based on shared values -> /about
+- Emphasizes quality control, ingredient selection, craftsmanship -> /about
 - LinkedIn URL -> db
 </details>
 
@@ -175,36 +167,33 @@ The business was founded on a commitment to thoughtful ingredients, careful craf
 **Old description:** We obsess over every line, bracket, and bolt. From track to trail, our parts are engineered with purpose and built to perform.
 
 ## About
-SXTH Element Engineering operates from Spartanburg, South Carolina. The company began in a garage, driven by a small team of automotive enthusiasts who wanted to build performance parts they’d trust on their own vehicles. No founding year or individual founders are publicly disclosed.
+SXTH Element Engineering is based in Spartanburg, South Carolina. The company began in a garage with a small team focused on designing performance parts for Toyota vehicles.
 
-The company designs and manufactures performance aftermarket parts primarily for Toyota platforms (Tacoma, Tundra, 4Runner, Land Cruiser, GR Corolla) as well as Ford Bronco and Hyundai/Kia models (K5 GT, Sonata N-Line, Elantra N). Product lines include cold-air intakes (branded CPLT), off-road trail pipes, blow-off valves, turbo inlet pipes, front-mount intercoolers, recovery points, bed MOLLE panels, and ECU calibration kits. Parts are designed in-house, CNC-machined from 304 stainless steel with thick flanges, and validated through on-road and track testing. The catalog lists roughly 97 distinct SKUs, though headcount, facility size, and annual volume are not disclosed.
+The company designs and manufactures a range of performance parts including cold-air intakes, blow-off valves, turbo inlet pipes, catch cans, recovery points, winch trays, front-mount intercoolers, and ECU calibration kits. Products are designed in-house and tested on-road, with components such as 304 stainless steel CNC-machined flanges.
 
-SXTH serves the automotive aftermarket, focusing on off-road and performance enthusiasts. End customers include owners of 2024+ Toyota Tacoma, 2022+ Tundra, 2025+ 4Runner, 2023-2024 GR Corolla, 2021+ Ford Bronco (2.3L and 2.7L), and Hyundai/Kia 2.5T platforms (K5 GT, Sonata N-Line, Elantra N). The site also lists a 'Dealers of Cali Raised LED' filter, suggesting a dealer network for complementary lighting products, but SXTH’s primary channel appears direct-to-consumer via its web store.
+SXTH Element serves the automotive aftermarket, targeting enthusiasts and off-road drivers. Its product line focuses on late-model Toyota trucks and SUVs—including the 2024+ Tacoma, 2025+ 4Runner, 2022+ Tundra, and 2024+ Land Cruiser—as well as Hyundai and Kia performance models such as the K5 GT, Sonata N-Line, and Elantra N. Parts are sold directly through the company’s website with free shipping on orders over $499.
 
-The company emphasizes intentional design and hands-on validation: every part is developed in-house, tested on the vehicle, and refined until it meets the team’s own standards. A patent-pending magnetic lid on the CPLT intake exemplifies their focus on maintenance ease. Their stated differentiators are zero shortcuts, in-house engineering, real-world testing, and a garage-origin ethos that prioritizes durability and fitment over mass-market compromise.
+The company emphasizes intentional design, in-house engineering, and real-world testing, positioning its parts as purpose-built for both track and trail use. It highlights a garage-origin ethos, a small-team approach, and a commitment to zero shortcuts in development.
 
 ## Known for
-- In-house design and on-road testing
-- Patent-pending magnetic lid system on CPLT intakes
-- 304 stainless steel construction with thick CNC flanges
-- Garage-origin, small-team hands-on approach
-- Zero shortcuts philosophy
+- Designed in-house and tested on-road
+- Patent-pending magnetic lid system on CPLT Intake
+- Full 304 stainless steel construction with thick CNC flanges
+- Free shipping on orders over $499 in the US
+- Small-team, zero-shortcuts development philosophy
 
 ## Capabilities
 - In-house product design
+- On-road and track testing
 - CNC machining
-- 304 stainless steel fabrication
-- Performance testing (dyno, on-road)
-- ECU calibration
-- Direct-to-consumer fulfillment
-- Product development for Toyota, Ford, Hyundai/Kia platforms
+- Stainless steel fabrication
+- ECU calibration and tuning
+- Welding and assembly
 
 ## Industries
 - Automotive aftermarket
-- Off-road performance parts
-- Overlanding accessories
-- Performance intake systems
-- Forced induction components
+- Performance automotive parts
+- Off-road and overlanding equipment
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -212,16 +201,17 @@ The company emphasizes intentional design and hands-on validation: every part is
 
 <details><summary>Sources</summary>
 
-- Location: Spartanburg, SC -> db
-- Garage origin, small team -> /
-- In-house design, on-road testing -> /
-- CPLT intake with patent-pending magnetic lid -> /
-- 304 stainless steel with CNC flanges -> /
-- Product lines: intakes, trail pipes, blow-off valves, turbo inlets, intercoolers, recovery points, bed accessories, ECU calibration -> /, /about
-- Vehicles served: Toyota Tacoma, Tundra, 4Runner, Land Cruiser, GR Corolla; Ford Bronco; Hyundai/Kia K5 GT, Sonata N-Line, Elantra N -> /
-- ~97 SKUs listed -> /about
-- Free shipping over $499 US -> /
-- Dealers of Cali Raised LED filter -> /about
+- HQ: Spartanburg, South Carolina -> db
+- Started in a garage with small team -> /
+- Designed in-house, tested on-road -> /
+- Products include CPLT Intake, blow-off valves, turbo inlet pipes, catch cans, recovery points, winch trays, intercoolers, ECU calibration -> /
+- 96 products listed -> /about
+- Free shipping on orders over $499 -> /
+- Patent-pending magnetic lid system on CPLT Intake -> /
+- Full 304 stainless construction with thick CNC flanges -> /
+- Serves Toyota Tacoma, Tundra, 4Runner, GR Corolla, Land Cruiser -> /
+- Serves Hyundai K5 GT, Sonata N-Line, Elantra N -> /
+- Small team, big ideas, zero shortcuts -> /
 </details>
 
 ---
@@ -235,32 +225,31 @@ _skipped: not enough facts_
 **Old description:** Family owned and operated since 1987 our mission has remained the same; supply the freshest and most authentic New Mexican products.
 
 ## About
-Sabroso Foods operates from Albuquerque, New Mexico, where it was founded in 1987 as a family-owned tortilleria. The company began with a mission to supply the freshest and most authentic New Mexican products, a focus that has remained unchanged for over three decades.
+Sabroso Foods operates from Albuquerque, New Mexico, where it has been family-owned and operated since its founding in 1987. The company began with a mission to supply the freshest and most authentic New Mexican products, a focus that has remained unchanged for over three decades.
 
-The facility produces fresh tortillas daily, along with prepared foods such as tamales and posole, and a range of chile products. All items are made in-house without harsh chemicals or preservatives, using high-quality ingredients. The operation serves both retail walk-in customers and wholesale accounts, with fresh tortillas available Monday through Friday.
+The business runs a tortilleria that produces fresh tortillas, prepared foods, and chile products cooked daily in-house without harsh chemicals or preservatives. It serves both retail walk-in customers and wholesale buyers, offering wholesale pricing on its full product line.
 
-Sabroso Foods primarily serves the New Mexican food market, supplying restaurants, grocery stores, and direct consumers through its retail counter and wholesale program. Customers include local eateries and individuals seeking authentic, chemical-free tortillas and traditional dishes.
+Sabroso Foods primarily serves the New Mexican food market, supplying retail consumers and wholesale accounts such as local restaurants and grocery stores. Customers regularly purchase items like tamales, posole, and tortillas made on-site, reflecting the company's role as a local food manufacturer and distributor.
 
-The company differentiates itself through its family-owned heritage, daily fresh production, and commitment to natural, locally flavored products free from artificial additives.
+The company differentiates itself through its commitment to chemical-free, natural ingredients and daily fresh production, emphasizing authentic New Mexican flavor rooted in family recipes. This approach, maintained since 1987, is cited as the reason customers consider the products comparable to homemade cooking.
 
 ## Known for
 - Family-owned and operated since 1987
-- Chemical-free: natural foods free from harsh chemicals and preservatives
-- Fresh daily: products cooked fresh in-house each day
-- Authentic New Mexican flavor with local spice
-- Over 30 years of continuous operation
+- Tortillas and prepared foods cooked fresh daily in-house
+- No harsh chemicals or preservatives
+- Authentic New Mexican recipes with local flavor
+- Wholesale pricing available for volume buyers
 
 ## Capabilities
-- Fresh tortilla production
-- Prepared food production (tamales, posole)
+- Tortilla manufacturing
+- Prepared food manufacturing
 - Chile product manufacturing
 - Wholesale distribution
 - Retail sales
 
 ## Industries
-- Food service
-- Retail
-- Wholesale
+- Food retail
+- Food wholesale
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -270,86 +259,266 @@ The company differentiates itself through its family-owned heritage, daily fresh
 
 <details><summary>Sources</summary>
 
-- Founded 1987 -> db
-- Family-owned -> /
-- Headquarters Albuquerque, NM -> db
-- Products: fresh tortillas, prepared food, chile -> /
-- Chemical-free, no preservatives -> /
-- Cooked fresh daily in-house -> /
-- Retail and wholesale operation -> /
-- Over 30 years in business -> /
-- Mission: supply freshest authentic New Mexican products -> /
-- Wholesale pricing available -> /
+- Founded in 1987 -> db
+- Family-owned and operated since 1987 -> /
+- Headquartered in Albuquerque, New Mexico -> db
+- Operates as a retail and wholesale tortilleria -> /
+- Produces fresh tortillas, prepared foods, and chile products -> /
+- Products cooked fresh daily in-house without harsh chemicals or preservatives -> /
+- Offers wholesale pricing -> /
+- Serves retail consumers and wholesale buyers -> /
+- Products include tamales, posole, and tortillas made on-site -> /
+- Emphasizes authentic New Mexican flavor and family recipes -> /
 </details>
 
 ---
 
 # Saco Manufacturing & Woodworking
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** Originally founded as a manufacturer of wooden water pumps, our company has been an ongoing wood manufacturer for more than 130 years.
+
+## About
+Saco Manufacturing & Woodworking has operated in Saco, Maine since 1872. The business began as a maker of wooden water pumps and has remained a continuous wood manufacturer for over 130 years. Ownership details and founder names are not publicly disclosed.
+
+The company focuses on custom wood turning, producing both large and small turnings. It offers individualized solutions such as matching missing turned elements, modifying designs to meet new requirements, and producing parts from customer drawings. The shop does not publish facility dimensions, employee counts, or annual volume figures.
+
+The firm serves customers requiring custom wood turnings, though specific industry sectors are not identified in its available materials. Its work likely supports restoration, architectural millwork, and specialty component fabrication, but no concrete customer examples are provided.
+
+The company distinguishes itself through its individualized approach, stating it can match missing turned elements, adjust designs to new needs, and bring customer drawings to life. This flexibility, backed by more than a century of wood manufacturing experience, is presented as its core value proposition.
+
+## Known for
+- Over 130 years of continuous wood manufacturing
+- Custom wood turning for large and small components
+- Ability to match missing turned elements from existing parts
+- Design adjustment and modification services
+- Production from customer drawings
+
+## Capabilities
+- Wood Turning
+- Large Turnings
+- Small Turnings
+- Custom wood turning
+- Design modification
+- Reverse engineering of turned parts
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1872
+- **Headquarters:** Saco, Maine
+
+<details><summary>Sources</summary>
+
+- Founded in 1872 -> db
+- Headquartered in Saco, Maine -> db
+- Originally manufactured wooden water pumps -> db
+- Specializes in wood turning (large and small turnings) -> db
+- Offers individualized solutions: match missing turned elements, adjust designs, make drawings come to life -> /
+- Over 130 years of wood manufacturing experience -> db
+</details>
+
+---
 
 # Sacred Steel Az
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** To be the leading provider of innovative and precise metal fabrication solutions in Arizona.
+
+## About
+Sacred Steel AZ operates from Tempe, Arizona, and has accumulated over a decade of experience in custom metal fabrication. The company provides licensed, bonded, and insured welding services throughout the state.
+
+The shop specializes in precision cutting, welding, and fabrication, offering services that include on-site structural welding, pipe welding and installation, aluminum welding, emergency welding repairs, and custom welding. It handles both residential and commercial projects, producing items such as gates, railings, furniture, water features, planter boxes, and industrial equipment. The company emphasizes competitive pricing and free quotes for all projects.
+
+Sacred Steel AZ serves homeowners, contractors, architects, and landscapers across Arizona. Past projects include backyard privacy structures, master suite renovations, front yard steel edging and planters, pool-code-compliant gates, and custom shade structures. The company works across residential, commercial, industrial, and landscaping sectors.
+
+The company states that its differentiation lies in its certified and insured workmanship, on-site service capability, and a focus on quality, customer service, and attention to detail. It aims to transform client ideas into durable, aesthetically pleasing metal creations.
+
+## Known for
+- Licensed, bonded, and insured welding services
+- Free quotes for all projects
+- On-site welding services across Arizona
+- Certified and insured workmanship
+- Decade of fabrication experience
+
+## Capabilities
+- Precision metal fabrication
+- On-site structural welding
+- Pipe welding and installation
+- Aluminum welding
+- Emergency welding repairs
+- Custom welding
+- Residential fabrication
+- Commercial fabrication
+- Industrial fabrication
+- Landscaping fabrication
+- Custom design and fabrication (gates, railings, furniture, water features, planter boxes, entry doors, windows, fencing)
+
+## Industries
+- Residential construction
+- Commercial construction
+- Industrial fabrication
+- Landscaping
+- Architectural metalwork
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Tempe, Arizona
+
+<details><summary>Sources</summary>
+
+- Headquarters in Tempe, AZ 85288 -> /
+- Over a decade of experience -> /
+- Licensed, bonded and insured welding services -> /
+- Services: precision metal fabrication, on-site structural welding, pipe welding & installation, aluminum welding, emergency welding repairs, custom welding -> /
+- Serves residential, commercial, industrial, and landscaping sectors -> /
+- Offers free quotes -> /
+- Provides on-site services across Arizona -> /
+- Certified and insured workmanship -> /
+- Company prioritizes quality, customer service, and attention to detail -> /
+- Testimonials reference Gabe Castle as lead fabricator -> /
+</details>
+
+---
 
 # Salt Lake Cable & Harness, Inc.
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** We specialize in custom cable assemblies, wire harnesses, and electromechanical assemblies. With decades of industry experience, we can produce cable and wire harness assemblies for simple
+
+## About
+Salt Lake Cable & Harness, Inc. operates from North Salt Lake, Utah. The company has been active in contract manufacturing for over 30 years, though a specific founding year is not publicly disclosed. Ownership details and founder names have not been shared in the available materials.
+
+The company produces custom cable assemblies, wire harnesses, and electromechanical assemblies, including box builds, injection-molded parts, potting, and wire cut-strip-pin services. It runs automated inserting systems, cutting machines, stripping equipment, and crimping presses, and handles volumes from small complex runs to high simple volumes, with a focus on low-to-medium volume, high-mix production. Engineering development builds are offered before full production.
+
+Customers span medical, aerospace, military/defense, automotive, industrial, and telecommunications sectors. In medical, the firm builds cables for diagnostic systems and equipment used worldwide. For aerospace and defense, it serves Department of Defense subcontractors with AS9100D and ITAR-compliant assemblies, including Spec 3 IPC builds. Automotive work includes OBDII cable molds and switch harnesses, while industrial projects range from high-end coffee machines to control systems.
+
+Salt Lake Cable emphasizes a culture of quality backed by ISO 9001:2015 and AS9100D certification, ITAR registration, and employee training to IPC/WHMA-A-620 standards. The company cites superior quality, customer service, and on-time delivery as core value drivers, and offers a 100% product guarantee.
+
+## Known for
+- AS9100D and ISO 9001:2015 certified quality system
+- ITAR registered for defense work
+- Spec 3 IPC/WHMA-A-620 build capability
+- Low-to-medium volume, high-mix production focus
+- 100% product guarantee with in-house testing
+
+## Capabilities
+- Cable assemblies
+- Wire harness assemblies
+- Electromechanical box builds
+- Prototyping services
+- Potting
+- Injection molding
+- Wire cut, strip, and pin
+- Electrical assemblies
+- Testing and quality assurance
+- Engineering development builds
+- RoHS-compatible wiring
+- UL-compliant wiring
+- Lead-free wiring
+- High-speed data cables
+- Complex harnesses
+- Simple jumpers
+- Power cables
+- Automated inserting
+- Crimping
+- Stripping
+- Cutting
+
+## Industries
+- Medical
+- Aerospace
+- Military/Defense
+- Automotive
+- Industrial
+- Telecommunications
+- Space
+
+## Equipment
+- Automated inserting systems
+- Cutting machines
+- Stripping machines
+- Crimping presses
+- High-precision wire-cutting machines
+
+## Certifications
+- ISO 9001:2015
+- AS9100D
+- ITAR registered
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** North Salt Lake, Utah
+
+<details><summary>Sources</summary>
+
+- Headquarters: North Salt Lake, Utah -> db
+- Over 30 years in contract manufacturing -> /
+- Custom cable assemblies, wire harnesses, electromechanical assemblies -> /
+- Capabilities: box builds, injection molding, potting, wire cut/strip/pin -> /capabilities
+- Equipment: automated inserting systems, cutting machines, stripping, crimping presses, high-precision wire-cutting machines -> /capabilities
+- Volume: small complex runs to high simple volumes; low-to-medium volume, high mix -> /capabilities, /
+- Industries: Medical, Aerospace, Military/Defense, Automotive, Industrial, Telecommunications, Space -> /, /capabilities, /quality
+- Certifications: ISO 9001:2015, AS9100D, ITAR registered -> /quality, db
+- Employee training: IPC/WHMA-A-620 -> /quality
+- Quality culture: Total Quality Management, 100% guarantee -> /quality, /capabilities
+- Medical: diagnostic systems and equipment worldwide -> /
+- Aerospace/Defense: DoD subcontractors, Spec 3 IPC builds -> /
+- Automotive: OBDII cable molds, switch harnesses -> /
+- Industrial: coffee machines, control systems -> /
+- Materials: wire, cable, tubing, connectors, epoxy, silicone -> /capabilities
+</details>
+
+---
 
 # Salute Apparel
 
 **Old description:** Thank you for reaching out! One of our sales associates will send you a price quote shortly.
 
 ## About
-Salute Apparel is a veteran-owned custom apparel company based in Boise, Idaho. Founder Aaron Hale launched the business from his garage in 2015, then expanded by acquiring the long-standing Boise shop T‑shirts Plus in 2016. Further purchases of Bulldog Shirt Shop (2018), Two Ocean Prints (2020), Custom Image (2022), and Idaho Shirt Shack (2026) gave the company a second location in Nampa and a growing regional footprint.
+Salute Apparel, a veteran-owned custom apparel and promotional products company, was founded in 2015 by Aaron Hale in Boise, Idaho. Starting from a garage operation, the business expanded through a series of acquisitions: T-shirts Plus in 2016, Bulldog Shirt Shop in 2018 (adding a second location in Nampa), Two Ocean Prints in 2020, Custom Image in 2022, and Idaho Shirt Shack in 2026. The company now operates storefronts in both Boise and Nampa.
 
-The company provides screen printing with plastisol inks on cotton, cotton‑poly blends, and synthetic fabrics; embroidery for text, outlines, filled designs, and custom patches; in‑house graphic design that accepts .ai, .eps, and .pdf files; customized online storefronts that handle ordering, production, and shipping for schools, teams, and businesses; and a range of promotional products such as journals, pens, water bottles, and mugs. Operations run out of two Idaho facilities with a staff that includes screen‑print and embroidery technicians, designers, and sales personnel.
+The company provides screen printing using plastisol inks on cotton, cotton-poly blends, and synthetic fabrics; embroidery for logos and personalized patches; graphic design services accepting AI, EPS, and PDF files; customized online storefronts for organizations to manage recurring apparel orders; and a range of promotional products such as journals, pens, water bottles, and mugs. A team of eight, including screen print and embroidery specialists, handles production across the two locations.
 
-Salute Apparel serves educational institutions, sports leagues, clubs, nonprofit organizations, and corporate clients needing uniforms, spirit wear, and branded merchandise. The customized storefront service is aimed at groups that want a hands‑free way to manage recurring apparel orders, while the promotional‑product line supports marketing giveaways and employee gifts.
+Salute Apparel serves schools, sports teams, clubs, organizations, and businesses needing uniforms and spirit wear, as well as companies seeking branded promotional merchandise. The customized storefront service is designed for groups that need a hands-free way to manage ongoing apparel orders.
 
-Hale has stated that the business was started to give the community tools for self‑expression, framing the need to create and tell one’s story as a basic human right. The veteran‑owned ethos and a focus on local acquisitions are presented as the foundation of the company’s approach.
+Hale, a veteran, established the company on values drawn from military service, aiming to give the community tools to tell their stories through custom apparel and promotional items.
 
 ## Known for
-- Veteran-owned and operated
+- Veteran-owned business operating on military-service values
+- Multi-location operation in Boise and Nampa, Idaho, built through five acquisitions since 2015
+- Full-service decoration: screen printing, embroidery, graphic design, and promotional products under one roof
 - Customized online storefronts for hands-free group ordering
-- In-house screen printing and embroidery under one roof
-- Graphic design support for print-ready files
-- Series of local acquisitions expanding capacity
+- In-house screen printing and embroidery production with dedicated specialists
 
 ## Capabilities
-- Screen printing (plastisol inks)
+- Screen printing
 - Embroidery
 - Graphic design
-- Customized online storefronts
-- Promotional products sourcing
+- Customized storefronts
+- Promotional products
 
 ## Industries
 - Education
 - Sports teams
 - Clubs and organizations
-- Corporate uniforms
-- Promotional products
+- Business uniforms
+- Corporate branding
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2015
 - **Ownership:** Veteran-owned
 - **Headquarters:** Boise, Idaho
 
 <details><summary>Sources</summary>
 
-- Founded 2015 by Aaron Hale -> /about
+- Founded in 2015 by Aaron Hale in Boise, Idaho -> /about
 - Veteran-owned business -> /about
-- Acquisitions: T-shirts Plus 2016, Bulldog Shirt Shop 2018, Two Ocean Prints 2020, Custom Image 2022, Idaho Shirt Shack 2026 -> /about
-- Locations: Boise and Nampa, Idaho -> /about
-- Services: Screen printing, embroidery, graphic design, customized storefronts, promotional products -> /services
-- Screen printing on cotton, cotton-poly blends, synthetic fabrics -> /services
-- Embroidery for text, outlines, filled images, patches -> /services
-- Graphic design accepts .ai, .eps, .pdf -> /services
-- Customized storefronts for schools, sports teams, clubs, organizations, business uniforms -> /services
-- Promotional products: journals, pens, water bottles, mugs -> /services
-- Team members: Aaron, Candra, Cyndi, Kristi, Jason, Daisy, Kim, Rich -> /about
-- Mission: give community tools to tell their stories -> /about
+- Acquired T-shirts Plus (2016), Bulldog Shirt Shop (2018), Two Ocean Prints (2020), Custom Image (2022), Idaho Shirt Shack (2026) -> /about
+- Operates storefronts in Boise and Nampa, Idaho -> /about
+- Offers screen printing with plastisol inks on cotton, cotton-poly blends, synthetic fabrics -> /services
+- Offers embroidery for logos and personalized patches -> /services
+- Provides graphic design services accepting .ai, .eps, .pdf formats -> /services
+- Provides customized online storefronts for group apparel orders -> /services
+- Sells promotional products including journals, pens, water bottles, mugs -> /services
+- Team includes screen print manager, embroidery tech, graphic designer, sales associates -> /about
 </details>
 
 ---

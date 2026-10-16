@@ -3,36 +3,34 @@
 **Old description:** Each Paragon Performance product is meticulously designed to integrate seamlessly with your C8's original aesthetic while adding that perfect touch of personalization.
 
 ## About
-Paragon Performance was founded in 2019 in Waukee, Iowa. The company emerged from established relationships in the import performance segment with the goal of becoming a leader in the upper-tier sports car market, focusing on Corvette (C7 and newer), Porsche, and other exotic platforms.
+Paragon Performance was founded in 2019 in Waukee, Iowa. The company emerged from established relationships in the import performance segment, aiming to become a leader in the upper-tier sports car market with a focus on engineering and affordability.
 
-The company designs and manufactures its own line of performance parts—including exhaust systems, turbo kits, intake systems, and tuning solutions—which are built and tested in-house. The operation also provides dyno testing services and maintains a network of installer locations for professional installation.
+The company designs and manufactures its own line of performance parts—including exhaust systems, turbo kits, intakes, and tuning solutions—built and tested in-house.
 
-Paragon Performance serves automotive enthusiasts and professional installers across the Corvette, Porsche, and exotic-car communities. Its retail platform supports direct-to-consumer sales with free shipping on orders over $99, while a wholesale program caters to shop and reseller accounts. The product catalog spans model years 2014 through 2027 for Corvettes and includes the Cadillac CT5 Blackwing.
+Paragon serves the automotive performance aftermarket, targeting owners and shops working on Chevrolet Corvettes (C7 and C8 variants including Stingray, E-Ray, Z06, ZR1, and Grand Sport), Porsche models, and other exotic sports cars. Its customer base includes individual enthusiasts, professional installers, and wholesale buyers.
 
-The business was started to bring engineering-focused, affordable performance products to the sports car segment, leveraging the founders' collective 60 years of automotive experience. Paragon emphasizes that its in-house development and testing deliver verified results rather than marketing claims.
+The company emphasizes engineering-driven development and in-house validation to deliver affordable performance with verified results, leveraging experience from the import segment to address the sports-car market.
 
 ## Known for
-- In-house design, manufacturing, and testing of performance parts
-- Focus on Corvette (C7+), Porsche, and exotic platforms
-- Dyno testing services available
-- Wholesale program for shops and resellers
-- Officially licensed GM parts distributor
+- In-house design, build, and test of performance parts
+- Focus on Corvette (C7 and up), Porsche, and exotic sports cars
+- Established relationships from import performance segment
+- Dyno tuning services and installer network
+- Affordable performance with verified results
 
 ## Capabilities
-- Exhaust system manufacturing
-- Turbo kit manufacturing
-- Intake system manufacturing
-- Performance tuning
-- In-house product testing
-- Dyno testing services
-- Installer referral network
+- Performance parts design and manufacturing
+- In-house testing and validation
+- Dyno tuning
+- Installer network coordination
+- Wholesale distribution
+- Fitment verification
 
 ## Industries
-- Automotive aftermarket
-- Corvette performance parts
-- Porsche performance parts
-- Exotic car performance parts
-- Cadillac CT5 Blackwing performance parts
+- Automotive performance aftermarket
+- Corvette parts (C7, C8)
+- Porsche parts
+- Exotic sports car parts
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -42,59 +40,139 @@ The business was started to bring engineering-focused, affordable performance pr
 <details><summary>Sources</summary>
 
 - Founded in 2019 -> /about
-- Headquarters in Waukee, Iowa -> /about, db
-- Focus on Corvette (C7+), Porsche, exotics -> /about
-- In-house manufacturing of exhausts, turbo kits, intakes, tuning -> /about
-- Over 180 SKUs under Paragon Performance brand -> /about-us (brand filter shows 182)
-- Carries 50+ aftermarket brands (GM OEM, Borla, Eibach, Verus Engineering, etc.) -> /about-us
-- Dyno services offered -> /, /about-us
-- Installer locations network -> /, /about-us
-- Free shipping on orders over $99 -> /
-- Wholesale program (392 items) -> /about-us
-- Collective 60 years automotive experience -> /, /about-us
+- Located in Waukee, Iowa -> /about
+- Focus on engineering and performance, creating affordable products -> /about
+- Built and tested in-house -> /about
+- Offers exhausts, turbo kits, intakes, tuning -> /about
+- Sports car brands: Corvette (C7 and up), Porsche, other exotics -> /about
+- 182 Paragon-branded products -> /about-us
+- Dyno services and installer locations -> /
+- Over 60 collective years of experience in automotive world -> /
+- Carries brands like GM OEM, Carbotech, CCS, AP Racing -> /about-us
+- Wholesale distribution -> /about-us
+- Fitment verification -> /about-us
 </details>
 
 ---
 
 # Paramont EO
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** We have recently expanded our line into power tools and are now proudly stocking DeWalt.
+
+## About
+Paramont EO operates from Woodridge, Illinois, where it runs a 180,000-square-foot warehouse serving the Chicagoland area. The company does not publicly disclose its founding year or ownership structure, but it describes its team as an extended family of electrical supply experts.
+
+The business functions as a stocking distributor of electrical materials, maintaining more than $7 million in inventory across products such as wire and cable, lighting fixtures, power distribution equipment, safety gear, and DeWalt power tools. Beyond simple supply, Paramont EO provides a suite of contractor services including custom kitting, cable paralleling and pulling solutions, staging and phasing, project management, material handling, and logistics with real-time tracking, geo-fenced monitoring, and same-day or weekend emergency delivery. Three will-call counters and next-day freight from manufacturers like Harger, Izzy, and Burndy support rapid fulfillment.
+
+Paramont EO serves commercial, industrial, and residential electrical contractors, with a noted specialization in telecom essentials. Its customer base includes firms such as Maron Electric, Canino Electric Co., and Johnson Electric and Communications, which have cited the distributor’s project management, credit department, and lighting expertise in testimonials.
+
+The company states its mission is to be “#1 in Service” and emphasizes solving logistical challenges to maximize client profitability. As an Owner-Member of the AD buying group, Paramont EO leverages a network of independent distributors and supplier partners to enhance its offering.
+
+## Known for
+- 180,000 sq ft warehouse with $7M stocked inventory
+- Three will-call counters for immediate pickup
+- Next-day freight from manufacturers like Harger, Izzy, and Burndy
+- Real-time delivery tracking with text-ahead alerts and photo confirmation
+- Custom kitting, staging, and project management services
+
+## Capabilities
+- Cable pulling solutions (pulling eyes, leads, heads)
+- Cable paralleling onto chambered metal reels
+- SimPULL reel and Coilpack supply
+- Custom kitting and pre-assembly
+- Custom labeling
+- Specialty material carts (fixture, tree, CoilPak)
+- Repackaging for installation optimization
+- Staging and phasing of deliveries
+- Project management (planning, value-added identification, change order minimization)
+- Material handling (rolling lockable cages, stock and replenish, carts)
+- Real-time delivery tracking with geo-fenced monitoring
+- Text-ahead delivery alerts
+- Touchless signature capture
+- Quality assurance photo documentation
+- 24/7 emergency delivery service
+- Same-day, weekend, and second-run delivery
+- Shared facility access (meetings, training, pre-fab, staging)
+- Energy evaluations and rebate assistance
+- Energy-efficient product retrofits
+- Credit and job account services
+- Lien facilitation and waiver management
+- Will-call counter service
+- Next-day freight shipping
+
+## Industries
+- Commercial construction
+- Industrial construction
+- Residential construction
+- Telecommunications
+- Lighting
+- Power distribution
+- Electrical contracting
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Headquarters:** Woodridge, Illinois
+
+<details><summary>Sources</summary>
+
+- Headquarters: Woodridge, Illinois -> db
+- Warehouse size: 180,000 sq ft -> /
+- Inventory value: >$7M -> /
+- Will-call counters: 3 -> /
+- Next-day freight from Harger, Izzy, Burndy -> /
+- Specialization in telecom essentials -> /
+- Segments served: Commercial, Industrial, Residential -> /
+- Owner-Member of AD -> /
+- Contractor services: kitting, staging, project management, logistics -> /services
+- Cable solutions: pulling eyes, paralleling, SimPULL reels -> /services
+- Custom kitting: pre-assembly, labeling, carts -> /services
+- Material handling: lockable cages, stock/replenish, carts -> /services
+- Logistics: real-time tracking, geo-fencing, text alerts, touchless signature, QA photos, 24/7 emergency, same-day/weekend -> /services
+- Shared facilities: meetings, training, pre-fab, staging -> /services
+- EnergySmart: evaluations, rebates, retrofits -> /services
+- Credit resources: job accounts, lien facilitation, waivers -> /services
+- Testimonials from Maron Electric, Canino Electric Co., Johnson Electric and Communications -> /
+- DeWalt power tools stocked -> /
+- Mission to be #1 in Service -> /about
+</details>
+
+---
 
 # Paricon Technologies
 
 **Old description:** We’re a leading designer and manufacturer of state-of-the-art
 
 ## About
-Paricon Technologies Corporation operates from Taunton, Massachusetts, where it designs and manufactures elastomeric interconnect solutions for the electronics industry. The company has invested heavily in proprietary product and process technologies over its history, though a founding year and ownership details are not publicly disclosed.
+Paricon Technologies Corporation is based in Taunton, Massachusetts. The company operates as a designer, manufacturer, and marketer of elastomeric interconnect solutions for the electronics market.
 
-The company's core offering centers on its PariPoser® anisotropic elastomer fabric, a material engineered for bandwidths exceeding 110 GHz that behaves as a lumped parameter with inductance below 0.1 nH. Paricon translates this technology into a range of interconnect products including die-cut material, adjustable swivel-top sockets, clamshell sockets, compact manual-loading sockets, double-latch sockets, flex-to-board assemblies, and board-to-board connectors. It also provides PariProbe® probe solutions that combine elastomers with short solid pins for BGA applications, supported by optional Peltier or liquid cooling for thermal management.
+The company develops proprietary technologies including PariPoser®, an anisotropic elastomer fabric that provides interconnects with bandwidth above 110 GHz, and PariProbe®, which combines elastomers with short solid pins for BGA probing applications. Its product line encompasses die-cut materials, adjustable swivel-top sockets, clamshell sockets, compact manual-loading sockets, double-latch sockets, flex-to-board socket assemblies, and board-to-board connectors. Paricon also offers thermal management options such as Peltier or liquid cooling for high-density BGA probing.
 
-Paricon serves customers in test and measurement, microwave and RF, wafer testing, custom connector applications, and high-speed digital electronics. Its solutions are used in applications requiring reliable high-frequency contacts, such as RF waveguides, large BGA probing, and advanced semiconductor test.
+Paricon serves industries including test and measurement, microwave and RF, wafer testing, and custom connector applications. Its solutions target high-speed digital, waveguide, and RF applications where traditional interconnects face limitations.
 
-The company states its mission is to deliver innovative elastomeric interconnect solutions that enable customers to push the boundaries of electronics design and manufacturing. Its vision targets global leadership in high-performance interconnects, grounded in core values of innovation, quality, customer focus, and excellence. Paricon emphasizes continuous R&D investment in proprietary technologies to stay ahead of industry needs.
+The company emphasizes continuous investment in proprietary technologies and R&D to stay ahead of industry needs, with a mission to deliver innovative elastomeric interconnect solutions that enable customers to push the boundaries of electronics design and manufacturing.
 
 ## Known for
 - PariPoser® anisotropic elastomer fabric with bandwidth above 110 GHz
-- PariProbe® technology combining elastomers and short solid pins for BGA probing
-- Optional Peltier or liquid cooling for thermal management in high-density applications
-- Proprietary processes that reduce interconnect size, weight, and inductance
-- Elastomeric interconnects that behave as lumped parameters below 100 GHz
+- PariProbe® technology combining elastomers and short solid pins for BGA applications
+- Thermal management options including Peltier and liquid cooling for high-density probing
+- Electrical path shorter than a transmission line below 100 GHz, with less than 0.1 nH inductance
+- Custom connector applications for test, microwave, and wafer testing
 
 ## Capabilities
-- Design and manufacture of elastomeric interconnect solutions
-- Die cutting of anisotropic elastomer fabric
+- Design of elastomeric interconnect solutions
+- Manufacturing of anisotropic elastomer fabric (PariPoser®)
+- Probe solutions combining elastomers and solid pins (PariProbe®)
+- Die cutting of elastomeric materials
 - Socket assembly (adjustable swivel-top, clamshell, compact manual-loading, double-latch, flex-to-board, board-to-board)
-- PariPoser® anisotropic elastomer fabric production
-- PariProbe® probe solutions for BGA applications
-- Thermal management integration (Peltier and liquid cooling)
+- Thermal management integration (Peltier, liquid cooling)
+- Custom connector development for test, microwave, wafer testing
 
 ## Industries
 - Test and measurement
 - Microwave and RF
 - Wafer testing
 - Custom connector applications
-- High-speed digital electronics
-- Semiconductor test
+- Electronics
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -103,14 +181,15 @@ The company states its mission is to deliver innovative elastomeric interconnect
 <details><summary>Sources</summary>
 
 - Headquarters in Taunton, Massachusetts -> db
-- Designer and manufacturer of elastomeric interconnect solutions -> /about-us
+- Designer, manufacturer, and marketer of elastomeric interconnect solutions -> /about-us
 - PariPoser® anisotropic elastomer fabric with bandwidth above 110 GHz -> /about-us
-- PariProbe® technology for BGA probing with thermal management -> /about-us
-- Products include die-cut material, various socket assemblies, flex-to-board, board-to-board -> /
+- PariProbe® technology combining elastomers and short solid pins for BGA applications -> /about-us
+- Thermal management options including Peltier and liquid cooling -> /about-us
+- Product line includes die-cut materials, adjustable swivel-top sockets, clamshell sockets, compact manual-loading sockets, double-latch sockets, flex-to-board socket assemblies, board-to-board connectors -> /
 - Industries served: test, microwave, wafer testing, custom connector applications -> /about-us
-- Mission and vision statements -> /about-us
+- Mission to deliver innovative elastomeric interconnect solutions -> /about-us
 - Core values: Innovation, Quality, Customer Focus, Excellence -> /about-us
-- Electrical performance: lumped parameter below 100 GHz, <0.1 nH inductance -> /
+- Exhibited at IMS2026 in Boston -> /
 </details>
 
 ---
@@ -120,26 +199,28 @@ The company states its mission is to deliver innovative elastomeric interconnect
 **Old description:** This page uses frames, but your browser doesn't support them.
 
 ## About
-Park Distributors Inc. was founded in 1966 in Bridgeport, Connecticut. The company began as a wholesale distributor of electronic components and has remained in the same location for over five decades.
+Park Distributors, Inc. operates from Bridgeport, Connecticut, where it was founded in 1966. The company has remained a privately held wholesale distributor of electronic and electrical components for over five decades.
 
-The firm operates as a global wholesale distributor of electronic and electrical components, maintaining franchised relationships with manufacturers such as Datatel, Middle Atlantic Products, Surge Components, Master Appliance, OK Industries, Electrotek, and Esico. Beyond distribution, Park provides value-added services including cable and harness assembly, just-in-time delivery, and kitting. The company also specializes in hard-to-find and custom-designed relays, claiming the largest stock of diversified relays in the United States.
+The firm stocks and sells franchised product lines from manufacturers such as Datatel/Middle Atlantic Products, Surge Components, General Hardware, HiTek, Ideal, and others, positioning itself as a source for brands. In addition to standard distribution, Park provides value-added services including cable and harness assembly, just-in-time delivery, and kitting. It also specializes in hard-to-find and custom-designed relays, claiming the largest stock of diversified relays in the United States.
 
-Park serves customers across the electronics industry, supplying components for applications ranging from industrial equipment to commercial electronics. Its linecard emphasizes franchised lines from manufacturers, though specific end-market sectors are not detailed in public materials.
+Park serves a global wholesale customer base, supplying original equipment manufacturers, contract manufacturers, and maintenance operations across the electronics sector. Its linecard features manufacturers like Master Appliance, OK Industries, Electrotek, and Esico, reflecting a focus on reliable, franchised sources.
 
-The company states that its founding purpose was to deliver quality, competitive pricing, and service in the marketplace, selecting only product lines that complement that function. Its differentiation rests on the breadth of its relay inventory, franchised manufacturer partnerships, and the ability to provide custom relay solutions alongside standard distribution.
+The company states that its differentiation rests on three pillars: quality, competitive pricing, and service. It selects only product lines that complement that function, and it emphasizes the breadth of its relay inventory and the availability of custom relay designs as key advantages for buyers facing obsolescence or specialized requirements.
 
 ## Known for
 - Largest stock of diversified relays in the United States
-- Franchised distributor for industry-leading manufacturers
-- Custom designed relays and hard-to-find components
+- Franchised distributor for industry-leading electronic component manufacturers
+- Custom-designed relay solutions for hard-to-find requirements
 - Value-added services: cable & harness assembly, JIT delivery, kitting
+- Focus on quality, competitive pricing, and service
 
 ## Capabilities
+- Electronic component distribution
 - Cable & harness assembly
 - Just-in-time (JIT) delivery
 - Kitting
 - Custom relay design
-- Franchised electronic component distribution
+- Relay stocking and distribution
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -148,14 +229,13 @@ The company states that its founding purpose was to deliver quality, competitive
 
 <details><summary>Sources</summary>
 
-- Founded 1966 -> db, /about
-- Headquarters Bridgeport, CT -> /about
-- Global wholesale distributor of electronic components -> /about
-- Largest stock of diversified relays in US -> /about
-- Franchised lines from manufacturers like Datatel, Master Appliance, OK Industries -> /about
-- Value-added services: cable & harness assembly, JIT, kitting -> /about, products
-- Custom designed relays -> /about
-- Offers hard-to-find relays -> /about
+- Founded in 1966 -> /about
+- Headquartered at 347 Railroad Ave., Bridgeport, CT 06604 -> /about
+- Global wholesale distributor of electronic and electrical components -> /about
+- Offers franchised lines from industry-leading manufacturers -> /about
+- Provides custom designed relays and largest stock of diversified relays in US -> /about
+- Value-added services: cable & harness assembly, JIT, kitting -> /products
+- Manufacturers on linecard: Datatel/Middle Atlantic Products, Surge Components, General Hardware, HiTek, Ideal, Innovative, Master Appliance, OK Industries, Electrotek, Esico -> /products and /about
 </details>
 
 ---
@@ -165,65 +245,70 @@ The company states that its founding purpose was to deliver quality, competitive
 **Old description:** Graham, the public face of Parkman since 2015, is who you'll generally speak with about your custom furniture.
 
 ## About
-Parkman Woodworks was founded in 2015 on Parkman Avenue in Silverlake, Los Angeles, by Graham Taglang, who remains the public face of the company. The venture began with a pickup truck and a thousand dollars, building its first pieces from sustainable wood in a friend's driveway. In 2019 the operation moved into a historic brick-and-timber textile mill a building that marked its 100th anniversary in 2023, with a roof framed in the same antique timber the shop uses for furniture.
+Parkman Woodworks was founded in 2015 on Parkman Avenue in Silverlake, Los Angeles, California, starting with a pickup truck and a thousand dollars. The founders built their first pieces from sustainable wood in a friend's driveway. Graham Taglang has served as the public face of the company since its inception.
 
-The company produces custom wood-and-steel furniture—conference tables, dining tables, bed frames, desks, coffee tables, bookshelves, consoles, benches, mantels, countertops, and restaurant pieces—entirely in-house. A team of six craftspeople handles design, woodworking, welding, and powder-coating of low-carbon iron, working from the 100-year-old facility. Materials are sourced hyperlocally: solid hardwoods recovered from naturally fallen Southern California trees and structures.
+The company produces custom handmade wood and steel furniture, including conference tables, dining tables, bed frames, desks, coffee tables, bookshelves, consoles, and benches. Operations are based in a historic brick-and-timber textile mill that celebrated its 100th anniversary in 2023, where a six-person team handles in-house design, woodworking, iron fabrication, powder coating, and wood charring. All pieces are made to order, from raw material selection through final delivery.
 
-Parkman serves both residential and commercial clients. Its furniture furnishes corporate offices, home offices, dining rooms, bedrooms, kitchens, living rooms, and restaurants. Trade and custom-order channels supply interior designers, architects, and direct consumers seeking bespoke pieces.
+Parkman serves residential clients and commercial accounts across corporate offices, restaurants, and hospitality spaces. Their trade program works with interior designers and architects on projects ranging from home office furnishings to large-scale restaurant installations. Notable product categories include live-edge dining tables, custom conference tables for boardrooms, and banquette seating for kitchen and dining areas.
 
-The founding mission is to turn wasted wood into practical art while advancing the values of handcraft. The shop emphasizes accountability, awareness, and achievement, with every piece passing through the full in-house build process from design to delivery.
+The company's stated mission is to turn wasted wood into practical art while advancing the values of handcraft. They emphasize hyperlocal sourcing, using solid lumber recovered from naturally fallen Southern California trees and structures. Accountability, awareness, and achievement are cited as core values, with every team member involved from inception to inspection of each piece.
 
 ## Known for
-- Hyperlocal sustainably sourced lumber from naturally fallen Southern California trees
-- Full in-house fabrication from design through delivery
-- 100-year-old historic workshop with antique timber roof
-- Low-carbon iron finished with powder coating (Cardinal color chart)
-- Specialized craftspeople including wood-charring and cabinet-making experts
+- Hyperlocal, sustainably sourced lumber from naturally fallen Southern California trees
+- In-house design-to-delivery process with a dedicated team of craftspeople
+- Historic 100-year-old brick-and-timber textile mill workshop
+- Custom pieces made to order
+- Specialized capabilities in wood charring and low-carbon iron powder coating
 
 ## Capabilities
-- Custom furniture design
-- Woodworking
-- Welding/ironworking
-- Powder coating
-- In-house fabrication
-- Live edge furniture construction
+- Custom wood furniture manufacturing
+- Steel/iron fabrication
+- Powder coating (low-carbon iron)
 - Wood charring
-- Cabinet and drawer making
-- Conference table manufacturing
-- Dining table manufacturing
-- Bed frame manufacturing
-- Desk manufacturing
-- Coffee table manufacturing
-- Bookshelf manufacturing
-- Console and casegoods manufacturing
-- Bench manufacturing
-- Mantel and countertop fabrication
-- Restaurant furniture manufacturing
+- In-house design and engineering
+- Live edge furniture
+- Custom conference tables
+- Custom dining tables
+- Custom bed frames
+- Custom desks
+- Custom shelving and casegoods
+- Restaurant furniture production
 
 ## Industries
-- Corporate office
-- Restaurant
-- Residential
+- Corporate Office
+- Dining Room
+- Bedroom
+- Kitchen & Banquette
+- Home Office
+- Living Room
+- Restaurant Furniture
+- Trade
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2015
+- **Employees:** 6
 - **Headquarters:** Los Angeles, California
 
 <details><summary>Sources</summary>
 
 - Founded 2015 on Parkman Avenue in Silverlake, Los Angeles -> /about-us
-- Moved in 2019 to historic brick-and-timber textile mill at 160 S Mission Rd, Los Angeles, CA 90033 -> /about-us
+- Started with pickup truck and $1000, building in buddy's driveway -> /about-us
 - Graham Taglang public face since 2015 -> /about-us
-- Team members: Kyle Jordan (2018), Jimmy Welsh (2019), Susannah Rea-Downing (2019), Preston Weimer (2020), Randy Zamudio (2022) -> /about-us
-- Custom handmade wood & steel furniture -> /
-- Hyperlocal sustainably sourced wood from naturally fallen Southern California trees -> /
-- In-house fabrication, welding, powder coating -> /about-us
-- 100-year-old workshop -> /about-us
-- Serve corporate office, dining room, bedroom, kitchen, home office, living room, restaurant -> /
-- Mission: turn world's wasted wood into practical art -> /about-us
+- Moved to historic brick-and-timber textile mill in 2019 -> /about-us
+- Building celebrated 100th birthday in 2023 -> /about-us
+- Team of six craftspeople (Graham, Kyle, Jimmy, Susannah, Preston, Randy) -> /about-us
+- Mission: turn wasted wood into practical art -> /about-us
 - Values: Accountability, Awareness, Achievement -> /about-us
-- Phone and hours -> /about-us
+- Hyperlocal sustainably sourced wood from Southern California trees -> /
+- In-house design to delivery process -> /about-us
+- Address: 160 S Mission Rd, Los Angeles, CA 90033 -> /
+- Phone: 213-275-2355 -> /
+- Custom furniture categories: conference tables, dining tables, bed frames, desks, etc. -> /
+- Low-carbon iron finished with powder coating -> / (capabilities)
+- Wood charring capability -> /about-us (Kyle Jordan)
+- Live edge furniture -> /
+- Restaurant furniture -> /
 </details>
 
 ---
@@ -233,47 +318,73 @@ The founding mission is to turn wasted wood into practical art while advancing t
 **Old description:** area for over 50 years. We offer products and services in the following areas:
 
 ## About
-For over 50 years, Parts Inc. has served the Great Bend, Kansas area from its location at 2538 10th Street. The business is locally owned and operated by Kevin and Kenton Lockwood, who have maintained a focus on supplying parts and supplies to the surrounding communities.
+Parts Inc. has operated from Great Bend, Kansas, for more than 50 years. The business is locally owned and operated by Kevin and Kenton Lockwood, who oversee a parts and service operation that began as a supplier to the surrounding agricultural and industrial communities.
 
-The company supplies parts and related services across four primary sectors: automotive, agricultural, industrial, and oil field. Its product range spans replacement components, maintenance items, and operational supplies for equipment used in farming, manufacturing, and energy production. In addition to these core lines, it maintains a specialty in vintage vehicle parts and firearms, catering to enthusiasts and collectors. The company also directs customers to a services page for more detailed information on its service offerings.
+The company stocks and supplies components across automotive, agricultural, industrial, and oilfield sectors. Its shop specializes in custom hydraulic and air‑conditioning hose fabrication, assembly, and repair, supported by an inventory of thousands of adapters and fittings for foreign and domestic applications. Additional offerings include automotive paints, truck equipment and parts (air brakes, lighting, exhaust, DOT items), starters, alternators, generators, batteries, mufflers and exhaust systems up to six inches, and a range of car, truck, and jeep accessories. Parts Inc. also restores and maintains a fleet of historic military vehicles — half‑tracks, jeeps, amphibious tractors, and tanks — known as the Old Warhorses Collection, and operates as a licensed firearms dealer (FFL, NFA, SOT) with optics, suppressors, and military‑surplus items such as ammo cans, jacks, tools, and footwear.
 
-Its customer base includes jobbers, dealers, fleets, and individual buyers throughout the region. The breadth of industries served reflects the agricultural and energy economy of central Kansas, with the company positioning itself as a single source for maintenance, repair, and operational supplies. The firm does not manufacture its own products but operates as a distributor and service provider for established brands, offering free estimates and direct phone access for price and availability inquiries.
+Customers include jobbers, dealers, fleets, and individual owners across central Kansas. Agricultural operators around St. John, Pratt, and Great Bend rely on the shop for high‑cycle hose assemblies during harvest; oilfield trucks near Macksville and Stafford use water‑transfer and suction hoses; commercial truck fleets on the US‑281 and Highway 50 corridors source air‑brake and DOT‑required parts. The military‑vehicle collection serves re‑unions, parades, and veteran‑honoring events, while the firearms counter serves licensed buyers.
+
+The company emphasizes local turnaround — same‑day hydraulic hose assembly is often possible when components are in stock — and a broad fitting inventory that covers JIC, NPT, ORFS, and other standards, allowing operators to avoid shipping delays from distant distributors.
 
 ## Known for
-- Over 50 years serving the Great Bend, KS area
-- Locally owned and operated by Kevin and Kenton Lockwood
-- Supplies parts for automotive, agricultural, industrial, and oil field sectors
-- Offers vintage vehicle parts and firearms
-- Serves jobbers, dealers, fleets, and individuals
+- Same-day custom hydraulic hose assembly often possible depending on stock
+- Thousands of hydraulic and AC adapters and fittings in stock covering JIC, NPT, ORFS and other standards
+- Locally fabricated replacements reduce wait times for agricultural and oilfield equipment
+- Historic military vehicle fleet (Old Warhorses Collection) available for rides, reunions, parades and veteran events
+- Licensed firearms dealer with FFL, NFA, SOT items, optics, suppressors and military surplus
 
 ## Capabilities
-- Automotive parts supply
-- Agricultural parts supply
-- Industrial parts supply
-- Oil field parts supply
-- Vintage vehicle parts sourcing
-- Firearms sales
+- Custom hydraulic hose fabrication
+- Hydraulic hose assembly and repair
+- Air conditioning hose assembly
+- Hydraulic and AC adapter and fitting supply
+- Water transfer and suction hose supply
+- Automotive paint supply
+- Truck equipment and parts supply (air brakes, lighting, exhaust, DOT items)
+- Historic military vehicle restoration and maintenance
+- Firearms sales (FFL, NFA, SOT)
+- Military surplus sales (ammo cans, jacks, tools, footwear)
+- Automotive accessories (car, truck, jeep)
+- Starter, alternator and generator supply
+- Battery supply
+- Muffler and exhaust system supply (up to 6")
 
 ## Industries
 - Automotive
 - Agricultural
 - Industrial
-- Oil field
+- Oil and gas
+- Military vehicle restoration
+- Firearms
 
 ## Company details
 - **Company Type:** Distributor / reseller
-- **Ownership:** Locally owned and operated by Kevin and Kenton Lockwood
+- **Ownership:** Locally owned and operated by Kevin & Kenton Lockwood
 - **Headquarters:** Great Bend, Kansas
 
 <details><summary>Sources</summary>
 
 - Location: Great Bend, KS -> db
-- Over 50 years of service -> /
-- Owned by Kevin and Kenton Lockwood -> /
-- Serves automotive, agricultural, industrial, oil field -> /
-- Works with jobbers, dealers, fleets, individuals -> /
-- Offers vintage vehicle parts and firearms -> /
-- Free estimates and phone access for price/availability -> /
+- Over 50 years in business -> /
+- Owners: Kevin & Kenton Lockwood -> /
+- Industries served: Automotive, Agricultural, Industrial, Oil field -> /
+- Customer types: jobbers, dealers, fleets, individuals -> /
+- Custom hydraulic hose fabrication, assembly, repair -> /services
+- Air conditioning hose assembly -> /services
+- Thousands of hydraulic and AC adapters and fittings -> /services
+- Water transfer and suction hoses for oil field trucks -> /services
+- Automotive paints & supplies -> /services
+- Truck equipment & parts (air brake, brake linings, lighting, exhaust, DOT items, load securing) -> /services
+- Historic military vehicle restoration (Old Warhorses Collection) -> /services
+- Licensed firearms dealer (FFL, NFA, SOT) with optics, suppressors, accessories -> /services
+- Military surplus items (ammo cans, jacks, tools, footwear) -> /services
+- Car, truck, jeep accessories -> /services
+- Starters, alternators, generators for antique to late models -> /services
+- Full selection of batteries -> /services
+- Mufflers & exhaust systems up to 6" -> /services
+- Same-day hydraulic hose assembly often possible -> /services
+- Service area: St. John, KS and south-central Kansas (US-281, Highway 50 corridors) -> /services
+- Serves farmers, ranchers, oilfield operators, commercial truck fleets -> /services
 </details>
 
 ---
@@ -283,40 +394,36 @@ Its customer base includes jobbers, dealers, fleets, and individual buyers throu
 **Old description:** are the keys to keeping your Audi, BMW or Volkswagen a solid, reliable vehicle. Parts Score specializes in maintaining Audi, Volkswagen and BMW’s exceptional build quality and dependability.
 
 ## About
-Parts Score operates from the Scottsdale Airpark in Scottsdale, Arizona. The shop was established in 2010 by Jason, who brought over 15 years of European automotive experience to the venture. It is run as a family-owned business, with the owners directly accessible to customers.
+Parts Score operates from Scottsdale, Arizona, in the Scottsdale Airpark area. The shop was established in 2010 by Jason, who brought more than 15 years of experience with European vehicles. The business is family‑run, with the owners directly involved in day‑to‑day operations and customer interactions.
 
-The company provides a full range of services for Audi, BMW, and Volkswagen vehicles. Its work spans scheduled preventative maintenance and routine repairs — such as brake jobs and timing belt replacements — to high-end performance modifications. These include coilover and spring installations, big brake kit upgrades, supercharger and air suspension installations, engine swaps, and complete custom show car builds. In-house custom fabrication supports one-off projects, and the shop stocks and sources both OEM replacement parts and aftermarket performance components from brands such as KW Suspension, BBS, CTS Turbo, and Burger Tuning.
+The company provides a full range of services for Audi, BMW, and Volkswagen models. These include scheduled preventative maintenance, general service repairs, performance modifications such as coilover and spring installations, big‑brake upgrades, supercharger kits, and custom fabrication for show‑car builds. They also stock and sell OEM replacement parts as well as aftermarket performance components from brands like KW Suspension, BBS, CTS Turbo, and others. The facility handles projects from routine brake jobs and timing‑belt service to complete engine swaps and air‑suspension installations.
 
-The customer base consists of European car owners and enthusiasts seeking everything from daily-driver reliability to bespoke performance builds. Projects documented by the shop include a Brooklyn Grey G80 with KW suspension and 1000M wheels, a dyno-tuned Ferrari SF90, a Rosso Corsa BMW M4 with BBS wheels and a stage 2 package, and an Audi RS5 fitted with ABT Sportsline, AWE Tuning, and HRE components. The shop also serves BMW X3M, M4CS, and M5CS models with tuning, exhaust, and suspension upgrades.
+Parts Score serves owners and enthusiasts of European performance cars, primarily Audi, BMW, and Volkswagen. Their customer base includes individuals seeking routine maintenance, those upgrading suspension or braking systems, and clients commissioning full custom builds — such as a Brooklyn Grey G80 with KW suspension and 1000M wheels, or a Rosso Corsa BMW M4 equipped with BBS wheels and a stage‑2 performance package.
 
-Parts Score emphasizes its family-run structure as a differentiator: one of the owners is always available to discuss a project, and the team describes its approach as treating automotive performance as an art form. The company states it aims to deliver the highest quality parts and service at competitive rates, with personal, friendly, and prompt customer service.
+The shop emphasizes its family‑owned structure as a differentiator: one of the owners is always available to discuss a project, and they aim to provide personal, prompt service at competitive rates. The founders frame automotive performance as an art form, focusing on clean installations and a collaborative experience for each unique build.
 
 ## Known for
-- Family-run business with an owner always available to customers
-- In-house custom fabrication for one-off performance builds
-- Stocks and sources OEM and aftermarket performance parts from brands such as KW Suspension, BBS, and CTS Turbo
-- Personal, friendly, and prompt customer service at competitive rates
+- Family‑run business with owners directly accessible to customers
+- In‑house custom fabrication for one‑off performance builds
+- Stocked OEM and aftermarket performance parts for Audi, BMW, Volkswagen
+- Personal, friendly service at competitive rates
 
 ## Capabilities
 - Scheduled preventative maintenance
-- Brake service and repair
-- Timing belt replacement
-- Performance modifications
-- Coilover and spring installation
-- Big brake kit installation
-- Supercharger installation
-- Air suspension installation (AccuAir)
+- General service repairs
+- Performance suspension installation (coilovers, springs, air suspension)
+- Big brake kit upgrades
+- Supercharger and forced‑induction installation
+- Custom fabrication
 - Engine swaps
-- Custom show car builds
-- In-house custom fabrication
+- Dyno tuning
 - OEM parts supply
 - Aftermarket performance parts supply
-- Dyno tuning
 
 ## Industries
 - European automotive performance
-- Automotive aftermarket
 - Automotive service and repair
+- Automotive aftermarket parts
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -328,12 +435,12 @@ Parts Score emphasizes its family-run structure as a differentiator: one of the 
 
 - Location: Scottsdale, AZ (Scottsdale Airpark) -> /
 - Founded 2010 -> /about-us
-- Founder Jason with 15 years experience -> /about-us
-- Family-run business, owner always available -> /, /about-us
-- Services: maintenance, repairs, performance mods, custom fabrication -> /, /about-us
-- Brands: KW Suspension, BBS, CTS Turbo, Burger Tuning, etc. -> /
-- Project examples: G80, SF90, M4, RS5, X3M, M4CS, M5CS -> /
-- Differentiators: family-run, art approach, quality parts, competitive rates, personal service -> /about-us
+- Founder Jason with 15+ years experience -> /about-us
+- Family-run business, owners always available -> /, /about-us
+- Services: maintenance, repairs, performance mods, custom fabrication, parts sales -> /, /about-us
+- Brands installed: KW Suspension, BBS, CTS Turbo, JB4, AccuAir, etc. -> /
+- Example projects: Brooklyn Grey G80, Rosso Corsa BMW M4, etc. -> /
+- Differentiators: personal service, competitive rates, passion for European cars as art -> /, /about-us
 </details>
 
 ---
@@ -343,35 +450,38 @@ Parts Score emphasizes its family-run structure as a differentiator: one of the 
 **Old description:** NEXT BUSINESS DAY DELIVERY ON ALL ORDERS TO MIAM-DADE, BROWARD, AND PALM BEACH COUNTIES!
 
 ## About
-Partsmax Auto Parts and Accessories operates from Miami, Florida, where it has supplied the South Florida automotive aftermarket for over two decades. The company began as a collision parts specialist and grew into a large-scale distributor serving both retail and wholesale customers.
+Partsmax Auto Parts and Accessories operates from Miami, Florida, where it has served the South Florida automotive community for over two decades. The company began as a supplier of collision auto parts to local body shops and vehicle owners across Miami-Dade, Broward, and Palm Beach counties.
 
-The distributor stocks a broad range of import and domestic auto body parts, heavy-duty truck components, and accessories from refurbished, aftermarket, high-performance, and rebuilt lines. Its 250,000-square-foot warehouse holds thousands of SKUs, enabling same-day pickup for local buyers and shipment to broader markets. The catalog includes frame machines, auto body shop tools, and fastener removal sets alongside standard replacement panels.
+The distributor maintains a 250,000-square-foot warehouse stocked with thousands of auto body parts, including refurbished, aftermarket, high-performance, and rebuilt components sourced from established manufacturers. Inventory covers import and domestic vehicles, with heavy-duty truck parts also available. New accessories and parts are added weekly. The company offers wholesale accounts and processes orders for in-warehouse pickup only, having discontinued its former next-business-day delivery service.
 
-Primary customers include collision repair centers, auto body shops, fleet operators, and wholesale buyers across South Florida. The company offers dedicated wholesale accounts and emphasizes competitive pricing against OEM alternatives. Its product mix targets both professional technicians and DIY enthusiasts seeking cost-effective repair solutions.
+Customers include independent auto body shops, collision repair centers, fleet operators, and individual vehicle owners throughout South Florida. The catalog spans body panels, structural components, and accessories for both passenger vehicles and heavy-duty trucks.
 
-Partsmax differentiates itself through an expansive in-stock inventory, a favorable return policy, online order tracking, and weekly additions to its catalog. The business shifted to a pickup-only fulfillment model, eliminating delivery while maintaining rapid access to parts for local shops.
+Partsmax positions itself on competitive pricing against original equipment manufacturer parts, a broad in-stock selection designed to eliminate search challenges, and a service model that includes online order tracking, a favorable return policy, and dedicated customer support.
 
 ## Known for
-- 250,000+ sq ft warehouse inventory
-- Thousands of auto body and heavy-duty truck parts in stock
-- Wholesale pricing and dedicated accounts
-- Favorable return policy with online tracking
-- Weekly new product additions
+- 250,000 sq ft warehouse inventory
+- Thousands of auto body parts in stock
+- Wholesale accounts for trade customers
+- Competitive pricing vs OEM parts
+- New parts added weekly
+- Online order tracking and returns handling
+- In-warehouse pickup fulfillment
 
 ## Capabilities
-- Wholesale distribution of aftermarket auto parts
-- Online retail of auto body parts and accessories
-- Inventory stocking (250,000+ sq ft warehouse)
-- Order tracking and returns processing
-- Customer support
-- Weekly new product additions
+- Auto parts distribution
+- Wholesale supply
+- Inventory management
+- Online ordering
+- Order tracking
+- Returns processing
+- In-warehouse pickup fulfillment
 
 ## Industries
 - Automotive aftermarket
 - Collision repair
-- Heavy duty truck
-- Auto body repair
-- Automotive wholesale
+- Auto body shops
+- Heavy duty truck parts
+- Fleet maintenance
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -379,18 +489,18 @@ Partsmax differentiates itself through an expansive in-stock inventory, a favora
 
 <details><summary>Sources</summary>
 
-- Company name: Partsmax Auto Parts and Accessories -> db
 - Headquarters: Miami, Florida -> db
-- Over 20 years serving South Florida -> /
-- 250,000 sq ft warehouse -> /
-- Distributes aftermarket, refurbished, high-performance, rebuilt auto parts from manufacturers -> /
-- Offers wholesale accounts -> /
-- Pickup-only fulfillment (no delivery) -> /
-- Competitive pricing on import and domestic parts -> /
-- Favorable return policy and online tracking -> /
-- Weekly inventory additions -> /
-- Industries: collision repair, heavy duty truck, auto body shops -> /
-- Products: frame machines, auto body shop tools, fastener removal sets -> /
+- Over 20 years serving South Florida -> page /
+- 250,000 sq ft warehouse -> page /
+- Thousands of auto body parts (refurbished, aftermarket, high-performance, rebuilt) -> page /
+- Wholesale accounts offered -> page /
+- No longer offers delivery, pickup only -> page /
+- Formerly next business day delivery to three counties -> db description
+- Heavy duty truck parts available -> page / products
+- New parts added weekly -> page /
+- Online tracking and returns handling -> page /
+- Competitive pricing vs OEM -> page /
+- Serves Miami-Dade, Broward, Palm Beach counties -> db description
 </details>
 
 ---
@@ -400,20 +510,20 @@ Partsmax differentiates itself through an expansive in-stock inventory, a favora
 **Old description:** Pascagoula Sheet Metal has been in business for over 50 years, we are launching our new website
 
 ## About
-Pascagoula Sheet Metal Works traces its roots to 1944 when Lawrence Hill and Sons Roofing and Sheet Metal opened in Pascagoula, Mississippi. The business was incorporated under its current name in 1967 and has remained family‑owned through three generations; it is now woman‑owned and operated.
+Pascagoula Sheet Metal Works operates from Pascagoula, Mississippi, on the Gulf Coast. The business traces its roots to 1944 when Lawrence Hill and his sons established Lawrence Hill and Sons Roofing and Sheet Metal. The company was incorporated under its current name in 1967 and has remained family‑owned and operated for three generations; it is now woman‑owned and operated.
 
-The shop focuses on custom sheet metal fabrication for industrial customers along the Mississippi Gulf Coast. Its capabilities include perforating, forming, and welding stainless steel and aluminum into components such as motor shrouds, marine ductwork, vortex breakers, and filter rack housings. The facility operates Monday through Thursday, 7:00 a.m. to 5:30 p.m., though square footage and headcount are not disclosed.
+The shop specializes in custom sheet metal fabrication for industrial customers. Its capabilities include perforating, forming, and welding stainless steel and aluminum into products such as motor shrouds, marine ductwork designed for tight spaces, vortex breakers, and aluminum filter rack housings. No facility size, headcount, or annual volume figures are published.
 
-Primary markets are the industrial and marine sectors, with parts built for tight‑space ducting, filtration, and equipment enclosures. Concrete examples from recent work include a stainless‑steel motor shroud remake, marine duct made for confined spaces, a vortex breaker, and an aluminum filter rack housing.
+Primary customers are industrial firms along the Mississippi Gulf Coast, with a notable presence in the marine sector. Concrete examples from the company’s own project photos include a stainless‑steel motor shroud remake, marine duct fabricated to fit confined areas, a vortex breaker, and an aluminum filter rack housing.
 
-The company emphasizes its deep local history—over 50 years on the Gulf Coast—and its continuity as a family‑run, woman‑led operation as the foundation of its service approach.
+The company highlights its multi‑generational family ownership and recent transition to woman‑owned leadership as key differentiators, emphasizing long‑term local service and custom fabrication expertise.
 
 ## Known for
 - Family-owned and operated for three generations
 - Woman-owned and operated
-- Over 50 years serving the Mississippi Gulf Coast
 - Custom sheet metal fabrication for industrial sector
 - Perforating capability
+- Serving Mississippi Gulf Coast since 1944
 
 ## Capabilities
 - Custom sheet metal fabrication
@@ -436,15 +546,13 @@ The company emphasizes its deep local history—over 50 years on the Gulf Coast�
 <details><summary>Sources</summary>
 
 - Founded 1944 as Lawrence Hill and Sons Roofing and Sheet Metal -> /about-us
-- Incorporated 1967 as Pascagoula Sheet Metal Works -> /about-us
-- Family-owned and operated for three generations -> /about-us
-- Now woman-owned and operated -> /about-us
-- Located at 5609 Veteran's St., Pascagoula, MS 39581 -> /
+- Incorporated as Pascagoula Sheet Metal Works in 1967 -> /about-us
+- Family-owned for three generations, now woman-owned -> /about-us
+- Location: 5609 Veteran's St., Pascagoula, MS 39581 -> / and /about-us
 - Specializes in custom sheet metal fabrication for industrial sector -> /about-us
-- Capability to perforate material as needed -> /
-- Products: motor shroud remade into stainless steel, marine duct, vortex breaker, aluminum filter rack housing -> /
+- Capability to perforate material as needed -> / and /about-us
+- Examples: motor shroud remade into stainless steel, marine duct, vortex breaker, aluminum filter rack housing -> / and /about-us
 - Serving Mississippi Gulf Coast for over 50 years -> /
-- Hours: Monday-Thursday 7:00am-5:30pm -> /
 </details>
 
 ---
@@ -454,38 +562,35 @@ The company emphasizes its deep local history—over 50 years on the Gulf Coast�
 **Old description:** Patriot Equipment is dedicated to Helping Farmers Feed America (TM) and the world by manufacturing high quality agriculture machinery and equipment at a reasonable price
 
 ## About
-Harold Lempka opened Minden Machine Shop in 1984 in Minden, Nebraska, starting in a 30-by-50-foot building along the railroad tracks with an old lathe and welder. What began as a side venture with a partner soon became a full-time operation; after the partner departed, Harold's sons Larry and Kerry joined the business, turning it into a family-run enterprise.
+Patriot Equipment, headquartered in Minden, Nebraska, traces its roots to 1984 when Harold Lempka opened Minden Machine Shop in a 30-by-50-foot building along the railroad tracks. Initially a side venture with a partner, the shop repaired and built machinery using an old lathe and welder. After the partner departed, Harold's sons Larry and Kerry joined the business, and the operation transitioned from contract machining to manufacturing its own line of farm equipment.
 
-In 1994 the company branded its own line of farm equipment as Patriot Equipment, reflecting the founders' sense of patriotism. The operation moved to its current site in 1995 and has grown to more than 92,000 square feet of manufacturing space with over 60 employees. Today Patriot Equipment produces 31 distinct equipment lines—seed tenders alone come in ten size and style variations—while still operating a job-shop division that repairs machinery for farmers, commercial clients, schools, and hospitals.
+Today the company operates across more than 92,000 square feet of production space with a workforce exceeding 60 people. It manufactures and sells 31 distinct equipment lines—seed tenders alone offer ten size and style variations—while maintaining a job-shop division that handles custom fabrication and repair work in steel, stainless steel, and aluminum. Capabilities include laser cutting, robotic and hand welding, bending, sawing, painting, assembly, and hydraulic and electrical integration.
 
-The primary customer base is agricultural producers, but the repair shop serves a broader industrial and institutional clientele across central Nebraska. Custom fabrication work ranges from steel bridges and amphitheaters to smaller metal art and hydraulic assemblies.
+The primary customer base is agricultural producers, but the shop also serves commercial firms, schools, and hospitals that require custom metalwork or equipment repairs. Products are sold directly and through a dealer network across the United States.
 
-The company attributes its steady growth to a philosophy set by Harold Lempka: do a good job at a fair price and treat every customer with respect. That principle, combined with in-house capabilities from laser cutting and robotic welding to engine and hydraulic assembly, underpins the Patriot Equipment brand.
+The business was built on a simple principle articulated by Harold Lempka: do a good job at a fair price and treat the customer with respect. That philosophy, combined with a deep sense of patriotism that inspired the Patriot Equipment brand in 1994, continues to guide the company's growth.
 
 ## Known for
-- "Helping Farmers Feed America" mission guiding product development
-- 31 equipment lines with multiple variations per line
-- Family ownership spanning two generations
-- Combined OEM manufacturing and custom repair/fabrication services
-- In-house capabilities from laser cutting to hydraulic assembly
+- Founded in 1984 as a family-run machine shop
+- 31 product lines with up to 10 variations per line
+- Over 92,000 square feet of production space
+- In-house laser cutting, robotic welding, and hydraulic assembly
+- Repairs and custom work for farmers, businesses, schools, and hospitals
 
 ## Capabilities
 - Drafting
-- Laser cutting
-- Metal bending
-- Material sawing
-- Robotic welding
-- Hand welding
+- Advanced Laser Cutting
+- Metal Bending
+- Material Sawing
+- Robotic Welding
+- Hand Welding
 - Painting
-- Router table cutting
-- Assembly
-- Electrical work
-- Small engine assembly
-- Large engine assembly
-- Hydraulics assembly
-- Steel fabrication
-- Stainless steel fabrication
-- Aluminum fabrication
+- Router Table Cutting
+- Assembly Work
+- Electrical
+- Small Engine
+- Large Engine
+- Hydraulics
 
 ## Industries
 - Agriculture
@@ -502,20 +607,19 @@ The company attributes its steady growth to a philosophy set by Harold Lempka: d
 
 <details><summary>Sources</summary>
 
-- Founded 1984 by Harold Lempka in Minden, Nebraska -> /about-us
-- Started in 30x50 ft building with lathe and welder -> /about-us
-- Branded Patriot Equipment in 1994 -> /about-us
-- Moved to current location in 1995 -> /about-us
-- Facility now >92,000 sq ft -> /about-us
-- Manufactures 31 lines of equipment -> /about-us
-- Seed tenders have 10 variations -> /about-us
-- Employee count >60 (19 in 2004, 30 in 2008) -> /about-us
-- Family-owned (Harold, sons Larry and Kerry) -> /about-us
-- Does custom manufacturing and repair -> /services
-- Capabilities: Drafting, Laser Cutting, Metal Bending, Material Sawing, Robotic Welding, Hand Welding, Painting, Router Table Cutting, Assembly, Electrical, Small Engine, Large Engine, Hydraulics -> /services
-- Materials: Steel, Stainless Steel, Aluminum -> /services
-- Serves farmers, companies, schools, hospitals -> /about-us
+- Founded 1984 by Harold Lempka -> /about-us
+- Started in 30x50 ft building -> /about-us
+- Sons Larry and Kerry joined -> /about-us
+- Branded Patriot Equipment 1994 -> /about-us
+- Moved to current location 1995 -> /about-us
+- Employee counts: 19 (2004), 30 (2008), now >60 -> /about-us
+- Facility >92,000 sq ft -> /about-us
+- 31 equipment lines, seed tenders 10 variations -> /about-us
+- Machine shop repairs for farmers, companies, schools, hospitals -> /about-us
 - Philosophy: good job at fair price, treat customer with respect -> /about-us
+- Capabilities: Drafting, Laser Cutting, Bending, Sawing, Robotic/Hand Welding, Painting, Router Cutting, Assembly, Electrical, Engines, Hydraulics -> /services
+- Materials: Steel, Stainless Steel, Aluminum -> /services
+- Headquarters: Minden, Nebraska -> db
 </details>
 
 ---

@@ -3,50 +3,60 @@
 **Old description:** Please fill out and submit the form below to create a new support ticket.
 
 ## About
-Patton Electronics Co. is headquartered in Gaithersburg, Maryland. The company presents itself as a multi-national organization that designs, develops, and manufactures network access, connectivity, voice-over-IP, high availability, triple play, and video surveillance equipment for carrier, enterprise, and industrial networks worldwide. No founding year, ownership structure, or founder names are disclosed in the available sources.
+Patton Electronics Co., operating as Patton LLC, is headquartered in Gaithersburg, Maryland. The company describes itself as a multi-national organization with global offices in the United States, Hungary, and Switzerland, though its founding year and ownership structure are not publicly disclosed on its website.
 
-The company delivers complete embedded system solutions spanning feasibility analysis, hardware definition, software architecture, development, verification, and commissioning. It also provides project and program management services including budget development, scheduling, and go-to-market strategy. Manufacturing capacity ranges from low-volume original design manufacturing and distribution (ODMD) with minimum order quantities as low as one unit and estimated annual usage in the hundreds, through to high-volume production ramp. A Special Projects Group (SPG) offers custom engineering, dedicated facilities, and project execution services. Support tiers include Level 1/2/3 assistance, 24x7 premium support, warranty programs, software upgrades, and RMA processing.
+The company designs, develops, and manufactures network access, connectivity, voice-over-IP, high-availability, triple-play, and video surveillance equipment for carrier, enterprise, and industrial networks. Its capabilities span embedded system design—including hardware definition, software architecture, and verification—through project management and original design manufacturing and distribution (ODMD). Patton emphasizes a flexible production model with a minimum order quantity as low as one unit and the ability to ramp to large-volume production.
 
-Patton serves telecommunications carriers, enterprise IT, industrial automation, defense and security agencies, power utilities, emergency communications providers, and broadcast/media operations. Concrete engagements include a U.S. defense subcontract for source-secure fiber optic modules, a partnership with alfanar to secure Saudi power infrastructure, collaboration with XOP Networks on secure IP/SIP emergency communications, and a data diode kit with NSA-listed security developed with Probity for critical infrastructure protection. The Artel brand addresses broadcast transport with 12G-SDI fiber extenders and PTP switches.
+Patton serves defense, telecommunications, broadcast, and critical-infrastructure sectors. Recent projects include a subcontract to develop source-secure fiber optic modules for U.S. defense applications, a partnership with alfanar to accelerate secure digital transformation of Saudi power infrastructure, and collaboration with Artel on carrier-class PTP switches for modern broadcast. The company also supplies Tone Commander secure SIP phones with JITC/STIG certifications and NSA-listed data diode kits for critical infrastructure protection.
 
-The company emphasizes U.S. manufacturing, a full-stack embedded development model, and the ability to support both low-volume custom ODMD programs and high-volume production from the same organization. Its Special Projects Group and global office network are positioned as differentiators for customers requiring tailored network equipment with long-term support.
+Patton differentiates itself through U.S.-manufactured network equipment, a full-spectrum embedded solutions capability from feasibility to acceptance, and an ODMD model that allows customers to brand Patton-designed hardware. The firm also highlights its global support infrastructure offering Level 1, 2, and 3 support tiers.
 
 ## Known for
 - U.S.-manufactured network equipment
 - Minimum order quantity as low as 1 unit
-- Low-volume ODMD with ramp to high-volume production
-- Full embedded hardware/software design, development, and distribution
-- Special Projects Group for custom engineering and dedicated facilities
-- 24x7 premium support with Level 1/2/3 technical assistance
+- ODMD (Original Design, Manufacturing and Distribution) model
+- Complete embedded system capabilities from feasibility through acceptance
+- Global Level 1/2/3 support infrastructure
 
 ## Capabilities
-- Embedded hardware design and development
-- Embedded software architecture and development
+- Embedded system design and development
+- Hardware definition and development
+- Software architecture and development
+- Verification, commissioning and acceptance
+- Project management and program management
 - Feasibility and cost analysis
-- Project planning and resource management
-- Verification, commissioning and acceptance testing
-- Project and program management
-- Budget development and schedule generation
-- Go-to-market strategy consultancy
-- Original Design Manufacturing and Distribution (ODMD)
-- Low-volume manufacturing (MOQ 1)
-- High-volume production ramp
-- Level 1/2/3 technical support
-- 24x7 premium support
-- Warranty services and extended warranties
-- Software upgrades and maintenance
-- Returns and RMA processing
-- Special projects and custom solutions
+- ODMD (Original Design, Manufacturing and Distribution)
+- Network access equipment manufacturing
+- VoIP equipment manufacturing
+- Video surveillance equipment manufacturing
+- Fiber optic module development
+- Data diode kit manufacturing
+- 12G-SDI fiber extender manufacturing
+- Industrial Ethernet switch manufacturing
+- PoE extender manufacturing
+- xDSL modem manufacturing
+- Media gateway manufacturing
+- Session border controller manufacturing
+- SFP module manufacturing
+- Fiber telecom equipment manufacturing (T1/E1/PRI, Analog & ISDN)
+- Serial data communication over fiber
+- Ethernet over fiber transport
+- Video over IP transport
+- Video over fiber transport
 
 ## Industries
-- Telecommunications carriers
-- Enterprise networks
-- Industrial automation
-- Defense and security
-- Power and utilities infrastructure
-- Emergency communications
-- Broadcast and media production
-- Critical infrastructure protection
+- Defense/Security
+- Telecommunications
+- Broadcast/Media
+- Critical Infrastructure
+- Industrial Networks
+- Carrier Networks
+- Enterprise Networks
+- Power/Utilities
+
+## Certifications
+- JITC/STIG
+- NSA-listed
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -55,26 +65,20 @@ The company emphasizes U.S. manufacturing, a full-stack embedded development mod
 <details><summary>Sources</summary>
 
 - Headquarters in Gaithersburg, Maryland -> db
+- Multi-national organization with global offices in US, Hungary, Switzerland -> /capabilities, /
 - Designs, develops, manufactures network access, VoIP, video surveillance equipment -> /capabilities
-- Embedded system capabilities: feasibility, hardware/software development, verification -> /capabilities
-- Project management services: budget, schedule, go-to-market strategy -> /capabilities
-- High volume capacity and low volume capability, MOQ as low as 1, annual usage in 100s -> /capabilities
-- ODMD: Original Design, Manufacturing and Distribution -> /capabilities
-- Level 1/2/3 support, 24x7 premium support -> /services
-- Special Projects Group (SPG) with services, projects, facilities -> /capabilities
-- Products: VoIP adapters, gateways, routers, IADs, SBCs, media gateways, SS7 gateways, SIP phones -> /
-- Industrial switches, PoE switches, Ethernet extenders -> /
-- xDSL products, DSL modems -> /
-- Fiber serial datacom (RS-232/422/530/188C) -> /
-- Fiber telecom (T1/E1/PRI, Analog & ISDN) -> /
-- Defense/Security fiber communications -> /
-- Media transport: video over IP/fiber, Artel racks & chassis -> /
-- U.S. defense subcontract for source-secure fiber optic modules -> /
+- Embedded system capabilities: hardware, software, verification -> /capabilities
+- Project management and program management solutions -> /capabilities
+- ODMD model with MOQ as low as 1 unit -> /capabilities
+- US-manufactured network equipment -> /
+- Defense subcontract for source-secure fiber optic modules -> /
 - Partnership with alfanar for Saudi power infrastructure -> /
-- Partnership with XOP Networks for secure IP/SIP emergency communications -> /
-- Data diode kit with NSA-listed security with Probity -> /
-- US-manufactured 12G-SDI fiber extender kits -> /
-- International sales/support contacts (US, Hungary, Switzerland) -> /
+- Collaboration with Artel on broadcast PTP switches -> /
+- Tone Commander SIP phones with JITC/STIG certifications -> /
+- NSA-listed data diode kit for critical infrastructure -> /
+- 12G-SDI fiber extender kits manufactured in US -> /
+- Global support Level 1/2/3 -> /capabilities
+- Industries: defense, telecom, broadcast, critical infrastructure, industrial, carrier, enterprise -> /capabilities, /
 </details>
 
 ---
@@ -84,35 +88,37 @@ The company emphasizes U.S. manufacturing, a full-stack embedded development mod
 **Old description:** Pattons medical laboratory team specializes in lab air systems & pipeline air systems to serve labs & universities. For more details contact us.
 
 ## About
-Patton's Medical, based in Charlotte, North Carolina, traces its roots to 1980 when Pattons Inc. began selling custom medical air packages to hospitals. The current entity, Pattons Medical, was established in 2008 to sell and service proprietary medical gas equipment nationwide. In 2012, ELGi USA acquired the company to enter the U.S. medical equipment market and diversify its industrial product portfolio.
+Patton's Medical is headquartered in Charlotte, North Carolina. The company traces its roots to Pattons Inc., which began selling custom medical air packages to hospitals in 1980. In 2008, the leadership created Patton's Medical to sell and service their own medical gas equipment nationwide. Since 2012, the business has been owned and operated by ELGi USA, which acquired Pattons Inc. and Patton's Medical as an entry into the U.S. medical equipment market.
 
-The company designs and assembles medical air systems using Hitachi oil-less reciprocating scroll compressors in base-mount, modular, and tank-mounted configurations. It also provides medical vacuum systems built around Busch oil-less, contactless multi-claw pumps suited for waste anesthetic gas disposal (WAGD) applications. In addition, Patton's Medical supplies pipeline products — including manifolds, outlets, zone valves, alarms, and architectural components — through strategic partnerships, and engineers laboratory air and pipeline systems for research and academic facilities. The firm offers custom package engineering, installation, and ongoing service for all equipment it sells.
+The company designs, assembles, and services medical air systems built around Hitachi oil-less reciprocating scroll compressors (available in base-mount, modular, and tank-mounted configurations) and medical vacuum systems that use Busch oil-less, contactless multi-claw technology. It also supplies pipeline products — including fully automatic universal medical manifolds, outlets, zone valves, alarms, and architectural products — through strategic partnerships. Control panels are built to UL 508A standards, and all equipment is designed to meet or exceed NFPA 99 requirements. The firm offers custom package engineering for unique facility specifications and provides installation and ongoing service across the country.
 
-Primary customers include hospitals, clinical laboratories, and universities across the United States. The company's laboratory team specifically targets lab and university clients for air and pipeline systems, while its medical air and vacuum packages serve healthcare facilities requiring NFPA 99-compliant gas delivery.
+Patton's Medical serves hospitals, clinical laboratories, and university research facilities that require compliant medical gas and laboratory air systems. Its products support applications such as surgical air, WAGD (waste anesthetic gas disposal), and general laboratory air supply. The company works directly with facility engineers, contractors, and medical gas consultants to specify and deliver code-compliant systems.
 
-Patton's Medical emphasizes its ability to develop custom medical gas packages when standard products do not meet a facility's specifications. It highlights compliance with NFPA 99 standards and UL 508A-listed control panels, a nationwide service network, and long-standing partnerships that bring technologically advanced pipeline components to its offerings. The company describes its founding principle as an "old fashion" commitment to customer service backed by deep product knowledge.
+The business was started to move beyond distribution and offer proprietary, nationally supported medical gas equipment. Leadership emphasizes an "old fashion" commitment to customer service, backed by a team with deep backgrounds in sales, marketing, manufacturing, and engineering. When standard products do not fit, the company evaluates the application and develops special packages tailored to the facility's needs.
 
 ## Known for
-- Products meet or exceed NFPA 99 standards
-- Control panels UL 508A approved
-- Custom medical gas packages engineered to specification
-- Partnerships for advanced pipeline products (outlets, zone valves, alarms, manifolds)
-- Nationwide sales and service of proprietary medical gas equipment
+- Medical air systems using Hitachi oil-less scroll compressors
+- Medical vacuum systems with Busch multi-claw technology
+- Pipeline products sourced through technology partnerships
+- Custom engineering for non-standard medical gas applications
+- Nationwide installation and service of own equipment
 
 ## Capabilities
 - Medical air system design and assembly
 - Medical vacuum system design and assembly
-- Pipeline product supply and integration
+- Pipeline product distribution (manifolds, outlets, zone valves, alarms)
 - Laboratory air system design
-- Medical gas equipment installation
-- Medical gas equipment service and maintenance
 - Custom medical gas package engineering
+- Installation and field service
 - NFPA 99 compliance consulting
+- UL 508A control panel fabrication
 
 ## Industries
-- Healthcare (hospitals)
-- Clinical laboratories
-- Universities and research institutions
+- Healthcare
+- Medical Devices
+- Laboratory
+- University Research
+- Hospital
 
 ## Equipment
 - Hitachi oil-less reciprocating scroll compressors
@@ -125,59 +131,128 @@ Patton's Medical emphasizes its ability to develop custom medical gas packages w
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2008
-- **Ownership:** ELGi USA (since 2012)
+- **Ownership:** ELGi USA
 - **Headquarters:** Charlotte, North Carolina
 
 <details><summary>Sources</summary>
 
 - Headquarters: Charlotte, North Carolina -> db
-- Founded 2008 (Pattons Medical) -> /
-- Predecessor Pattons Inc. began 1980 -> /
-- Acquired by ELGi USA in 2012 -> /
-- Medical air systems with Hitachi compressors -> /
-- Medical vacuum systems with Busch pumps -> /
-- Pipeline products via partnerships -> /
-- Laboratory air systems for labs and universities -> /
-- NFPA 99 and UL 508A compliance -> /
-- Custom package engineering -> /
-- Installation and service offerings -> /
+- Pattons Inc. began selling medical air packages in 1980 -> /
+- Patton's Medical created in 2008 to sell and service own equipment -> /
+- ELGi USA purchased Pattons Inc. and Patton's Medical in 2012 -> /
+- Medical air systems use Hitachi oil-less scroll compressors -> /
+- Medical vacuum systems use Busch multi-claw technology -> /
+- Pipeline products include universal medical manifolds, outlets, zone valves, alarms -> /
+- Products meet or exceed NFPA 99; control panels UL 508A approved -> /
+- Custom package engineering for specific applications -> /
+- Serves hospitals, labs, universities -> /
+- Commitment to customer service with experienced team -> /
 </details>
 
 ---
 
 # Patzer Woodworking Inc
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: not enough facts_
 
 # Paul Downs Cabinetmakers
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** We build beautiful, durable, and practical custom conference room tables and other hand-crafted furniture
+
+## About
+Paul Downs Cabinetmakers operates from Bridgeport, Pennsylvania, where it designs and builds custom conference tables and hand‑crafted furniture. The company bears the name of its founder, Paul Downs, and has established a reputation for one‑of‑a‑kind tables that cannot be found in catalogs.
+
+The shop produces a wide range of conference tables—large boardroom tables, U‑ and V‑shaped configurations, modular and reconfigurable systems, and tables engineered for videoconferencing with integrated A/V equipment. The workflow moves from real‑time virtual design collaboration through fabrication, finishing, assembly, and inspection, with the company reporting that it builds hundreds of modular tables each year. All pieces are assembled and inspected before shipping across North America.
+
+Customers include federal agencies purchasing through GSA contracts, corporate offices, architects, interior designers, and furniture dealers who need tailored solutions for secure facilities, hard‑to‑fit rooms, or branding‑intensive spaces. The firm also works directly with end users seeking logo inlays in wood, laminate, metal, or vinyl.
+
+Paul Downs emphasizes a blend of advanced engineering and traditional craftsmanship, offering real‑time design revisions via video call, upgradeable technology integration, and a willingness to execute designs that other manufacturers decline. The company positions itself as a problem‑solver for unique conference‑room challenges.
+
+## Known for
+- Real-time virtual design collaboration with live revisions
+- Integrated A/V technology with upgradeable wiring
+- Hundreds of modular and reconfigurable tables produced annually
+- Custom logo inlays in wood, laminate, metal, and vinyl
+- North American shipping and installation
+
+## Capabilities
+- Custom conference table design and engineering
+- Fabrication and finishing
+- Assembly and inspection
+- A/V integration and wiring management
+- Logo inlay (wood, laminate, metal, vinyl, carving, engraving)
+- Modular and reconfigurable table manufacturing
+- Videoconferencing table integration
+- Project management
+- Shipping and installation
+- Secure facility table fabrication
+- Hard-to-fit room solutions
+
+## Industries
+- Government (GSA)
+- Corporate offices
+- Architecture and interior design firms
+- Furniture dealers
+- Videoconferencing facilities
+- Secure government facilities
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Bridgeport, Pennsylvania
+
+<details><summary>Sources</summary>
+
+- Location: Bridgeport, Pennsylvania -> db
+- Company name: Paul Downs Cabinetmakers -> db
+- Description: builds custom conference tables and hand-crafted furniture -> db
+- Website: custom-conference-tables.com -> db
+- LinkedIn URL -> db
+- Produces custom conference tables, modular, reconfigurable, videoconferencing, logo inlays -> /
+- Process: design/engineering, fabrication/finishing, assembly/inspection, delivery/installation -> /
+- Volume: hundreds of modular tables per year -> /
+- Industries: Government/GSA, corporate, architects, interior designers, furniture dealers -> /
+- Materials: wood, laminate, metal, vinyl for inlays -> /
+- Differentiators: real-time design changes, integrated A/V, upgradeable wiring, unique solutions -> /
+- Ships throughout North America -> /
+</details>
+
+---
 
 # Paul Renwick Textiles
 
 **Old description:** Scottish designer Paul Renwick brings decades of experience, shaped by a career that bridges both fashion ateliers and interior projects. Having created patterns and products for some of the world’s leading fashion houses, he developed a rare command of scale, rhythm, and ornament—qualities that now define his exquisite hand-embroidered textiles.
 
 ## About
-Paul Renwick Textiles is based in New York, New York. The company was founded by Scottish designer Paul Renwick, whose career spans decades bridging fashion ateliers and interior projects. After creating patterns and products for some of the world’s fashion houses, Renwick developed a command of scale, rhythm, and ornament that now defines his hand-embroidered textiles.
+Paul Renwick Textiles operates from New York, New York, where Scottish designer Paul Renwick established the studio after a career spanning fashion ateliers and interior projects. Renwick spent decades creating patterns and products for fashion houses, developing a distinctive command of scale, rhythm, and ornament that now defines the brand's hand-embroidered textiles.
 
-The studio produces hand-embroidered textiles using vegetable-dyed threads on organic linen and cotton. Each piece is meticulously handcrafted in partnership with a dedicated workroom in Nepal, where Renwick oversees every stitch. The operation focuses on small-batch, artisanal production rather than volume manufacturing.
+The company produces hand-embroidered textiles through a dedicated partnership with a workroom in Nepal, where each piece is meticulously crafted using vegetable-dyed threads on organic linen and cotton. The process emphasizes patient, deliberate artistry, with Renwick overseeing production to ensure integrity in every stitch. The collection spans designs suitable for both sleek urban apartments and storied country houses.
 
-The textiles serve interior design projects and fashion houses, with designs suited for both sleek urban apartments and storied country houses. Clients include luxury residential and hospitality projects seeking understated elegance and enduring craftsmanship.
+The studio serves the luxury interior design and decorative arts markets, drawing on historical archives while applying modern intuition. Its textiles have roots in fashion-house collaborations and now address residential and contract interiors, appealing to clients who value understated elegance and enduring craftsmanship over fleeting trends.
 
-Renwick grounds the work in personal expression and a lifelong passion for the decorative arts, rejecting trends in favor of patient, deliberate artistry. The brand’s differentiators include a commitment to integrity, vegetable-dyed materials, and the oversight of a Nepalese workroom that ensures each stitch meets exacting standards.
+Renwick founded the venture on a lifelong passion for the decorative arts and a commitment to personal expression rather than trend-chasing. The differentiator lies in the fusion of historical reference with contemporary sensibility, executed through a transparent, human-scale supply chain that prioritizes material integrity and artisanal patience.
 
 ## Known for
-- Hand-embroidered textiles crafted in a dedicated Nepalese workroom
+- Hand-embroidered production overseen via Nepalese workroom partnership
 - Vegetable-dyed threads on organic linen and cotton
-- Designer background with leading fashion houses
-- Commitment to patient, deliberate artistry over trends
+- Designs sourced from historical archives with modern intuition
+- Personal expression prioritized over trend cycles
+- Patient, deliberate artistry as a core value
 
 ## Capabilities
 - Hand embroidery
 - Textile design
-- Custom textile design
+- Pattern development
 - Vegetable dyeing
-- Organic linen and cotton sourcing
+- Organic material sourcing
+- Artisanal oversight
+
+## Industries
+- Luxury interior design
+- Fashion
+- Home textiles
+- Decorative arts
+- Residential interiors
+- Contract interiors
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -185,17 +260,13 @@ Renwick grounds the work in personal expression and a lifelong passion for the d
 
 <details><summary>Sources</summary>
 
-- Headquarters: New York, New York -> db
-- Founder: Paul Renwick -> /about
-- Scottish designer with decades of experience -> /about
-- Background in fashion ateliers and interior projects -> /about
-- Created patterns for leading fashion houses -> /about
-- Produces hand-embroidered textiles -> /about
-- Partnership with workroom in Nepal -> /about
-- Uses vegetable-dyed threads -> /about
-- Uses organic linen and cotton -> /about
-- Emphasis on personal expression over trends -> /about
-- Commitment to integrity and patient artistry -> /about
+- Scottish designer Paul Renwick with decades of experience -> /about
+- Career bridging fashion ateliers and interior projects -> /about
+- Created patterns and products for leading fashion houses -> /about
+- Partnership with workroom in Nepal for handcrafting -> /about
+- Uses vegetable-dyed threads, organic linen and cotton -> /about
+- Hand-embroidered textiles -> /about
+- Headquartered in New York, New York -> db
 </details>
 
 ---
@@ -205,32 +276,39 @@ Renwick grounds the work in personal expression and a lifelong passion for the d
 **Old description:** Payoff Solar is a provider of solar energy equipment and services. Our mission is to make solar energy accessible, affordable, and hassle-free for everyone.
 
 ## About
-Payoff Solar is based in South Jordan, Utah, and was founded in 2024 by Matt Newman, JD McBride, and Kip Denning. The company began with a mission to make solar energy accessible, affordable, and hassle-free for homeowners and businesses, focusing on a financial payoff within three to four years rather than the industry-typical 15 to 20.
+Payoff Solar is based in South Jordan, Utah, and was founded in 2024 by Matt Newman, who serves as chief executive, along with partners JD McBride and Kip Denning. The company began as a small team of renewable-energy advocates aiming to make solar power accessible, affordable, and hassle-free for homeowners and businesses.
 
-The company supplies high-efficiency solar panels and advanced battery storage systems, and provides full-service installation that covers consultation, site assessment, system design, permitting, and final inspection. Pricing is advertised at $1.50 per watt, roughly half the $3–4 per watt commonly quoted by other installers, and customers can choose to perform some of the work themselves to reduce cost further.
+The firm operates as a full-service solar provider, supplying high-efficiency photovoltaic panels and advanced battery storage systems while also handling consultation, system design, permitting, installation, and ongoing maintenance. It offers both stationary and mobile system configurations and allows customers to perform portions of the installation themselves to reduce costs. Pricing is advertised at $1.50 per watt, significantly below the typical $3–4 per watt charged by many installers.
 
-Payoff Solar serves residential and commercial customers seeking to reduce energy bills and carbon footprint. Its process is structured in three steps: a quick property and needs assessment, a detailed proposal with specifications and projected savings, and professional installation handled from permits through inspection.
+Payoff Solar serves residential and commercial customers seeking to reduce energy expenses and carbon emissions. Its process moves from a preliminary property assessment to a detailed proposal with projected savings, followed by professional installation and final inspection. The company states it has helped thousands of clients lower their utility bills and shrink their environmental footprint.
 
-The founders state the business was started to close the gap between solar’s environmental benefits and its financial return, aiming to make systems pay for themselves in five years or less. Core values cited are innovation, sustainability, and affordability, with an emphasis on flexible financing and competitive pricing.
+The business distinguishes itself by targeting a financial payback period of three to four years, far shorter than the industry norm of 15 to 20 years. Its stated values of innovation, sustainability, and affordability guide a model that combines equipment supply with turnkey service, aiming to make renewable energy a practical investment for a broader audience.
 
 ## Known for
-- Pricing at $1.50 per watt, less than half the typical $3–4 per watt
-- Target financial payoff in 3–4 years versus industry 15–20 years
-- Option for customers to self-perform portions of the install to save money
-- Full-service scope from consultation and design through permitting and inspection
+- Financial payback target of 3–4 years versus industry average of 15–20
+- Equipment pricing at $1.50 per watt
+- Option for customer self-installation to lower total cost
+- Full-service scope from site assessment through maintenance
+- High-efficiency panels and battery storage offered
 
 ## Capabilities
-- Solar system design
-- Solar panel installation
-- Battery energy storage installation
-- Permitting and inspection management
-- Site assessment and consultation
+- Consultation
+- System design
+- Site assessment
+- Proposal generation
+- Permitting
+- Installation
+- Final inspection
 - Ongoing maintenance
+- Solar panel supply
+- Energy storage supply
+- Stationary system configuration
+- Mobile system configuration
 
 ## Industries
-- Residential solar
-- Commercial solar
-- Renewable energy
+- Residential
+- Commercial
+- Solar energy
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -241,16 +319,19 @@ The founders state the business was started to close the gap between solar’s e
 
 - Founded in 2024 -> /about
 - Headquarters South Jordan, Utah -> db
-- Founders Matt Newman, JD McBride, Kip Denning -> /about
-- Mission: make solar accessible, affordable, hassle-free -> /about and /
-- Focus on 3-4 year financial payoff vs 15-20 industry standard -> /
-- Pricing $1.50 per watt vs $3-4 per watt -> /
-- Products: high-efficiency solar panels, advanced battery solutions -> / and /about
-- Services: consultation, design, installation, permits, inspection, maintenance -> / and /about
-- Three-step process: assess, propose, install -> /
+- Founder Matt Newman (CEO) -> /about
+- Partners JD McBride and Kip Denning -> /about
+- Mission: make solar accessible, affordable, hassle-free -> /
+- Full-service provider: consultation, design, installation, maintenance -> /about
+- Products: high-efficiency solar panels, advanced battery storage -> /
+- Pricing $1.50 per watt -> /
+- Option for customer self-installation -> /
+- Target payback 3-4 years vs industry 15-20 -> /
+- Values: Innovation, Sustainability, Affordability -> /about
+- Helped thousands of customers -> /about
+- Process: assess, proposal, install -> /
+- System types: Stationary, Mobile -> /
 - Serves homeowners and businesses -> /about
-- Values: innovation, sustainability, affordability -> /about
-- Matt Newman 15+ years renewable energy experience -> /about
 </details>
 
 ---
@@ -260,46 +341,38 @@ The founders state the business was started to close the gap between solar’s e
 **Old description:** Our experience ranges over multiple different industrial projects including:
 
 ## About
-Peak Automation & Electrical, LLC is based in Dickinson, North Dakota. The company operates as a limited liability company providing professional automation and electrical services across the state. No founding year or founders are disclosed in public materials.
+Peak Automation & Electrical, LLC is based in Dickinson, North Dakota. The company operates as a limited liability company providing automation and electrical services to industrial clients across the state. While the founding year and ownership structure beyond the LLC designation are not publicly disclosed, the firm has built a reputation serving the region's energy and processing sectors.
 
-The firm delivers a broad range of industrial services including electrical construction and 24/7/365 electrical service, SCADA development on the Inductive Automation Ignition platform, commissioning of SCADA systems such as Cygnet, FactoryTalk, Wonderware, and Iconics, flow meter setup and calibration for orifice, magnetic, turbine, mass, Coriolis, and LACT units, wired and wireless instrumentation installation and maintenance, PLC/DCS/HMI programming and troubleshooting across multiple brands (Allen-Bradley, IDEC, GE, Scadapack, and various HMI platforms), engineering consulting, automation standards development, and project documentation using AutoCAD Electrical. The management team cites a combined 75-plus years of automation and electrical experience.
+The company delivers a range of services including electrical construction with a North Dakota Master Electrician on record, 24/7/365 electrical service, SCADA development on the Inductive Automation Ignition platform, flow meter setup and calibration for orifice, magnetic, turbine, mass, and Coriolis meters, as well as LACT unit commissioning. It also installs and maintains wired, wireless, and radio network instrumentation such as guided wave radars, ultrasonic level sensors, and pressure transmitters. Programming and troubleshooting cover PLC, DCS, and HMI systems from Allen-Bradley, IDEC, GE, Scadapack, and multiple HMI brands. Engineering services encompass automation consulting, corporate standards development, program management, panel design, FAT/SAT testing, and project documentation using AutoCAD Electrical.
 
-Peak serves industries including cryogenic processing, power generation, salt water disposal, oil and gas production, tank batteries, compressor stations, offshore platforms, chemical processing, and food and beverage manufacturing. Its customer base includes drilling solutions companies and other industrial operators primarily in North Dakota.
+Peak serves industries including cryogenic processing, power generation, salt water disposal, oil and gas production sites, tank batteries, compressor stations, offshore platforms, chemical processing plants, and food and beverage manufacturing facilities. Its customer base consists of industry leaders in North Dakota, particularly drilling solutions companies and midstream operators.
 
-The company emphasizes safety as its top priority, maintaining memberships in ISNetworld and PEC, and holds a North Dakota Master Electrician license. It also highlights its Ignition Platform certification as a differentiator.
+The company emphasizes a safety-first culture, holding memberships in ISNetworld and PEC, and highlights a management team with over 75 years of combined automation and electrical experience. Its differentiators include round-the-clock service availability, Ignition platform certification, and a focus on developing corporate automation standards for clients.
 
 ## Known for
-- 24/7/365 electrical service availability
+- 24/7/365 electrical service response
 - Inductive Automation Ignition Platform certified
-- Combined 75+ years of management experience in automation and electrical
-- ISNetworld and PEC safety memberships
-- North Dakota Master Electrician on record
+- ISNetworld and PEC safety program memberships
+- Management team with 75+ years combined experience
+- North Dakota Master Electrician on record for construction
 
 ## Capabilities
 - Electrical construction
-- Electrical service (24/7/365)
+- 24/7/365 electrical service
 - SCADA development (Ignition platform)
-- SCADA commissioning (Cygnet, FactoryTalk, Wonderware, Iconics)
-- Flow meter setup, calibration, and maintenance (orifice, magnetic, turbine, mass, Coriolis, LACT)
+- Flow meter setup, calibration, and maintenance
+- LACT unit setup, commissioning, and maintenance
 - Wired, wireless, and radio network instrumentation installation and maintenance
-- PLC/DCS/HMI programming and troubleshooting (Allen-Bradley, IDEC, GE, Scadapack, multiple HMI brands)
+- PLC, DCS, and HMI custom programming and troubleshooting
 - Engineering services
 - Automation consulting
-- Automation standards development (program management, AOI blocks, MOC processes, panel design, FAT/SAT)
-- Project documentation (AutoCAD Electrical, cause & effect matrix, control narrative, I/O list)
-- Instrumentation installation and maintenance (guided wave radar, float tank sticks, ultrasonic radar, pressure transmitters, level switches, tuning forks, pressure switches)
-- LACT unit setup, commissioning, and maintenance
-- VFD troubleshooting
-- Advanced control systems troubleshooting
-- Panel design and I/O layout
-- FAT & SAT testing and commissioning
-- Cause & effect matrix development
-- Control narrative development
-- I/O list development
-- AutoCAD Electrical drafting
+- Corporate automation standards development
 - Program management
 - Standard AOI block development
-- MOC process development
+- MOC (Management of Change) processes
+- Panel design and I/O layout
+- FAT and SAT testing and commissioning
+- Project documentation (AutoCAD Electrical, cause & effect matrix, control narrative, I/O list)
 
 ## Industries
 - Cryogenic processing
@@ -311,12 +384,13 @@ The company emphasizes safety as its top priority, maintaining memberships in IS
 - Offshore platforms
 - Chemical processing
 - Food and beverage manufacturing
+- Drilling solutions
 
 ## Equipment
 - Allen-Bradley PLCs
 - IDEC PLCs
 - GE PLCs
-- Scadapack PLCs
+- Scadapack RTUs
 - Red Lion HMI
 - Proface HMI
 - PanelView HMI
@@ -324,83 +398,139 @@ The company emphasizes safety as its top priority, maintaining memberships in IS
 - Maple HMI
 - Totalflow
 - Emerson ROC 800
-- Emerson Flossboss 107
-- Orifice meters
-- Magnetic flow meters
-- Turbine flow meters
-- Mass flow meters
-- Coriolis flow meters
-- LACT units
-- Guided wave radars
-- Float tank sticks
-- Ultrasonic radars
-- Pressure transmitters
-- Liquid level switches
-- Level tuning forks
-- Pressure switches
-- Inductive Automation Ignition platform
+- Emerson FloBoss 107
+- Inductive Automation Ignition SCADA platform
 - Cygnet SCADA
-- FactoryTalk SCADA
-- Wonderware SCADA
-- Iconics SCADA
-- AutoCAD Electrical
+- FactoryTalk
+- Wonderware
+- iCONICS
 
 ## Certifications
 - Inductive Automation Ignition Platform Certified
-- ISNetworld Member
-- PEC Member
 
 ## Company details
 - **Company Type:** Installer / service company
-- **Headquarters:** Dickinson, ND
+- **Ownership:** LLC
+- **Headquarters:** Dickinson, North Dakota
 
 <details><summary>Sources</summary>
 
-- Location: Dickinson, ND -> db
-- Services: electrical construction, electrical service, SCADA development, commissioning, flow meter setup, instrumentation, PLC/DCS/HMI programming, engineering, consulting, documentation -> /
-- Industries served: cryogenic processing, power generation, salt water disposal, oil & gas production, tank batteries, compressor stations, offshore platforms, chemical processing, food & beverage manufacturing -> /
-- Certifications: Inductive Automation Ignition Platform Certified, North Dakota Master Electrician License, ISNetworld member, PEC member -> /
-- Management experience: combined 75+ years -> /
-- 24/7/365 service -> /
-- Contact: PO BOX 1423, Dickinson, ND 58602 -> /
+- Location: Dickinson, ND -> /
+- Company type: professional services (automation, instrumentation, controls, SCADA) -> /
+- Management team combined 75+ years experience -> /
+- Safety memberships: ISNetworld, PEC -> /
+- Electrical construction with ND Master on Record -> /
+- 24/7/365 electrical service -> /
+- SCADA development: Ignition Platform Certified -> /
+- Flow meter setup/calibration: orifice, mag, turbine, mass, Coriolis, LACT -> /
+- Instrumentation installs: guided wave radar, float, ultrasonic, pressure transmitters, level switches, tuning forks, pressure switches -> /
+- PLC/DCS/HMI programming: Allen-Bradley, IDEC, GE, Scadapack, multiple HMI brands -> /
+- Engineering services: consulting, standards, program management, AOI blocks, MOC, panel design, FAT/SAT, documentation -> /
+- Industries served: cryogenic, power gen, SWD, oil/gas production, tank batteries, compressor stations, offshore, chemical, food/beverage -> /
+- Customer type: industry leaders, drilling solutions companies -> /
 </details>
 
 ---
 
 # Peerless Electronic Supplies
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** None
+
+## About
+Peerless Electronic Supplies traces its roots to 1932 when C.C. Baines founded the Peerless Electronic Equipment Company in Louisville, Kentucky. The business has continued across three generations and remains headquartered in Louisville, operating from a 25,000-square-foot facility on one acre.
+
+Today the company operates as a broad-line business-to-business distributor of electronic components and assemblies. It stocks products from more than 100 manufacturers, including over 40 franchised lines such as Belden, Fluke, Omron, Panduit, and TE Connectivity. In addition to distribution, Peerless provides value-added services including custom cable assemblies, custom-length DIN rail, terminal block assemblies, bar coding, kitting, labeling, and special packaging.
+
+The customer base spans OEM, MRO, institutional, and contractor sectors, with industrial sales split roughly 80 percent OEM and 20 percent MRO. A field sales team covers Kentucky, Indiana, Michigan, Illinois, Ohio, and Wisconsin, supporting regional accounts with local inventory and a $5 minimum order.
+
+Peerless states its mission is to deliver quality products on time at competitive prices with the highest level of service. The company emphasizes its combined staff experience of over 200 years in the electronics industry and a quality policy focused on providing products that conform to customer requirements.
+
+## Known for
+- Low $5 minimum order
+- Local inventory in 25,000 sq ft facility
+- Over 100 manufacturers and 40 franchised lines stocked
+- Buying group partnership for additional franchised lines
+- Over 200 years combined sales experience
+
+## Capabilities
+- Bar Coding
+- Custom Cable Assemblies
+- Custom Length DIN Rail
+- Custom Terminal Block Assemblies
+- Dedicated Inventory
+- Kitting, Labeling & Packaging
+- Special Packaging & Marking
+
+## Industries
+- OEM
+- MRO
+- Institutional
+- Contractor
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1932
+- **Headquarters:** Louisville, Kentucky
+
+<details><summary>Sources</summary>
+
+- Founded 1932 by C.C. Baines -> /about
+- Three generations of operation -> /about
+- Headquartered in Louisville, Kentucky -> /about, db
+- 25,000 sq ft facility on one acre -> /about
+- Broad-line B2B distributor of electronic components and assemblies -> /about
+- Represents over 100 manufacturers and 40 franchised lines -> /about
+- Value-added services: custom cable assemblies, custom-length DIN rail, terminal block assemblies, bar coding, kitting, labeling, special packaging -> /about
+- Customer base: OEM, MRO, institutional, contractor sectors -> /about
+- Industrial sales split 80% OEM, 20% MRO -> /about
+- Field sales coverage across KY, IN, MI, IL, OH, WI -> /about
+- $5 minimum order -> /about
+- Mission: quality products on time at competitive prices with highest service -> /about
+- Combined staff experience over 200 years -> /about
+- Quality policy: products conforming to customer requirements -> /about
+- Product categories listed on homepage -> /
+- Contact address: 1815 South 7th Street, Louisville, KY 40208 -> /
+</details>
+
+---
 
 # Pelican Wire
 
 **Old description:** Wind Turbine Blade Mold Heating: Resistance Wire Design for Composite Manufacturing
 
 ## About
-Pelican Wire operates from Naples, Florida. The company does not publicly disclose its founding year, ownership structure, or founders.
+Pelican Wire operates from Naples, Florida, as a custom wire manufacturer specializing in engineered resistance and heating wire solutions. The company does not publish a founding date or founder names in its public materials, and ownership details are not disclosed.
 
-Pelican Wire is a custom wire shop that produces engineered wire solutions without a standard catalog. Its capabilities include high-flex life wire for robotic motion control, heating wire for fluid transfer systems, resistance wire for aerospace and wind turbine blade mold heating, and fine-gauge wire (40–45 AWG) for aerospace sensors. The company also offers an ON-DEMAND program for immediate shipment of premium wire stock and provides a product design tool kit with size charts, insulation guides, and calculators.
+The shop focuses on custom-engineered wire rather than catalog products, producing high-flex life wire for robotic motion control, heating wire for fluid transfer systems, fine-gauge wire (40–45 AWG) for aerospace sensors, high-temperature wire for autoclaves, ultra-fine wire for e-textiles, and cryogenic-grade wire. It also designs resistance heating wire for composite tooling such as wind turbine blade molds. No facility size, headcount, or annual volume figures are provided.
 
-The company serves aerospace and aviation, robotics, radiant flooring (RV, residential, and commercial), automotive (heated seats, fluid transfer, emissions control), autoclave, UAV, cryogenics, medical devices, e-textiles, and wind energy sectors. It has partnered with numerous medical device manufacturers and works with robotics manufacturers on heat transfer and measurement solutions.
+Pelican Wire serves wind energy, aerospace and aviation, robotics, radiant flooring (RV, residential, and commercial), automotive (heated seats, fluid transfer, emissions systems), autoclave, UAV, cryogenics, medical devices, and e-textiles. The company notes partnerships with numerous medical device manufacturers and supplies wire for aerospace robotics, automotive sensors, and wearable technology.
 
-Pelican Wire differentiates itself by rejecting pre-made, pre-manufactured solutions, positioning itself as a custom wire shop with no standard print. The ON-DEMAND offering further distinguishes it by providing immediate shipment for stocked parts.
+The company states it differentiates itself by rejecting pre-made solutions: it operates with no standard print, offering fully custom wire designs. It also runs an ON-DEMAND program for immediate shipment of stocked premium wire and provides a Product Design Tool Kit with size charts, insulation guides, and calculators.
 
 ## Known for
-- Custom wire shop with no standard print
-- ON-DEMAND premium wire available for immediate shipment
-- High-flex life wire for robotic motion control
-- Heating wire for heated fluid transfer systems
-- Fine gauge wire (40–45 AWG) for aerospace sensors
+- No standard print – fully custom wire solutions
+- ON-DEMAND premium wire for immediate shipment
+- Product Design Tool Kit with size charts, insulation types, calculators
+- Specialized in high-flex life wire for robotic motion control
+- Expertise in fine gauge wire (40–45 AWG) for aerospace sensors
 
 ## Capabilities
-- Custom wire engineering
-- High-flex life wire production
-- Heating wire design and manufacturing
-- Resistance wire design
-- Fine gauge wire manufacturing (40-45 AWG)
-- On-demand wire fulfillment
-- Product design assistance
+- Custom resistance wire design
+- High-flex life wire manufacturing
+- Heating wire for fluid transfer systems
+- Fine gauge wire drawing (40–45 AWG)
+- High-temperature wire for autoclaves
+- Ultra-fine wire for e-textiles
+- Cryogenic wire solutions
+- Composite tooling heating wire (wind turbine blade molds)
+- Aerospace sensor wire
+- Automotive sensor wire
+- Medical device heated wire
+- Radiant floor heating wire
+- ON-DEMAND stocked wire program
 
 ## Industries
+- Wind Energy
 - Aerospace & Aviation
 - Robotics
 - Radiant Flooring
@@ -410,7 +540,8 @@ Pelican Wire differentiates itself by rejecting pre-made, pre-manufactured solut
 - Cryogenics
 - Medical Devices
 - E-Textiles
-- Wind Energy
+- Composite Manufacturing
+- Wearable Technology
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -419,14 +550,18 @@ Pelican Wire differentiates itself by rejecting pre-made, pre-manufactured solut
 <details><summary>Sources</summary>
 
 - Headquarters: Naples, Florida -> db
-- Custom wire shop with no standard print -> pages:/
-- ON-DEMAND premium wire immediate shipment -> pages:/
-- Industries served: Aerospace & Aviation, Robotics, Radiant Flooring, Automotive, Autoclave, UAV, Cryogenics, Medical Devices, E-Textiles, Wind Energy -> pages:/
-- High-flex life wire for robotic motion control -> pages:/
-- Heating wire for heated fluid transfer systems -> pages:/
-- Fine gauge wire for aerospace sensors (40-45 AWG) -> pages:/
-- Partnered with numerous medical device manufacturers -> pages:/
-- Product Design Tool Kit offered -> pages:/
+- Description: Wind Turbine Blade Mold Heating: Resistance Wire Design for Composite Manufacturing -> db
+- Custom wire shop with no standard print -> /
+- Industries served list (Wind Energy, Aerospace & Aviation, Robotics, Radiant Flooring, Automotive, Autoclave, UAV, Cryogenics, Medical Devices, E-Textiles) -> /
+- ON-DEMAND: Premium Wire Available for Immediate Shipment -> /
+- Product Design Tool Kit with size charts, wire insulation types, calculators -> /
+- High-flex life wire for robotic motion control -> /
+- Heating wire for heated fluid transfer systems -> /
+- Fine gauge wire for aerospace sensors (40–45 AWG) -> /
+- Partnered with numerous medical device manufacturers -> /
+- Resistance wire solutions for wind turbine blade mold heating -> /
+- High-precision resistance wire for aerospace robotics & motion control -> /
+- Powering the future of wearable technology: e-textile innovation -> /
 </details>
 
 ---
@@ -436,55 +571,62 @@ Pelican Wire differentiates itself by rejecting pre-made, pre-manufactured solut
 **Old description:** In 2000, Tina and Brian Horner founded Pemberton Electrical Supply Company.
 
 ## About
-Pemberton Electrical Supply Company was founded in 2000 by Tina and Brian Horner in Lumberton, New Jersey. The company operates as a woman-owned small business, certified by the state of New Jersey as both an SBE and WBE. It began as a wholesale distributor focused on serving commercial and industrial electrical supply needs across the state.
+Pemberton Electrical Supply Company operates from Lumberton Township, New Jersey, where Tina and Brian Horner founded the business in 2000. The family-owned distributor began as a wholesale supplier of electrical products to commercial and industrial customers across the state.
 
-The company functions as a full-service wholesale distributor, carrying a complete line of electrical supplies including lighting, switchgear, wire, cable, cord, conduit, strut, and raceway. It maintains a facility in Lumberton and serves customers through direct sales and state contract vehicles. The staff emphasizes accurate order fulfillment and competitive pricing.
+The company functions as a full-service wholesale distributor carrying a complete line of electrical supplies. Its product range spans lighting, switchgear, wire, cable, cord, conduit, strut, and raceway systems. The firm serves customers from a single New Jersey facility, though square footage and headcount are not publicly disclosed.
 
-Pemberton's customer base spans commercial and industrial contractors, K-12 schools, colleges, municipalities, and county, state, and federal government agencies. The firm has held New Jersey state electrical supply contracts for over 22 years, including contracts #21-FOOD-01747 and #23-FOOD-50947 for electrical equipment, supplies, light poles, and luminaires.
+Primary customers include commercial and industrial contractors, K-12 schools, colleges, municipalities, and county, state, and federal government agencies. Pemberton has held New Jersey State Electrical Supply contracts continuously for more than 22 years, including contracts #21-FOOD-01747 and #23-FOOD-50947 for electrical equipment, supplies, light poles, and luminaires.
 
-The Horners started the business to provide a reliable, people-first alternative in electrical distribution, emphasizing innovative solutions for complex supply problems and a commitment to accuracy that ensures every order is fulfilled correctly the first time.
+The company emphasizes competitive pricing, innovative solutions for complex supply challenges, and a commitment to accuracy that aims to fulfill every order correctly the first time. State certifications as a Small Business Enterprise (SBE) and Women's Business Enterprise (WBE) reflect its ownership structure, while the founders highlight a people-first culture supported by a knowledgeable staff.
 
 ## Known for
-- Competitive pricing
-- Innovative solutions for complex electrical supply problems
+- NJ State Certified SBE and WBE
+- Holds multiple NJ State Electrical Supply contracts for over 22 years
+- Competitive pricing and innovative solutions for complex electrical supply problems
 - Commitment to accuracy with first-time order fulfillment
-- Holder of NJ State Electrical Supply contracts for over 22 years
+- Family-owned with knowledgeable, friendly staff
 
 ## Capabilities
-- Wholesale distribution of electrical supplies
-- Commercial and industrial electrical supply
-- State contract fulfillment (NJ)
-- Lighting supply
-- Switchgear supply
-- Wire, cable, and cord supply
-- Conduit, strut, and raceway supply
+- Electrical supply distribution
+- Commercial electrical supply
+- Industrial electrical supply
+- Lighting distribution
+- Switchgear distribution
+- Wire and cable distribution
+- Conduit and raceway distribution
+- State contract fulfillment
+- Government procurement support
 
 ## Industries
 - Commercial construction
 - Industrial construction
-- Education (K-12)
-- Higher education
-- Municipal government
-- County government
-- State government
-- Federal government
+- Education
+- Government
+- Electrical contracting
+
+## Certifications
+- NJ State Certified SBE
+- NJ State Certified WBE
+- NJ State Contract #21-FOOD-01747
+- NJ State Contract #23-FOOD-50947
 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 2000
-- **Ownership:** Woman-owned, Small business
-- **Headquarters:** Lumberton, NJ
+- **Ownership:** Family-owned, Woman-owned, Small business
+- **Headquarters:** Lumberton Township, New Jersey
 
 <details><summary>Sources</summary>
 
 - Founded in 2000 by Tina and Brian Horner -> db
-- Headquartered in Lumberton, New Jersey -> db, /
-- Woman-owned small business (NJ SBE, WBE certified) -> /
+- Headquartered in Lumberton Township, New Jersey -> db
 - Full-service wholesale distributor of electrical supplies -> /
-- Product lines: lighting, switchgear, wire, cable, cord, conduit, strut, raceway -> /
-- Serves commercial/industrial contractors, K-12 schools, colleges, municipalities, county/state/federal governments -> /
+- Product lines include lighting, switchgear, wire, cable, cord, conduit, strut, raceway -> /
+- Serves commercial/industrial contractors, K-12 schools, colleges, municipalities, government agencies -> /
 - Holds NJ State Contracts #21-FOOD-01747 and #23-FOOD-50947 for over 22 years -> /
-- Emphasizes competitive pricing, innovative solutions, accuracy, people-first approach -> /
+- NJ State Certified SBE and WBE -> /
+- Family-owned business -> /
+- Emphasizes competitive pricing, innovative solutions, accuracy, people-first culture -> /
 </details>
 
 ---

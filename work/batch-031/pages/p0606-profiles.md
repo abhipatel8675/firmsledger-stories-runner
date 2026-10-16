@@ -3,31 +3,32 @@
 **Old description:** We want you to be fully satisfied with your purchase and experience. We accept returns within 7 days of delivery for store credit,
 
 ## About
-Premium Apparel Shops operates an online retail store from Nashville, Tennessee. The company does not publicly disclose its founding year, ownership structure, or the names of its founders.
+Premium Apparel Shops operates from Nashville, Tennessee, as an online retailer specializing in streetwear and designer apparel. The company's founding year and ownership structure are not publicly disclosed on its website.
 
-The business sells branded streetwear and apparel from labels such as Supreme, Valabasas, Godspeed, Prestige, Mixed Emotions, and EPTM. It runs an e-commerce platform that fulfills orders with same‑ or next‑business‑day shipping, offers free shipping on orders over $200, and provides UPS Next Day Air as an upgrade. No facility size, headcount, or order volumes are published.
+The shop curates and sells products from brands such as Supreme, Godspeed, Valabasas, Prestige, and Mixed Emotions, offering categories including hoodies, tees, denim, jackets, headwear, and footwear. Specific listings feature items like the Godspeed GS E Pluribus Trucker hat, Valabasas Mr. Flex skinny jeans, and Supreme GORE-TEX hooded jackets. It functions as an e-commerce retailer with same- or next-business-day shipping on orders, free ground shipping above $200, and UPS Next Day Air as an upgrade. The site displays over 116 customer reviews and provides direct contact via email and phone for support.
 
-The store serves individual consumers shopping for premium streetwear, including jackets, hoodies, jeans, shorts, footwear, hats, and accessories. Its product assortment focuses on limited‑edition and collaboration pieces from the brands listed above.
+The business serves individual consumers seeking limited-release and premium streetwear labels. No business-to-business or wholesale channels are described in the available materials.
 
-The company emphasizes customer satisfaction through a 7‑day return window for store credit, secure encrypted payment processing, and responsive customer service available via email and phone. Fast shipping and communication are highlighted as key differentiators.
+The company emphasizes rapid fulfillment, secure checkout using advanced encryption, and a seven-day return window for store credit as its primary service differentiators.
 
 ## Known for
-- Same or next business day shipping
+- Ships same or next business day
 - Free shipping on orders over $200
 - UPS Next Day Air available
-- 7‑day return policy for store credit
-- Secure encrypted payment processing
+- 7-day returns for store credit
+- Secure payment with advanced encryption
 
 ## Capabilities
-- E‑commerce retail
-- Order fulfillment and shipping
-- Customer support
+- E-commerce order processing
+- Same/next-business-day shipping
+- Customer service via phone and email
+- Secure payment processing
 - Returns processing
 
 ## Industries
+- Streetwear retail
 - Apparel retail
-- Streetwear
-- E‑commerce
+- E-commerce
 
 ## Company details
 - **Company Type:** Retailer
@@ -35,12 +36,20 @@ The company emphasizes customer satisfaction through a 7‑day return window for
 
 <details><summary>Sources</summary>
 
+- Company name: PREMIUM APPAREL SHOPS -> db
 - Headquarters: Nashville, Tennessee -> db
-- Brands carried: Supreme, Valabasas, Godspeed, Prestige, Mixed Emotions, EPTM -> /
-- Shipping: same/next business day, free over $200, UPS Next Day Air -> /
-- Returns: within 7 days for store credit -> /
-- Customer service contact: email and phone -> /
-- Secure payment with encryption -> /
+- Website: http://www.premiumapparelshops.com/ -> db
+- Returns accepted within 7 days of delivery for store credit -> /
+- Ships same or next business day -> /
+- Free shipping on orders over $200 -> /
+- UPS Next Day Air available -> /
+- Carries brands: Supreme, Godspeed, Valabasas, Prestige, Mixed Emotions -> /
+- Product categories: hoodies, tees, denim, jackets, headwear, footwear -> /
+- Customer service email: Info@premiumapparelshops.com -> /
+- Customer service phone: 1.615.678.8991 -> /
+- Secure payment with advanced encryption -> /
+- 116 customer reviews displayed -> /
+- No founding year, ownership, or founders disclosed -> /
 </details>
 
 ---
@@ -50,36 +59,43 @@ The company emphasizes customer satisfaction through a 7‑day return window for
 **Old description:** Buy, Sell & Trade — Pre-Owned & New Devices for Hospitals, Surgery Centers, Labs & Clinics.
 
 ## About
-PT Medical Technologies, Inc. operates from Irving, Texas, in the Dallas–Fort Worth metroplex. The company’s founding year and ownership structure are not publicly disclosed.
+PT Medical Technologies operates from Irving, Texas, serving healthcare facilities nationwide with refurbished and pre-owned medical equipment. The company's founding year and ownership structure are not publicly disclosed.
 
-The firm buys, sells, and trades pre‑owned and new medical devices, serving hospitals, surgery centers, clinics, and laboratories nationwide. Its catalog spans more than 130 device types from over 60 manufacturers, covering imaging, surgical, patient monitoring, laboratory, dental, and cosmetic categories. In addition to equipment sales, PT Medical provides disposition services for surplus assets, biomedical equipment services, and contrast injector support. A warehouse in Irving supports nationwide shipping, and an equipment‑sourcing concierge helps customers locate hard‑to‑find items.
+The firm buys, sells, and trades hospital-grade devices across more than 130 product categories from over 60 manufacturers. Its Irving warehouse supports disposition services, biomedical repair and preventive maintenance, contrast injector servicing, and an equipment-sourcing concierge that taps into hospital surplus and OEM inventory across the country. The company emphasizes biomed-certified refurbishment, calibration, and testing before resale.
 
-Customers include acute‑care hospitals, ambulatory surgery centers, specialty clinics, clinical laboratories, dental practices, and cosmetic surgery facilities. The company notes that its surplus inventory originates from hospitals, surgery centers, and ER centers, and it has supplied refurbished ultrasound systems, surgical monitors, endoscopy towers, patient monitors, and clinical analyzers to those segments.
+Customers include hospitals, surgery centers, clinics, clinical laboratories, dental practices, and cosmetic surgery centers. Testimonials cite procurement managers outfitting new facilities, surgeons sourcing lab analyzers, and administrators upgrading imaging departments. The company also serves diagnostic imaging centers and pathology labs, according to its blog content.
 
-PT Medical emphasizes its biomed‑certified refurbishment process, a nationwide logistics network, and a quote turnaround of two to four business hours for warehouse‑stocked items. The business was built to give healthcare providers a cost‑effective alternative to new capital equipment without compromising clinical performance.
+PT Medical positions its value on delivering certified pre-owned equipment at 40–70% below new pricing without sacrificing clinical precision, backed by nationwide shipping and a 2–4-hour quote turnaround for verified inventory and freight estimates.
 
 ## Known for
-- Biomed-certified refurbishment and testing
+- Biomed-certified refurbishment and calibration
 - Nationwide shipping from Irving, TX warehouse
-- Access to 130+ device types from 60+ manufacturers
-- Equipment sourcing concierge for hard-to-find items
-- Freight estimates within 2–4 business hours
+- 2–4 business hour quote turnaround with freight estimates
+- Equipment sourcing concierge accessing hospital surplus nationwide
+- Disposition services for hospital and surgery center surplus
 
 ## Capabilities
-- Disposition Services
-- Contrast Injector Services
-- Biomedical Equipment Services
-- Equipment Sourcing
-- Refurbishment and Testing
-- Nationwide Shipping
+- Medical equipment disposition
+- Biomedical equipment repair
+- Preventive maintenance
+- Contrast injector services
+- Equipment sourcing and procurement
+- Refurbishment and calibration of medical devices
+- Wholesale lot sales
+- Inventory verification and freight estimation
 
 ## Industries
 - Hospitals
-- Surgery Centers
+- Surgery centers
 - Clinics
-- Laboratories
-- Dental Practices
-- Cosmetic Practices
+- Clinical laboratories
+- Dental practices
+- Cosmetic surgery centers
+- Diagnostic imaging centers
+- Pathology labs
+
+## Certifications
+- Biomed Certified
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -87,17 +103,18 @@ PT Medical emphasizes its biomed‑certified refurbishment process, a nationwide
 
 <details><summary>Sources</summary>
 
-- Headquarters in Irving, Texas -> db
-- Business model: buy, sell, trade pre-owned and new medical devices -> db description
-- Capabilities: Disposition Services, Contrast Injector Services -> db capabilities
-- Biomed Services listed on homepage -> /
-- 130+ device types, 60+ manufacturers -> /
-- Nationwide shipping from Irving warehouse -> /
-- Equipment sourcing concierge -> /
-- Freight estimates within 2–4 business hours -> /
-- Categories: Healthcare, Lab, Dental, Cosmetic, Contrast Injectors, Imaging, Surgical, Endoscopy, Monitoring, Clinical Lab -> /
+- Location: Irving, Texas -> db
+- Business model: Buy, sell, trade refurbished medical equipment -> /
+- 130+ devices, 60+ manufacturers -> /
+- Services: Disposition, Biomed, Contrast Injector, Equipment Sourcing -> /
+- Warehouse in Irving, TX -> /
 - Customer types: hospitals, surgery centers, clinics, labs, dental, cosmetic -> /
-- Biomed Certified claim -> /
+- Testimonials from medical professionals -> /
+- Biomed certified claim -> /
+- 2-4 hour quote turnaround -> /
+- 40-70% savings claim -> /
+- Categories: Healthcare, Lab, Dental, Cosmetic, Contrast Injectors -> /
+- Featured categories: Imaging, Surgical, Monitoring, Lab -> /
 </details>
 
 ---
@@ -107,35 +124,33 @@ PT Medical emphasizes its biomed‑certified refurbishment process, a nationwide
 **Old description:** The future of affordable residential solar photovoltaic has arrived. It’s now easier and more cost-effective than ever to have solar PV installed on your home.
 
 ## About
-PV Tech is a solar installation contractor based in Honolulu, Hawaii, serving the island of Oahu. The company does not disclose its founding year or ownership structure, but it emphasizes over 50 years of combined industry experience among its team. The business appears to be locally operated, with a focus on residential and commercial photovoltaic systems.
+PV Tech is a solar installation contractor based in Honolulu, Hawaii, serving the island of Oahu. The company draws on over 50 years of combined industry experience among its team, though its founding year and ownership structure are not publicly disclosed.
 
-The company provides turnkey solar PV installations, handling design, permitting, and installation with an in-house crew of licensed electricians and PV installers. It does not use subcontractors, which it says allows direct quality control. PV Tech offers multiple financing pathways, including no-upfront-cost loans, power purchase agreements, leases, and prepaid leases. Through a partnership with the HI GEMS Program, it provides $0-down options with no credit checks, integrating solar payments into the customer's HECO utility bill.
+The firm designs and installs residential and commercial photovoltaic systems, handling every step in-house with its own licensed electricians and PV installers rather than subcontractors. It offers a range of financing structures—including power purchase agreements, leases, and no-upfront-cost loans—and partners with the HI GEMS program to provide $0-down options with no credit checks. Solar payments are integrated directly into the customer’s HECO utility bill.
 
-PV Tech serves homeowners and businesses across Oahu, including Kapolei. Its residential customers include homeowners like Maxine K., who noted a day-and-a-half installation, and Douglass G., who installed an 18-panel system. The company also markets to commercial property owners, citing benefits such as increased property value and energy independence.
+PV Tech works with homeowners and commercial property owners across Oahu, including Kapolei. Testimonials cite installations for private residences—such as an 18-panel system that offsets winter electricity use—and note the company’s willingness to right-size projects rather than upsell.
 
-PV Tech states its mission is to deliver a client experience that is "joyful, easy and rewarding." It differentiates itself by avoiding high-pressure sales, using only full-time employees, and simplifying access through the GEMS program. The company was founded to make solar accessible to families who previously thought it was out of reach.
+The company says its differentiator is a client experience that is ‘joyful, easy and rewarding,’ built on transparent communication, a step-by-step consultation process, and a policy of never using subcontractors so that quality control remains internal.
 
 ## Known for
-- No subcontractors; all installers are full-time employees
-- HI GEMS Program partnership for $0 down, no credit checks
+- No subcontractors – all installers and electricians are full-time employees
+- HI GEMS program partnership for $0 down and no credit checks
 - Solar payment integrated into HECO utility bill
-- Free consultation and custom system design
-- Transparent, step-by-step installation process
+- Free consultation with custom design
+- Step-by-step installation process with education over high-pressure sales
 
 ## Capabilities
-- Solar PV system design and installation
-- Residential solar installation
-- Commercial solar installation
-- Solar financing (PPA, lease, prepaid lease, no-upfront-cost loans)
-- HI GEMS Program enrollment assistance
-- In-house licensed electrical and PV installation crew
-- Permitting and utility interconnection coordination
-- Free consultation and custom proposal
+- Solar PV system design
+- Solar PV installation
+- Solar financing consultation (PPA, lease, loan)
+- GEM$ program enrollment assistance
+- In-house licensed electrical work
+- In-house PV installation
+- Utility bill integration (HECO)
 
 ## Industries
-- Residential
-- Commercial
-- Renewable energy
+- Residential solar installation
+- Commercial solar installation
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -144,17 +159,18 @@ PV Tech states its mission is to deliver a client experience that is "joyful, ea
 <details><summary>Sources</summary>
 
 - Location: Honolulu, Hawaii -> db
-- Serves all of Oahu including Kapolei -> /about
-- Over 50 years of combined work experience -> /
-- No subcontractors; all installers are full-time employees -> /services
-- Offers financing: no-upfront-cost, PPA, lease, prepaid lease -> /about, /services
-- Partnership with HI GEMS Program for $0 down, no credit checks -> /about, /services
+- Over 50 years combined experience -> /
+- No subcontractors, in-house team -> /services
+- HI GEMS program partnership -> /services
+- $0 down, no credit checks -> /services
 - Solar payment integrated into HECO bill -> /services
-- Free consultation and custom design -> /services
-- Residential customer testimonials (Maxine K., Douglass G.) -> /
-- Commercial benefits cited: increased property value, energy independence -> /
-- Mission: joyful, easy, rewarding client experience -> /about
-- Company type: solar installation contractor -> /services
+- Free consultation with custom design -> /services
+- Step-by-step installation process -> /services
+- Residential and commercial customers -> /, /services
+- Testimonials from Maxine K. and Douglass G. -> /
+- Mission: joyful, easy, rewarding experience -> /about
+- Financing options: PPA, lease, loan -> /about
+- Serves all of Oahu including Kapolei -> /about
 </details>
 
 ---
@@ -164,62 +180,63 @@ PV Tech states its mission is to deliver a client experience that is "joyful, ea
 **Old description:** Check back here to view our featured products and current special offerings!
 
 ## About
-PVD Design Company operates from Providence, Rhode Island, where it was originally founded as CJM Designs more than 25 years ago. The business has since evolved under its current name, providing custom apparel, print, and promotional products to customers across the United States. Ownership details and founder names are not publicly disclosed.
+PVD Design Company operates from Providence, Rhode Island, just south of downtown off the Thurbers Avenue curve. The business traces its roots to CJM Designs, originally founded in Rhode Island, and has been supplying custom apparel, print, and promotional products across the United States for more than 25 years. Ownership details and founder names are not publicly disclosed.
 
-The company offers a range of decoration and design services. Decoration capabilities include embroidery, tackle twill, digital printing, and screen printing. It also produces patches in various constructions—50% and 100% embroidery, sublimation, faux leather, and leather—as well as enamel pins. Design services cover graphic design, product design, brand identity, and web design. Additional product offerings span drinkware, custom awards, lapel pins, lanyards, challenge coins, business cards, wedding invitations, hot-stamped items, custom flags, matches, coasters, and menus. Facility size, headcount, and production volumes are not specified.
+The company provides a range of decoration and design services. Decoration capabilities include embroidery, tackle twill, digital printing, and screen printing. Patch production covers 50% and 100% embroidery, sublimation, faux leather, and leather options. Enamel pins, hot stamping, and a variety of promotional items such as drinkware, awards, lanyards, challenge coins, business cards, wedding invitations, flags, matches, coasters, and menus round out the offering. Design services span graphic, product, brand identity, and web design. Facility size, headcount, and annual volumes are not published.
 
-PVD Design Company serves customers throughout the United States seeking custom-branded merchandise, promotional products, and decorated apparel. While specific industry verticals are not listed, the product mix suggests clients in corporate branding, events, retail, and organizational recognition programs.
+PVD Design Company serves customers throughout the United States seeking custom branded merchandise. Typical clients include businesses needing promotional apparel, event organizers requiring custom patches or pins, and individuals ordering wedding invitations or personalized drinkware. The company works by appointment only at its location.
 
-The company emphasizes its USA-made production and a commitment to detail, stating that quality means "doing it right when no one else is looking." It operates by appointment only at its Providence location.
+The company emphasizes a commitment to detail, stating that quality means doing it right when no one else is looking. All products are marketed as USA made.
 
 ## Known for
-- USA-made production
-- Over 25 years of experience in custom apparel and promotional products
-- Comprehensive in-house decoration services (embroidery, screen printing, digital, tackle twill)
-- Integrated design services (graphic, product, brand identity, web)
-- By-appointment consultation model
+- USA made production
+- Over 25 years in custom apparel and promotional products
+- By-appointment-only service model
+- In-house graphic, product, brand identity, and web design
+- Wide range of decoration methods: embroidery, screen print, digital, tackle twill
 
 ## Capabilities
 - Embroidery
-- Tackle twill
-- Digital printing
-- Screen printing
-- Graphic design
-- Product design
-- Brand identity design
-- Web design
-- Patch manufacturing (embroidery, sublimation, leather, faux leather)
-- Enamel pin manufacturing
-- Hot stamping
-- Custom flag production
-- Custom award manufacturing
-- Lapel pin production
-- Lanyard production
-- Challenge coin production
-- Business card printing
-- Wedding invitation printing
-- Drinkware decoration
-- Coaster production
-- Menu printing
-- Match customization
+- Tackle Twill
+- Digital Printing
+- Screen Printing
+- Graphic Design
+- Product Design
+- Brand Identity Design
+- Web Design
+- Patch Manufacturing (50% Embroidery)
+- Patch Manufacturing (100% Embroidery)
+- Sublimation Patches
+- Faux Leather Patches
+- Leather Patches
+- Enamel Pin Manufacturing
+- Hot Stamping
+- Custom Awards Manufacturing
+- Lapel Pin Manufacturing
+- Lanyard Manufacturing
+- Challenge Coin Manufacturing
+- Business Card Printing
+- Wedding Invitation Printing
+- Custom Flag Manufacturing
+- Match Manufacturing
+- Coaster Manufacturing
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Providence, Rhode Island
 
 <details><summary>Sources</summary>
 
-- Founded as CJM Designs in Rhode Island -> /about
-- Over 25 years in business -> /about
-- Located at 35 Baker Street, Providence, RI 02905 -> /about
+- Company operates as PVD Design Company, formerly CJM Designs -> /about
+- Located in Providence, Rhode Island at 35 Baker Street, Suite 3 -> /about
+- Over 25 years supplying custom apparel, print, and promotional products across the United States -> /about
+- By appointment only service model -> /about
 - Decoration services: embroidery, tackle twill, digital printing, screen printing -> /services
-- Patch types: 50% embroidery, 100% embroidery, sublimation, faux leather, leather -> /services
-- Enamel pins offered -> /services
-- Design services: graphic, product, brand identity, web -> /services
-- Additional products: drinkware, custom awards, lapel pins, lanyards, challenge coins, business cards, wedding invitations, hot stamping, custom flags, matches, coasters, menus -> /services
+- Design services: graphic, product, brand identity, web design -> /services
+- Patch manufacturing: 50% embroidery, 100% embroidery, sublimation, faux leather, leather -> /services
+- Enamel pin manufacturing -> /services
+- Additional promotional products: drinkware, awards, lanyards, challenge coins, business cards, wedding invitations, flags, matches, coasters, menus -> /services
 - USA MADE claim -> /about
-- Operates by appointment only -> /about
-- Serves customers throughout the United States -> /about
 </details>
 
 ---
@@ -229,33 +246,34 @@ The company emphasizes its USA-made production and a commitment to detail, stati
 **Old description:** Paarlo Plastics produces high-quality, custom blow-molded parts using standard and engineering-grade thermoplastics.
 
 ## About
-Paarlo Plastics Inc operates from North Canton, Ohio, where it was founded in 1981. The company has spent more than four decades as a dedicated blow molding contract manufacturer, serving customers from a facility in the North Canton Industrial Park.
+Paarlo Plastics Inc. operates from an 80,000-square-foot facility in North Canton, Ohio. Founded in 1981, the company has spent more than four decades as a dedicated blow molding contract manufacturer serving the toy, medical, automotive, and safety industries.
 
-The company specializes in custom blow-molded parts using standard and engineering-grade thermoplastics. Its 80,000-square-foot plant runs three shifts a day, offering engineering support, tooling construction, and secondary operations such as punching, drilling, and sonic welding, plus assembly, packout, and OTIF shipment. Volumes range from prototypes to high-volume production runs.
+The company specializes in custom blow-molded parts using standard and engineering-grade thermoplastics. Its three-shift operation supports capabilities from product design and tooling construction through secondary machining — punching, drilling, sonic welding — to final assembly, packout, and on-time, in-full (OTIF) shipment. Paarlo handles projects ranging from prototypes to high-volume production runs, with a typical timeline of six to eight weeks from design to production.
 
-Paarlo serves automotive Tier 1 and Tier 2 suppliers with PPAP-compliant components, toy brands with durable consumer parts, and medical partners with non-invasive wellness products. The company also supports safety-industry applications.
+Paarlo serves Tier 1 and Tier 2 automotive suppliers requiring PPAP-compliant components, major toy brands needing durable, color-consistent parts, and medical and wellness manufacturers demanding clean, defect-free non-invasive products. The company also supports safety-industry applications.
 
-Paarlo emphasizes on-time, in-full delivery, quick quote turnaround, and extensive engineering collaboration to reduce cost and accelerate time to production, typically reaching production within six to eight weeks.
+Paarlo differentiates itself through a lean engineering approach that optimizes designs for cost and quality, quick turnaround quoting, and a commitment to transparency and collaboration. Its ISO 9001:2015 certification underpins a quality policy focused on increasing customer satisfaction and continually meeting requirements.
 
 ## Known for
 - On-time, in-full (OTIF) delivery process
-- Quick turn-around quotes
-- Engineering support for design, optimization, and tooling
+- Six-to-eight-week timeline from design to production
+- In-house engineering for design optimization and tooling construction
 - Three-shift operation in 80,000 sq ft facility
-- 6-8 weeks from design to production
+- Secondary operations including punching, drilling, sonic welding, and assembly
 
 ## Capabilities
 - Custom blow molding
 - Engineering design and process optimization
-- Tooling design and construction
-- Secondary machining: punching, drilling
+- Tooling construction
+- Secondary machining (punching, drilling)
 - Sonic welding
-- Assembly and packout
-- Quality testing
+- Assembly
+- Packout and shipment
+- Prototyping
+- High-volume production
 - PPAP compliance
-- Prototyping to high-volume production
-- Quick quote turnaround
 - OTIF delivery management
+- Quick quoting
 
 ## Industries
 - Automotive
@@ -273,79 +291,118 @@ Paarlo emphasizes on-time, in-full delivery, quick quote turnaround, and extensi
 
 <details><summary>Sources</summary>
 
-- Founded 1981 -> /about-us
-- 80,000 sq ft facility -> /about-us
+- Founded in 1981 -> /about-us
+- 80,000 sq ft facility in North Canton, Ohio -> /about-us
 - Three-shift operation -> /about-us
-- ISO 9001:2015 certification -> /about-us
-- Automotive Tier 1/2 suppliers -> /
-- Toy brands for over 40 years -> /
-- Medical non-invasive products -> /
-- 6-8 weeks to production -> /
+- ISO 9001:2015 certified -> /about-us
+- Custom blow molding of standard and engineering-grade thermoplastics -> /
+- Engineering, tooling, secondary machining (punching, drilling, sonic welding), assembly, packout -> /services
 - OTIF delivery -> /
-- Quick turn-around quotes -> /about-us
-- Engineering support -> /about-us
-- Secondary operations: punching, drilling, sonic welding -> /
-- Assembly and packout -> /
-- PPAP compliance -> /
-- Standard and engineering-grade thermoplastics -> /
-- Headquarters North Canton, Ohio -> db
+- 6-8 weeks to production -> /
+- Industries: automotive (Tier 1/2, PPAP), toys, medical, safety -> /
+- Contract manufacturer -> /about-us
 </details>
 
 ---
 
 # Pace Inc
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** Featuring a 500W Infrared (IR) Top Heater and a Height-Adjustable 1000W Bottom Preheater.
+
+## About
+Pace Inc is headquartered in Elkridge, Maryland, where it designs and manufactures soldering, desoldering, and rework equipment for electronics assembly. The company’s origins and ownership structure are not publicly disclosed in the available sources.
+
+Its product portfolio spans several dedicated lines: the ADS200 AccuDrive soldering station, which operates without calibration; the IR3100 infrared BGA rework system, equipped with a 500 W top heater, a height‑adjustable 1 000 W bottom preheater, and closed‑loop temperature control via a non‑contact IR pyrometer; the ST 925 SMT combo rework system that integrates a hot‑air station, IR preheater, and Z‑axis platform for high‑mass PCBs; the MT‑200 AccuDrive MiniTweez thermal tweezer with multi‑axis tip alignment for precise component removal; and the Arm‑Evac 150 digital fume extraction unit that combines a SteadyFlex arm and remote control in an all‑in‑one package. These systems are distributed worldwide through a network covering the Americas, Europe, Asia, Africa, and the Middle East.
+
+Pace serves electronics manufacturers and repair operations, with a noted presence in U.S. government and military procurement channels — its distributor listings include a dedicated “US Government & Military Support” category.
+
+The company emphasizes technical differentiators such as calibration‑free operation on the ADS200 series, closed‑loop IR temperature control on the IR3100, rapid and safe surface‑mount component removal with the MT‑200 MiniTweez, and integrated fume extraction with articulated arm positioning on the Arm‑Evac 150.
+
+## Known for
+- Calibration‑free soldering stations (ADS200 series)
+- Closed‑loop IR temperature control with non‑contact pyrometer (IR3100)
+- Multi‑axis tip alignment for precise component targeting (MT‑200 MiniTweez)
+- Integrated SteadyFlex arm and remote control on fume extraction (Arm‑Evac 150)
+- Worldwide distributor network with dedicated U.S. government/military support
+
+## Capabilities
+- Soldering station manufacturing
+- BGA rework system manufacturing
+- Hot air rework system manufacturing
+- Thermal tweezer manufacturing
+- Fume extraction system manufacturing
+
+## Industries
+- Electronics assembly and repair
+- Government and military
+
+## Equipment
+- ADS200 AccuDrive Soldering Station
+- IR3100 InfraRed BGA Rework System
+- ST 925 SMT Combo Rework System
+- MT-200 AccuDrive MiniTweez
+- Arm-Evac 150 Digital Fume Extraction System
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Elkridge, Maryland
+
+<details><summary>Sources</summary>
+
+- Headquarters in Elkridge, Maryland -> db
+- Product lines: ADS200 AccuDrive Soldering Station, IR3100 InfraRed BGA Rework System, ST 925 SMT Combo Rework System, MT-200 AccuDrive MiniTweez, Arm-Evac 150 Digital Fume Extraction System -> page "/"
+- Global distributor network covering Americas, Europe, Asia, Africa, Middle East -> page "/"
+- US Government & Military Support listed as distributor category -> page "/"
+- Technical features: no calibration needed (ADS200), closed-loop IR temperature control (IR3100), multi-axis tip alignment (MT-200), SteadyFlex arm with remote control (Arm-Evac 150) -> page "/"
+</details>
+
+---
 
 # Pacific Allied Products Ltd
 
 **Old description:** Founded in 1965, the company initially produced wall panels using Expanded Polystyrene (EPS) foam. Recreational products such as ice coolers, surfboards, and swim rings evolved over the years.
 
 ## About
-Pacific Allied Products Ltd. was founded in 1965 in Kapolei, Hawaii, initially producing wall panels and Hawaiian Ice Coolers from expanded polystyrene (EPS) foam. The company began as a local manufacturer of foam products and later expanded into recreational items such as surfboards and swim rings.
+Pacific Allied Products Ltd was founded in 1965 in Kapolei, Hawaii, initially producing wall panels and Hawaiian Ice Coolers from expanded polystyrene (EPS) foam. The company later added recreational foam products such as surfboards and swim rings before expanding into construction materials through a 1985 partnership with AFM, Inc.
 
-Today the company operates a vertically integrated facility spanning over 90,000 square feet of manufacturing and warehouse space with approximately 50 employees. It produces both EPS foam products — including insulation boards, contoured tapered tile, and drainage boards for construction — and PET packaging, running preform production, blow molding, bottle filling, capping, labeling, shrink wrapping, and palletizing on a single site. Annual bottle capacity exceeds 200 million units, and recent filler and blow-molding upgrades have raised output by more than 60 percent.
+Today the firm operates a vertically integrated plastics campus spanning over 90,000 square feet of manufacturing and warehouse space with approximately 50 employees. Its capabilities cover EPS foam molding, injection molding, blow molding, preform production, and a complete bottling line that rinses, fills, caps, labels, shrink‑wraps and palletizes finished beverages. The PET division alone is capable of producing more than 200 million bottles per year, and recent filler and blow‑molding upgrades have increased co‑packaging output by over 60 percent.
 
-The business serves Hawaii’s beverage industry, supplying PET bottles for soda, juice, milk, and water brands, as well as the construction and roofing sector with specialized foam insulation and roofing components. It also co-packs bottled water for local brands, positioning itself as the only island facility that handles preforms, blow molding, and co-packaging under one roof.
+The company serves Hawaii’s construction and roofing sector with insulation boards, contoured tapered tile, laminated roofing systems and insect‑resistant insulation. It also supplies the beverage industry — including major local water brands — with PET containers for soda, juice, milk and water, and provides co‑packaging services for bottled water.
 
-Pacific Allied Products emphasizes food safety and quality management, holding ISO 9001 and FSSC 22000 certifications. Its stated mission is to be Hawaii’s plastic manufacturer through a commitment to excellence for employees and shareholders, and it highlights its integrated management system covering food safety, quality, environmental, and safety aspects.
+Pacific Allied Products states that it is the only facility on the island to manufacture preforms, blow containers and co‑pack bottled water all under one roof. Its integrated management system is certified to ISO 9001 and FSSC 22000, reflecting a stated commitment to food safety, quality and continuous improvement.
 
 ## Known for
-- Only vertically integrated facility on the island for preforms, blow molding, and co-packaging under one roof
+- Only vertically integrated facility in Hawaii for preforms, blow molding and co‑packaging under one roof
 - ISO 9001 and FSSC 22000 certified
-- Over 90,000 sq ft manufacturing and warehouse space
-- 200+ million bottles annual capacity
-- New filler and blow molding machines increase output by over 60%
+- Over 90,000 sq ft of manufacturing and warehouse space
+- Produces more than 200 million PET bottles per year
+- New filler and blow molding machines boost co‑packaging output by 60%
 
 ## Capabilities
 - EPS foam molding
-- Cross cutting and slabbing
-- Contoured tapered tile production
-- PET preform manufacturing
-- Blow molding
-- Bottle filling and capping
-- Labeling
-- Shrink wrapping
-- Palletizing
-- Co-packaging
 - Injection molding
-- Filler & blow molding machines
-- Complete bottling line
-- 12' cross cutters
-- Slabbers
+- Blow molding
+- Preform manufacturing
+- Bottling line operation (rinse, fill, cap, label, shrink wrap, palletize)
+- Co‑packaging
+- Cross cutting and slabbing for EPS
+- Laminated roofing systems manufacturing
+- Contour taper tile production
+- Insulation board production
 
 ## Industries
-- Beverage industry
-- Construction and roofing industry
-- Water bottling
-- Soda industry
+- Construction and roofing
+- Beverage (soda, juice, milk, water)
+- Food and beverage packaging
+- Hawaii local industries
 
 ## Equipment
-- Filler & Blow Molding machines
-- Blow molding machine
+- Blow molding machines
+- Filler machines
 - 12' cross cutters
 - Slabbers
 - Complete bottling line
+- Injection molding machines
 
 ## Certifications
 - ISO 9001
@@ -359,34 +416,21 @@ Pacific Allied Products emphasizes food safety and quality management, holding I
 
 <details><summary>Sources</summary>
 
-- Founded in 1965 -> /about-us
-- Initially produced wall panels and Hawaiian Ice Coolers using EPS foam -> /about-us
-- Headquartered in Kapolei, Hawaii -> /
-- Manufactures innovative foam products and high-quality PET containers -> /
-- Only vertically integrated facility on the island for preforms, blow containers, co-packaging -> /
-- Over 90,000 square feet manufacturing and warehouse facilities -> /about-us
-- 50 employees -> /about-us
-- ISO 9001 and FSSC 22000 certifications -> /about-us
-- Produces more than 200 million bottles per year -> /about-us
-- New filler & blow molding machines increase output by over 60% -> /about-us
-- EPS foam products: insulation boards, contoured tapered tile, drainage boards -> /about-us
-- PET preforms, blow molding, filling, capping, labeling, shrink wrap, palletizing -> /about-us
-- Serves beverage industry (soda, juice, milk, water) -> /about-us
-- Serves construction and roofing industry -> /about-us
-- Co-packs bottled water for Hawaii brands -> /
-- AFM partner since 1985 for roofing and housing products -> /about-us
-- Blow molding machine installed 2003 -> /about-us
-- Cross cutters and slabbers installed 2019 -> /about-us
-- Complete bottling line installed 2010 -> /about-us
-- 30,000 sq ft PET plant added 2005 -> /about-us
-- General Manager Fred Louis Sylva Jr. -> /about-us
-- Quality Manager Ciara Torrens Soto -> /about-us
-- Controller Yolanda Pascua -> /about-us
-- Mission statement: To be Hawaii's premier plastic manufacturer -> /about-us
-- Integrated Management System policy covering food safety, quality, environmental, safety -> /
-- Certifications: ISO 9001, FSSC 22000 -> db
-- Capabilities: Installation of new Filler & Blow Molding machines, Installation of first blow molding machine -> db
-- Industries served: various Hawaii industries, construction and roofing, soda industry -> db
+- Founded 1965 -> /about-us
+- Headquarters Kapolei, Hawaii -> / (homepage) and db
+- 50 employees -> /about-us (team section)
+- Over 90,000 sq ft facility -> /about-us
+- ISO 9001 and FSSC 22000 certified -> /about-us and / (IMS policy)
+- Vertically integrated preforms, blow molding, co-packaging under one roof -> / (homepage)
+- Produces >200 million bottles/year -> /about-us
+- EPS foam products since 1965 -> /about-us
+- PET bottles since 1992 -> /about-us
+- Construction products via AFM partnership 1985 -> /about-us
+- New filler & blow molding machines increase output 60% -> /about-us
+- Cross cutters and slabbers for EPS -> /about-us
+- Injection molding department -> /about-us (team)
+- Blow molding machines installed 2003, 2024 -> /about-us
+- Bottling line installed 2010 -> /about-us
 </details>
 
 ---
@@ -396,40 +440,33 @@ Pacific Allied Products emphasizes food safety and quality management, holding I
 **Old description:** or complete our convenient form. We will respond to all requests in a timely manner and contact you to get specific information regarding your product needs so that we can provide an accurate quote.
 
 ## About
-Pacific Gulf Wire Rope, Inc. has operated from Geismar, Louisiana for more than three decades, establishing itself as a leader in the wire rope and rigging industry. The company emphasizes long-term customer relationships, high-quality products, and a commitment to safety, service, and cost-efficiency.
+Based in Geismar, Louisiana, Pacific Gulf Wire Rope, Inc. has operated in the wire rope and rigging industry for more than three decades. The company states it has been a leader in the field for over 34 years, building its reputation on long-term customer relationships and a focus on safety, service, and cost efficiency. No founding year or founder names are publicly disclosed, and ownership details such as family, veteran, or woman-owned status are not mentioned.
 
-The company supplies a broad range of wire rope—including galvanized, rotation-resistant, aircraft-coated, stainless, and cable-laid constructions—as well as wire rope slings, synthetic slings and webbing, chain and chain slings, and cordage in nylon, polypropylene, polyester, and manila. In addition to product distribution, Pacific Gulf Wire Rope provides value-added services such as non-destructive testing and visual inspection, load testing with load cell rentals, onsite socket pouring, spooling machine rental, water bag rental, and lubricant supply.
+The business supplies a broad range of products including wire rope (BRT, galvanized, rotation-resistant, aircraft-coated, stainless, and cable-laid), slings (wire rope, synthetic webbing, and chain slings), rigging hardware (clips, shackles, thimbles, master links, sockets, turnbuckles, hooks, latch kits, swivels, and blocks), chain components, and cordage (nylon, polypropylene, polydac, manila, and 12-strand). In addition to product distribution, Pacific Gulf Wire Rope provides services such as non-destructive testing and visual inspection, load testing, load cell rentals, lubricant supply, onsite socket pouring, spooling machine rental, and water bag rental. Facility size, headcount, and annual volume are not published.
 
-While the company does not explicitly list served industries in its public materials, its product and service portfolio suggests customers in construction, offshore energy, marine, and industrial maintenance sectors. The firm highlights its project experience and safety resources, including a sling calculator and certificate access portal, to support rigging professionals.
+The company does not list specific industries or named customers on its website. Its product and service offerings suggest it serves sectors that require lifting and rigging solutions, such as construction, offshore, marine, and general industrial maintenance, but no concrete examples are provided in the source material.
 
-Pacific Gulf Wire Rope states that its longevity stems from a relentless pursuit of customer satisfaction and employee excellence, aiming to be the safest and most progressive wire rope company. The company cites its dedication to service and competitive pricing as direct results of its long-term customer relationships.
+Pacific Gulf Wire Rope emphasizes its mission to be the safest and most progressive wire rope company, driven by relentless pursuit of customer satisfaction and employee excellence. It cites long-term relationships, high-quality products, and a commitment to safety, service, and cost efficiency as the foundation of its competitive pricing and longevity.
 
 ## Known for
 - Long-term customer relationships
-- Commitment to high-quality products
-- Focus on safety, service, and cost-efficiency
-- Onsite socket pouring service
-- NDT and visual inspection services
+- High-quality products
+- Commitment to safety, service, and cost efficiency
+- Mission to be the safest, most progressive wire rope company
 
 ## Capabilities
-- Wire rope distribution
-- Wire rope sling fabrication
-- Synthetic sling fabrication
-- Chain sling fabrication
-- GrabIQ sling assembly
-- NDT/Visual inspection
+- Non-destructive testing (NDT) / visual inspection
 - Load testing
-- Load cell rental
+- Load cell rentals
+- Lubricant supply
 - Onsite socket pouring
 - Spooling machine rental
 - Water bag rental
-- Lubricant supply
-- Sling calculator tool
-- Certificate access portal
 
 ## Equipment
-- Spooling machine
-- Load cell
+- Spooling Machine
+- Load Cell
+- Water Bag
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -437,14 +474,15 @@ Pacific Gulf Wire Rope states that its longevity stems from a relentless pursuit
 
 <details><summary>Sources</summary>
 
-- Headquarters in Geismar, Louisiana -> db
-- More than 34 years in business -> /
-- More than 29 years in business -> /about-us
-- Products: wire rope (galvanized, rotation-resistant, aircraft-coated, stainless, cable laid), slings (wire rope, synthetic), rigging hardware (clips, shackles, thimbles, master links, sockets, turnbuckles, hooks, latch kits, swivels, blocks), chain (chain slings, components, GrabIQ), cordage (nylon, polypro, polydac, manila, mooring) -> /about-us
+- Headquarters: Geismar, Louisiana -> db
+- Operating for more than 34 years -> /
+- Product range: wire rope, slings, rigging hardware, chain, cordage -> /
 - Services: NDT/Visuals, Testing, Load Cell Rentals, Lubricant, Onsite Socket Pouring, Spooling Machine Rental, Water Bag Rentals -> /services
-- Mission: safest, most progressive wire rope company; relentless pursuit of customer satisfaction and employee excellence -> /about-us
+- Mission statement: safest, most progressive wire rope company; customer satisfaction and employee excellence -> /about-us
 - Master Links – MADE IN USA -> /about-us
-- Sling Calculator and Certificate Access resources -> /about-us
+- Wire rope types: BRT, Galvanized, Rotation-Resistant, Aircraft/Coated, Stainless, Cable Laid -> /about-us
+- Synthetic cordage materials: Nylon, PolyPro, Polydac, Manila, Mooring/BlueDan, 12 Strand -> /about-us
+- No explicit founding year, founders, ownership, certifications, employee count, cage code, min order, export compliance, languages, social links -> db, /, /about-us, /services
 </details>
 
 ---
@@ -454,58 +492,55 @@ Pacific Gulf Wire Rope states that its longevity stems from a relentless pursuit
 **Old description:** For practically every situation, our cartridge and baghouse styles are built for a safer work environment.
 
 ## About
-Pacific Industrial Equipment operates from Waipahu, Hawaii, serving customers across the islands and in Guam. The company is a component of Industrial Vacuum Equipment Corporation, which is based in Ixonia, Wisconsin and has a long history in industrial vacuum and blasting applications.
+Pacific Industrial Equipment operates from Waipahu, Hawaii, serving customers across the Hawaiian Islands and Guam. The business functions as a division of Industrial Vacuum Equipment Corporation, a Wisconsin-based company with a long history in industrial vacuum and blasting applications. No founding date or individual founders are disclosed in public materials.
 
-The company provides full-service rental of industrial equipment including cartridge and baghouse dust collectors, two-stage air compressors with digital controls, abrasive blasting equipment, diesel and electric vacuums, dehumidifiers, air conditioners, and air dryer receivers. All equipment is sourced from manufacturers such as Ingersoll Rand, Industrial Vacuum Equipment Corporation, and Sponge-Jet, and is available for short- or long-term rental. The Waipahu facility stocks replacement parts, accessories, and consumables, and the company offers on-site operator training for the equipment it supplies.
+The company provides a full range of industrial equipment for rent or purchase, focusing on dust collection, air compression, abrasive blasting, vacuum systems, and dehumidification. Its Waipahu facility stocks replacement parts, accessories, and consumables for immediate availability. Equipment offerings include cartridge and baghouse dust collectors, 2‑stage digital air compressors (50–400 hp), diesel and electric vacuums, Sponge Jet™ low‑dust blasting systems, and portable dehumidifiers. Pacific Industrial also supplies on‑site operator training and supports both short‑ and long‑term rental agreements.
 
-Primary customers include shipyards, bridge and tank painting contractors, refineries, and environmental contractors in Hawaii and Guam. The equipment also supports general construction, temporary air conditioning, flood restoration, asbestos abatement, roofing, abrasive blast recovery, hazardous waste removal, carbon removal, and steel mill operations.
+Primary customers include shipyards, bridge and tank painting contractors, refineries, environmental remediation firms, and general construction companies. The equipment is also used in asbestos abatement, roofing, abrasive blast recovery, hazardous waste removal, carbon removal, steel mill maintenance, and flood‑damage drying. The Hawaii location supports projects throughout the Pacific region, including Guam.
 
-Pacific Industrial Equipment differentiates itself by stocking only new or like-new, state-of-the-art machinery and by introducing new technology to the region, such as the Sponge Jet™ low-dust abrasive blasting system. Its stated mission is to offer quality equipment at fair prices with customer service standards not previously available on the islands.
+Pacific Industrial emphasizes supplying only new or like‑new, state‑of‑the‑art machinery and introducing new technologies such as the Sponge Jet™ system to the islands. Its stated mission is to deliver quality equipment at fair prices with a level of customer service not previously available in the local market.
 
 ## Known for
-- New or like-new, state-of-the-art machinery only
-- On-site operator training included with rentals
-- Sponge Jet™ low-dust abrasive blasting system availability
-- Service across Hawaii and Guam
-- Fair pricing with high service standards
+- Only new or like‑new, state‑of‑the‑art equipment stocked
+- On‑site operator training included with rentals
+- Exclusive island access to Sponge Jet™ low‑dust blasting technology
+- Single Waipahu facility serves Hawaii and Guam
+- Both short‑ and long‑term rental terms available
 
 ## Capabilities
 - Equipment rental (short-term and long-term)
-- Parts and consumables supply
-- Operator training
-- Dust collector rental
-- Air compressor rental
-- Abrasive blasting equipment rental
-- Industrial vacuum rental
-- Dehumidifier and air conditioner rental
-- Sponge Jet™ low-dust abrasive blasting system rental
-- Industrial equipment sales
+- Equipment sales
+- Parts and accessories supply
+- On-site operator training
+- Dust collection system supply
+- Air compressor supply (2-stage digital)
+- Abrasive blasting equipment supply
+- Vacuum equipment supply (diesel and electric)
+- Dehumidification and temporary air conditioning
+- Abrasive blast recovery support
+- Hazardous waste removal support
+- Asbestos abatement support
 
 ## Industries
-- Abrasive blasting
-- Shipbuilding and ship repair
+- Shipbuilding/shipyards
 - Bridge and tank painting
 - Refineries
 - Environmental remediation
 - General construction
-- Temporary climate control
-- Flood restoration
 - Asbestos abatement
 - Roofing
 - Abrasive blast recovery
 - Hazardous waste removal
 - Carbon removal
 - Steel mills
+- Flood restoration
 
 ## Equipment
-- Ingersoll Rand equipment
-- Industrial Vacuum Equipment Corporation equipment
-- Sponge-Jet™ low-dust abrasive blasting system
-- Cartridge and baghouse dust collectors
-- Two-stage air compressors with digital controls
-- Abrasive blasting equipment
+- 2-stage air compressors with digital controls
+- Sponge Jet™ low-dust abrasive blasting system
 - Diesel vacuums
 - Electric vacuums
+- Dust collectors (cartridge and baghouse)
 - Dehumidifiers and air conditioners
 - Diesel air compressors
 - Electric air compressors
@@ -519,17 +554,15 @@ Pacific Industrial Equipment differentiates itself by stocking only new or like-
 <details><summary>Sources</summary>
 
 - Headquarters in Waipahu, Hawaii -> db
-- Component of Industrial Vacuum Equipment Corporation -> /about-us
-- Full-service rental provider of industrial equipment -> /
-- Equipment brands: Ingersoll Rand, Industrial Vacuum Equipment Corporation, Sponge-Jet -> /
-- Rental equipment includes dust collectors, air compressors, abrasive blasting equipment, vacuums, dehumidifiers, air conditioners -> /
-- Parts and consumables stocked at Waipahu facility -> /
-- On-site operator training offered -> /
-- Industries served: shipyards, bridge and tank painting contractors, refineries, environmental contractors, general construction, temporary air conditioning, flood restoration, asbestos abatement, roofing, abrasive blast recovery, hazardous waste removal, carbon removal, steel mills -> / and /about-us
-- Service area includes Hawaii and Guam -> /about-us
-- Only new or like-new, state-of-the-art machinery stocked -> /about-us
-- Sponge Jet™ low-dust abrasive blasting system introduced -> /about-us
-- Mission: quality equipment at fair prices with high service standards -> /about-us
+- Division of Industrial Vacuum Equipment Corporation (Ixonia, Wisconsin) -> /about-us
+- Provides equipment rental, sales, parts, and on-site training -> /, /about-us
+- Equipment categories: dust collectors, air compressors, abrasive blasting, vacuums, dehumidifiers, blowers -> /
+- Machines from 50 to 400 hp -> /
+- Serves shipyards, bridge/tank painting, refineries, environmental contractors, general construction, asbestos abatement, roofing, blast recovery, hazardous waste, carbon removal, steel mills, flood drying -> /, /about-us
+- Stocks only new or like-new machinery -> /about-us
+- Offers Sponge Jet™ low-dust blasting system -> /about-us
+- Mission: quality equipment at fair prices with unprecedented customer service -> /about-us
+- Services Hawaii and Guam from Waipahu facility -> /about-us
 </details>
 
 ---
@@ -539,39 +572,34 @@ Pacific Industrial Equipment differentiates itself by stocking only new or like-
 **Old description:** en we receive all of the documents required by your patient's insurer, we
 
 ## About
-Pacific Island Medical Inc was established in 1994 in Kailua, on the windward side of O'ahu. The company is locally owned and operated, with its staff based on the island to serve Hawaii's respiratory equipment needs.
+Pacific Island Medical Inc was established in 1994 in Kailua, Hawaii, as a locally owned and operated respiratory home equipment vendor. The company has served the islands for over 30 years, focusing on knowledgeable, professional, and friendly service.
 
-The firm operates as a respiratory home medical equipment vendor, supplying CPAP and BiPAP devices, non-invasive ventilation systems, home oxygen equipment, and related supplies from industry brands. Beyond product distribution, it provides personal CPAP set-up and training through three channels: in-office at its Kailua location, home visits anywhere on O'ahu, and remote support for the neighbor islands. Walk-in and will-call service is available during weekday business hours.
+The firm distributes respiratory home medical equipment including CPAP and BiPAP machines, non-invasive ventilation devices, home oxygen systems, and related supplies from brands. It also provides personal CPAP set-up and training conducted by experienced professionals, available at its Kailua office, through home visits anywhere on Oahu, or remotely for the neighbor islands. Insurance verification and referral processing are handled in-house, with orders processed immediately once all required documents are received.
 
-The company serves patients across Hawaii who require sleep apnea and respiratory therapy equipment. It works with most Hawaii-based insurance plans, though it does not accept Traditional Medicare Part B (most Advantage plans are accepted), Devoted Health Plans, Kaiser, or VA coverage. Orders are processed once all insurer-required documentation is received.
+Pacific Island Medical primarily serves patients across Hawaii who require respiratory therapy equipment, working with most local insurance plans. The company does not accept Traditional Medicare Part B, Devoted Health Plans, Kaiser, or VA plans. Referrals come from healthcare providers who use the company’s order forms and checklists to initiate equipment delivery.
 
-The business emphasizes knowledgeable, professional, and friendly service delivered by a local team. Its 30-plus years of experience in the islands, combined with personalized support and accessible staff, are cited as the foundation of its position as a provider of CPAP and respiratory equipment in Hawaii.
+The company emphasizes its local presence, with staff based on Oahu available by phone during business hours and walk-in service offered. Its long tenure in the market and personalized approach are cited as key differentiators for patients and providers seeking respiratory equipment in the islands.
 
 ## Known for
-- Locally owned and operated with staff based on O'ahu
-- Over 30 years serving Hawaii's respiratory equipment needs
-- Personal CPAP set-up and training offered in-office, via home visits on O'ahu, and remotely for neighbor islands
-- Accepts most Hawaii insurance plans with streamlined documentation processing
-- Walk-in and will-call service available during business hours
+- 30+ years serving Hawaii
+- Locally owned and operated with staff on Oahu
+- Personal CPAP set-up and training offered in-office, at home on Oahu, or remotely for neighbor islands
+- Accepts most Hawaii insurance plans
+- Immediate order processing when all required documents are received
 
 ## Capabilities
-- CPAP equipment supply
-- BiPAP equipment supply
+- Respiratory home medical equipment distribution
+- CPAP & BiPAP equipment supply
 - Non-invasive ventilation equipment supply
 - Home oxygen equipment supply
-- Respiratory medical supplies distribution
-- CPAP set-up and training (in-office)
-- CPAP set-up and training (home-visit Oahu)
-- CPAP set-up and training (remote neighbor islands)
-- Insurance billing and claims processing
-- Resupply and refill management
-- Patient compliance monitoring support
+- Medical supplies distribution
+- CPAP set-up & training
+- Insurance verification and processing
+- Referral management
 
 ## Industries
 - Home medical equipment
 - Respiratory care
-- Sleep apnea therapy
-- Durable medical equipment (DME)
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -583,12 +611,14 @@ The business emphasizes knowledgeable, professional, and friendly service delive
 
 - Founded 1994 in Kailua, Hawaii -> /about-us
 - Locally owned and operated -> /about-us, /
-- 30+ years serving Hawaii -> /about-us, /
-- Provides CPAP, BiPAP, non-invasive ventilation, home oxygen equipment and supplies -> /
-- Offers CPAP set-up/training in-office, home-visit Oahu, remote neighbor islands -> /
-- Accepts most Hawaii insurance plans; excludes Traditional Medicare Part B, Devoted Health, Kaiser, VA -> /
-- Walk-in and will-call available 8:00-3:30 -> /
-- Headquarters Kailua, Hawaii -> db, /about-us
+- Provides respiratory home medical equipment including CPAP, BiPAP, non-invasive ventilation, home oxygen -> /
+- Offers personal CPAP set-up & training in-office, home visit, remote -> /
+- Accepts most Hawaii insurance plans except Traditional Medicare Part B, Devoted Health Plans, Kaiser, VA -> /
+- 30+ years serving Hawaii -> /
+- Staff available locally by phone, walk-in & will-call -> /
+- Secure payment portal -> /
+- Referral forms and checklist -> /
+- Company type: distributor/reseller -> /
 </details>
 
 ---

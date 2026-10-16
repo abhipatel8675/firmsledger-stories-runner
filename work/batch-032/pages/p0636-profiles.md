@@ -3,133 +3,280 @@
 **Old description:** Garments made from scratch with your exact specifications, then decorated.
 
 ## About
-Based in Arlington, Virginia, Sina Manufacturing LLC provides custom apparel production and decoration services. The company’s founding year and ownership structure are not publicly disclosed.
+Sina Manufacturing LLC operates from Arlington, Virginia. The company does not publicly disclose its founding year, ownership structure, or the names of its founders.
 
-Sina Manufacturing offers a range of garment decoration methods including screen printing, embroidery, direct-to-garment (DTG) printing, sublimation, and specialty techniques such as puff printing, high-density printing, chenille, tackle twill, 3D puff embroidery, and tie-dye. The shop also performs cut-and-sew manufacturing, building garments from client specifications, and provides readymade garments for decoration. Complementary services include free design assistance, consultation, mock-ups, and tech packs with every order, as well as branding items like hang tags, stickers, business cards, poly mailers, and flags.
+The business provides a comprehensive range of garment decoration and manufacturing services. Core decoration methods include screen printing, embroidery, direct-to-garment (DTG) printing, sublimation, and tie-dye, supplemented by specialty techniques such as puff printing, high-density printing, chenille, tackle twill, 3D puff embroidery, applique, and glow-in-the-dark inks. In addition to decorating readymade apparel, Sina Manufacturing runs a cut-and-sew operation that builds garments from client specifications. Every order includes complimentary design assistance, consultation, and a tech pack or mock-up. The company also supplies branding accessories such as hang tags, stickers, business cards, poly mailers, and flags.
 
-The company serves businesses and organizations seeking custom-decorated apparel and branded merchandise, though specific industry verticals or named clients are not listed in its public materials.
-
-Sina Manufacturing distinguishes itself by including design, consultation, and mock-up services at no extra charge with every order, and by offering both readymade and fully custom cut-and-sew options under one roof.
+Sina Manufacturing serves clients seeking custom-decorated apparel and fully custom-sewn garments, from promotional T-shirts and team uniforms to retail-ready clothing lines. Its dual offering of readymade and custom-cut production allows flexibility for varying project scopes. The company does not specify particular industry verticals or named customers in its public materials.
 
 ## Known for
-- Free design, consultation, and mock-up/tech pack included with every order
-- Offers both readymade garments and full cut-and-sew manufacturing
-- Wide range of decoration methods from screen printing to specialty techniques like chenille and 3D puff embroidery
-- Accepts custom requests beyond listed services via direct inquiry
+- Free design, consultation, and tech pack included with every order
+- Offers both readymade garments for decoration and full cut-and-sew manufacturing
+- Wide range of specialty decoration techniques beyond standard screen printing and embroidery
 
 ## Capabilities
 - Screen Printing
 - Embroidery
 - DTG Printing
+- Cut & Sew
 - Sublimation
 - Tie-Dye
 - Patches
 - Puff Printing
-- High Density Printing
+- High Density
 - Chenille
 - Tackle Twill
 - 3D Puff Embroidery
 - Clothing Labels
 - Inside Tag Printing
-- Cut & Sew
 - Applique
-- 3M Reflective Printing
-- Glow in the Dark Printing
+- Glow-in-the-dark Printing
+- Free Design/Logo
+- Free Consultation
+- Free Mock-Up/Tech Pack
 - Hang Tags
 - Stickers
 - Business Cards
 - Poly Mailers
 - Flags
-- Design Services (consultation, mock-up, tech pack)
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Arlington, Virginia
 
 <details><summary>Sources</summary>
 
-- Location: Arlington, Virginia -> db
-- Description: Garments made from scratch with your exact specifications, then decorated -> db
-- Services: Screen Printing, Embroidery, DTG, Sublimation, Cut & Sew, etc. -> /
-- Design services: Free Design or Logo, Free Consultation, Free Mock-Up or Tech Pack -> /
-- Branding services: Hang Tags, Stickers, Business Cards, Poly Mailers, Flags -> /
-- Specialty services: Tie-Dye, Patches, Puff Printing, High Density, Chenille, Tackle Twill, 3D Puff Embroidery, Clothing Labels, Inside Tag Printing -> /capabilities
-- No founding year, ownership, employee count, certifications, equipment, materials, volume, lead time, tolerances, cage code, min order, export compliance, languages, social links found -> db
+- Headquarters in Arlington, Virginia -> db
+- Services: screen printing, embroidery, DTG, cut & sew, sublimation, tie-dye, patches, puff printing, high density, chenille, tackle twill, 3D puff embroidery, clothing labels, inside tag printing, applique -> /capabilities
+- Free design, consultation, and tech pack included with every order -> /
+- Offers readymade garments for decoration and custom cut-and-sew production -> /
+- Branding items: hang tags, stickers, business cards, poly mailers, flags -> /
 </details>
 
 ---
 
 # Sinclair North America
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** �Y��l6s�V���rT����r��ju���?������������ߤ����4��:8�I�q�tP�殄F����Np*�xMPA��
+
+## About
+Sinclair North America operates from New York, New York, as the U.S. arm of a global medical aesthetics company active in more than 55 countries. The business focuses on the development and supply of injectable treatments, threads, and energy-based devices for aesthetic medicine, positioning itself at the intersection of science and clinical practice.
+
+Its product portfolio centers on two main categories: injectables and threads, and energy-based devices (EBDs). Beyond hardware, the company runs Sinclair College for professional education, maintains the Sinclair Portal for digital access, and provides electronic instructions for use (eIFU) to support clinical workflows. These digital and educational services complement the physical product lines and aim to standardize treatment protocols across markets.
+
+The company serves medical aesthetics practitioners, clinics, and healthcare providers worldwide. Its devices and injectables are used in aesthetic procedures across international markets, with regulatory approvals varying by country. The organization notes that approved claims and product availability differ by market, reflecting the regulated nature of medical aesthetics.
+
+Sinclair states its corporate purpose as “healthy aging,” a positioning that guides product development and branding. The organization emphasizes precision, personalization, and performance as core principles behind its technology and service offerings. This framework is intended to differentiate its approach in a competitive global landscape.
+
+## Known for
+- Global presence in 55+ countries
+- Corporate purpose: Healthy aging
+- Sinclair College for professional education
+- Sinclair Portal and eIFU digital tools
+- Precision, Personalization, Performance framework
+
+## Capabilities
+- Injectable manufacturing
+- Thread manufacturing
+- Energy-based device manufacturing
+- Medical aesthetics product development
+- Professional education (Sinclair College)
+- Digital portal services (Sinclair Portal)
+- Electronic instructions for use (eIFU)
+- Regulatory compliance management
+
+## Industries
+- Medical aesthetics
+- Healthcare
+- Medical devices
+- Aesthetic medicine
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** New York, New York
+
+<details><summary>Sources</summary>
+
+- Global medical aesthetics company in 55+ countries -> /
+- HQ in New York, New York -> db
+- Products: injectables, threads, energy-based devices -> /
+- Sinclair College, Sinclair Portal, eIFU -> /
+- Corporate purpose: healthy aging -> /
+- Tagline: Precision, Personalization, Performance -> /
+- Serves medical aesthetics practitioners, clinics, healthcare providers -> /
+- Regulatory approvals vary by market -> /
+- English language support -> /
+</details>
+
+---
 
 # Sioux Valley Energy
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** Starting January 1, 2027, residential and general service members will be billed on three components instead of two.
+
+## About
+Sioux Valley Energy operates as an electric cooperative headquartered in Colman, South Dakota. While a founding year is not publicly stated, the cooperative structure indicates member ownership rather than investor ownership.
+
+The cooperative delivers electric distribution service to residential and general service members, maintaining service centers in Brandon, Pipestone, and Hartford. With 110 employees, it manages metering, outage response, and member services including start/stop/transfer requests. Beginning January 1, 2027, billing will shift to a three-component structure reflecting energy consumption, basic service costs, and peak demand within each billing cycle.
+
+Primary customers are residential members and general service accounts within the cooperative's service territory, which includes Pipestone County and surrounding areas. The cooperative also engages in community initiatives such as Operation Round Up grants awarded to local organizations and educational events like Brats & Kilowatts sessions to explain rate changes.
+
+The cooperative model directs margins back to members through capital credits and community investment rather than external shareholders.
+
+## Known for
+- Member-owned cooperative governance
+- Three-component rate design separating energy, service, and demand charges
+- Operation Round Up community grant program
+- Local service centers in Brandon, Pipestone, and Hartford
+
+## Capabilities
+- Electric distribution service
+- Meter reading and management
+- Outage detection and restoration
+- Service start/stop/transfer
+- Demand charge billing
+- Energy services consultation
+- Community grant administration
+- Member education programs
+
+## Industries
+- Residential electric service
+- General commercial electric service
+- Rural electric cooperative
+
+## Company details
+- **Company Type:** Installer / service company
+- **Employees:** 110
+- **Ownership:** Cooperative (member-owned)
+- **Headquarters:** Colman, South Dakota
+
+<details><summary>Sources</summary>
+
+- Headquartered in Colman, South Dakota -> db
+- 110 employees -> db
+- 30,813 meters served -> /
+- 6,273 miles of distribution line -> /
+- 4.9 member density per mile of line -> /
+- Service centers in Brandon, Pipestone, Hartford -> /
+- Three-component billing effective January 1, 2027 -> /
+- Operation Round Up grants to area organizations -> /
+- Brats & Kilowatts member education events -> /
+- LinkedIn profile -> db
+</details>
+
+---
 
 # Siwek Lumber & Millwork Corp - NE MPLS
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** We know doors better than anyone and are your complete headquarters for all your exterior door needs!
+
+## About
+Siwek Lumber & Millwork Corp has operated from its Northeast Minneapolis location since 1933. The family-owned lumberyard was established as a neighborhood supplier of building materials and has remained under family stewardship for nine decades.
+
+The company stocks a full line of construction lumber, redwood, and cedar for decking, fencing, and garden beds, and serves as a complete headquarters for exterior doors including Andersen storm doors. It also carries Milwaukee power tools, GRK fasteners, and related accessories from a single NE facility. Headcount and facility square footage are not publicly disclosed.
+
+Customers include residential contractors, remodelers, and homeowners throughout the Twin Cities metro. The yard supplies materials for projects ranging from new construction to backyard decks, and has supported community builds such as Boy Scout Troop 9060 in Woodbury, which used donated lumber for campfire benches.
+
+Siwek emphasizes its local roots and environmental stewardship. In 2019 the company received a Hennepin County Business Recycling Grant and reports that 75.25 percent of its scrap building materials — 153.55 tons — have been diverted from landfill, with aggregate, alternative daily cover, metals, and mixed woods among the recycled streams.
+
+## Known for
+- Family-owned and operated since 1933
+- Full-line exterior door supplier including Andersen storm doors
+- Recycling program diverting over 75 percent of scrap building materials
+- Authorized distributor for Milwaukee Tool, GRK Fasteners, and Andersen Windows
+- Community-focused with documented material donations to local organizations
+
+## Capabilities
+- Building materials distribution
+- Exterior door supply and consultation
+- Lumber yard operations
+- Power tool and fastener retail
+- Contractor and homeowner sales
+
+## Industries
+- Residential construction
+- Remodeling and renovation
+- Decking and fencing construction
+- General contracting
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1933
+- **Ownership:** Family-owned
+- **Headquarters:** Minneapolis, Minnesota
+
+<details><summary>Sources</summary>
+
+- Founded 1933 -> /
+- Family-owned lumberyard -> /about-us
+- Location: 2536 Marshall St NE, Minneapolis, MN 55418 -> /
+- Products: exterior doors, construction lumber, redwood, cedar fencing/decking -> /
+- Brands carried: Andersen storm doors, Milwaukee tools, GRK fasteners -> /
+- Hennepin County Business Recycling Grant 2019 -> /about-us
+- Recycled 153.55 tons, 75.25% of scrap materials -> /about-us
+- Community partnership with Boy Scout Troop 9060 -> /about-us
+</details>
+
+---
 
 # Skazma Custom Apparel
 
 **Old description:** Customers come back time and again for custom apparel that’s built with care, precision, and pride.
 
 ## About
-Skazma Custom Apparel operates from Longmont, Colorado, where it has served the northern Colorado region for over 22 years. The company is family-owned and locally operated, with family values at its core.
+Skazma Custom Apparel operates from Longmont, Colorado, serving communities across northern Colorado including Boulder. The company is family-owned and has been in business for over two decades, though a specific founding year is not publicly stated. It began as a local screen printing and embroidery shop focused on helping businesses, schools, teams, and organizations bring their apparel ideas to life.
 
-The shop provides custom screen printing, embroidery, and promotional products, supported by an in-house graphic design and production team. All work is done under one roof, allowing for faster turnaround times and quality control. The facility handles orders ranging from small batches to larger runs, though specific volumes are not disclosed.
+The shop provides custom screen printing, embroidery (including 3D logos), and a range of promotional products, all supported by an in-house graphic design and production team. Work is performed under one roof, allowing for faster turnaround times and quality control. The facility offers local delivery, shipping, and free pickup at its Longmont headquarters.
 
-Skazma serves businesses, schools, sports teams, and organizations across Longmont, Boulder, and northern Colorado. Notable clients include High Plains Bank for corporate apparel and summer camps for team shirts, as well as events requiring lab coats on short notice.
+Skazma serves a mix of commercial, educational, and organizational clients. Examples include High Plains Bank for team apparel, summer camps for custom t-shirts, and laboratories needing lab coats on short notice. The company also works with small businesses and community groups throughout the region.
 
-The company emphasizes quality work, strong relationships, and being a true community partner. It differentiates itself through exceptional customer service, transparent pricing, and local delivery or free pickup options.
+The company emphasizes family values, community partnership, and eco-conscious practices. It differentiates itself through transparent pricing, exceptional customer service, and a collaborative design process that ensures each order meets the client's vision before production begins.
 
 ## Known for
-- In-house design and production team
-- Local delivery, shipping, or free pickup at Longmont headquarters
-- Family-owned with community-focused values
-- Over 22 years of experience in custom apparel
-- Transparent pricing and quick turnaround
+- Family values and community-focused ownership
+- In-house design and production team under one roof
+- Fast turnaround with transparent pricing
+- Local delivery, shipping, or free pickup in Longmont
+- Eco-conscious production practices
 
 ## Capabilities
 - Screen printing
-- Embroidery (including 3D logos)
-- Promotional products sourcing
+- Embroidery
+- 3D embroidery
+- Promotional products
 - Graphic design
-- Custom apparel design
+- Custom apparel decoration
 - Local delivery
 - Shipping
-- In-store pickup
+- In-house production
+- Quality control
 
 ## Industries
 - Businesses
 - Schools
-- Sports Teams
+- Teams
 - Organizations
 - Banking
-- Summer Camps
-- Events
+- Education
+- Healthcare
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Ownership:** Family-owned
 - **Headquarters:** Longmont, Colorado
 
 <details><summary>Sources</summary>
 
-- Located in Longmont, Colorado -> /
-- Family-owned and locally operated -> /
+- Headquarters: Longmont, Colorado -> db
+- Family-owned -> /
 - Over 22 years in business -> /
 - Services: screen printing, embroidery, promotional products, graphic design -> /
 - In-house design and production team -> /
-- Serves businesses, schools, teams, organizations -> /
-- Customers include High Plains Bank and summer camps -> /
-- Offers local delivery, shipping, and free pickup -> /
-- Family values at core -> /
-- Fast turnaround and transparent pricing -> /
-- Headquarters city and state from database -> db
-- Capabilities list from database -> db
-- Products list from database -> db
+- Local delivery, shipping, free pickup -> /
+- Industries served: businesses, schools, teams, organizations -> /
+- Customer examples: High Plains Bank, summer camps, laboratories -> /
+- Eco-conscious practices -> /
+- Community-focused, family values -> /
 </details>
 
 ---
@@ -139,27 +286,26 @@ The company emphasizes quality work, strong relationships, and being a true comm
 **Old description:** Skera Woodworks specializes in one-of-a-kind pieces that are custom made for each space.
 
 ## About
-Skera Woodworks operates from St. Louis, Missouri, where every item is handcrafted in its workshop. The family-owned business was born from a desire to create beautiful furniture and personalized pieces, though the founding year is not publicly disclosed.
+Skera Woodworks operates from St. Louis, Missouri, where every item is handcrafted in the company's workshop. The business is family owned and was born from a desire to create beautiful furniture and personalized pieces, though a specific founding year is not publicly disclosed.
 
-The company produces bespoke furniture, decorative pieces, and custom woodworking services tailored to each client's space. Its capabilities include handcrafted joinery and custom CNC work, allowing for one-of-a-kind pieces made from sustainably sourced wood. No facility size, headcount, or production volumes are published.
+The company produces bespoke furniture, decorative pieces, and custom woodworking services tailored to each client's space. Its capabilities include handcrafted joinery and custom CNC work, allowing for one-of-a-kind pieces made to order. No facility size, headcount, or production volumes are publicly disclosed.
 
-Skera Woodworks serves residential customers seeking statement pieces for their homes as well as commercial clients needing professional services for larger projects. The firm emphasizes custom solutions for a variety of settings, though specific industry sectors are not detailed.
+Skera Woodworks serves residential customers seeking statement pieces for their homes as well as professional clients requiring custom woodworking for larger projects. The company emphasizes sustainably sourced materials and a commitment to exceptional value and customer satisfaction across both markets.
 
-The company says its differentiation lies in its commitment to exceptional value and customer satisfaction, rooted in the original vision of creating beautiful, personalized furniture. Sustainably sourced materials and a family-owned structure further define its approach.
+Founded on a desire to create beautiful, personalized furniture, Skera Woodworks differentiates itself through its family-owned structure, use of sustainably sourced materials, and the ability to deliver custom CNC work alongside traditional handcrafted methods.
 
 ## Known for
 - Handcrafted in St. Louis, MO, USA
-- Custom CNC work for personalized pieces
-- Sustainably sourced wood materials
-- Family-owned and operated
-- One-of-a-kind pieces custom made for each space
+- Family owned
+- Sustainably sourced materials
+- Custom CNC work
 
 ## Capabilities
-- Custom CNC machining
-- Handcrafted furniture making
+- Custom furniture manufacturing
+- CNC machining
+- Handcrafted woodworking
+- Decorative wood pieces
 - Custom woodworking services
-- Decorative woodwork
-- Bespoke furniture design
 
 ## Industries
 - Residential
@@ -173,14 +319,12 @@ The company says its differentiation lies in its commitment to exceptional value
 <details><summary>Sources</summary>
 
 - Location: St. Louis, MO -> /
-- Handcrafted production -> /
-- Family-owned -> /
-- Born from desire to create beautiful furniture -> /
-- Bespoke furniture, decorative pieces, custom woodworking services -> /
-- Custom CNC work -> /
+- Family owned -> /
 - Sustainably sourced materials -> /
-- Serves residential (home) and commercial (larger project) clients -> /
-- Commitment to exceptional value and customer satisfaction -> /
+- Custom CNC work -> /
+- Handcrafted furniture and decorative pieces -> /
+- Serves residential and commercial clients -> /
+- Founded from desire to create beautiful furniture -> /
 </details>
 
 ---
@@ -190,87 +334,78 @@ The company says its differentiation lies in its commitment to exceptional value
 **Old description:** SkyWater is a U.S.-based, pure-play semiconductor manufacturer and a DMEA-accredited Trusted supplier.
 
 ## About
-SkyWater Technology is headquartered in Bloomington, Minnesota. The company took shape in 2017 when it acquired the fabrication facility originally established by Cypress Semiconductor in 1991. Now a wholly owned subsidiary of IonQ, SkyWater operates as the largest exclusively U.S.-based semiconductor foundry with no foreign controlling interest.
+SkyWater Technology is headquartered in Bloomington, Minnesota. The company was formed in 2017 when it acquired the Bloomington fabrication facility originally established by Cypress Semiconductor in 1991. SkyWater operates as a wholly owned subsidiary of IonQ and is described as the largest exclusively U.S.-based semiconductor foundry with no foreign controlling interest.
 
-SkyWater provides pure-play foundry services including wafer manufacturing, advanced packaging, heterogeneous integration, and technology development across three U.S. facilities. The Bloomington flagship fab runs 200 mm equipment in a 91,000 sq ft class 10 cleanroom supporting 90 nm and larger geometries. The Kissimmee, Florida site adds 200/300 mm advanced packaging in a 36,000 sq ft class 1,000/10,000 cleanroom. The Austin, Texas fab, acquired in 2025, brings 200 mm equipment, a 114,000 sq ft class 1 cleanroom, 30,000 sq ft of probe and test, and 65 nm+ capability.
+The company provides semiconductor foundry services including wafer manufacturing, advanced packaging, and technology development across three U.S. facilities. Its flagship Bloomington fab offers 91,000 square feet of Class 10 cleanroom space with 200 mm equipment supporting 90 nm and larger geometries. The Kissimmee, Florida facility adds 36,000 square feet of Class 1,000 and 10,000 cleanroom space with 200/300 mm equipment for advanced packaging and heterogeneous integration. The Austin, Texas fab (acquired in 2025) provides 114,000 square feet of Class 1 cleanroom, 30,000 square feet of probe and test area, and 200 mm equipment capable of 65 nm geometries. SkyWater’s process portfolio spans CMOS, MEMS, photonics, superconducting devices, rad-hard technologies, and read-out integrated circuits (ROICs).
 
-The foundry serves fabless companies, integrated device manufacturers, OEMs, startups, government agencies, and research organizations across quantum computing, automotive, aerospace and defense, high-performance computing and AI, industrial, and biomedical markets. Its DMEA-accredited Trusted supplier status qualifies it for radiation-hardened and other mission-critical programs.
+SkyWater serves customers in quantum computing, automotive, aerospace and defense, high-performance computing and AI, industrial, and biomedical markets. Its customer base includes fabless semiconductor companies, integrated device manufacturers (IDMs), original equipment manufacturers (OEMs), startups, government agencies, and research organizations. Notable partnerships include collaboration with IonQ on quantum processors and the ThermaView™ product line for advanced ROICs used in aerospace, defense, automotive, and industrial applications.
 
-SkyWater differentiates itself through a collaborative Technology-as-a-Service model that aims to accelerate customers from concept to production, secure domestic supply chains, and support national technology leadership.
+SkyWater differentiates itself through a collaborative foundry model branded as Technology-as-a-Service (TaaS), which aims to accelerate the path from concept to production. The company emphasizes secure, domestic manufacturing to support resilient supply chains and national technology leadership, and it holds DMEA accreditation as a supplier for defense applications.
 
 ## Known for
-- Largest exclusively U.S.-based semiconductor foundry
-- Only U.S. foundry free of foreign controlling interest
-- DMEA-accredited Trusted supplier
-- Technology-as-a-Service (TaaS) engagement model
-- Three domestic fabrication facilities with advanced packaging and heterogeneous integration
+- Largest exclusively U.S.-based semiconductor foundry with no foreign controlling interest
+- Technology-as-a-Service (TaaS) engagement model for accelerated development
+- Multi-Project Wafer (MPW) services for low-cost, rapid prototyping
+- DMEA-accredited Trusted supplier for defense and aerospace
+- Three domestic fabrication facilities supporting 200 mm and 300 mm processing
 
 ## Capabilities
-- Semiconductor wafer manufacturing
+- Wafer manufacturing
 - Advanced packaging
 - Heterogeneous integration
-- Technology development
-- High-volume production
-- Multi-project wafer (MPW) services
-- Technology-as-a-Service (TaaS)
-- Quantum device manufacturing
-- Superconducting qubit fabrication
 - MEMS fabrication
 - Photonics fabrication
-- Radiation-hardened (rad-hard) by process manufacturing
-- Read-out integrated circuit (ROIC) manufacturing
-- CMOS manufacturing
-- Probe and test services
-- 200 mm wafer processing
-- 300 mm wafer processing
-- 90 nm+ feature geometry
-- 65 nm+ feature geometry
+- Superconducting device fabrication
+- Rad-hard by process
+- CMOS fabrication
+- ROIC manufacturing
+- Multi-Project Wafer (MPW) services
+- Technology-as-a-Service (TaaS)
+- Quantum solutions development
+- Technology development
+- High-volume production
+- Probe and test
 
 ## Industries
 - Quantum Computing
 - Automotive
-- Aerospace & Defense
-- High-Performance Computing & AI
+- Aerospace and Defense
+- High-Performance Computing and AI
 - Industrial
 - Biomedical
 
 ## Equipment
 - 200 mm wafer processing equipment
 - 300 mm wafer processing equipment
-- 91,000 sq ft class 10 cleanroom with SMIF
-- 36,000 sq ft class 1,000 and 10,000 cleanroom
-- 114,000 sq ft class 1 cleanroom
-- 30,000 sq ft probe and test facility
-- 90 nm+ feature geometry capability
-- 65 nm+ feature geometry capability
+- Class 1 cleanroom
+- Class 10 cleanroom
+- Class 1,000 cleanroom
+- Class 10,000 cleanroom
+- Probe and test equipment
 
 ## Certifications
-- ISO9001
-- AS9100
-- ISO13485
-- ISO14001
-- IATF16949
+- AS 9100
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2017
-- **Ownership:** Wholly owned subsidiary of IonQ
+- **Ownership:** Wholly owned subsidiary of IonQ; U.S.-based with no foreign controlling interest
 - **Headquarters:** Bloomington, Minnesota
 
 <details><summary>Sources</summary>
 
-- SkyWater is a U.S.-based semiconductor manufacturer and foundry -> /
-- Roots trace back to Bloomington facility established by Cypress Semiconductor in 1991 -> /about-us
-- Acquisition of facility in 2017 -> /about-us
-- Three facilities in Bloomington, MN; Kissimmee, FL; Austin, TX -> /about-us
-- Bloomington: 200mm equipment, 91,000 sq ft cleanroom (class 10 + SMIF), 90nm+ feature geometries -> /about-us
-- Kissimmee: 200/300mm equipment, 36,000 sq ft cleanroom (class 1,000 & 10,000) -> /about-us
-- Austin: acquired 2025, 200mm equipment, 114,000 sq ft cleanroom (class 1), 30,000 sq ft probe and test, 65nm+ feature geometries -> /about-us
+- Headquarters in Bloomington, Minnesota -> /about-us
+- Founded in 2017 via acquisition of Cypress Semiconductor facility -> /about-us
 - Wholly owned subsidiary of IonQ -> /about-us
+- Three U.S. fabrication facilities (Bloomington, Kissimmee, Austin) -> /about-us
+- Facility sizes and cleanroom classes -> /about-us
+- Process portfolio: CMOS, MEMS, photonics, superconducting, rad-hard, ROICs -> /about-us and /
+- Industries served: quantum computing, automotive, aerospace & defense, HPC/AI, industrial, biomedical -> /about-us and /services
+- Technology-as-a-Service (TaaS) model -> / and /services
+- Multi-Project Wafer services -> / and /services
+- DMEA-accredited Trusted supplier -> db (description)
 - Certifications: ISO9001, AS9100, ISO13485, ISO14001, IATF16949 -> db
-- Industries served: Quantum Computing, Automotive, Aerospace + Defense, High-Performance Computing + AI, Industrial, Biomedical -> /services
-- Services: Semiconductor Foundry Services, Technology-as-a-Service, Multi-Project Wafer Services, Quantum Solutions -> /services
-- Advanced Packaging, Superconducting, MEMS + Photonics, Rad-Hard, ROICs, CMOS -> /
+- Largest exclusively U.S.-based foundry with no foreign controlling interest -> /about-us
 </details>
 
 ---
@@ -280,47 +415,33 @@ SkyWater differentiates itself through a collaborative Technology-as-a-Service m
 **Old description:** Since 2008, Skyfood Equipment LLC has been dedicated to providing
 
 ## About
-Skyfood Equipment LLC was founded in 2008 and operates from Miami, Florida. The company maintains its office at 175 SW 7th Street, Suite 2416, and serves customers across the United States. Ownership structure and founder names have not been publicly disclosed.
+Skyfood Equipment LLC was founded in 2008 in Miami, Florida. The company operates from an office at 175 SW 7th Street, Suite 2416, and serves customers across the United States.
 
-The company supplies a broad range of commercial food service equipment, including slicers, scales, blenders, peelers, food processors, cutter mixers, shredders, graters, meat processing equipment, bakery equipment, juicers, drink machines, vacuum packaging and sealing machines, and cooking and hot food equipment. It markets its own SKYFOOD brand and distributes equipment from EASY WEIGH, SWEDLINGHAUS, and TOMASI. Skyfood also provides spare parts, technical support, and a customer service team that promises rapid, guaranteed service nationwide.
+The company distributes a broad range of commercial food service equipment under its own SKYFOOD brand as well as the EASY WEIGH, SWEDLINGHAUS, and TOMASI lines. Its product catalog includes slicers, scales, blenders, peelers, food processors and cutter mixers, shredders and graters, meat processing equipment, bakery equipment, juicers and drink machines, vacuum packaging and sealing machines, and cooking and hot food equipment. Skyfood also supplies spare parts and provides technical support for the equipment it sells.
 
-Skyfood’s customers span food service operations such as restaurants, bakeries, meat processors, institutional kitchens, and food production facilities. The company emphasizes building lasting partnerships with these clients and has consistently expanded its product line and technical capabilities since its founding.
+Skyfood’s customers are primarily food service operations such as restaurants, bakeries, delis, butcher shops, and commercial kitchens that require reliable food preparation and processing machinery. The company emphasizes building lasting partnerships with these operators.
 
-Skyfood differentiates itself through its multi-brand portfolio, a focus on responsive service and spare parts availability, and a commitment to growing alongside its customers. The company highlights its rapid, guaranteed service across the US and its dedication to exceeding customer expectations.
+Skyfood differentiates itself by offering rapid, guaranteed service nationwide through a dedicated customer service team. Since its founding, the company has consistently expanded its product line and enhanced its technical capabilities to meet evolving kitchen needs.
 
 ## Known for
 - Rapid, guaranteed service across the US
-- Own SKYFOOD brand plus distribution of EASY WEIGH, SWEDLINGHAUS, and TOMASI equipment
-- Spare parts supply and technical support
-- Focus on lasting customer partnerships
-- Consistently expanded product line and technical capabilities
+- Dedicated customer service team for support and parts
+- Spare parts availability for all sold equipment
+- Multi-brand portfolio including SKYFOOD, EASY WEIGH, SWEDLINGHAUS, TOMASI
+- Continuous product line expansion and technical enhancement
 
 ## Capabilities
-- Commercial food equipment distribution
+- Equipment distribution
 - Spare parts supply
-- Technical support and service
+- Customer service and technical support
 - Product consultation
-- Multi-brand equipment sourcing
-- Catalogue distribution
-- Customer service
-
-## Industries
-- Food service
-- Commercial kitchen
-- Bakery
-- Meat processing
-- Food processing
-- Beverage service
-- Hospitality
-- Institutional food service
+- Catalogue and product information provision
 
 ## Equipment
-- EASY WEIGH scales
-- SWEDLINGHAUS equipment
-- TOMASI equipment
-- SKYFOOD slicers
-- SKYFOOD food processors
-- SKYFOOD vacuum packaging machines
+- SKYFOOD
+- EASY WEIGH
+- SWEDLINGHAUS
+- TOMASI
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -329,15 +450,15 @@ Skyfood differentiates itself through its multi-brand portfolio, a focus on resp
 
 <details><summary>Sources</summary>
 
-- Founded in 2008 -> db
-- Headquarters in Miami, Florida -> db
-- Office address 175 SW 7th Street Suite 2416, Miami, FL 33130 -> page '/'
-- Own brand SKYFOOD -> page '/'
-- Distributes EASY WEIGH, SWEDLINGHAUS, TOMASI -> page '/'
-- Product categories: slicers, scales, blenders, peelers, food processors, cutter mixers, shredders, graters, meat processing, bakery, juicers, vacuum packaging, cooking equipment -> page '/'
-- Offers spare parts, customer service, technical support -> page '/'
-- Rapid, guaranteed service across US -> capabilities array
-- Focus on lasting partnerships and expanding product line -> products array
+- Founded 2008 -> db
+- Headquarters Miami, FL -> db
+- Office address 175 SW 7th Street Suite 2416, Miami, FL 33130 -> /
+- Brands: SKYFOOD, EASY WEIGH, SWEDLINGHAUS, TOMASI -> /
+- Product categories: slicers, scales, blenders, peelers, food processors, cutter mixers, shredders, graters, meat processing, bakery, juicers, vacuum packaging, cooking equipment -> /
+- Services: spare parts, customer service, sales -> /
+- Rapid guaranteed service across US -> /
+- Focus on lasting partnerships -> /
+- Expanded product line and enhanced technical capabilities -> /
 </details>
 
 ---
@@ -347,34 +468,36 @@ Skyfood differentiates itself through its multi-brand portfolio, a focus on resp
 **Old description:** Transform your living space with Skys in Pine's handcrafted furniture.
 
 ## About
-Based in Pine, Arizona, Skys In Pine Live Edge Rustic Furniture Gallery operates as Sky's In Pine LLC, producing handcrafted rustic furniture from salvaged wood. The company maintains a showroom gallery at 3824 AZ-87 and a woodyard at 4042 AZ-87, both in Pine, Arizona.
+Based in Pine, Arizona, Skys in Pine has spent over 50 years producing high-end rustic furniture. The company operates a showroom gallery at 3824 AZ-87 and a woodyard at 4042 AZ-87, both in Pine, where it manufactures and sells live-edge pieces directly to customers.
 
-The shop builds live-edge tables, bars, bedroom sets, dining pieces, and office furniture, along with smaller items such as mirrors, burl-wood clocks, lazy Susans, and decorative saw art. All pieces are handcrafted on site, and the company accepts custom orders for residential and commercial projects.
+The shop specializes in handcrafted live-edge furniture, accessories, and gifts, including tables, beds, mirrors, clocks, and decorative items. All products are built from salvaged wood — dead down, dead standing, or nuisance trees sourced from private lands or under National Forest permits — and are fabricated on-site at the company's manufacturing ranch.
 
-Customers include homeowners, interior designers, and hospitality buyers looking for rustic furnishings with a Southwestern character. The product line spans living-room, bedroom, dining-room, and office collections, sold directly through the gallery and via custom commission.
+Skys in Pine serves residential and commercial clients, outfitting living rooms, bedrooms, dining rooms, and offices with custom rustic designs. The company also produces a line of smaller gifts such as hat hangers, bottle openers, and burl-wood wall clocks for retail and direct sale.
 
-The company states that its lumber comes exclusively from salvaged dead-down, dead-standing, or nuisance trees harvested on private land or under National Forest permits, a sourcing method it highlights as a core differentiator. It also promotes five decades of rustic furniture manufacturing experience.
+The business emphasizes its sustainable material sourcing and hands-on craftsmanship as key differentiators, highlighting that every piece originates from reclaimed timber and is shaped by master woodworkers. Custom orders are accepted through the gallery or by phone.
 
 ## Known for
-- Salvaged wood sourced from dead/downed trees and National Forest permits
-- Handcrafted live-edge rustic furniture
-- Custom furniture orders accepted
-- Showroom gallery and woodyard on AZ-87 in Pine, AZ
-- Five decades of rustic furniture manufacturing experience
+- Salvaged wood sourced from dead down, dead standing, or nuisance trees on private lands and via National Forest permits
+- Handcrafted live-edge rustic furniture made on-site
+- Custom order capabilities for residential and commercial projects
+- Showroom gallery and woodyard co-located in Pine, Arizona
+- Over 50 years of rustic furniture manufacturing experience
 
 ## Capabilities
-- Handcrafted furniture manufacturing
-- Live edge slab processing
-- Custom furniture design and build
-- Saw art carving
-- Wood salvaging and milling
+- Live edge furniture manufacturing
+- Custom furniture design
+- Handcrafted woodworking
+- Salvaged wood processing
+- Fine saw art
 - Furniture finishing
-- Retail showroom operations
+- Showroom gallery
+- Woodyard operations
 
 ## Industries
 - Residential furniture
-- Commercial furniture
-- Hospitality furniture
+- Office furniture
+- Custom woodworking
+- Gift manufacturing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -382,13 +505,15 @@ The company states that its lumber comes exclusively from salvaged dead-down, de
 
 <details><summary>Sources</summary>
 
-- Located in Pine, Arizona -> /
-- Manufactures handcrafted rustic furniture -> /
-- Uses salvaged wood from dead/downed trees and National Forest permits -> /
-- Operates showroom gallery and woodyard at two AZ-87 locations -> /
-- Offers custom furniture orders -> /
-- Company name Sky's In Pine LLC -> /
-- Claims 50 years of rustic furniture manufacturing -> /
+- Location: Pine, Arizona -> /
+- 50 years of high-end rustic furniture manufacturing -> /
+- Showroom gallery at 3824 AZ-87 and woodyard at 4042 AZ-87 -> /
+- Handcrafted live-edge furniture, accessories, gifts -> /
+- Salvaged wood sourcing (dead down, dead standing, nuisance trees) from private lands and National Forest permits -> /
+- Manufacturing ranch on-site -> /
+- Serves residential and commercial clients (living room, bedroom, dining room, office) -> /
+- Custom order acceptance -> /
+- Product categories: tables, beds, mirrors, clocks, decorative items, hat hangers, bottle openers -> /
 </details>
 
 ---
@@ -398,38 +523,41 @@ The company states that its lumber comes exclusively from salvaged dead-down, de
 **Old description:** No need to demand “representative.” Our Midwest based, family-owned company was founded by a urologist who treasures values and personalized service.
 
 ## About
-Sloan Medical operates from Omaha, Nebraska, as a family-owned business founded by urologist Stewart Sloan. The company began over three decades ago when Sloan, drawing on firsthand experience in the operating room, set out to create protective gear that addressed the real challenges surgeons face during procedures.
+Founded over 30 years ago in Omaha, Nebraska, Sloan Medical is a family-owned business started by urologist Stewart Sloan. The company began with a surgeon’s perspective on protective equipment, aiming to create PPE that addresses the real challenges of the operating room.
 
-The company manufactures two primary product lines. Sta-Dri includes impermeable knee-high coverings, aprons, bootleg leggings, and non-skid shoe covers that have passed ASTM F1671 viral penetration resistance testing. The ezGLIDE line consists of sterile, disposable single-use patient transfer sheets designed to replace reusable transfer boards and eliminate the cleaning products those boards require. All items are produced in North America using a one-size-fits-all approach that consolidates inventory to a single SKU per product, and most orders ship within 24 hours.
+Sloan Medical designs and manufactures a focused line of surgical PPE, including the Sta-Dri series of impermeable gowns, shoe covers, boot covers, aprons, and leggings, as well as ezGLIDE sterile disposable patient transfer sheets. All products are designed and produced in North America, with each item undergoing ASTM F1671 viral penetration resistance testing. The company emphasizes one-size-fits-all designs to simplify inventory, and most stocked items ship within 24 hours. The product range excludes gloves, masks, respirators, and face shields.
 
-Sloan Medical serves hospitals, surgical centers, and veterinary facilities across the United States. Its PPE is used by surgeons, circulating nurses, OR technicians, and other frontline staff, while the ezGLIDE sheets support patient transfers in nursing facilities and postmortem care settings. The company also sells through a distributor network that includes American Medical Depot, Bowers Medical Supply, Healthmark Industries, and Medline Industries.
+The primary customers are hospitals, surgical centers, and veterinary facilities across the United States. Surgeons, circulating nurses, OR technicians, and veterinary professionals use the PPE. The company also sells through distributors such as American Medical Depot, Bowers Medical Supply, Healthmark Industries, and Medline Industries.
 
-The business was built on the premise that PPE should be designed by clinicians who understand the operating room. That origin drives a focus on impermeability, comfort, non-skid safety, and durability—backed by ASTM testing and domestic production to avoid overseas supply disruptions. Personalized service remains a stated priority, with the company emphasizing direct access over layered sales structures.
+Sloan Medical differentiates itself through surgeon-led design, North American manufacturing that avoids overseas supply-chain delays, and a commitment to personalized service without requiring customers to go through sales representatives. The non-skid tread integrated into footwear covers and the single-use transfer sheets that eliminate cleaning chemicals are cited as key safety and efficiency features.
 
 ## Known for
 - Designed by surgeons for real surgical needs
 - ASTM F1671 viral penetration resistance testing on all disposable PPE
-- One-size-fits-all design reduces inventory to a single SKU per product
-- Non-skid tread molded into plastic coverings to prevent falls
-- North American manufacturing with most products shipping within 24 hours
+- Manufactured in North America with most products shipping within 24 hours
+- One-size-fits-all garments reduce inventory to a single SKU
+- Non-skid tread built into footwear covers to prevent falls
 
 ## Capabilities
-- Surgical PPE manufacturing (gowns, drapes, coverings)
-- Disposable patient transfer sheet manufacturing
-- ASTM F1671 compliance testing
-- North American production
+- PPE design and manufacturing
+- ASTM F1671 viral penetration resistance testing
+- North American manufacturing
 - 24-hour shipping on stocked items
+- One-size-fits-all garment design
+- Non-skid tread integration
+- Disposable single-use patient transfer sheets
 - Free sample program
 - EDI ordering capability
 - Distributor network management
 
 ## Industries
-- Healthcare / Hospitals
+- Healthcare
+- Hospitals
 - Surgical centers
 - Veterinary medicine
-- Nursing facilities / long-term care
+- Veterinary education
+- Nursing facilities
 - Postmortem care
-- Medical distribution
 
 ## Certifications
 - ASTM F1671
@@ -441,22 +569,24 @@ The business was built on the premise that PPE should be designed by clinicians 
 
 <details><summary>Sources</summary>
 
-- Headquarters in Omaha, Nebraska -> db
-- Family-owned, founded by urologist Stewart Sloan -> /about
-- Over 30 years in business -> /, /about
-- Manufactures Sta-Dri PPE (impermeable coverings, aprons, leggings, shoe covers) -> /
-- Manufactures ezGLIDE sterile disposable patient transfer sheets -> /
-- ASTM F1671 viral penetration resistance testing -> /, /about
-- One-size-fits-all single SKU approach -> /, /about
-- North American manufacturing -> /, /about
-- Most products ship within 24 hours -> /, /about
-- Serves hospitals, surgical centers, veterinary facilities, nursing facilities, postmortem care -> /, /about
+- Founded over 30 years ago -> /
+- Family-owned -> /
+- Founder Stewart Sloan, urologist -> /about
+- Headquarters Omaha, Nebraska -> db
+- Manufactures Sta-Dri PPE and ezGLIDE transfer sheets -> /
+- All products designed and manufactured in North America -> /
+- ASTM F1671 viral penetration resistance testing -> /
+- One-size-fits-all design reduces inventory to single SKU -> /
+- Most products ship within 24 hours -> /
+- Non-skid tread built into plastic to prevent falls -> /
+- Disposable single-use patient transfer sheets eliminate cleaning products -> /
+- Primary customers: hospitals, surgical centers, veterinary facilities -> /
 - Distributors: American Medical Depot, Bowers Medical Supply, Healthmark Industries, Medline Industries -> /
-- Free samples available -> /, /about
-- EDI ordering available -> /
 - Does not manufacture gloves, masks, respirators, face shields -> /
+- Free samples available -> /
+- EDI ordering -> /
 - Core values: Excellence, Integrity, Safety, Confidence -> /about
-- Team: Stewart Sloan (Founder/Urologist), Joe Reischl (VP), Jeff Reischl (CFO), Dirk Worner (National Sales), Kadi Hicklin (Accounts), Teresa Holck (CSR) -> /about
+- Leadership team listed -> /about
 </details>
 
 ---

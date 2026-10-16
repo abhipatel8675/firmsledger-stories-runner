@@ -1,35 +1,114 @@
 # Penn Metal Fabricators Inc
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** perform all operations from raw material to finished product in house from customers drawings and cad files.
+
+## About
+Penn Metal Fabricators Inc. was founded in 1969 in Ebensburg, Pennsylvania. The company operates a 175,000-square-foot facility there, housing complete fabrication and machine shops under one roof.
+
+The shop performs all operations from raw material to finished part, working from customer drawings or CAD files. Capabilities include CNC laser cutting of sheet and tube, plasma cutting, punching, bending, automatic sawing, and tube bending; CNC vertical machining, horizontal milling and boring, and lathe turning; robotic and manual MIG/TIG welding; and finishing via powder coat, wet enamel, CARC, and chemical conversion coating. The company also handles assembly and packaging, and maintains an in-house repair shop to keep equipment running.
+
+Customers span the U.S. Military, which has sourced troop-support equipment and spare parts for more than 40 years; the U.S. Postal Service, which buys bulk-mail handling equipment and sorting-room furniture; the construction sector, receiving scissor- and boom-lift components; and the railroad industry, where parts are welded into rail cars. The about-us page adds aviation, biomedical, and electrical markets to the list.
+
+Penn Metal emphasizes its ability to deliver both one-off prototypes and long production runs on schedule, backed by an ISO 9001:2000 quality system and FaroArm CMM inspection. The firm says its combined staff experience exceeds 160 years and that its processes meet the strict requirements of both the military and the postal service.
+
+## Known for
+- Complete in-house fabrication from raw material to finished product
+- 175,000 sq. ft. facility with dedicated equipment repair shop
+- ISO 9001:2000 quality system with FaroArm CMM inspection
+- Over 40 years supplying the U.S. Military
+- Serves U.S. Postal Service, construction, railroad, aviation, biomedical, and electrical markets
+
+## Capabilities
+- CNC Laser Cutting (sheet/plate)
+- CNC Tubing Laser Cutting
+- CNC Plasma Cutting
+- CNC Punching
+- CNC Bending
+- Automatic Sawing
+- CNC Tube Bending
+- CNC Vertical Machining
+- CNC Horizontal Milling / Boring
+- CNC Lathe Turning / Boring
+- Drilling & Tapping
+- Robotic Welding
+- Manual MIG Welding
+- Manual TIG Welding
+- Powder Coating
+- Wet Coating
+- CARC Coating
+- Bare Metal Finishing
+- Chemical Conversion Coating (aluminum)
+- Assembly
+- Packaging
+- Quality Inspection (FaroArm CMM)
+- Deep Draw
+
+## Industries
+- U.S. Military
+- U.S. Postal Service
+- Construction
+- Railroad
+- Aviation
+- Biomedical
+- Electrical
+
+## Equipment
+- FaroArm CMM
+
+## Certifications
+- ISO 9001:2000
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1969
+- **Headquarters:** Ebensburg, PA
+
+<details><summary>Sources</summary>
+
+- Founded in 1969 -> /about-us
+- 175,000 sq. ft. plant in Ebensburg, PA -> /about-us
+- Supplies U.S. Military for over 40 years -> /
+- Supplies U.S. Postal Service with bulk mail handling equipment -> /
+- Produces scissor and boom lift parts for construction -> /
+- Manufactures parts welded into rail cars -> /
+- Industries: Aviation, Biomedical, Electrical -> /about-us
+- Capabilities: CNC laser cutting, tubing laser cutting, plasma cutting, punching, bending, sawing, tube bending, vertical machining, horizontal milling/boring, lathe turning/boring, drilling & tapping, robotic welding, manual MIG/TIG welding, powder coating, wet coating, CARC coating, bare metal finishing, assembly, packaging -> / and /capabilities
+- ISO9001:2000 Quality System -> /
+- FaroArm CMM inspection -> /
+- In-house repair shop -> /about-us
+- Complete fabrication from raw material to finished product -> / and /about-us
+- Over 160 years combined experience -> /about-us
+</details>
+
+---
 
 # Penny Fab, LLC
 
 **Old description:** Our expertise in design engineering will quickly turn your concept into product
 
 ## About
-Penny Fab, LLC operates from Columbus, Ohio, providing custom metal design and fabrication services. The company’s headquarters is located in the 43201 ZIP code. No founding year, ownership structure, or founder names are disclosed in public sources.
+Penny Fab, LLC operates from Columbus, Ohio, where it provides custom metal design and fabrication services. The company's founding year and ownership structure are not publicly disclosed, nor are its founders named in available materials. The business presents itself as a precision metal fabrication shop.
 
-The shop offers a range of metalworking processes under the banner of Custom Metal Design & Fabrication. Services listed include Design, Laser, Punching, Forming, Machining, and Welding. The company’s design engineering expertise is described as quickly turning concepts into products. Its 4,000-watt laser rapidly and precisely processes sheet metal parts up to 1 inch thick. A new 3-axis mill adds precision metalworking capacity. These capabilities allow the company to take a concept through to finished metal parts.
+The shop offers a range of metalworking processes including design engineering, laser cutting, punching, forming, machining, and welding. A 4,000-watt laser cuts sheet metal up to one inch thick, and a recently added three-axis mill expands precision machining capacity. The company describes its capabilities as expert design, precision fabrication, and rapid turnaround at competitive prices. Facility size, headcount, and production volumes are not specified.
 
-Penny Fab serves customers requiring custom metal fabrication, though the company does not publicly list specific industry sectors or named clients. The website presents its services as suitable for clients needing rapid turnaround and competitive pricing.
+The company does not list specific industries or customer types in its public materials. Its services target any client requiring custom sheet-metal parts and fabricated assemblies, with design engineering support to move concepts into production.
 
-The company emphasizes expert design, precision fabrication, and rapid turnaround at competitive prices as its core value proposition, stating that it offers 'expert design, precision fabrication, and rapid turnaround — all for competitive prices.' This positioning is highlighted across its service descriptions.
+Penny Fab emphasizes design engineering to turn concepts into products quickly, promoting rapid turnaround and competitive pricing as its core value proposition. The addition of the three-axis mill is noted as opening new opportunities for precision metalwork.
 
 ## Known for
-- 4,000-watt laser cutting for sheet metal up to 1" thick
-- 3-axis CNC milling for precision metalwork
-- Rapid turnaround on custom fabrication
-- Competitive pricing on design and fabrication services
-- Expert design engineering from concept to product
+- 4000w laser processes sheet metal up to 1" thick
+- 3-axis mill for precision metalwork
+- Design engineering turns concepts into products
+- Rapid turnaround at competitive prices
 
 ## Capabilities
-- Custom metal design and fabrication
+- Custom metal design & fabrication
 - Precision fabrication
 - Design engineering
 - Laser cutting
 - Punching
 - Forming
-- CNC machining (3-axis milling)
+- Machining
 - Welding
 
 ## Equipment
@@ -42,66 +121,116 @@ The company emphasizes expert design, precision fabrication, and rapid turnaroun
 
 <details><summary>Sources</summary>
 
-- Company name: Penny Fab, LLC -> db
-- Headquarters: Columbus, Ohio -> db
-- Address: 1055 Gibbard Ave, Columbus, Ohio 43201 -> /
-- Services: Custom Metal Design & Fabrication, Design, Laser, Punching, Forming, Machining, Welding -> /
+- Location: Columbus, Ohio -> /
+- Services: Design, Laser, Punching, Forming, Machining, Welding -> /
 - Equipment: 4000w laser, 3-axis mill -> /
-- Differentiators: expert design, precision fabrication, rapid turnaround, competitive prices -> /
-- No founding year, ownership, employee count, certifications, industries, volume, lead time, tolerances, min order, export compliance, languages, social links found -> /
+- Capability: sheet metal up to 1 inch thick -> /
+- Value proposition: expert design, precision fabrication, rapid turnaround, competitive prices -> /
+- Design engineering turns concepts into products -> /
 </details>
 
 ---
 
 # Performance Audio, LLC
 
-_skipped: not enough facts_
+**Old description:** Evidence Audio ESP-RA-S Tiny Pancake Right-Angle 1/4" TS Mono Cable Plug (4mm Cable)
+
+## About
+Performance Audio, LLC operates from Salt Lake City, Utah. The company has served the professional audio market for over four decades, though a specific founding year is not publicly disclosed. Ownership details and founder names are not stated in available sources.
+
+The business distributes professional audio equipment from brands such as Shure, Yamaha, JBL, Evidence Audio, SquarePlug, Rode, Amphenol, Mogami, Neutrik, and Canare. Its product range includes microphones, wireless systems, studio monitors, portable PA systems, digital mixing consoles, cables, connectors, bulk wire, heat-shrink tubing, and braided sleeving. In addition to retail and wholesale distribution, Performance Audio offers custom cable assembly — building speaker cables, XLR cables, instrument cables, headphone cables, audio snakes, and MIDI cables to order — and provides audio system design and integration services.
+
+Customers include recording studios, live-sound engineers, broadcast facilities, touring musicians, houses of worship, and AV integrators. Concrete examples from the catalog show Shure KSM and SM series microphones for podcast and studio use, Yamaha MGX and STAGEPAS mixing consoles and PA systems for live reinforcement, and JBL LSR reference monitors for critical listening environments.
+
+The company highlights its four-decade tenure in professional audio as a foundation for technical support, a large in-stock inventory for rapid fulfillment, free USA shipping on qualifying orders, and the ability to supply both off-the-shelf components and custom-engineered cable solutions.
+
+## Known for
+- Free USA shipping on orders over $49
+- Large in-stock inventory for fast shipping
+- Over 40 years of professional audio experience
+- Custom cable assembly services
+- Audio system design and integration
+
+## Capabilities
+- Custom cable assembly
+- Audio system design and integration
+- Professional audio equipment distribution
+- Bulk wire and cable supply
+- Connector and accessory sales
+
+## Industries
+- Professional audio
+- Live sound reinforcement
+- Studio recording
+- Broadcast
+- AV integration
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Headquarters:** Salt Lake City, Utah
+
+<details><summary>Sources</summary>
+
+- Headquarters: Salt Lake City, Utah -> db
+- Business type: distributor/reseller with custom cable assembly and system integration -> /
+- Brands carried: Shure, Yamaha, JBL, Evidence Audio, SquarePlug, Rode, Amphenol, Mogami, Neutrik, Canare -> /
+- Product categories: microphones, wireless systems, studio monitors, PA systems, mixing consoles, cables, connectors, bulk wire, heat-shrink, sleeving -> /
+- Custom cable services listed: speaker, XLR, instrument, headphone, snake, MIDI -> /
+- System design & integration service mentioned -> /
+- Free USA shipping $49+ -> /
+- Large inventory / fast shipping claim -> /
+- Over 40 years in pro audio business -> /
+- Industries implied by product mix: professional audio, live sound, studio, broadcast, AV -> /
+- Materials: oxygen-free copper, star-quad, heat-shrink, braided sleeving -> /
+</details>
+
+---
 
 # Performance Auto
 
 **Old description:** *$11.99 flat rate shipping on orders within Spee-Dee shipping area with the exception of products that require shipping quotes, have higher flat rate shipping or truck freight shipping.
 
 ## About
-Performance Auto operates from a facility at 3401 1/ in Fargo, North Dakota. The company runs an e-commerce platform at shopperformanceauto.com serving the motorsports market. No founding year or ownership details are disclosed publicly.
+Performance Auto is based in Fargo, North Dakota, where it operates a retail and online store serving the motorsports community. The company maintains a physical location at 3401 1/ and a dedicated e-commerce site, ShopPerformanceAuto.com, which it describes as a new online store to better serve customers.
 
-The business functions as a distributor and retailer of racing components, stocking products from over 100 brands including Aeroquip Performance Products, Automotive Racing Products, Bilstein Shocks, Holley, Wilwood Engineering, and Winters Performance. The catalog spans categories such as chassis components, engines, suspension, steering, brakes, drivetrain, safety equipment, and fluids. Orders are fulfilled through the online store with a $11.99 flat-rate shipping option for addresses within the Spee-Dee delivery network; truck freight and quote-based shipping apply to larger items.
+The business stocks a broad range of racing components across categories such as bodies and exterior, chassis, engines, suspension, steering, brakes, and drivetrain. It carries products from hundreds of manufacturers including Aeroquip Performance Products, Automotive Racing Products, Beyea Performance Fabrication, Bilstein Shocks, Holley, Wilwood Engineering, and many others. Orders placed through the website are shipped with a flat rate of $11.99 within the Spee-Dee delivery area, and the company provides phone support during weekday and Saturday hours.
 
-Customers include oval-track teams, sprint-car operators, kart racers, and performance shops seeking parts for dirt and asphalt competition. The brand roster covers manufacturers of shocks, wheels, fuel systems, ignition, transmission components, and chassis fabrication supplies. Technical support is available by phone during weekday and Saturday hours (Central Time).
-
-The company positions itself as a dedicated racing specialist with the tagline “In here, every day is race day,” emphasizing a focus on competition-oriented inventory rather than general automotive aftermarket.
+Performance Auto primarily serves the automotive racing market, supplying parts for sprint cars, kart racing, INEX Legends, and other oval-track and road-racing disciplines. Its customer base includes race teams, engine builders, chassis shops, and individual competitors looking for replacement or upgrade components. The company emphasizes that in-stock listings on the website do not guarantee immediate in-store pickup availability.
 
 ## Known for
-- $11.99 flat-rate shipping within Spee-Dee delivery area
-- Phone support Mon–Thu 9am–6pm, Fri 9am–5pm, Sat 9am–1pm CST
-- Online-only ordering platform with real-time stock display
-- Carries 100+ racing-specific brands
+- $11.99 flat-rate shipping on orders within the Spee-Dee delivery area
+- Website-only ordering with phone support Mon–Thu 9am–6pm, Fri 9am–5pm, Sat 9am–1pm (CST)
+- Extensive catalog of racing parts from hundreds of established brands
+- U.S.-based operation with a physical storefront in Fargo, ND
 
 ## Capabilities
-- Distribution of racing parts
-- E-commerce retail
-- Technical phone support
-- Order fulfillment
+- Website order processing
+- Flat-rate shipping (Spee-Dee area)
+- Phone customer support (CST hours)
+- Product sourcing from multiple manufacturers
 
 ## Industries
 - Automotive racing
-- Dirt track racing
-- Sprint car racing
 - Kart racing
-- Motorsports
+- Sprint car racing
+- Legend car racing
 
 ## Company details
 - **Company Type:** Distributor / reseller
-- **Headquarters:** Fargo, North Dakota
+- **Headquarters:** Fargo, ND
 
 <details><summary>Sources</summary>
 
-- Headquarters address: 3401 1/2 Interstate Boulevard, Fargo, ND 58103 -> db and page '/'
-- Website: shopperformanceauto.com -> db
-- Phone: 1-800-373-4641 with support hours -> page '/'
-- Flat-rate shipping $11.99 within Spee-Dee area -> page '/'
-- Carries 100+ racing brands (list) -> page '/'
-- LinkedIn URL -> db
-- Copyright 2024 -> page '/'
+- Headquarters in Fargo, North Dakota -> db
+- Physical address: 3401 1/2 Interstate Boulevard, Fargo, ND 58103 -> /
+- Flat-rate shipping $11.99 within Spee-Dee area -> /
+- Website-only orders with phone support hours Mon-Thu 9am-6pm, Fri 9am-5pm, Sat 9am-1pm CST -> /
+- Online store at ShopPerformanceAuto.com -> /
+- Carries racing parts from brands such as Aeroquip, Automotive Racing Products, Beyea Performance Fabrication, Bilstein, Holley, Wilwood, etc. -> /
+- Product categories include bodies, chassis, engines, suspension, steering, brakes, drivetrain -> /
+- Serves automotive racing, kart racing, sprint car, INEX Legends markets -> /
+- Industries served: Automotive racing products, Energy Suspension -> db
+- LinkedIn profile: https://www.linkedin.com/company/27209936/ -> db
 </details>
 
 ---
@@ -111,61 +240,82 @@ The company positions itself as a dedicated racing specialist with the tagline �
 **Old description:** Located in Newberry, South Carolina, Performance Foodservice - Midlands delivers across the Carolinas and Georgia.
 
 ## About
-Performance Foodservice – Midlands operates from a distribution center at 11531 SC-34 in Newberry, South Carolina. The location serves as a regional hub for the broader Performance Foodservice network, delivering food and related supplies across South Carolina, North Carolina, and Georgia. The founding year of this specific facility is not publicly disclosed, nor is its ownership structure detailed beyond its affiliation with the national Performance Foodservice brand.
+Performance Foodservice – Midlands operates from a facility at 11531 SC-34 in Newberry, South Carolina. The division serves foodservice operators across South Carolina, North Carolina, and Georgia.
 
-The facility functions as a wholesale food distributor, supplying independent restaurants, multi-unit chains, hospitality venues, healthcare institutions, educational facilities, and government agencies. Its product range spans Carolina-grown staples, national brands, and custom-cut meats. The operation supports customers with online ordering platforms such as Meal Ticket Login and PFG One Source, along with loyalty programs including Performance Elite Rewards and the Bacio Gold Club. Headcount and facility square footage are not specified.
+The company distributes a broad assortment of food products, ranging from Carolina-grown staples to national brands, and supplements its catalog with smart technology platforms such as Meal Ticket Login and PFG One Source. Additional services include custom meat cutting through its Custom Cut Meats program and dependable delivery across its three-state territory.
 
-Customers span a wide spectrum of foodservice segments: independent and chain restaurants, pizzerias, bars, cafés, ghost kitchens, food trucks, catering services, hotels, resorts, casinos, theme parks, sports venues, country clubs, cruise lines, convenience stores, retail grocers, specialty shops, vending operators, meal-prep businesses, pop-up concessions, hospitals, senior living communities, rehabilitation centers, federal and state agencies, military bases, correctional facilities, nonprofits, faith-based organizations, community centers, K–12 schools, colleges, and childcare centers.
+Its customer base spans independent and multi-unit restaurants, pizzerias, bars, cafés, ghost kitchens, food trucks, catering services, hotels, resorts, casinos, theme parks, sports venues, country clubs, cruise lines, convenience stores, retail grocers, specialty shops, vending operators, meal-prep businesses, pop-ups, healthcare facilities, hospitals, senior living communities, rehabilitation centers, government and military agencies, correctional facilities, nonprofits, faith-based organizations, community centers, K-12 schools, colleges, universities, and childcare centers.
 
-The division emphasizes a “Big Reach. Local Roots.” positioning, promoting personalized service and technology tools to help kitchens stay stocked and steady. It highlights custom-cut meat capabilities and a commitment to Southern service as differentiators within the competitive foodservice distribution landscape.
+Performance Foodservice – Midlands emphasizes a combination of broad reach and local knowledge, describing its approach as delivering more than inventory by bringing a partner that understands Southern service expectations. The company’s messaging highlights consistency in categories such as barbecue and biscuits as a point of differentiation.
 
 ## Known for
-- Food distribution across South Carolina, North Carolina, and Georgia
-- Custom cut meats
-- Online ordering platforms (Meal Ticket Login, PFG One Source)
-- Loyalty programs (Performance Elite Rewards, Bacio Gold Club, Braveheart Gold Club)
-- Smart technology solutions for inventory and ordering
-- Personalized service model
+- Dependable delivery across South Carolina, North Carolina, and Georgia
+- Custom Cut Meats program for tailored protein portions
+- Smart technology platforms including Meal Ticket Login and PFG One Source
+- Carolina-grown staples alongside national brands
+- Personalized solutions for chefs and operators
 
 ## Capabilities
 - Food distribution
-- Delivery across South Carolina, North Carolina, and Georgia
-- Custom cut meats
-- Online ordering (Meal Ticket Login, PFG One Source)
-- Loyalty programs (Performance Elite Rewards, Bacio Gold Club, Braveheart Gold Club)
-- Smart technology solutions
-- Personalized solutions
+- Multi-state delivery (SC, NC, GA)
+- Custom meat cutting
+- Technology platform: Meal Ticket Login
+- Technology platform: PFG One Source
+- Product sourcing (local and national brands)
+- Customer support for menu planning
+- Online ordering and account management
 
 ## Industries
-- Restaurants & Foodservice Operators
-- Catering Services and Banquet Halls
-- Quick-Service and Fast Casual Restaurants
-- Retail & Non-Traditional Foodservice
-- Meal Prep Businesses and Subscription Services
+- Restaurants
+- Catering
+- Quick-Service Restaurants
+- Retail Foodservice
+- Meal Prep
 - K-12 School Foodservice
-- Hospitality & Entertainment
-- Healthcare Facilities
+- Healthcare
 - Government & Military
-- Nonprofit & Community-Focused Organizations
 - Education
+- Hospitality & Entertainment
+- Convenience Stores
+- Retail Grocers
+- Specialty Shops
+- Vending
+- Food Trucks
+- Ghost Kitchens
+- Bars
+- Cafés
+- Pizzerias
+- Hotels
+- Resorts
+- Casinos
+- Theme Parks
+- Sports Venues
+- Country Clubs
+- Cruise Lines
+- Correctional Facilities
+- Nonprofits
+- Faith-Based Organizations
+- Community Centers
+- Colleges
+- Universities
+- Childcare Centers
 
 ## Company details
 - **Company Type:** Distributor / reseller
-- **Headquarters:** Newberry, South Carolina
+- **Headquarters:** Newberry, SC
 
 <details><summary>Sources</summary>
 
-- Located in Newberry, South Carolina -> db
-- Delivers across the Carolinas and Georgia -> /
-- Address: 11531 SC-34, Newberry, SC 29108 -> /
-- Phone: (803) 276-0510 -> /
-- Provides quality products, smart technology, and personalized solutions -> /
-- Offers custom cut meats -> /
-- Online platforms: Meal Ticket Login, PFG One Source -> /
-- Loyalty programs: Performance Elite Rewards, Bacio Gold Club, Braveheart Gold Club -> /
-- Serves industries: Restaurants & Foodservice Operators, Catering Services, Quick-Service, Retail & Non-Traditional, Meal Prep, K-12 School Foodservice, Hospitality & Entertainment, Healthcare, Government & Military, Nonprofit, Education -> /
+- Location: Newberry, SC -> page: /
+- Delivery area: Carolinas and Georgia -> page: /
+- Address: 11531 SC-34, Newberry, SC 29108 -> page: /
+- Phone: (803) 276-0510 -> page: /
+- Services: quality products, smart technology, personalized solutions -> page: /
+- Custom Cut Meats program -> page: /
+- Technology platforms: Meal Ticket Login, PFG One Source, Market Trends, Performance Elite Rewards, Bacio Gold Club, Braveheart Gold Club -> page: /
+- Customer segments list -> page: /
 - LinkedIn URL -> db
-- Website -> db
+- Company name and description -> db
 </details>
 
 ---
@@ -175,47 +325,45 @@ The division emphasizes a “Big Reach. Local Roots.” positioning, promoting p
 **Old description:** Login to your account to access helpful features to expedite your checkout experience.
 
 ## About
-Performance Systems Integration, doing business as PSI Conversions, operates from Brick Township, New Jersey. The company’s origins trace back more than two decades to the development of its first standalone wiring harness for LS engine swaps, built on a combined 25-plus years of automotive electrical experience.
+Performance Systems Integration (PSI Conversions) operates from Brick Township, New Jersey, at 2029 Route 88. The company traces its roots to the creation of its first standalone wiring harness over two decades ago, an innovative layout that simplified ground and power installation and became an industry standard for LS engine swaps. Ownership details and founder names are not publicly disclosed.
 
-PSI designs and manufactures plug-and-play wiring harnesses for General Motors Gen II through Gen V LS and LT engines, including the LT1/LT4, LS1/LS6, Vortec, LS2, LS3, LS7, and LT/Ecotec3 families. Harnesses are assembled in-house using high-temperature cross-linked TXL or GXL wire, ultrasonic-welded splices, fusible-link protection, and OEM-specification terminals from suppliers such as Delphi/Aptiv, Yazaki, and Kostal. Each harness is wrapped in high-temp tape and either F6 PET braid or nylon split loom, then 100% functionally tested on computer-controlled Dynalab or Cirris equipment. Beyond harnesses, PSI supplies engine controller kits, transmission components, fuel systems, gauge clusters, and a curated selection of partner brands including Holley, Vintage Air, Dakota Digital, and HPTuners.
+PSI manufactures LS and LT swap standalone wiring harnesses for GM Gen II, III, IV, and V engines, along with engine controller kits, transmission parts, and related conversion components. Harnesses are built using high‑temperature cross‑linked polyethylene TXL or GXL wire, with splices made on an ultrasonic wire welder and protected by high‑temp heat shrink. Power circuits use fusible link wire and individual fuses; harnesses are taped and loomed with high‑temp tape, F6 Pet braid, or Nylon split loom. Terminals and connectors meet or exceed OEM specifications from Delphi/Aptiv, Yazaki, and Kostal. Every harness undergoes 100% functional testing on computer‑based Dynalab or Cirris equipment. The company also assembles engine controller kits and provides PCM programming services.
 
-The company serves the automotive aftermarket, targeting professional installers, restoration shops, and individual builders performing LS/LT swaps into a wide range of platforms—Chevrolet, Ford, Nissan, Jeep, Toyota, and classic hot rods. A dealer program extends reach to retail and installation partners.
+The primary customers are automotive aftermarket builders, hot‑rod shops, and individual enthusiasts performing LS/LT engine swaps. PSI’s product catalog covers a wide range of donor vehicles, including Chevrolet, Buick, Oldsmobile, Pontiac, Ford/Mustang, Nissan, Jeep, and Toyota platforms, as well as universal hot‑rod applications. A dealer program supports retail and installation shops.
 
-PSI emphasizes domestic production, rapid fulfillment (in-stock harnesses ship in one to three business days), and direct technical support available five days a week by phone and 24/7 by email. The original harness layout, developed for simplified ground and power routing, has become a de facto standard in the LS-swap community.
+PSI emphasizes domestic production, stating that its harnesses are made in the USA with top‑quality materials. It highlights a combined 25+ years of experience, phone support five days a week with 24/7 email access, and a commitment to shipping in‑stock harnesses within 1‑3 business days. The company’s original harness design is credited with setting the standard for the LS swap industry.
 
 ## Known for
-- Made in the USA with high-temp TXL/GXL wire and OEM-spec terminals
-- 100% computer-tested on Dynalab or Cirris equipment
-- In-stock harnesses ship in 1–3 business days
-- Ultrasonic-welded splices with high-temp heat shrink
-- Direct technical support by phone (Mon–Fri) and email 24/7
+- Harnesses manufactured in the USA with TXL/GXL wire
+- 100% computer‑tested on Dynalab or Cirris equipment
+- In‑stock harnesses ship in 1‑3 business days
+- 25+ years combined experience in LS swap wiring
+- Phone support 5 days/week, email 24/7
 
 ## Capabilities
 - Wiring harness manufacturing
 - Ultrasonic wire welding
-- High-temp cross-linked wire assembly (TXL/GXL)
-- Fusible link wire integration
-- High-temp tape and loom application (F6 PET braid, nylon split loom)
-- OEM-spec terminal crimping (Delphi/Aptiv, Yazaki, Kostal)
-- 100% functional testing (Dynalab/Cirris)
+- High‑temperature heat shrinking
+- Fusible link wire installation
+- Circuit fusing
+- Harness taping and looming (high‑temp tape, F6 Pet braid, Nylon split loom)
+- Terminal and connector assembly (Delphi/Aptiv, Yazaki, Kostal)
+- 100% functional testing (Dynalab, Cirris)
 - Engine controller kit assembly
 - PCM programming
-- Technical support for LS/LT swaps
-- Fuel system kit assembly
-- Gauge cluster integration
-- Transmission harness fabrication
-- Custom adapter and extension harnesses
+- Technical support
 
 ## Industries
 - Automotive aftermarket
-- Performance engine swaps
-- Hot rod and restoration
-- Off-road vehicles
+- Performance automotive
+- LS/LT engine swap
+- Hot rod
+- Custom vehicle fabrication
 
 ## Equipment
+- Ultrasonic wire welder
 - Dynalab test equipment
 - Cirris test equipment
-- Ultrasonic wire welder
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -223,15 +371,20 @@ PSI emphasizes domestic production, rapid fulfillment (in-stock harnesses ship i
 
 <details><summary>Sources</summary>
 
-- Location: Brick Township, New Jersey -> /
-- Origins: first standalone harness created over 20 years ago, combined 25+ years experience -> /
-- Products: LS/LT swap wiring harnesses for Gen II-V engines, engine controller kits, transmission parts, fuel systems, gauge clusters -> /
-- Manufacturing processes: TXL/GXL wire, ultrasonic welding, fusible links, OEM-spec terminals, high-temp tape/loom, 100% testing on Dynalab/Cirris -> /
-- Industries served: automotive aftermarket, LS/LT swaps for Chevrolet, Ford, Nissan, Jeep, Toyota, hot rods -> /
-- Differentiators: Made in USA, in-stock ship 1-3 days, direct tech support phone/email -> /
-- Equipment: Dynalab, Cirris, ultrasonic wire welder -> /
-- Materials: TXL, GXL, heat shrink, fusible link, tape, F6 PET braid, nylon loom, Delphi/Aptiv, Yazaki, Kostal terminals -> /
-- Company type evidence: 'A PSI Harness is made with top quality material right here in the USA.' -> /
+- Location: Brick Township, NJ (2029 Route 88) -> /
+- Harness created over 20 years ago, became industry standard -> /
+- Combined 25+ years experience -> /
+- Manufactures LS/LT standalone wiring harnesses for GM Gen II-V -> /
+- Uses TXL/GXL wire, ultrasonic welding, heat shrink, fusible links, fusing, taping/looming -> /
+- Terminals/connectors meet OEM specs (Delphi/Aptiv, Yazaki, Kostal) -> /
+- 100% tested on Dynalab/Cirris equipment -> /
+- Also offers engine controller kits, PCM programming -> /
+- Serves automotive aftermarket, hot rod, custom vehicle builders -> /
+- Vehicle coverage: Chevy, Buick, Oldsmobile, Pontiac, Ford, Nissan, Jeep, Toyota, hot rod -> /
+- Dealer program available -> /
+- Made in USA claim -> /
+- Phone support 5 days/week, email 24/7 -> /
+- In-stock harnesses ship 1-3 business days -> /
 </details>
 
 ---
@@ -241,25 +394,25 @@ PSI emphasizes domestic production, rapid fulfillment (in-stock harnesses ship i
 **Old description:** Skillfully crafted custom architectural millwork, custom designing and fabrication services for all your commercial needs
 
 ## About
-Performance Woodworking Inc. operates from Northglenn, Colorado, where it provides custom architectural millwork for commercial projects. The company's founding year and ownership structure are not publicly disclosed, and no founders are named in available sources. It began as a shop focused on skillfully crafted woodwork for commercial clients.
+Performance Woodworking Inc. is a custom millwork company based in Northglenn, Colorado. The firm does not publish its founding date or ownership details, but it presents itself as a specialist in architectural millwork for commercial clients.
 
-The firm specializes in custom architectural millwork, offering design, fabrication, and professional installation services. Its staff of qualified craftsmen uses modern machinery to produce each piece to precise specifications. Projects are managed from initial design through final installation, with the company emphasizing close coordination among architects, clients, and its own team.
+The company designs, fabricates, and installs custom architectural millwork using what it describes as state-of-the-art machinery and a staff of qualified craftsmen. Its services span the full project lifecycle, from initial design through fabrication to professional installation, with an emphasis on precision and close coordination between architects and clients. No facility size, headcount, or production volume figures are provided.
 
-Performance Woodworking serves commercial customers across the Denver metro area. Notable projects include the Shift Main Street development in Denver, as well as work for CLASS VI PARTNERS, Aspect Energy, Crusoe Energy, and Pindustry in Greenwood Village. These clients span commercial real estate and energy-sector facilities.
+Performance Woodworking serves commercial customers, with a portfolio that includes projects for Shift Main Street in Denver, CLASS VI PARTNERS in Denver, Aspect Energy in Denver, Crusoe Energy in Denver, and Pindustry in Greenwood Village. These references suggest work in commercial construction and the energy sector, though the company broadly targets any commercial need for custom millwork.
 
-The company says its differentiation lies in detailed communication throughout the project lifecycle, from design to installation, and in the precision achieved by its craftsmen using advanced equipment.
+The company states that its differentiation lies in its highly qualified craftsmen, modern equipment, and a detail-oriented approach that maintains close communication from architect to client while monitoring each project step from design through installation.
 
 ## Known for
+- Highly qualified craftsmen using state-of-the-art machinery
+- Close communication between architect and client throughout the project
 - End-to-end project monitoring from design through installation
-- Direct communication between architects, clients, and craftsmen
-- Precision fabrication using modern machinery
-- Professional installation included
 
 ## Capabilities
 - Custom architectural millwork
 - Custom design
 - Fabrication
 - Professional installation
+- Project management
 
 ## Industries
 - Commercial
@@ -270,12 +423,16 @@ The company says its differentiation lies in detailed communication throughout t
 
 <details><summary>Sources</summary>
 
-- Located in Northglenn, CO -> /about-us
-- Custom architectural millwork, design, fabrication, installation -> /about-us
-- Staff of highly qualified craftsmen using state of the art machinery -> /about-us
-- Close communication from architect to client, monitor project each step -> /about-us
+- Company name and location -> db
+- Custom millwork company description -> /about-us
+- Services: custom architectural millwork, custom designing, fabrication, installation -> /
+- Staff: highly qualified craftsmen, detail-oriented -> /
+- Equipment: state-of-the-art machinery (generic) -> /
+- Differentiation: close communication, project monitoring -> /
 - Featured project: Shift Main Street, Denver -> /
-- Clients: CLASS VI PARTNERS, Aspect Energy, CRUSOE ENERGY, Pindustry -> db
+- Client references: CLASS VI PARTNERS, Aspect Energy, Crusoe Energy, Pindustry -> db (products, industries_served)
+- Target market: commercial needs -> /
+- No founding year, ownership, employee count, certifications, specific equipment, materials, volume, lead time, tolerances, min order, export compliance, languages, social links -> db
 </details>
 
 ---
@@ -285,20 +442,20 @@ The company says its differentiation lies in detailed communication throughout t
 **Old description:** We look forward to hearing from you to get started on any of your custom fabrication needs.
 
 ## About
-Perry's Metal Fabrication operates from Mooresville, North Carolina, in the heart of the Lake Norman region. The shop was founded by Tim Perry, who brings over 30 years of hands-on metalworking experience to the business. It remains a family-owned operation, with Perry serving as owner and lead fabricator.
+Perry's Metal Fabrication operates from Mooresville, North Carolina, in the heart of the Lake Norman region. The shop was founded by Tim Perry, who brings over 30 years of hands-on welding and fabrication experience to the business. It remains a family-owned operation, with Perry serving as both owner and lead fabricator. The company began as a skilled trade outfit focused on precision metalwork for local clients.
 
-The company provides custom metal fabrication, welding (MIG, TIG, stick, and soldering), machining (lathe and mill work), bending, shearing, rolling, and repair services. It works with materials including aluminum, steel, stainless steel, 4130 chromoly, titanium, and sheet metal. Projects range from one-off brackets and frames to larger-scale builds such as race car roll cages, architectural railings, and industrial fixtures. The shop also coordinates third-party powder coating for finished parts.
+The shop provides custom metal fabrication, welding (MIG, TIG, stick, and soldering), bending, shearing, rolling, and CNC machining on lathes and mills. It works with aluminum, steel, stainless steel, 4130 chromoly, titanium, and sheet metal. Capabilities range from one-off brackets and frames to larger-scale production runs, including architectural metalwork such as gates, railings, and furniture frames, as well as repair and reinforcement of existing parts. The facility houses lathes, mills, and press brakes for cutting, shaping, and forming.
 
-Customers include homeowners, small businesses, auto and marine enthusiasts, and industrial clients across the Mooresville and Lake Norman area. Notable projects have included a fabrication project for a national warehouse chain, custom funnel and parts for a local ice cream shop, roll cages and chassis modifications for exotic auto shops and sprint cars, and a custom race hauler.
+Customers include homeowners, small businesses, auto and marine enthusiasts, and industrial clients across the Mooresville and Lake Norman area. Concrete projects include a custom roll cage for an exotic auto shop, sprint car chassis modifications, a fabricated race hauler, a funnel and parts for a local ice cream shop, and a fabrication project for a national warehouse chain. The shop also serves motorsports teams with specialized race car fabrication.
 
-The company emphasizes precision, durability, and clean craftsmanship, citing unmatched attention to detail and a commitment to treating every job as if it were its own. Quick turnaround times and direct communication are highlighted as key differentiators.
+The company emphasizes trust, communication, and treating every job as its own. Quick turnaround times are cited as a differentiator, and the shop coordinates with a third-party powder coating service to deliver finished parts. The focus on craftsmanship and customer satisfaction is presented as the core reason for the business's longevity.
 
 ## Known for
-- Over 30 years of hands-on fabrication and welding experience
-- Family-owned and operated with direct owner involvement
+- Family-owned with over 30 years of hands-on fabrication experience
 - In-shop fabrication with quick turnaround times
 - Coordinates third-party powder coating for finished parts
-- Serves diverse clients from homeowners to industrial accounts
+- Handles both one-off custom projects and larger-scale production
+- Specialized race car fabrication for local motorsports teams
 
 ## Capabilities
 - Custom metal fabrication
@@ -311,30 +468,33 @@ The company emphasizes precision, durability, and clean craftsmanship, citing un
 - Metal rolling
 - CNC machining (lathe)
 - CNC machining (mill)
-- Repair and reinforcement
-- Architectural and decorative metalwork
 - Stainless steel fabrication
 - Aluminum fabrication
+- Repair and reinforcement
+- Architectural metalwork
+- Decorative metalwork
 - Race car fabrication
 - Powder coating coordination (third-party)
 
 ## Industries
-- Residential
+- Homeowners
+- Small businesses
+- Automotive enthusiasts
+- Marine enthusiasts
+- Industrial clients
 - Commercial
-- Industrial
-- Automotive
-- Motorsports
+- Residential
+- Light industrial
+- Motorsports/Racing
+- Warehouse/Logistics
 - Food service
-- Warehousing and logistics
-- Marine
+- Automotive repair/customization
+- Construction/Architectural
 
 ## Equipment
 - Lathes
 - Mills
 - Press brakes
-- MIG welding equipment
-- TIG welding equipment
-- Stick welding equipment
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -343,17 +503,22 @@ The company emphasizes precision, durability, and clean craftsmanship, citing un
 
 <details><summary>Sources</summary>
 
-- Location: Mooresville, NC -> db
+- Location: Mooresville, NC -> /
 - Owner: Tim Perry -> /about
 - Family-owned -> /about
-- Over 30 years experience -> / and /about
-- Services: custom fabrication, welding, machining, bending, shearing, rolling, repairs -> /
-- Materials: aluminum, steel, stainless, 4130, titanium, sheet metal -> / and /about
-- Industries served: homeowners, small businesses, auto/marine enthusiasts, industrial clients -> /
-- Example projects: national warehouse chain, ice cream shop, exotic auto shop, sprint car, race hauler -> /
-- Equipment: lathes, mills, press brakes -> /
-- Quick turnaround times -> /about
+- Over 30 years experience -> /, /about
+- Services: custom fabrication, welding, machining -> /, /about
+- Welding types: MIG, TIG, Stick, Soldering -> /, /about
+- Metalworking: bending, shearing, rolling -> /, /about
+- Machining: lathes, mills, brakes -> /, /about
+- Materials: aluminum, steel, stainless, 4130, titanium, sheet metal -> /, /about
+- Industries: homeowners, small businesses, auto/marine enthusiasts, industrial -> /
+- Projects: roll cage, sprint car, race hauler, ice cream shop funnel, warehouse chain -> /
+- Architectural metalwork: gates, railings, furniture frames, signage brackets -> /
 - Third-party powder coating -> /about
+- Quick turnaround times -> /about
+- In-shop only, no on-site welding -> /
+- Headquarters address: 965 Shearers Road, Mooresville, NC 28115 -> /
 </details>
 
 ---
@@ -363,54 +528,62 @@ The company emphasizes precision, durability, and clean craftsmanship, citing un
 **Old description:** To earn the appreciation and respect of our customers, associates, and communities.
 
 ## About
-Petoskey Plastics operates from its corporate headquarters in McKinney, Texas, but traces its roots to Petoskey, Michigan, where Duke and Paul Keiswetter founded the company in 1969. The privately held, family-owned business began with five employees and a single bag machine converting purchased film into plastic bags. By 1975 the founders had added an extrusion line to produce their own film, setting the stage for a vertically integrated operation that now spans four U.S. manufacturing sites.
+Petoskey Plastics Inc. is headquartered in McKinney, Texas, but traces its roots to Petoskey, Michigan, where Duke and Paul Keiswetter founded the company in 1969. Operations began on April 1, 1970, with five employees and a single bag machine converting purchased film into plastic bags. The privately held, family-owned business added extrusion capability in 1975 and has since grown into a veteran-owned enterprise recognized as the 2023 and 2025 Veteran Business of the Year by the National Veteran Business Development Council.
 
-Today the company runs facilities in Petoskey, Michigan; Morristown, Tennessee; Hartford City, Indiana; and McKinney, Texas, employing roughly 500 associates. Its core processes include 3- and 5-layer blown film extrusion, bag converting, shrink film production, and a 330,000-square-foot recycling plant in Indiana that feeds post-consumer resin back into the extrusion lines. A 4-color offset paper printing press at the Morristown site adds packaging capabilities. In-house quality labs at each location support consistent output.
+The company operates four domestic manufacturing facilities — in Petoskey, Michigan; Morristown, Tennessee; Hartford City, Indiana; and McKinney, Texas — employing approximately 500 associates. Its vertically integrated process spans polyethylene film extrusion (with 98% of equipment capable of 3- and 5-layer technology), custom bag converting, shrink film production, and a 330,000-square-foot recycling facility in Hartford City that feeds recycled resin back into extrusion lines. A 4-color offset paper printing press at the Morristown plant supports private-label packaging.
 
-Petoskey serves automotive, construction, medical, retail, institutional, packaging, janitorial, parks and recreation, and fundraising markets, with products sold in 45 countries. Customers range from private-label brands to OEMs seeking custom-engineered polyethylene solutions, including films with up to 70 percent third-party certified post-consumer recycled content that exceed EPA requirements.
+Petoskey serves automotive, construction, home improvement, medical, institutional, retail, and private-brand markets, along with niche sectors such as janitorial, parks and recreation, and fundraising. Customers include OEMs and brand owners seeking custom-engineered flexible packaging, shrink films, and medical gowns, with the company highlighting its ability to incorporate up to 70% third-party certified post-consumer recycled content.
 
-The company’s differentiation rests on its closed-loop recycling model, veteran-owned status, and a family-culture that emphasizes hands-on management. After receiving the National Veteran Business Development Council’s Veteran Business of the Year award in 2023 and 2025, Petoskey continues to position its sustainable polyethylene as a lower-carbon alternative for flexible packaging.
+Founded on a sustainable mindset that began with in-house recycling in 1978, Petoskey differentiates itself through closed-loop recycling, vertically integrated manufacturing, and a culture described as “hands-on” from the production floor to the CEO. The firm emphasizes on-time, in-full delivery backed by in-house quality labs at each site.
 
 ## Known for
-- Vertically integrated recycling and manufacturing across four U.S. sites
-- Up to 70% third-party certified post-consumer recycled content in films
-- 98% of equipment capable of 3- and 5-layer extrusion technology
-- In-house quality labs at every production facility
-- Family-owned, veteran-owned business with 55-year operating history
+- Vertically integrated manufacturing with in-house recycling and extrusion
+- Up to 70% third-party certified post-consumer recycled content in products
+- 3- and 5-layer extrusion technology across 98% of equipment
+- Four domestic manufacturing facilities with in-house quality labs
+- Veteran-owned and family-owned private company
 
 ## Capabilities
-- Polyethylene film extrusion (3-layer, 5-layer)
+- Polyethylene film extrusion (3-layer and 5-layer)
 - Custom plastic bag converting
 - Shrink film manufacturing
-- Post-consumer plastic recycling (wash line, reprocessing)
-- Blown film extrusion
-- Converting (bag making, sealing)
-- Offset printing (4-color paper)
-- Custom-engineered polyethylene solutions
-- In-house quality testing and labs
+- Post-consumer plastic recycling (wash line, pelletizing)
+- Blown film manufacturing
+- 4-color offset paper printing
+- Custom-engineered product development
+- Medical gown production
+- Private label manufacturing
+- Closed-loop recycling programs
+- Sustainable packaging solutions
+- In-house quality lab testing
+- Multi-site manufacturing
 
 ## Industries
 - Automotive
 - Construction
 - Home Improvement
-- Medical
-- Retail
+- Custom Bags & Film
 - Institutional
+- Medical
+- Recycling
+- Closed Loop
+- Retail
+- Private Brand
+- Shrink Film
 - Packaging
 - Janitorial
 - Parks & Recreation
 - Fundraising
-- Recycling & Closed Loop
-- Private Brand
+- Private Label
 
 ## Equipment
-- 3-layer extrusion lines
-- 5-layer extrusion lines
-- Recycle line (from Italy)
-- Wash line technology for post-consumer bags and film
+- 3- and 5-layer extrusion lines
+- Recycle line from Italy
+- Wash line technology
 - Blown film manufacturing lines
 - Converting lines
 - 4-color offset paper printing press
+- In-house quality labs
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -421,21 +594,28 @@ The company’s differentiation rests on its closed-loop recycling model, vetera
 
 <details><summary>Sources</summary>
 
+- Headquarters in McKinney, Texas -> db
 - Founded 1969 by Duke and Paul Keiswetter -> /about-us
+- Operations began April 1, 1970 with five employees and one bag machine -> /about-us
+- Added extrusion line in 1975 -> /about-us
 - Family-owned, privately held -> /about-us
-- Headquarters in McKinney, Texas -> db, /about-us
-- Four manufacturing facilities (Petoskey MI, Morristown TN, Hartford City IN, McKinney TX) -> /about-us
+- Veteran Business of the Year 2023 and 2025 -> /about-us
+- Four manufacturing facilities (Petoskey MI, Morristown TN, Hartford City IN, McKinney TX) -> /about-us, /
 - 500 associates -> /about-us
-- 55 years in business (2024) -> /about-us
-- Vertically integrated with recycling facility in Indiana (330,000 sq ft) -> /about-us
-- 3- and 5-layer extrusion capability on 98% of equipment -> /
+- 98% equipment capable of 3- and 5-layer technology -> /
+- 330,000 sq ft recycling facility in Hartford City, IN -> /about-us
+- 4-color offset paper printing press at Morristown plant -> /about-us
+- Industries served: automotive, construction, home improvement, medical, institutional, retail, private brand, shrink film, packaging, janitorial, parks & recreation, fundraising -> /, /about-us
 - Up to 70% third-party certified post-consumer recycled content -> /, /about-us
-- In-house quality labs at each location -> /
-- Industries served: automotive, construction, medical, retail, institutional, packaging, janitorial, parks & recreation, fundraising -> /, /about-us
-- 45 countries served -> /
-- Veteran Business of the Year award 2023, 2025 -> /about-us
-- Equipment: extrusion lines, recycle line, wash line, blown film lines, converting lines, 4-color offset press -> /about-us
-- Materials: polyethylene, recycled plastic resin -> /, /about-us
+- In-house recycling since 1978 -> /about-us
+- Recycle line from Italy purchased 1990 -> /about-us
+- Wash line technology added 1991 -> /about-us
+- Medical gown production started 2020 -> /about-us
+- GreenPE Shrink® launched 2021 -> /about-us
+- McKinney, TX plant opened 2021 -> /about-us
+- Jason Keiswetter named President 2020 -> /about-us
+- Paul Keiswetter Chairman-CEO -> /about-us
+- Silver-Level Veteran-Friendly Employer -> /
 </details>
 
 ---
@@ -445,36 +625,39 @@ The company’s differentiation rests on its closed-loop recycling model, vetera
 **Old description:** This handmade nesting table set blends Wabi-Sabi soul with Desert Modernism
 
 ## About
-Pfeifer Studio operates from Bernalillo, New Mexico, where it produces artisan-made furniture grounded in a sustainability philosophy. The company does not publish a founding year or ownership structure in its public materials, and no founders are named on its website.
+Pfeifer Studio operates from Bernalillo, New Mexico, where it produces artisan-made, sustainable furniture for designers and architects. The company emphasizes its workshop-based approach, describing sustainability as integral to its design philosophy rather than a separate practice. No founding year or founder names are disclosed in public materials.
 
-The studio manufactures solid-wood and reclaimed-wood furniture including beds, benches, casegoods, desks, tables, seating, lighting, and outdoor pieces. Its workshops handle custom design, hand-carving, hand-painted finishes, and techniques such as Shou Sugi Ban. The site emphasizes American-made production and sustainable sourcing but does not disclose facility size, headcount, annual volumes, or part-number counts.
+The studio manufactures a range of solid-wood furniture including beds, benches, casegoods, desks, seating, lighting, tables, and outdoor pieces. It positions itself as a custom furniture maker, offering hand-painted finishes and made-to-order capabilities. Categories listed on its site reference reclaimed wood, elm, and other hardwoods, though specific equipment, facility size, headcount, and annual volumes are not published.
 
-Pfeifer Studio serves interior designers, architects, and the hospitality trade. Its catalog references contract-grade furniture, boutique hotel furnishings, hotel lobby pieces, and restaurant bar stools, indicating a commercial project focus alongside residential sales. The company also markets directly to consumers through its e-commerce site.
+Primary customers are interior designers, architects, and specifiers sourcing for residential and hospitality projects. The product taxonomy calls out contract-grade, boutique hotel, restaurant, and hotel lobby furniture alongside residential collections, indicating a dual focus on trade and high-end retail channels.
 
-The company states that sustainability is "more than a practice—it's part of our design philosophy" and that its workshops and "unwavering attention to detail" make it an ideal partner for ambitious projects. No further origin story or explicit differentiation claims are provided.
+Pfeifer Studio frames its differentiation around American-made, handcrafted construction and a sustainability-first material ethos. It highlights its workshops and attention to detail as the basis for handling ambitious custom projects, though it does not publish lead times, tolerance standards, or certifications.
 
 ## Known for
 - Sustainability integrated into design philosophy
-- American-made, handcrafted solid-wood and reclaimed-wood construction
-- Custom design and bespoke capabilities for designers and architects
-- Contract-grade furniture for hospitality and commercial projects
+- Workshop-based handcrafted production
+- American-made solid wood construction
+- Custom furniture design and manufacturing capability
+- Serves designers and architects on ambitious projects
 
 ## Capabilities
 - Custom furniture design
-- Handmade furniture manufacturing
-- Hand-carved wood detailing
+- Custom furniture manufacturing
+- Handmade furniture production
 - Hand-painted finishes
-- Shou Sugi Ban (charred wood) finishing
-- Reclaimed wood processing
-- Sustainable material sourcing
+- Sustainable wood furniture manufacturing
 - Contract-grade furniture production
+- Reclaimed wood fabrication
+- Solid wood joinery
+- Made-to-order casegoods
+- Outdoor furniture construction
 
 ## Industries
-- Hospitality
-- Commercial / Contract furniture
-- Residential furniture
 - Interior design
 - Architecture
+- Hospitality
+- Residential furniture
+- Commercial contract furniture
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -483,13 +666,15 @@ The company states that sustainability is "more than a practice—it's part of o
 <details><summary>Sources</summary>
 
 - Location: Bernalillo, New Mexico -> db
-- Business type: Manufacturer of handmade sustainable furniture -> / (homepage title: 'Artisan-Made, Sustainable Furniture for Designers and Architects')
-- Markets served: Designers, architects, hospitality/commercial (hotels, restaurants) -> / (keywords: 'Contract Grade Furniture', 'Hospitality Furniture', 'Hotel Lobby Furniture', 'Boutique Hotel Furniture', 'Furniture For Hotels', 'Restaurant Bar Stools')
-- Materials: Solid wood, reclaimed wood, elm wood, pine wood -> / (keywords: 'Solid Wood', 'Reclaimed Wood', 'Elm Wood Furniture', 'Pine Wood Furniture')
-- Processes: Handmade, hand-painted, carved wood, custom design -> / (keywords: 'Handmade', 'Hand Painted', 'Carved Wood', 'Custom Furniture Design', 'Bespoke Furniture')
-- Sustainability philosophy: 'sustainability is more than a practice—it's part of our design philosophy' -> products array
-- Workshop capability claim: 'Our workshops and unwavering attention to detail make us the ideal partner for your most ambitious projects' -> products array
-- American-made emphasis: 'American Made Wood Furniture', 'American Made Solid Wood Furniture', 'Furniture Made In America USA', 'Handmade American Furniture' -> / (keywords)
+- Manufactures handmade, artisan-made sustainable furniture -> /
+- Serves designers and architects -> /
+- Operates workshops -> products
+- Materials include elm, hardwood, sustainable wood, reclaimed wood, pine -> /
+- Offers custom furniture design and manufacturing -> /
+- Produces contract-grade, hospitality furniture -> /
+- Sustainability as design philosophy -> products
+- American-made solid wood furniture -> /
+- Hand-painted furniture -> /
 </details>
 
 ---

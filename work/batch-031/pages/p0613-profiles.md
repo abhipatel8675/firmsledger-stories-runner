@@ -3,40 +3,34 @@
 **Old description:** Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever
 
 ## About
-Plastik USA operates from its headquarters in Plainview, New York, while its primary manufacturing takes place in a 400,000-square-foot facility in Ningbo, China. The family-owned company has been in business for over 15 years, building long-term relationships across the food packaging supply chain.
+Plastik USA, a family-owned business with over 15 years of experience, operates from its headquarters in Plainview, New York, while maintaining a 400,000-square-foot manufacturing facility in Ningbo, China. The company also runs branch offices and warehouses in New York to support domestic distribution.
 
-The company specializes in plastic injection molding for food packaging, producing lines that include tamper-evident containers, microwavable containers, multi-compartment containers, soup and pail containers, mineral-filled containers, and paper-based containers in rectangle, oblong, and round formats. Its Ningbo factory houses an in-house mold department and label production line, enabling custom in-mold labeling, logo design, and rapid tooling changes. All products are molded from virgin resin without fillers.
+The company specializes in plastic injection molding and custom injection molding for food packaging, producing containers such as tamper-evident, microwavable, multi-compartment, soup and pail, mineral-filled, and paper-based designs. Its Ningbo plant houses an in-house mold and label production department, enabling rapid tooling changes and custom in-mold labeling, logo design, and packaging engineering. All products are molded from virgin resin without low-quality fillers.
 
-Plastik USA serves the food packaging and food service sectors, supplying restaurants, food processors, and packaging distributors with both stock and custom-engineered containers. Its product range covers portion-controlled multi-compartment meals, hot-fill soup pails, and tamper-evident retail packs.
+Plastik USA serves the food packaging and food service industries, supplying custom-engineered, reusable, and recyclable containers to brands requiring FDA-compliant packaging solutions. The company's product line includes rectangular, oblong, round, and specialty shapes tailored to customer specifications.
 
-The company emphasizes its US FDA-certified products, virgin-material-only policy, and vertically integrated mold and label capabilities as differentiators, positioning itself as a partner that can move from design to production without external dependencies.
+The business emphasizes its US FDA certification on products—rare for a China-based factory—and its vertically integrated mold and label capabilities as key differentiators. Continuous improvement through customer feedback and proprietary technology drives its manufacturing process.
 
 ## Known for
-- US FDA-certified food packaging products
-- 400,000 sq ft manufacturing facility in Ningbo, China
-- In-house mold making and label production for instant tooling changes
+- US FDA certified products manufactured in China
+- In-house mold and label production for rapid tooling changes
+- Custom in-mold labeling and logo design services
 - Virgin resin only, no low-quality fillers
-- Custom in-mold labeling and packaging design services
+- 400,000 sq ft facility in Ningbo with New York warehousing
 
 ## Capabilities
-- Plastic Injection Molding
-- Custom Injection Molding
-- In-mold Labeling
-- Mold Design and Manufacturing
-- Label Design and Production
-- Custom Packaging Design
-- Food Packaging Manufacturing
-- Tamper-Evident Container Production
-- Microwavable Container Production
-- Multi-Compartment Container Production
-- Soup and Pail Container Production
-- Mineral-Filled Container Production
-- Paper-Based Container Production
+- Plastic injection molding
+- Custom injection molding
+- In-mold labeling
+- Mold design and production
+- Label production
+- Custom packaging design
+- Food packaging manufacturing
 
 ## Industries
-- Food Packaging
-- Food Service
-- Packaging
+- Food packaging
+- Food service
+- Consumer packaging
 
 ## Certifications
 - US FDA
@@ -48,17 +42,16 @@ The company emphasizes its US FDA-certified products, virgin-material-only polic
 
 <details><summary>Sources</summary>
 
-- Headquarters in Plainview, New York -> db
-- 400,000 sq ft factory in Ningbo, China -> /about-us
-- Family-owned with over 15 years experience -> /about-us
+- Family-owned business with over 15 years experience -> /about-us
+- Factory in Ningbo, China, 400,000 sq ft -> /about-us
+- Branch offices and warehouses in New York, USA -> /about-us
 - US FDA certificates on products -> /about-us
 - In-house mold and label production -> /about-us
-- Custom in-mold labeling and logo design -> /about-us
-- Virgin resin only, no fillers -> /about-us
-- Product lines: tamper evident, microwavable, multi-comp, soup/pail, mineral-filled, paper -> /
-- Shapes: rectangle, oblong, round -> /
-- Custom injection molding capability -> /
-- Branch offices and warehouses in New York, USA -> /about-us
+- Custom in-mold labeling, logo design/packaging -> /about-us
+- Virgin resin only, no low-quality filler -> /about-us
+- Plastic injection molding (PIM) and custom injection molding -> db, /about-us
+- Food packaging product lines (tamper evident, microwavable, multi-compartment, soup/pail, mineral-filled, paper) -> /
+- Headquarters in Plainview, New York -> db
 </details>
 
 ---
@@ -68,20 +61,20 @@ The company emphasizes its US FDA-certified products, virgin-material-only polic
 **Old description:** Your trusted partner for designing, manufacturing and servicing
 
 ## About
-Plexus Corporation is headquartered in Nampa, Idaho, with a global footprint spanning four continents and manufacturing sites including Appleton, Wisconsin. The company traces its roots to the idea of an integrated group of people working together to solve complex challenges, leveraging nearly 50 years of experience in designing and building printed circuit boards and complex assemblies.
+Plexus Corporation is headquartered in Nampa, Idaho. The company traces its roots to an integrated group of people working together to solve complex challenges, though a specific founding year is not publicly disclosed. Ownership structure and founder names have not been shared in public materials.
 
-The firm provides end-to-end product realization services — product design and development, new product introduction, contract manufacturing, supply chain management, and sustaining services. Its capabilities include complex high-level assembly, grid automation services, failure analysis at board and system levels, and test strategy development. Manufacturing operations are positioned close to customer end markets worldwide, supported by a central point of contact for streamlined communication.
+The company provides end-to-end product realization services spanning design, manufacturing, and aftermarket support. Its capabilities include product design and development, new product introduction, contract manufacturing, supply chain management, sustaining services, and failure analysis at the board, sub-assembly, and system levels. Plexus operates a global footprint across four continents, with manufacturing sites positioned near customer end markets, though specific facility sizes and headcount figures are not disclosed.
 
-Plexus serves highly regulated sectors: aerospace and defense, healthcare and life sciences, industrial, and semiconductor capital equipment. Customers include Bevi, whose sustainable smart water dispensers are manufactured in Appleton, and a global construction and mining equipment maker for which Plexus produces power inverters for hybrid wheel loaders, bulldozers, and underground electric vehicles.
+Plexus serves highly regulated sectors including aerospace and defense, healthcare and life sciences, industrial, and semiconductor capital equipment. A documented case study highlights a partnership with a global construction and mining equipment manufacturer, where Plexus addressed circuit board failures in power inverters for hybrid wheel loaders, bulldozers, and underground electric mining vehicles. Another customer, Bevi, relies on Plexus to manufacture smart water dispensers in Appleton, Wisconsin.
 
-The company emphasizes a culture of trust, courage, and growth, with values centered on growing people, building belonging, innovating responsibly, delivering excellence, and creating customer success. Differentiators cited include a dedicated Failure Analysis Lab, Class A paint standards for harsh environments, and a collaborative model that extends the customer's R&D capacity.
+Plexus emphasizes a culture built on five values: growing people, building belonging, innovating responsibly, delivering excellence, and creating customer success. The company cites nearly 50 years of experience designing and building printed circuit boards as a foundation for its engineering depth, and it differentiates through integrated engineering, manufacturing, and supply chain solutions delivered through a single point of contact across its global network.
 
 ## Known for
-- Nearly 50 years of PCB design and assembly experience
-- Failure Analysis Lab for board, sub-assembly, and system-level root cause analysis
-- Global manufacturing footprint across four continents near customer end markets
-- Class A paint standards for components in severe environments
-- Central point of contact for worldwide program management
+- Failure Analysis Lab capable of board, sub-assembly, and system-level root cause analysis
+- Nearly 50 years of experience designing and building thousands of PCBs
+- Global footprint across four continents with centralized point of contact
+- Class A paint finishing capabilities for harsh environments
+- Integrated engineering, manufacturing, and supply chain solutions under one roof
 
 ## Capabilities
 - Product Design & Development
@@ -90,22 +83,27 @@ The company emphasizes a culture of trust, courage, and growth, with values cent
 - Supply Chain Solutions
 - Sustaining Services
 - Failure Analysis (board, sub-assembly, system level)
-- Complex High-Level Assembly (HLA)
-- Grid Automation Services
-- PCB Assembly
-- Test Strategy Development
+- PCB Design and Assembly
+- Grid Automation Services: Complex High-Level Assembly
+- Turnkey Product Development
 - Design for Excellence (DFX)
 - PCB Rework Services
-- Life Cycle Assessment
-- Product Strategy & Requirements Definition
+- Life Cycle Assessments
+- Test Strategies and Solutions
+- Product Strategy & Requirements Management
 - Manufacturing Process Optimization
+- Quick-turnaround Design Services
+- Custom Power Supply Integration
+- Supplier Evaluation and Selection
+- Global Manufacturing Footprint Management
 
 ## Industries
-- Aerospace & Defense
-- Healthcare & Life Sciences
+- Aerospace / Defense
+- Healthcare / Life Sciences
 - Industrial
 - Semiconductor Capital Equipment
-- Heavy Equipment / Construction & Mining
+- Heavy Equipment (Construction and Mining)
+- Industrial OEMs
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -113,18 +111,18 @@ The company emphasizes a culture of trust, courage, and growth, with values cent
 
 <details><summary>Sources</summary>
 
-- Headquarters in Nampa, Idaho -> db
+- Headquartered in Nampa, Idaho -> db
 - Global presence across four continents -> /about
-- Manufacturing site in Appleton, WI (Bevi testimonial) -> /about
-- Nearly 50 years of PCB design and assembly experience -> /quality
-- Failure Analysis Lab for board, sub-assembly, system level -> /quality
-- Class A paint standards for harsh environments -> /quality
+- Serves Aerospace/Defense, Healthcare/Life Sciences, Industrial, Semiconductor Capital Equipment -> /
+- Provides Product Design & Development, New Product Introduction, Manufacturing, Supply Chain, Sustaining Services -> /quality
+- Failure Analysis Lab analyzes board, sub-assembly, system level -> /quality
+- Nearly 50 years experience designing and building PCBs -> /quality
+- Manufactured Bevi smart water dispensers in Appleton, WI -> /about
+- Partnered with global construction/mining equipment manufacturer on power inverters -> /quality
+- Offers Class A paint standards for custom components -> /quality
 - Central point of contact for global regions -> /quality
-- Industries: Aerospace/Defense, Healthcare/Life Sciences, Industrial, Semiconductor Capital Equipment -> /
-- Customer Bevi (smart water dispensers) -> /about
-- Customer: global construction/mining equipment maker (power inverters) -> /quality
-- Capabilities: Design & Development, NPI, Manufacturing, Supply Chain, Sustaining Services, HLA, Grid Automation -> /, /quality
 - Values: growing people, building belonging, innovating responsibly, delivering excellence, creating customer success -> /about
+- Founded on integrated group solving complex challenges -> /about
 </details>
 
 ---
@@ -134,29 +132,37 @@ The company emphasizes a culture of trust, courage, and growth, with values cent
 **Old description:** Polo Packaging specializes in custom packaging solutions designed for growing brands and businesses. We focus on quality, consistency, and customization across packaging styles such as
 
 ## About
-Polo Packaging operates from Woodbridge, Virginia, as a wholesale manufacturer of custom packaging solutions. The company serves growing brands and businesses across the United States with a focus on quality, consistency, and customization.
+Polo Packaging operates from Woodbridge, Virginia, as a wholesale manufacturer of custom packaging. The company focuses on serving growing brands and businesses with tailored packaging solutions.
 
-The company produces a range of custom packaging styles including rigid boxes, mailer boxes, tuck boxes, folding cartons, and kraft packaging. Production capabilities cover custom printing in up to four colors, coatings such as varnish and lamination, and finishes including matte, glossy, soft touch, and spot UV. Additional services include box inserts, window patching, and free design consultation. Materials used span cardboard, kraft, and rigid board in thicknesses from 10 pt to 48 pt, with eco-friendly and biodegradable options available. The firm reports serving more than 500 companies, though facility size and headcount are not disclosed.
+The company produces a wide range of custom boxes and packaging, including mailer boxes, shipping boxes, folding cartons, rigid boxes, tuck boxes, and kraft packaging. It offers in-house design consultation, printing in up to four colors with various coating options such as varnish, lamination, matte, glossy, soft touch, and spot UV, as well as additional features like box inserts and window patching. Materials include cardboard, kraft, and rigid board in thicknesses from 10 to 48 points. The company reports serving more than 500 businesses.
 
-Polo Packaging states it serves almost all major business industries, with specific box types tailored for cosmetics (eyeliner, lip gloss, makeup boxes), candles, jewelry, watches, gifts, and food items such as cupcakes. The company works with both small and large businesses, offering low minimum order quantities and bulk discounts.
+Polo Packaging serves customers across multiple sectors, with product examples that indicate work for cosmetics (eyeliner, lip gloss, makeup boxes), candles (candle tins, display boxes), jewelry and watches (rigid jewelry boxes, wrist watch boxes), soap (kraft soap boxes), gift and specialty packaging (gable boxes, pillow boxes), and food and bakery (cupcake boxes). The company states its solutions suit both small and large businesses, from startups launching new products to established brands scaling up.
 
-The company differentiates itself through free shipping on all orders, no die or plate charges, quick turnaround times, and a four-step process from box style selection through design, production, and delivery. Sustainable packaging options are emphasized, with kraft boxes highlighted for brands focused on minimal environmental impact.
+The company emphasizes several differentiators: free shipping on all orders, free design consultation, no die or plate charges, low minimum order quantities, quick turnaround times, and the use of eco-friendly, recyclable, and biodegradable materials. It also highlights a no-hidden-charges pricing model and bulk-order discounts.
 
 ## Known for
 - Free shipping on all orders
 - Free design consultation
+- No die or plate charges
 - Low minimum order quantities
 - Quick turnaround times
-- No die and plate charges
+- Eco-friendly, recyclable, and biodegradable materials
+- No hidden charges or taxes
 
 ## Capabilities
-- Custom box manufacturing
-- Custom printing (1-4 color)
-- Coating (varnish, lamination)
-- Finishing (matte, glossy, soft touch, spot UV)
-- Box insert installation
+- Custom packaging design
+- Box manufacturing
+- Printing (1-4 color, 4/1, 4/2, 4/3, 4/4)
+- Coating and finishing (varnish, lamination, matte, glossy, soft touch, spot UV)
+- Box inserts
 - Window patching
-- Design consultation
+- Material selection (cardboard, kraft, rigid)
+- Free design consultation
+- Low minimum order quantities
+- Quick turnaround
+- Free shipping
+- No die and plate charges
+- Eco-friendly and sustainable materials
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -164,19 +170,30 @@ The company differentiates itself through free shipping on all orders, no die or
 
 <details><summary>Sources</summary>
 
-- Headquarters in Woodbridge, Virginia -> db
-- Wholesale manufacturer of custom packaging -> /
-- Offers rigid boxes, mailer boxes, tuck boxes, folding cartons, kraft packaging -> /
-- Custom printing up to 4 colors -> /
-- Coatings: varnish, lamination; finishes: matte, glossy, soft touch, spot UV -> /
-- Box inserts and window patching available -> /
-- Materials: cardboard, kraft, rigid board (10 pt to 48 pt) -> /
-- Eco-friendly and biodegradable materials offered -> /
-- Serves 500+ companies -> /
-- Free shipping, free design consultation, low MOQ, quick turnarounds, no die/plate charges, bulk discounts, no hidden charges -> /
-- Four-step process: box style, design preparation, production, delivery -> /
-- Box types for cosmetics, candles, jewelry, gifts, food -> /
-- Sustainable packaging emphasized -> /
+- Company name: Polo Packaging -> db
+- Location: Woodbridge, Virginia -> db
+- Website: https://polopackaging.com/ -> db
+- Description: specializes in custom packaging solutions for growing brands and businesses -> db
+- Company type: Wholesale Manufacturer -> /
+- Product range: mailer boxes, shipping boxes, folding cartons, rigid boxes, tuck boxes, kraft packaging, cosmetic display boxes, candle boxes, jewelry boxes, watch boxes, soap boxes, gift boxes, cupcake boxes -> /
+- Processes: design consultation, printing (1-4 color), coatings (varnish, lamination, matte, glossy, soft touch, spot UV), box inserts, window patching -> /
+- Materials: cardboard, kraft, rigid, recyclable, biodegradable -> /
+- Differentiators: free shipping, free design consultation, no die/plate charges, low MOQ, quick turnaround, no hidden charges, bulk discounts, eco-friendly materials -> /
+- Customer base: more than 500 companies, small and large businesses -> /
+- Industries served: cosmetics, candles, jewelry, watches, soap, gift, food/bakery (implied by product examples) -> /
+- Headquarters: Woodbridge, Virginia -> db
+- Ownership: not stated -> db
+- Founded year: not stated -> db
+- Employee count: not stated -> db
+- Certifications: none stated -> /
+- Equipment: none stated -> /
+- Volume range: not stated -> /
+- Lead time: not stated -> /
+- Tolerances: not stated -> /
+- Minimum order: Low MOQ -> /
+- Export compliance: not stated -> /
+- Languages: not stated -> /
+- Social links: none in input -> /
 </details>
 
 ---
@@ -186,19 +203,19 @@ The company differentiates itself through free shipping on all orders, no die or
 **Old description:** We are an award-winning custom manufacturer for OEMs based in Benton, TN. We specialize in composite plastics and elastomers at any volume.
 
 ## About
-Polymer Components was founded in 1997 in Benton, Tennessee, with a mission to help original equipment manufacturers succeed by supplying quality composite plastic and polyurethane parts with uncompromising attention to detail and design. The company began as a custom molding operation and has since worked with both large and small companies across a range of sectors.
+Polymer Components was founded in 1997 in Benton, Tennessee. The company began with a mission to help original equipment manufacturers succeed by supplying quality composite plastic and polyurethane parts with close attention to detail and design. Ownership structure and founders are not publicly disclosed.
 
-The shop runs injection molding, compression molding, cast molding, and SLA 3D printing, supported by rapid mold production and a full suite of design services that include reverse engineering, design for manufacturability, finite element analysis, product development, and design improvement. The facility handles prototyping through production at low to high volumes, with capabilities for material selection, color matching, and tier‑1 sample delivery.
+The shop provides custom molding and prototyping services including injection molding, compression molding, cast molding, SLA 3D printing, and rapid mold production. It handles product development, design, reverse engineering, DFM analysis, FEA, material selection, and color matching. Production runs span low to high volumes, though facility size and headcount are not published.
 
-The customer base spans OEMs in industries such as aerospace and medical, with the company noting experience serving both large and small firms in those sectors.
+Customers range from large to small OEMs across industries such as aerospace and medical. The company emphasizes its ability to serve diverse sectors with composite plastics and elastomers.
 
-Polymer Components says its reputation rests on a commitment to innovation, versatility, and creative problem‑solving, aiming to turn customer concepts into finished parts regardless of complexity.
+Polymer Components says it has built a reputation for innovation, versatility, and creative problem‑solving, aiming to turn customer concepts into finished parts.
 
 ## Known for
-- Rapid mold production for accelerated prototyping
-- In-house design services including reverse engineering and FEA
-- Low-to-high volume capability in composite plastics and elastomers
-- Material selection and color matching support
+- Specializes in composite plastics and elastomers at any volume
+- Offers rapid mold production and 3D printed parts for fast prototyping
+- Cites commitment to innovation, versatility, and creative problem‑solving
+- Serves industries from aerospace to medical
 
 ## Capabilities
 - Injection Molding
@@ -206,37 +223,36 @@ Polymer Components says its reputation rests on a commitment to innovation, vers
 - Cast Molding
 - SLA 3D Printing
 - Rapid Mold Production
-- 3D Printed Parts
-- Prototyping
+- Product Development
+- Design
 - Reverse Engineering
 - DFM Services
 - FEA Analysis
-- Product Development
-- Design Improvement
 - Material Selection
 - Color Matching
-- Tier 1 Samples
+- Prototyping
 
 ## Industries
 - Aerospace
 - Medical
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1997
 - **Headquarters:** Benton, Tennessee
 
 <details><summary>Sources</summary>
 
 - Founded in 1997 -> /about-us
-- Headquarters in Benton, TN -> /
-- Specializes in composite plastics and elastomers -> /about-us
-- Offers injection molding, compression molding, cast molding, SLA 3D printing -> /
-- Provides design services including reverse engineering, DFM, FEA -> /
-- Serves aerospace and medical industries -> /about-us
+- Headquarters in Benton, TN -> / (address) and /about-us
+- Custom manufacturer for OEMs -> /
+- Specializes in composite plastics and elastomers at any volume -> /
+- Processes: injection molding, compression molding, cast molding, SLA 3D printing, rapid mold production -> /
+- Services: product development, design, reverse engineering, DFM, FEA, material selection, color matching, prototyping -> /
+- Industries served: aerospace, medical -> /about-us
 - Commitment to innovation, versatility, creative problem-solving -> /about-us
-- Low to high volume production -> /
-- Rapid mold production and 3D printed parts -> /
+- Materials: composite plastics, elastomers, polyurethane -> / and /about-us
+- Volume range: low to high volume -> /
 </details>
 
 ---
@@ -246,31 +262,33 @@ Polymer Components says its reputation rests on a commitment to innovation, vers
 **Old description:** We are committed to progressively understanding the effects our products and business operations have on the environment.
 
 ## About
-PolymerPak, LLC operates from Exeter, California, producing sustainable food packaging containers for the North American market. The company does not disclose its founding year or ownership structure in its public materials, and no founders are named on its website.
+PolymerPak, LLC operates from Exeter, California, where it develops sustainable food packaging solutions for North American markets. The company does not publicly disclose its founding year or ownership structure, but it presents itself as an innovator in recycled-content containers.
 
-The business manufactures thermoformed containers made primarily from recycled PET, emphasizing a closed-loop cycle described as "recycle — redesign — recycle — repeat." Public figures cite 1 billion PET bottles recycled to date, 90 million pounds of PET reprocessed annually, and 70 percent post-consumer recycled content in its products. The line includes containers for salads, pastas, desserts, meals, produce, and prepared foods, with attention to seal integrity and clarity for retail display.
+The firm produces PET-based containers for salads, pastas, desserts, and prepared meals, emphasizing secure seals and high clarity. It reports recycling 1 billion PET bottles annually, incorporating 70 percent post-consumer material, and processing 90 million pounds of recycled PET. No facility size or headcount figures are provided.
 
-PolymerPak serves three primary channels: food processors who pack branded refrigerated and frozen items; food-service distributors that resell cases to restaurants, bakeries, and small grocers; and retail chains — grocery and warehouse stores — that stock the containers in produce, deli, and frozen aisles. The company notes that "food industry giants" purchase its packaging for consumer-facing products.
+PolymerPak serves three primary channels: food processors who pack retail-ready products, food-service distributors that resell to restaurants and small grocers, and retail grocery and warehouse chains that stock fresh, frozen, and prepared foods. The company notes that major food brands purchase its packaging for consumer sale.
 
-The stated differentiator is a sustainability model that continuously collects, reprocesses, and remanufactures PET, reducing landfill waste and preserving resources. The firm positions itself as an innovator in sustainable food packaging rather than a conventional disposable supplier.
+A closed-loop cycle — recycle, redesign, recycle, repeat — underpins its environmental commitment. The company states it is dedicated to progressively understanding the effects of its products and operations on the planet, and it lists great service, highest standards, a professional team, and creative solutions as core values.
 
 ## Known for
-- 70% post-consumer recycled PET content
-- 90 million pounds of PET recycled annually
-- 1 billion PET bottles recycled to date
-- Closed-loop recycle–redesign–recycle–repeat cycle
-- Serves foodservice, retail, and distribution markets across North America
+- 1 billion PET plastic bottles recycled annually
+- 70% post-consumer recycled content in containers
+- 90 million pounds of PET recycled per year
+- Closed-loop sustainability cycle: recycle, redesign, recycle, repeat
+- Sustainable packaging for foodservice, retail, and distribution across North America
 
 ## Capabilities
-- Thermoformed sustainable food container manufacturing
+- Sustainable food packaging manufacturing
 - PET recycling and reprocessing
 - Container design with secure seals and high clarity
-- Post-consumer recycled content integration
+- Food packaging for processors, distributors, and retailers
+- Post-consumer recycled material integration
 
 ## Industries
 - Food processing
 - Food service distribution
 - Retail grocery and warehouse
+- Food packaging
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -278,65 +296,113 @@ The stated differentiator is a sustainability model that continuously collects, 
 
 <details><summary>Sources</summary>
 
-- Headquarters: Exeter, California -> db
-- Business: sustainable food packaging containers -> /
-- Markets: Food Processors, Food Service Distribution, Retail -> /
-- Materials: PET, 70% post-consumer recycled content -> /
-- Scale stats: 1 billion PET bottles recycled, 90 million lbs PET/year -> /
-- Customer examples: food processors (salads, pastas, desserts, meals), distributors (restaurants, bakeries, small grocers), retail (grocery/warehouse stores) -> /
-- Sustainability mission: recycle-redesign-recycle-repeat cycle -> /
-- No founding year, ownership, founders, certifications, equipment, employee count, lead times, tolerances, volume range, CAGE code, min order, export compliance, languages, or social links found in INPUT -> /, /about, /services
+- Exeter, California headquarters -> db
+- Sustainable food packaging for foodservice, retail, distribution markets throughout North America -> /
+- Supplies three major markets: Food Processors, Food Service Distribution & Retail -> /
+- 1 billion PET plastic bottles recycled, 70% post-consumer, 90 million pounds of PET recycled -> /
+- Food processors use containers for salads, pastas, desserts, meals -> /
+- Distributors resell to restaurants, bakeries, small grocers -> /
+- Retail grocery and warehouse stores buy directly or from processors -> /
+- Closed-loop sustainability cycle: RECYCLE — REDESIGN — RECYCLE — REPEAT -> /
+- Core values: Great Services, Highest Standards, Professional Team, Creative Solutions -> /
+- Commitment to progressively understanding environmental effects -> /
 </details>
 
 ---
 
 # Pompanoosuc Mills
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** all your storage needs; includes anything with doors, drawers or shelves.
+
+## About
+Pompanoosuc Mills is headquartered in Nashua, New Hampshire, with its furniture handcrafted in Vermont. The company has been producing wood furniture for more than five decades, marking 53 years in business, though a specific founding year is not publicly stated. Ownership details and founder names are not disclosed in available sources.
+
+The company manufactures made-to-order wood furniture for bedroom, dining, living room, and home office settings. Its production includes both fully upholstered pieces (sofas, chairs, sectionals) and wood-framed seating. Operations span nine showrooms across the region, and the firm emphasizes sustainably harvested North American hardwoods for all solid-wood components. Custom design consultation is offered, complemented by a free wood-sample program.
+
+Pompanoosuc Mills serves primarily residential customers and home-office buyers, with its collections — such as Arlington, Designer, and Coventry — marketed directly through showrooms and online. Interior designers also use the firm's consultation service. No specific contract or institutional clients are identified in the source material.
+
+The company positions its work as "forever furniture," citing a philosophy of fewer, better pieces that outlast trends. The sustainability claim — 100 percent of hardwoods sourced from responsible North American producers — is presented as a core differentiator.
+
+## Known for
+- 100% sustainably harvested North American hardwoods
+- Free design consultation with $200 credit on orders over $2,000
+- Nine showrooms offering in-stock and custom pieces
+- Two upholstery platforms: fully upholstered or wood-framed seating
+
+## Capabilities
+- Custom wood furniture manufacturing
+- Upholstery (fully upholstered sofas, chairs, sectionals)
+- Upholstery (wood-framed seating pieces)
+- Design consultation
+- Wood sample program
+- In-stock furniture retail
+
+## Industries
+- Residential furniture
+- Home office furniture
+- Interior design trade
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Nashua, New Hampshire
+
+<details><summary>Sources</summary>
+
+- Headquarters in Nashua, New Hampshire -> db
+- Manufacturing in Vermont, USA -> page '/'
+- 53 years in business -> page '/'
+- Nine showrooms -> page '/'
+- Handcrafted to order -> page '/'
+- Sustainably harvested North American hardwoods -> page '/'
+- Free wood samples -> page '/'
+- Design consultation with $200 off $2,000+ order -> page '/'
+- Two upholstery approaches (fully upholstered and wood-framed) -> page '/'
+- Product categories: bedroom, dining, living, office -> page '/'
+- Collections: Arlington, Designer, Coventry -> page '/'
+- Customer testimonials citing 25-50 year durability -> page '/'
+</details>
+
+---
 
 # Popknot Wood
 
 **Old description:** PopKnotWood specializes in custom woodworking, restoration, and precision-crafted pieces built with care and intention.
 
 ## About
-Popknot Wood operates from Rogers, Arkansas. The business traces its roots to founder John, a U.S. Army veteran, who began teaching his grandchildren woodworking in his shop. What started as birdhouses and simple boxes grew into a family-driven venture; together they built a business plan and launched Popknot Wood. The company is proudly veteran-owned and family-operated.
+Popknot Wood operates from Rogers, Arkansas. The company was founded by John, a U.S. Army veteran, after he began teaching woodworking to his grandchildren in his home shop. What started as a family project building birdhouses, signs, and boxes evolved into a formal business when the family developed a marketing plan and launched a website. The venture is veteran-owned and family-driven.
 
-The shop delivers custom woodworking, furniture restoration, and precision CNC and laser work. Capabilities include custom-built wood products, replacement of broken or discontinued parts, heirloom repairs, and a range of specialty items such as cutting boards (including state-shaped designs), wooden urns and memorial pieces, awards and presentation pieces, river tables, custom flags, and signs. Production is carried out in a small workshop that sources local wood whenever possible and ships finished pieces to all 50 states.
+The shop produces custom woodworking and restoration pieces using a mix of hand tools, power tools, CNC routing, and laser engraving. Its output includes furniture refurbishment, replacement parts for discontinued items, heirloom repairs, custom cutting boards (including state-shaped designs), wooden urns and memorial pieces, awards and presentation pieces, river tables, custom flags, and signs. All items are made in-house and shipped to all 50 states.
 
-Customers include individuals seeking one-of-a-kind furniture repairs or personalized gifts, families commissioning memorial urns or heirloom restorations, and faith-based organizations such as churches and ministries looking for purpose-built pieces. The shop also serves buyers of awards, presentation items, and custom signage.
+Customers range from individuals seeking personalized gifts or restored heirlooms to churches, ministries, and organizations needing faith-based creations, awards, or signage. The company serves residential clients, religious institutions, and corporate buyers looking for presentation pieces or custom signage.
 
-John credits his Army service for instilling discipline and integrity that carry into every build. He views craftsmanship as stewardship — using given gifts to create meaningful, lasting work. The business began as a way to teach creativity, responsibility, and entrepreneurship to the next generation, and that legacy remains central to its purpose.
+John credits his Army service for instilling discipline and integrity that guide every build. Faith informs the work as a form of stewardship, and the shop prioritizes local wood whenever possible. Popknot Wood was recognized as the Best Woodworker in Rogers, AR for 2026, reflecting its commitment to purpose-driven craftsmanship.
 
 ## Known for
-- Veteran-owned and family-driven operation
+- Veteran-owned and family-driven
 - Sources local wood whenever possible
 - Ships nationwide to all 50 states
-- Faith-informed craftsmanship for homes, churches, and ministries
-- Teaches woodworking skills across generations
+- Faith-informed craftsmanship
 
 ## Capabilities
 - Custom woodworking
 - Furniture restoration and repair
-- Custom fabrication of wood products
-- Replacement of broken or discontinued wood parts
-- Heirloom repairs and restorations
-- Custom cutting boards
-- Wooden urns and memorial pieces
-- Awards and presentation pieces
-- River tables
-- Custom flags and signs
-- CNC machining
+- Replacement part fabrication
+- Heirloom restoration
+- CNC routing
 - Laser engraving and cutting
-- Faith-based creations
+- Custom cutting board production
+- Memorial and urn crafting
+- Awards and presentation pieces
+- River table construction
+- Custom flag and sign making
+- Faith-based woodworking
 
 ## Industries
-- Custom woodworking
-- Furniture restoration
-- Memorial products
-- Awards and recognition
-- Faith-based products
-- Home goods
-- Signage
+- Residential
+- Religious institutions
+- Memorial services
+- Corporate awards and recognition
+- Custom signage
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -345,16 +411,21 @@ John credits his Army service for instilling discipline and integrity that carry
 
 <details><summary>Sources</summary>
 
-- Headquarters in Rogers, Arkansas -> db
-- Founder John is a U.S. Army veteran -> /about
-- Company is veteran-owned and family-driven -> /about
-- Began as shop projects with grandkids -> /about
-- Offers custom woodworking, restoration, CNC and laser work -> /, /about
-- Products include cutting boards, urns, awards, river tables, flags, signs -> /
+- Operates from Rogers, Arkansas -> db
+- Founded by John, a U.S. Army veteran -> /about
+- Began as family project teaching grandchildren woodworking -> /about
+- Developed business and marketing plan with family -> /about
+- Veteran-owned and family-driven -> /about
+- Produces custom woodworking and restoration using hand tools, power tools, CNC routing, laser engraving -> /
+- Output includes furniture refurbishment, replacement parts, heirloom repairs, custom cutting boards, wooden urns, awards, river tables, custom flags, signs -> /
 - Ships to all 50 states -> /about
-- Uses local wood when possible -> /about
-- Faith-based creations for homes, churches, ministries -> /about
+- Serves residential clients, religious institutions, corporate buyers -> /about
+- Army service instilled discipline and integrity -> /about
+- Faith informs work as stewardship -> /about
+- Prioritizes local wood -> /about
 - Recognized as Best Woodworker in Rogers, AR (2026) -> /about
+- Company type: Manufacturer -> inferred from description
+- Ownership tags: Veteran-owned, Family-owned, Small business -> /about
 </details>
 
 ---
@@ -364,29 +435,28 @@ John credits his Army service for instilling discipline and integrity that carry
 **Old description:** Regular Showroom Hours: 7am-2pm Mon-Fri, Closed Sat/Sun (Except for Special Events)
 
 ## About
-Porter Barn Wood operates from Phoenix, Arizona. The business was founded in 2010 by Thomas Porter, who started the venture with the help of his friend Craig Suiter after using a forklift to unload a shipment of reclaimed barn wood and recognizing local demand for such materials. Porter formed the LLC in 2012 and opened a showroom that now serves both walk-in customers and commercial clients.
+Porter Barn Wood operates from Phoenix, Arizona, where Thomas Porter founded the business in 2010 after years of woodworking experience. The company began when Porter and his friend Craig Suiter recognized a demand for quality reclaimed barn wood in the Phoenix area, initially unloading beams from Pennsylvania barns and opening a regular yard for public sales. Porter formed the LLC in 2012, and the venture has since grown into a family-owned operation with his wife Emy and their two children involved.
 
-The company runs a wood shop, metal shop, concrete shop, and finishing/contracting teams, enabling it to fabricate custom furniture, architectural elements, lighting, and millwork. Core processes include CNC plasma cutting, CNC routing, laser engraving, blacksmithing, milling, spindle duplication, and production manufacturing. Design services cover 3D CAD, concept rendering, and furniture design, while finishing options span lacquer, polyurethane, conversion varnish, waxes, oils, and custom finish matching. The facility features evap-cooled and air-conditioned workshops and handles projects ranging from small DIY pieces to large commercial build-outs.
+The company maintains a wood shop, metal shop, concrete shop, and finishing and contracting teams, allowing it to fabricate custom furniture, architectural accents, and structural elements from a wide range of materials. Services include milling, blacksmithing, CNC plasma cutting, CNC routing, laser engraving, and various finishing techniques such as lacquer, conversion varnish, and custom color matching. The shop also sources and sells reclaimed barn wood from Pennsylvania, Michigan, Ohio, Kentucky, Tennessee, and Iowa, as well as live-edge slabs salvaged from local forest-fire and beetle-kill sites.
 
-Porter Barn Wood serves restaurant and hospitality clients — such as Surf City, Lazy Bird, and Famè — as well as commercial contractors, residential remodelers, architects, and builders. The shop has also hosted film and television productions for HGTV and PBS specials. In addition, the company supplies reclaimed materials to DIY enthusiasts and runs free community classes and demonstrations.
+Porter Barn Wood serves restaurants, hospitality venues, commercial contractors, luxury home builders, and residential remodelers. Projects have included dining tables for Surf City and Famé, a creative event space for The Duce, and whole-home remodels featuring custom cabinetry and built-ins. The facility has also hosted film crews for HGTV and PBS productions, taking advantage of its well-lit, climate-controlled workshops.
 
-Porter describes the operation as a family business focused on growing while keeping high-quality reclaimed materials at reasonable prices. A stated differentiator is the willingness to incorporate customers' own reclaimed materials — whether from a family barn, old warehouse, or unique finds — into custom projects, and the ability to provide design, fabrication, and installation under one roof.
+The company distinguishes itself by accepting customers' own reclaimed materials — such as family barn wood or old warehouse metal — and integrating them into new builds. It also offers free woodworking and metalworking classes, rents its event tables, and emphasizes a collaborative approach with designers and architects to execute custom visions.
 
 ## Known for
-- Combines traditional craftsmanship with modern CNC capabilities for one-offs and production runs
-- Accepts and incorporates customer-supplied reclaimed materials into projects
+- Accepts and incorporates customers' own reclaimed materials into custom builds
 - Offers free woodworking and metalworking classes and demonstrations
-- Provides TV-friendly shop facilities for film and television productions
-- Operates wood, metal, concrete, and finishing shops under one roof
+- Provides TV-friendly, climate-controlled shop space for film productions
+- Collaborates directly with designers and architects to implement custom designs
+- Supplies reclaimed barn wood from multiple states and locally salvaged live-edge slabs
 
 ## Capabilities
 - Metalworking
 - Blacksmithing
-- Furniture fabrication
-- Lighting fabrication
 - Woodworking
 - Milling
-- Furniture repair
+- Furniture making
+- Repairs
 - Modifications
 - Spindle duplication
 - Production manufacturing
@@ -396,10 +466,15 @@ Porter describes the operation as a family business focused on growing while kee
 - Architectural photography
 - Interior design photography
 - Image licensing
-- Custom finishing (lacquer, polyurethane, conversion varnish, waxes, oils, custom finish matching)
+- Finishing (lacquer, polyurethane, conversion varnish, waxes, oils)
+- Custom finish matching
 - 3D CAD design
 - Concept rendering
 - Furniture design
+- Reclaimed wood sourcing
+- Live edge slab sourcing
+- Custom fabrication
+- Event space rental
 
 ## Industries
 - Restaurant
@@ -407,36 +482,32 @@ Porter describes the operation as a family business focused on growing while kee
 - Commercial construction
 - Residential construction
 - Interior design
-- Architecture
 - Film and television production
-
-## Equipment
-- CNC plasma cutter
-- CNC router
-- Laser engraver
-- Forklift
+- Retail
+- Event space
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2010
-- **Ownership:** Private, family-owned
+- **Ownership:** Family-owned
 - **Headquarters:** Phoenix, Arizona
 
 <details><summary>Sources</summary>
 
 - Founded in 2010 by Thomas Porter -> /about
-- LLC formed in 2012 with help from Craig Suiter -> /about-us
-- Located in Phoenix, Arizona -> db, /about-us
-- Operates wood, metal, concrete, and finishing shops -> /
-- Processes: CNC plasma, CNC routing, laser engraving, blacksmithing, milling, spindle duplication, production manufacturing -> /services
-- Design services: 3D CAD, concept rendering, furniture design -> /services
-- Finishing options: lacquer, polyurethane, conversion varnish, waxes, oils, custom finish matching -> /services
-- Serves restaurants (Surf City, Lazy Bird, Famè), hospitality, commercial, residential, architects, builders -> /
-- Hosts film/TV productions (HGTV, PBS) -> /
-- Offers free classes and demonstrations -> /
-- Works with customer-supplied reclaimed materials -> /
-- Materials: reclaimed barn wood, mushroom wood, hand-hewn beams, live edge slabs, salvaged lumber, pallet wood, metal, glass, concrete, leather, plastic, styrofoam, acrylic -> /, /about-us
-- Equipment: CNC plasma cutter, CNC router, laser engraver, forklift -> /services, /about-us
+- LLC formed in 2012 -> /about-us
+- Family-owned, wife Emy and two children -> /about, /about-us
+- Location: Phoenix, Arizona -> db, /about-us
+- Wood shop, metal shop, concrete shop, finish and contracting teams -> /
+- Services: milling, blacksmithing, CNC plasma, CNC routing, laser engraving, finishing, design -> /services
+- Reclaimed barn wood from PA, MI, OH, KY, TN, IA -> /about-us
+- Live-edge slabs from local forest-fire and beetle-kill sites -> /about-us
+- Projects for Surf City, Famé, The Duce, whole-home remodels -> /
+- Hosted HGTV and PBS film crews -> /
+- Accepts customers' own reclaimed materials -> /
+- Offers free classes and demos -> /
+- Rents event tables -> /
+- Collaborates with designers/architects -> /
 </details>
 
 ---
@@ -446,47 +517,45 @@ Porter describes the operation as a family business focused on growing while kee
 **Old description:** INTERNATIONAL SHIPPING CHARGED ACCORDING TO USPS INTERNATIONAL RATES.
 
 ## About
-Portsmouth Fabric Company has operated in the historic downtown district of Portsmouth, New Hampshire since 1980, after its founding in 1979 as a source for natural-fiber fabrics, fashion fabrics, and designer cuts. The shop moved to its current location a year after opening and began featuring Bernina sewing machines in 1980, expanding into contemporary quilting fabrics and fiber-arts books in 1990. Today the inventory spans more than 7,000 bolts of fabric.
+Portsmouth Fabric Company operates in the historic downtown district of Portsmouth, New Hampshire. The business was founded in 1979, initially selling natural-fiber fabrics, fashion fabrics, and designer cuts. In 1980 it moved to its current location, where it has remained for over four decades. Ownership details and founder names are not disclosed in public materials.
 
-The store stocks a broad range of textiles including contemporary quilting cottons, Bali batiks, silk dupioni, silk noil, silk organza, silk charmeuse, flannels, batiste, cotton solids, laminates, linens, velvets, and wool. It is an authorized Bernina dealer offering the full line of Swiss-made machines — from the Liberty 495 and 580 to the 770 Plus, 990, and Q-Series longarms — with free, unlimited guide classes and on-site service by a Bernina-trained technician. The shop also carries specialty threads from Aurifil, Isacord, Mettler, and Superior, plus trims, ribbons, buttons, and notions. A dedicated classroom hosts scheduled workshops with visiting artists such as Kaffe Fassett and Brandon Mably, and the space is available for private rental for sewing retreats.
+The shop carries more than 7,000 bolts of fabric, including contemporary quilting cottons, Bali batiks, silk dupioni, silk noil, silk organza, silk charmeuse, flannels, batiste, cotton solids, laminates, linens, velvets, and wool. It is also an authorized dealer for Swiss-made BERNINA sewing machines, offering models such as the Q24 longarm on a professional frame, the Q20 on a studio frame, the Q16 on a Horn lift table, and the 990, 770, 580, and 495 series. A Bernina-trained technician provides machine service and repair. The company runs a classroom that hosts sewing, quilting, and embroidery classes, and the space is available for rent for retreats or private groups.
 
-Customers range from individual quilters and garment sewists to fiber-art groups and workshop attendees. The shop serves the New England quilting and sewing community through two annual clearance events — an Anniversary Sale in early July and a Year-End Clearance in late December — and has supported local charities including New Generation, a shelter for homeless pregnant women.
+Customers range from hobbyist quilters and garment sewists to fiber artists attending workshops with visiting instructors such as Kaffe Fassett, Brandon Mably, Susan Carlson, and Dianne Hire. The store also supplies specialty threads (Aurifil, Isacord, Mettler, Superior), trims, ribbons, buttons, and notions. Two annual clearance sales — the Anniversary Sale in July and the Year End Clearance in December — attract regional buyers.
 
-The company emphasizes professional advice and individualized product selection, a service model it has maintained for over four decades.
+The company emphasizes professional advice and individualized service, a commitment it has maintained for 46 years. Its combination of a broad fabric inventory, machine sales and service, and an active education program distinguishes it from typical fabric retailers in New England.
 
 ## Known for
-- One of the largest and most unique fabric selections in New England with over 7,000 bolts in stock
-- Free, unlimited Bernina guide classes with machine purchase
-- Classroom available for rent for sewing retreats and private groups
-- Two annual clearance sales: Anniversary Sale in July and Year-End Clearance in December/January
-- Hosts workshops with internationally known quilters such as Kaffe Fassett and Brandon Mably
+- Over 7,000 bolts of fabric in stock
+- Authorized BERNINA dealer with on-site trained technician
+- Free unlimited guide classes with machine purchase
+- Classroom available for rent with or without BERNINA machines
+- Two annual clearance sales (Anniversary and Year End)
 
 ## Capabilities
 - Fabric retail
-- Bernina sewing machine sales
-- Bernina sewing machine service and repair
+- Sewing machine sales (BERNINA)
+- Sewing machine service and repair
 - Sewing and quilting classes
-- Workshop hosting with visiting artists
-- Classroom rental for sewing retreats
-- Specialty thread sales
-- Notions and trim sales
+- Classroom rental
+- Specialty thread and notion sales
 
 ## Industries
 - Quilting
 - Sewing
 - Fiber arts
-- Textile retail
-- Home sewing
+- Crafting
+- Textile arts
 
 ## Equipment
-- Bernina 990
-- Bernina 770 Plus
-- Bernina Liberty 580
-- Bernina Liberty 495
-- Bernina Q24 longarm
-- Bernina Q20 longarm
-- Bernina Q16 longarm
-- Bernina 215
+- BERNINA Q24 longarm on professional frame
+- BERNINA Q20 on studio frame
+- BERNINA Q16 on Horn lift table
+- BERNINA 990
+- BERNINA 770 series
+- BERNINA 580
+- BERNINA 495
+- BERNINA 215
 
 ## Company details
 - **Company Type:** Retailer
@@ -496,21 +565,24 @@ The company emphasizes professional advice and individualized product selection,
 <details><summary>Sources</summary>
 
 - Founded 1979 -> /about-us
-- Moved to present location 1980 -> /about-us
+- Moved to current location 1980 -> /about-us
 - Added contemporary quilting fabrics 1990 -> /about-us
-- Inventory over 7,000 bolts -> /about-us
+- Over 7,000 bolts inventory -> /about-us
 - Located in historic downtown Portsmouth, NH -> /about-us
-- Authorized Bernina dealer -> /about-us
-- Free unlimited guide classes with Bernina purchase -> /about-us
-- Bernina trained technician on site -> /about-us
-- Carries Aurifil, Isacord, Mettler, Superior threads -> /about-us
+- Carries natural-fiber fabrics, fashion fabrics, designer cuts -> /about-us
+- Authorized BERNINA dealer -> /about-us
+- Free unlimited guide classes with machine purchase -> /about-us
+- Bernina-trained technician for service -> /about-us
 - Classroom available for rent -> /about-us
-- Hosts workshops with Kaffe Fassett, Brandon Mably -> /about-us
-- Two annual clearance sales (July Anniversary, Dec/Jan Year-End) -> /about-us
-- 46 years of professional advice and individualized service -> /about-us
-- Bernina models: 990, 770 Plus, Liberty 580, Liberty 495, Q24, Q20, Q16, 215 -> /
-- Fabric types: quilting cottons, batiks, silks, flannels, batiste, laminates, linens, velvets, wool -> /about-us
-- Charity support for New Generation shelter -> /about-us
+- Workshops with international quilters (Kaffe Fassett, Brandon Mably, etc.) -> /about-us
+- Two annual clearance sales (Anniversary July, Year End Dec/Jan) -> /about-us
+- 46 years dedicated to professional advice and individualized service -> /about-us
+- Carries specialty threads (Aurifil, Isacord, Mettler, Superior) -> /about-us
+- International shipping per USPS rates -> /
+- Free shipping domestic online orders over $85 -> /
+- BERNINA models: Q24, Q20, Q16, 990, 770, 580, 495, 215 -> /
+- Fabric types: cotton, silk, linen, velvet, wool, batik, flannel, batiste, laminates, rayon -> /about-us, /
+- Specific fabric brands/collections: Kaffe Fassett, Martha Negley, Golden Harvest, etc. -> /
 </details>
 
 ---
@@ -520,38 +592,25 @@ The company emphasizes professional advice and individualized product selection,
 **Old description:** Transform Your Home with Our Top-Quality Interior Remodeling, Custom Cabinetry & Furniture Restoration
 
 ## About
-Portugal Woodworks LLC operates from Lehi, Utah, serving the Greater Salt Lake City corridor from Ogden to Provo and the Park City Summit region. The company’s founding year, ownership structure, and founders are not disclosed in public materials.
+Portugal Woodworks LLC is based in Lehi, Utah, and serves the Greater Salt Lake City area from Ogden to Provo, including the Park City Summit region. The company does not disclose its founding year, ownership structure, or founder names in the available public sources.
 
-The shop provides interior remodeling, custom cabinetry, furniture and antique restoration, and custom closet solutions. Core processes include cabinet making, furniture repair and refinishing, drywall installation, interior painting, custom baseboard and crown molding fabrication, and specialty hardware installation. Facility size, headcount, annual volumes, and part-number counts are not published.
+The firm delivers interior remodeling, custom cabinetry, furniture restoration, and custom closet solutions. Its trade capabilities encompass drywall installation, interior painting, custom baseboard and crown molding fabrication and installation, and specialty hardware mounting. The company also offers cabinet refinishing as part of its cabinetry services. No facility square footage, employee count, or annual project volume is provided.
 
-Customers are primarily residential and light-commercial property owners across Utah communities such as Heber, Park City, Sandy, Lehi, Spanish Fork, Alpine, Draper, and Salt Lake City. The company cites kitchen, closet, and entertainment-center cabinetry as typical project types, along with whole-room remodels and piece-by-piece furniture restoration.
+The customer base consists of residential homeowners throughout northern and central Utah, with service areas explicitly listing Alpine, American Fork, Cottonwood Heights, Draper, Eagle Mountain, Farmington, Heber City, Herriman, Holladay, Kaysville, Layton, Lehi, Ogden, Orem, Park City, Provo, Salt Lake City, Sandy, and South Jordan. No commercial, institutional, or industrial client segments are mentioned.
 
-Portugal Woodworks emphasizes “unmatched craftsmanship and attention to detail” and “expert craftsmanship and dedication to quality” as its distinguishing attributes, and it offers free on-site estimates to prospective clients.
-
-## Known for
-- Unmatched craftsmanship and attention to detail
-- Expert craftsmanship and dedication to quality
-- Service across Greater Salt Lake City from Ogden to Park City
-- Free on-site estimates
+The reviewed materials do not include a stated mission, differentiation claim, or reason for the company's establishment.
 
 ## Capabilities
-- Custom cabinet making
-- Cabinet refinishing
-- Furniture restoration
-- Antique furniture repair
-- Custom closet systems
 - Interior remodeling
-- Drywall installation
-- Interior painting
-- Custom baseboard fabrication
-- Crown molding fabrication
-- Specialty hardware installation
-
-## Industries
-- Residential remodeling
-- Commercial remodeling
 - Custom cabinetry
 - Furniture restoration
+- Custom closet solutions
+- Drywall installation
+- Interior painting
+- Custom baseboard installation
+- Crown molding installation
+- Specialty hardware installation
+- Cabinet refinishing
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -561,13 +620,13 @@ Portugal Woodworks emphasizes “unmatched craftsmanship and attention to detail
 
 - Company name: Portugal Woodworks LLC -> db
 - Headquarters: Lehi, Utah -> db
-- Service area: Greater Salt Lake City (Ogden to Provo, Park City Summit) -> /
-- Services: interior remodeling, custom cabinetry, furniture restoration, custom closets -> /
-- Specific capabilities: drywall, painting, custom baseboard, crown molding, specialty hardware installation -> /
-- Phone: +1 (703) 206-8360 -> /
+- Service area: Greater Salt Lake City (Ogden to Provo, Park City Summit region) -> /
+- Services: interior remodeling, custom cabinetry, furniture restoration, custom closet solutions -> /, /services
+- Specific capabilities: drywall, interior painting, custom baseboard, crown molding, specialty hardware installation -> /, /services
+- Cabinet refinishing offered -> /services
+- Cities served: Alpine, American Fork, Cottonwood Heights, Draper, Eagle Mountain, Farmington, Heber City, Herriman, Holladay, Kaysville, Layton, Lehi, Ogden, Orem, Park City, Provo, Salt Lake City, Sandy, South Jordan -> /, /services
 - Website: portugalwoodworks.com -> db
-- Differentiators: unmatched craftsmanship, expert craftsmanship, free estimates -> /
-- Customer locations: Heber, Park City, Sandy, Lehi, Spanish Fork, Alpine, Draper, etc. -> /
+- No founding year, ownership, certifications, equipment, materials, volume, lead time, tolerances, employee count, CAGE code, export compliance, languages, or social links found in input -> db, /, /services
 </details>
 
 ---

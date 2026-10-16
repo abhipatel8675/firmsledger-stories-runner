@@ -9,118 +9,119 @@ refetched site text for p0595-raw.json
 refetched site text for p0596-raw.json
 refetched site text for p0597-raw.json
 fetched p0582-raw.json 9 / 10
-ok   MedShift 
 ok   MedEx Inc 
-ok   MedTech AZok   Medical Armor Corporation 
- 
-ok   Medical Measurements ok   Medzah Industries 
-skip Medler Electric Co 
+ok   MedShift 
+ok   MedTech AZ 
+ok   Medical Armor Corporation 
+ok   Medical Measurements 
+ok   Medzah Industries skip Medler Electric Co 
 
-ok   Medice Manufacturing 
-ok   Mega Circuits 
+ok   Medice Manufacturingok   Mega Circuits 
+ 
 fetched p0583-raw.json 10 / 10
-ok   Metal Center 
-ok   Meritek Electronics Corporation ok   Messenger Clothing Company ok   Merge Manufacturing LLC 
+ok   Merrow Inc 
+ok   Merge Manufacturing LLC 
+ok   Messenger Clothing Company ok   Metal & Wire Products Co 
+ok   Metal Centerok   Metal Creationsok   Meritek Electronics Corporation 
 
-ok   Metal & Wire Products Co ok   Merrow Inc 
-
-
-ok   Metal Fabricators of St. Louisok   Metal Creations 
-ok   Metal Industries, Inc. 
  
-RETRY metal-doctors HTTP Error 503: Service Unavailable
-RETRY metal-doctors HTTP Error 503: Service Unavailable
+ 
+ok   Metal Fabricators of St. Louisok   Metal Industries, Inc. 
+ 
 fetched p0587-raw.json 10 / 10
 ok   Millie Wood Works 
-ok   Miltronics Manufacturing, Inc. 
-ok   MinnTech Plasticsok   Mispillion River Brewing ok   Milo's Tea Company, Inc.  
-
+ok   Milo's Tea Company, Inc. 
+ok   Minnesota Equipment ok   Miltronics Manufacturing, Inc. 
 
 ok   Mission Craft Furniture 
-ok   Mission Plastics 
+ok   MinnTech Plastics 
+ok   Mispillion River Brewing 
 ok   Mission Foods 
-ok   Minnesota Equipment 
-RETRY minnesota-farmhouse HTTP Error 503: Service Unavailable
+ok   Mission Plastics 
 fetched p0588-raw.json 10 / 10
 ok   Mississippi Silicon 
-ok   Mississippi Solar, LLC 
-ok   Missouri Medical Supply 
-ok   Missoula Bench Builderok   Mississippi Farm Tablesok   Mobius Materials  
+ok   Mississippi Farm Tables 
+ok   Missouri Medical Supplyok   Mississippi Solar, LLC  
+
+ok   Modern Furniture Manufacturing Company ok   Mobius Materials 
+
 ok   Modern Metal Solutions, LLC 
- ok   Modern Furniture Manufacturing Company 
-
-
 ok   Modern Edge Metal Fabrication, INC 
+ok   Missoula Bench Builder 
 fetched p0589-raw.json 10 / 10
-ok   Momentive Technologies 
-ok   Monarch Plastics Inc 
-ok   Monsoon Metal Manufacturingok   Montana Gluten Free 
- 
+ok   Monarch Plastics Inc ok   Momentive Technologiesok   Monsoon Metal Manufacturing 
+
 ok   Montana Fine Furniture 
-ok   Montana Premium Processing Cooperative ok   Mom's Meals (PurFoods LLC) 
-ok   Montana Offroad Designs 
+ok   Montana Gluten Free  
 
-ok   Montana Steel Industries 
-fetched p0590-raw.json 10 / 10
-ok   Moosehead Solar 
-ok   Morris Packaging ok   Morgen Woodwork ok   Morxer electrical enclosures 
-
-ok   Moroso Performance Products 
-ok   Morningstar Auto Parts 
-ok   Moseley Electronics 
-
-ok   Mothership Workshop 
-ok   Motorville 
-fetched p0591-raw.json 10 / 10
-ok   Muchmore Custom Plastics 
-ok   Mountain Power Systems, Incok   Mtswoodworking ok   Mr R's Auto Salvage ok   Mountain View Wood Works 
+ok   Mom's Meals (PurFoods LLC) 
+ok   Montana Offroad Designsok   Montana Premium Processing Cooperative 
  
+ok   Montana Steel Industries 
+RETRY moog-inc HTTP Error 503: Service Unavailable
+fetched p0590-raw.json 10 / 10
+ok   Moroso Performance Products 
+ok   Morgen Woodwork 
+ok   Moseley Electronics ok   Morris Packaging 
+ok   Mothership Workshop 
+ok   Morningstar Auto Partsok   Moosehead Solar 
 
-ok   Murata Electronics North America, Inc. ok   Municipal Truck Parts Inc 
-ok   Mubea Coil Spring Wire 
-
+ 
+ok   Motorville 
+ok   Morxer electrical enclosures 
+RETRY moog-inc HTTP Error 503: Service Unavailable
+fetched p0591-raw.json 10 / 10
+ok   Mountain View Wood Works ok   Mountain Power Systems, Inc 
+ok   Mtswoodworking 
+ok   Mr R's Auto Salvage
 ok   Moyer Electronic Supply Co 
-
+ 
+ok   Mubea Coil Spring Wire ok   Municipal Truck Parts Inc 
+ok   Murata Electronics North America, Inc. 
+ok   Muchmore Custom Plastics
+ 
 fetched p0592-raw.json 10 / 10
-ok   Mustang Custom Woodworking 
-ok   Myers Power Productsok   N the Zone Ink  ok   My Furniture Warehouse Alexander 
-
-ok   Musashi Auto Parts-Michigan 
-
-ok   NDH Medical Inc ok   NDTC 
-
+ok   My Furniture Warehouse Alexanderok   Musashi Auto Parts-Michiganok   Mustang Custom Woodworking 
+ 
+ok   NDTC 
+ ok   N the Zone Ink 
 ok   NEOTech 
-ok   NHanced Semiconductors, Inc. 
-fetched p0598-raw.json 9 / 10
-ok   Nomad Furniture 
-ok   Niltronix Circuits 
-ok   Nola Solar Energy ok   Niagara Power Transformer Corp. 
+ok   NDH Medical Inc 
 
-ok   Noreast Custom Apparel 
-skip Nocira 
-ok   Nordic Semiconductor, Inc 
-ok   North Iowa Fabrication 
-ok   Northe Woodworking 
-skip Minnesota Farmhouse 
+ok   Myers Power Products 
+ok   NHanced Semiconductors, Inc. 
+RETRY my-medical-supply HTTP Error 503: Service Unavailable
+ok   Minnesota Farmhouse 
 PAGE DONE p0587-profiles.json
+fetched p0598-raw.json 9 / 10
+ok   Niagara Power Transformer Corp.ok   Niltronix Circuits  
+
+ok   Nomad Furniture 
+ok   Nordic Semiconductor, Inc 
+ok   Nola Solar Energyskip Nocira  
+
+ok   North Iowa Fabrication 
+ok   Noreast Custom Apparel 
+ok   Northe Woodworking 
+RETRY north-star-systems-inc HTTP Error 503: Service Unavailable
 fetched p0599-raw.json 10 / 10
 ok   Northstar Apparel Company 
-ok   Northwest Lumber Co 
-ok   OEM CAR PARTS USA ok   Nu-Source Technologies 
+ok   Numotion ok   Nu-Source Technologies 
+ok   O&G Studio 
 
-ok   ORACLE Lighting 
-ok   ORTHOTEK INC 
-ok   Numotion ok   O&G Studio 
 skip OC Apparel 
+ok   Northwest Lumber Co 
+ok   ORACLE Lighting ok   ORTHOTEK INC 
 
+ok   OEM CAR PARTS USA 
 ok   Metal Doctors 
 PAGE DONE p0583-profiles.json
 ok   Medical Manufacturing Technologies - CEC 
 PAGE DONE p0582-profiles.json
-ok   Mountaineer Home Medical 
-PAGE DONE p0591-profiles.json
 ok   Missouri Reclaimed Furniture 
 PAGE DONE p0588-profiles.json
+ok   Mountaineer Home Medical 
+PAGE DONE p0591-profiles.json
 ok   Moog Inc. 
 PAGE DONE p0589-profiles.json
 ok   Motiv Medical 
@@ -129,10 +130,10 @@ ok   My Medical Supply
 PAGE DONE p0592-profiles.json
 ok   North Star Systems, Inc. 
 PAGE DONE p0598-profiles.json
-skip OMEC Medical NV 
+ok   OMEC Medical NV 
 PAGE DONE p0599-profiles.json
 ALL-DONE errors 0 of 100
-collected 190
+collected 192
 medtech-az | wording/address
 metal-creations | wording/address
 minntech-plastics | wording/address
@@ -140,10 +141,11 @@ mispillion-river-brewing | wording/address
 mobius-materials | wording/address
 monarch-plastics-inc | wording/address
 montana-gluten-free | certs ['GFCO (Gluten-Free Certification Organization)']
+moog-inc | wording/address
 moosehead-solar | wording/address
 morris-packaging | wording/address
 mr-r-s-auto-salvage | nums ['48']
-mubea-coil-spring-wire | nums ['3.6']
+mubea-coil-spring-wire | nums ['70', '17,200', '3.6', '22']
 municipal-truck-parts-inc | wording/address
 murata-electronics-north-america-inc | wording/address
 mustang-custom-woodworking | wording/address
@@ -155,7 +157,7 @@ north-iowa-fabrication | nums ['11']
 numotion | nums ['7:00', '10:00']
 o-g-studio | wording/address
 orthotek-inc | wording/address
-collected 190
+collected 192
 done marpac-medical 1 
 done mars-plastics 0 
 done martel-inc 0 
@@ -166,7 +168,17 @@ done maryland-medical-devices 0
 done maryland-parts 2 
 done masters-precision-machining-inc 1 
 done mastro-electric-supply-co-inc 1 
-done matchless-plastics-inc 2 
+RETRY medical-manufacturing-technologies-cec HTTP Error 429: Too Many Requests
+RETRY missouri-reclaimed-furniture HTTP Error 429: Too Many Requests
+RETRY morningstar-auto-parts HTTP Error 502: Bad Gateway
+RETRY moseley-electronics HTTP Error 429: Too Many Requests
+RETRY motiv-medical HTTP Error 429: Too Many Requests
+RETRY mountain-view-wood-works HTTP Error 429: Too Many Requests
+RETRY mountaineer-home-medical HTTP Error 429: Too Many Requests
+RETRY mr-r-s-auto-salvage HTTP Error 429: Too Many Requests
+RETRY my-medical-supply HTTP Error 429: Too Many Requests
+RETRY ndtc HTTP Error 429: Too Many Requests
+done matchless-plastics-inc 0 
 done matrix-corporation 0 
 done maverick-power 0 
 done mb-cable-company-llc 2 
@@ -180,6 +192,17 @@ done medex-inc 1
 done medshift 0 
 done medtech-az 1 
 done medical-armor-corporation 2 
+RETRY nashville-wire-products-engineered-components HTTP Error 429: Too Many Requests
+RETRY nassau-foods-inc HTTP Error 429: Too Many Requests
+RETRY national-power-equipment HTTP Error 429: Too Many Requests
+RETRY missouri-reclaimed-furniture HTTP Error 429: Too Many Requests
+RETRY morningstar-auto-parts HTTP Error 429: Too Many Requests
+RETRY motiv-medical HTTP Error 429: Too Many Requests
+RETRY natural-kinships-store HTTP Error 429: Too Many Requests
+RETRY mountain-view-wood-works HTTP Error 429: Too Many Requests
+RETRY mountaineer-home-medical HTTP Error 429: Too Many Requests
+RETRY my-medical-supply HTTP Error 429: Too Many Requests
+RETRY natural-northern-foods HTTP Error 429: Too Many Requests
 done medical-manufacturing-technologies-cec 1 
 done medical-measurements 1 
 done medice-manufacturing 3 
@@ -192,7 +215,7 @@ done messenger-clothing-company 0
 done metal-wire-products-co 1 
 done metal-center 4 
 done metal-creations 3 
-done metal-doctors 0 
+done metal-doctors 1 
 done metal-fabricators-of-st-louis 1 
 done metal-industries-inc 0 
 done metal-solutions-design-fabrication-llc 0 
@@ -203,7 +226,7 @@ done metalwork-austin 0
 done metaltech-products-inc 0 
 done metric-auto-parts-inc 3 
 done metro-fabricating 0 
-done metzfab-industries 1 
+done metzfab-industries 0 
 done miami-valley-precision 0 
 done miami-woodworking-inc 2 
 done michelsen-packaging-co 3 
@@ -229,6 +252,7 @@ done milo-s-tea-company-inc 1
 done miltronics-manufacturing-inc 0 
 done minntech-plastics 0 
 done minnesota-equipment 0 
+done minnesota-farmhouse 1 
 done mispillion-river-brewing 0 
 done mission-craft-furniture 0 
 done mission-foods 5 
@@ -238,7 +262,35 @@ done mississippi-silicon 0
 done mississippi-solar-llc 0 
 done missoula-bench-builder 4 
 done missouri-medical-supply 1 
-done missouri-reclaimed-furniture 0 
+RETRY new-england-fabrics-decorating-center HTTP Error 429: Too Many Requests
+RETRY nassau-foods-inc HTTP Error 429: Too Many Requests
+RETRY missouri-reclaimed-furniture HTTP Error 429: Too Many Requests
+RETRY morningstar-auto-parts HTTP Error 429: Too Many Requests
+RETRY motiv-medical HTTP Error 429: Too Many Requests
+RETRY natural-kinships-store HTTP Error 429: Too Many Requests
+RETRY mountain-view-wood-works HTTP Error 429: Too Many Requests
+RETRY my-medical-supply HTTP Error 429: Too Many Requests
+RETRY natural-northern-foods HTTP Error 429: Too Many Requests
+RETRY new-mexico-school-products HTTP Error 429: Too Many Requests
+RETRY new-york-parts-specialists-inc HTTP Error 429: Too Many Requests
+RETRY new-yorker-electronics HTTP Error 429: Too Many Requests
+RETRY new-england-fabrics-decorating-center HTTP Error 429: Too Many Requests
+RETRY nassau-foods-inc HTTP Error 429: Too Many Requests
+RETRY missouri-reclaimed-furniture HTTP Error 429: Too Many Requests
+RETRY natural-kinships-store HTTP Error 429: Too Many Requests
+RETRY mountain-view-wood-works HTTP Error 429: Too Many Requests
+RETRY my-medical-supply HTTP Error 429: Too Many Requests
+RETRY natural-northern-foods HTTP Error 429: Too Many Requests
+RETRY niltronix-circuits HTTP Error 429: Too Many Requests
+RETRY nola-solar-energy HTTP Error 429: Too Many Requests
+RETRY new-york-parts-specialists-inc HTTP Error 429: Too Many Requests
+RETRY nordic-semiconductor-inc HTTP Error 429: Too Many Requests
+RETRY new-england-fabrics-decorating-center HTTP Error 429: Too Many Requests
+RETRY nassau-foods-inc HTTP Error 429: Too Many Requests
+RETRY natural-kinships-store HTTP Error 429: Too Many Requests
+RETRY my-medical-supply HTTP Error 429: Too Many Requests
+RETRY north-iowa-fabrication HTTP Error 429: Too Many Requests
+done missouri-reclaimed-furniture 2 
 done mobius-materials 0 
 done modern-edge-metal-fabrication-inc 0 
 done modern-furniture-manufacturing-company 1 
@@ -265,9 +317,9 @@ done motiv-medical 0
 done motorville 4 
 done mountain-power-systems-inc 0 
 done mountain-view-wood-works 0 
-done mountaineer-home-medical 1 
+done mountaineer-home-medical 0 
 done moyer-electronic-supply-co 1 
-done mr-r-s-auto-salvage 0 
+done mr-r-s-auto-salvage 1 
 done mtswoodworking 0 
 done mubea-coil-spring-wire 0 
 done muchmore-custom-plastics 1 
@@ -288,65 +340,80 @@ done npi-solutions 0
 done npt-sportswear 2 
 done npw 1 
 done nri-electronics-inc 1 
-done nwi-mfw-metalworking-fabrication-welding 0 
+done nwi-mfw-metalworking-fabrication-welding 1 
 done ny-custom-furnishings 1 
 done nanometer-lighting-nanoltg 0 
 done napatech-inc 0 
 done nashville-metal-art-fabrication 0 
 done nashville-wire-products-engineered-components 0 
+RETRY niltronix-circuits HTTP Error 429: Too Many Requests
+RETRY oem-car-parts-usa HTTP Error 429: Too Many Requests
+RETRY omec-medical-nv HTTP Error 429: Too Many Requests
+RETRY nola-solar-energy HTTP Error 429: Too Many Requests
+RETRY new-york-parts-specialists-inc HTTP Error 429: Too Many Requests
+RETRY nordic-semiconductor-inc HTTP Error 429: Too Many Requests
+RETRY nassau-foods-inc HTTP Error 429: Too Many Requests
+RETRY natural-kinships-store HTTP Error 429: Too Many Requests
+RETRY north-iowa-fabrication HTTP Error 429: Too Many Requests
 done nassau-foods-inc 0 
-done national-biomedical 3 
-done national-breaker-services-l-l-c 1 
+done national-biomedical 1 
+done national-breaker-services-l-l-c 0 
 done national-food-beverage 1 
 done national-power-equipment 1 
+RETRY oracle-lighting expected string or bytes-like object, got 'NoneType'
 done natural-kinships-store 0 
 done natural-northern-foods 0 
-done naughton-equipment-company-inc 1 
-done nebraska-public-power-district 1 
-done nelson-steel-products-inc 3 
-done netech-corporation 2 
-done neuweg-industries-llc 2 
-done nevada-business-furniture 0 
-done new-earth-solar 1 
+done naughton-equipment-company-inc 0 
+done nebraska-public-power-district 5 
+done nelson-steel-products-inc 2 
+done netech-corporation 1 
+done neuweg-industries-llc 1 
+done nevada-business-furniture 1 
+done new-earth-solar 0 
 done new-england-fabrics-decorating-center 0 
-done new-england-motor-racing-supply 1 
+done new-england-motor-racing-supply 2 
 done new-england-printwear 0 
 done new-england-stainless-steel-fabrication-inc 0 
-done new-england-table-company 3 
+done new-england-table-company 0 
 done new-jersey-solar-initiative 4 
 done new-mexico-diesel-power-inc 1 
 done new-mexico-manufacturing-extension-partnership-new-mexico-mep 0 
 done new-mexico-school-products 0 
-done new-tech-metals 1 
-done new-york-parts-specialists-inc 2 
-done new-york-woodworking 2 
+done new-tech-metals 0 
+RETRY oracle-lighting HTTP Error 429: Too Many Requests
+done new-york-parts-specialists-inc 0 
+done new-york-woodworking 4 
 done new-yorker-electronics 0 
 done new-life-medicals-usa-inc 0 
 done newgem-foods 0 
 done newyork-cables 1 
-done newberg-steel-and-fabrication-inc 5 
+done newberg-steel-and-fabrication-inc 2 
 done newman-furniture-of-elgin 0 
-done newport-industries-llc 5 
+done newport-industries-llc 4 
 done newtown-apparel-company 0 
-done nexus-power 3 
-done niagara-power-transformer-corp 1 
+done nexus-power 2 
+done niagara-power-transformer-corp 0 
 done niltronix-circuits 2 
 done nola-solar-energy 0 
 done nomad-furniture 0 
-done nordic-semiconductor-inc 0 
-done noreast-custom-apparel 0 
+done nordic-semiconductor-inc 2 
+done noreast-custom-apparel 1 
 done north-iowa-fabrication 0 
 done north-star-systems-inc 0 
-done northe-woodworking 1 
+done northe-woodworking 0 
 done northstar-apparel-company 0 
-done northwest-lumber-co 2 
-done nu-source-technologies 1 
-done numotion 3 
-done o-g-studio 4 
-done oem-car-parts-usa 0 
+done northwest-lumber-co 0 
+done nu-source-technologies 0 
+done numotion 5 
+done o-g-studio 1 
+done oem-car-parts-usa 1 
+done omec-medical-nv 1 
 done oracle-lighting 1 
 done orthotek-inc 0 
-ALL-DONE errors 0
-clean 189 | sentences removed 182 | needs review 1 | check errors 0
+ALL-DONE errors 3
+clean 188 | sentences removed 175 | needs review 1 | check errors 3
 REVIEW montana-premium-processing-cooperative too short after fact-check (33 words)
-sql parts 3 stories 189
+ERROR my-medical-supply
+ERROR nassau-foods-inc
+ERROR natural-kinships-store
+sql parts 3 stories 188

@@ -149,27 +149,29 @@ The Maness family states that the business was built on a commitment to honest d
 **Old description:** Important Notice: We are not able to ship Rx Products to IN, IA, MD, MN, ND, & WY at this time. We can still ship non-Rx to these states.
 
 ## About
-My Medical Supply operates from North Little Rock, Arkansas. The company recently transitioned to new management, though a founding year and original ownership details are not disclosed. No founders are named in available materials.
+My Medical Supply operates from North Little Rock, Arkansas. The business is currently under new management, though a founding year and original ownership details are not publicly disclosed.
 
-The firm functions as a medical supply distributor, providing prescription drugs, medical-surgical items, and over-the-counter products to healthcare facilities across the United States. Its catalog includes ophthalmic supplies such as fluorescein sodium solutions and cataract post-operative kits, sourced from manufacturers like Accord Healthcare, Altaire Pharmaceuticals, and MicroSpecialties. No facility size, headcount, or volume metrics are published.
+The company functions as a medical supply distributor, providing prescription drugs, medical-surgical items, and over-the-counter products to healthcare facilities across the United States. Its catalog includes branded pharmaceuticals from manufacturers such as Accord Healthcare, Altaire Pharmaceuticals, and MicroSpecialties, featuring items like acetazolamide extended-release capsules, fluorescein-benoxinate ophthalmic solution, ammonia inhalant wipes, and cataract post-operative kits. The firm ships nationwide, though prescription products cannot be sent to Indiana, Iowa, Maryland, Minnesota, North Dakota, or Wyoming. Orders over $249 qualify for free shipping, while bulk and heavyweight items incur a flat $14 fee.
 
-Primary customers are optometrists, ophthalmologists, and clinics in the eye care sector, with additional accounts in dental and long-term care settings. The company ships nationwide but restricts prescription deliveries to Indiana, Iowa, Maryland, Minnesota, North Dakota, and Wyoming. Orders over $249 qualify for free shipping; bulk and heavyweight shipments incur a flat $14 fee.
+My Medical Supply primarily serves the eye care industry, supplying optometrists and ophthalmologists, while also supporting dental practices and long-term care facilities. Its customer base consists of clinics and medical professionals seeking a range of Rx, med-surg, and OTC products.
 
-The company states it is "standing by to help you with your medical supply needs," but does not articulate a specific founding mission or competitive differentiation beyond product availability and shipping terms.
+The company highlights its readiness to assist customers with medical supply needs, promoting weekly specials on branded products.
 
 ## Known for
 - Free shipping on orders over $249
-- Nationwide shipping with prescription restrictions in six states
-- Flat $14 fee for bulk and heavyweight items
-- Specializes in ophthalmic supplies for eye care professionals
-- Carries prescription, medical-surgical, and over-the-counter product lines
+- Nationwide shipping with Rx restrictions in six states
+- Weekly specials on branded pharmaceuticals
+- Focus on ophthalmic, dental, and long-term care supplies
+- Online shopping with cart functionality
 
 ## Capabilities
-- Rx product distribution
-- Medical-surgical product distribution
-- OTC product distribution
-- Ophthalmic supply distribution
-- Nationwide order fulfillment
+- Medical supply distribution
+- Prescription (Rx) product distribution
+- Over-the-counter (OTC) product supply
+- Medical-surgical product supply
+- Nationwide shipping
+- Online ordering
+- Weekly specials promotion
 
 ## Industries
 - Eye care
@@ -182,16 +184,15 @@ The company states it is "standing by to help you with your medical supply needs
 
 <details><summary>Sources</summary>
 
-- Location: North Little Rock, Arkansas -> db
-- Business type: medical supply distributor -> /
-- Products: Rx, med surg, OTC -> /
-- Industries served: eye care, dental, long-term care -> /
-- Customers: optometrists, ophthalmologists, clinics -> /
-- Shipping: nationwide with Rx restrictions to IN, IA, MD, MN, ND, WY -> /
-- Free shipping over $249 -> /
-- Flat $14 for bulk/heavy items -> /
-- Brands carried: Accord Healthcare, Altaire Pharmaceuticals, MicroSpecialties -> /
-- Under new management -> /
+- Headquarters in North Little Rock, Arkansas -> db
+- Currently under new management -> /
+- Free shipping on orders over $249 -> /
+- Nationwide shipping with Rx restrictions in IN, IA, MD, MN, ND, WY -> /
+- Supplies Rx, med-surg, and OTC products to medical facilities -> /
+- Primary industries: eye care, dental, long-term care -> /
+- Carries products from Accord Healthcare, Altaire Pharmaceuticals, MicroSpecialties -> /
+- Offers weekly specials on branded pharmaceuticals -> /
+- Flat $14 shipping fee for bulk, cases, heavyweight items -> /
 </details>
 
 ---

@@ -3,47 +3,45 @@
 **Old description:** Kuntz Electric, a division of Solar Connection, was founded in 1984 and joined the Solar Connection family in 2022.
 
 ## About
-Solar Connection is headquartered in Rochester, Minnesota, and has served the Midwest since 2010. The company began as a solar installation firm and expanded in 2022 when Kuntz Electric, an electrical contracting business founded in 1984, became a division of Solar Connection.
+Solar Connection, headquartered in Rochester, Minnesota, has been serving the Midwest since 2010. The company expanded in 2022 by adding Kuntz Electric, an electrical contracting firm founded in 1984, as a division.
 
-The firm designs, installs, and maintains solar photovoltaic systems for commercial, agricultural, educational, non-profit, and residential customers. Its offerings also include battery storage integration, electric-vehicle charging stations, and full-service electrical contracting covering routine repairs, new construction, remodeling, service-panel upgrades, and landscape lighting. Project surveys and design are supported by drone-based imaging and 3-D modeling. To date, the company has installed more than 900 systems totaling over 28 megawatts of capacity.
+The firm designs, installs, and maintains solar photovoltaic systems for roof and ground mounting, integrates battery storage and electric-vehicle charging, and provides full-service electrical contracting including new construction wiring, remodeling, service-panel upgrades, and landscape lighting. Its team uses drone-based surveys and 3-D modeling to streamline project planning and inspection. To date, Solar Connection has installed more than 900 systems totaling over 28 megawatts across Minnesota, Wisconsin, and Iowa.
 
-Solar Connection works with businesses and farms, schools and non-profit organizations, and homeowners across Minnesota, Wisconsin, and Iowa. The customer mix reflects a focus on both large-scale commercial and agricultural projects as well as residential rooftop and ground-mount arrays.
+Customers include commercial businesses, agricultural operations, schools, non-profit organizations, and residential homeowners throughout the three-state region.
 
-The company emphasizes its NABCEP-certified installers and the combination of solar expertise with licensed electrical contracting as key differentiators. Drone-assisted site assessment and a long-term maintenance program are also highlighted as reasons customers choose the firm.
+The company emphasizes its NABCEP-certified installers, a dedicated solar maintenance program, and the integration of electrical contracting through its Kuntz Electric division as key differentiators. Founded as a solar specialist, the business broadened its scope to offer a single point of contact for energy and electrical needs.
 
 ## Known for
-- NABCEP-certified installers
+- NABCEP-certified installation team
 - Drone-based site surveys and 3-D modeling
-- Over 900 solar systems installed across the Midwest
-- Full-service electrical contracting combined with solar installation
+- Dedicated solar maintenance program
+- Integrated electrical contracting through Kuntz Electric division
+- Regional coverage across Minnesota, Wisconsin, and Iowa
 
 ## Capabilities
-- Solar photovoltaic system installation
-- Solar system maintenance
+- Solar photovoltaic system design
+- Solar panel installation (roof and ground mount)
+- Solar system maintenance and repair
 - Battery energy storage system installation
 - Electric vehicle charging station installation
 - Full-service electrical contracting
-- Routine electrical repairs
-- New construction electrical work
-- Remodeling electrical work
+- New construction electrical wiring
+- Remodeling electrical services
 - Service panel upgrades
 - Landscape lighting installation
-- Drone-based site surveys
-- 3-D modeling for solar design
-- Solar performance monitoring
+- Drone-based site surveying
+- 3-D modeling for system design
+- Performance monitoring and tracking
 
 ## Industries
 - Commercial
 - Agricultural
-- Education
+- Educational
 - Non-profit
 - Residential
 
-## Equipment
-- Drones for aerial site surveys
-
 ## Certifications
-- NABCEP
+- NABCEP certification
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -54,13 +52,16 @@ The company emphasizes its NABCEP-certified installers and the combination of so
 
 - Founded 2010 -> /about
 - Headquarters Rochester, Minnesota -> db
-- Kuntz Electric founded 1984, joined Solar Connection 2022 -> db
-- Over 900 systems installed, 28.3+ MW -> /
-- NABCEP certification -> /about
+- Kuntz Electric division founded 1984, joined 2022 -> db
+- 900+ solar systems installed -> /
+- 28.3+ megawatts installed -> /
+- 775+ systems designed and installed across Minnesota, Wisconsin, Iowa -> /about
+- NABCEP certified installers -> /
 - Drone technology for surveys and 3-D modeling -> /services
+- Solar maintenance program -> /services
 - Services: solar installation, battery storage, EV charging, electrical contracting -> /services
 - Industries served: businesses, farms, schools, non-profits, homes -> /
-- Service area: Minnesota, Wisconsin, Iowa -> /about
+- Full-service electrical contracting including new construction, remodeling, panel upgrades, landscape lighting -> /services
 </details>
 
 ---
@@ -70,39 +71,36 @@ The company emphasizes its NABCEP-certified installers and the combination of so
 **Old description:** Solar energy is a clean, renewable power source that impacts the planet minimally and does not emit harmful greenhouse gases.
 
 ## About
-Solar Renewable Energy, LLC (SRE) is based in Mechanicsburg, Pennsylvania. The company was formed in January 2010 as a Pennsylvania limited liability corporation, emerging from founder Mr. Berry’s long‑standing relationship with the public accounting firm ParenteBeard.
+Solar Renewable Energy, LLC (SRE) is based in Mechanicsburg, Pennsylvania. The company was formed in January 2010 as a Pennsylvania limited liability corporation by Mr. Berry, drawing on his long-standing association with the public accounting firm ParenteBeard.
 
-SRE operates as a full‑service solar developer, offering turnkey engineering, procurement and construction (EPC) services, project financing through power service agreements, power purchase agreements, lease structures, tax‑credit equity and USDA REAP loans, plus ongoing asset management, SREC aggregation and brokerage, and system maintenance. To date the firm has financed, developed and installed more than 400 solar arrays totaling over 150 megawatts of annual generation, with an associated asset value exceeding $500 million across the Mid‑Atlantic and Northeast.
+SRE finances, develops, constructs, and operates solar energy systems across the Mid-Atlantic and Northeast. It provides turnkey EPC services, multiple financing structures (including power purchase agreements, power service agreements, lease financing, tax credit equity, and USDA Rural Development programs), asset management, SREC aggregation and brokerage, and ongoing repairs and maintenance. To date, the firm has completed more than 400 projects totaling over 150 megawatts of annual output, with an asset value exceeding $500 million, and currently operates 100-plus systems generating more than 50 megawatts annually.
 
-Its customers include commercial businesses, municipal governments and non‑profit organizations seeking to reduce energy costs with little or no upfront capital. SRE also serves utility buyers as a registered PJM GATS aggregator and broker, selling solar renewable energy credits from over 100 megawatts of output under multi‑year forward contracts in Pennsylvania, New Jersey, Maryland, Ohio, the District of Columbia, Connecticut and Delaware.
+The company serves commercial businesses, municipalities, and not-for-profit organizations in Pennsylvania, New Jersey, Maryland, Ohio, the District of Columbia, Connecticut, and Delaware. It also acts as a registered PJM GATS aggregator and broker, selling tens of thousands of solar renewable energy credits each year to public utilities on behalf of its clients.
 
-The company was created to deliver innovative financing, development, construction and operating solutions that make solar energy accessible and financially attractive, emphasizing ownership structures that maximize returns for for‑profit clients and minimize out‑of‑pocket expense for non‑profits.
+SRE emphasizes ownership structures that minimize upfront costs while delivering long-term energy savings and financial returns. Its leadership team combines project development, finance, public accounting, and taxation expertise, and the firm maintains relationships with panel, racking, inverter, and monitoring system manufacturers as well as design engineering and electrical contractor partners.
 
 ## Known for
-- Turnkey EPC services from design to operational array
-- Multiple financing structures: PSA, PPA, lease, tax‑credit equity, USDA REAP
-- Registered PJM GATS Aggregator and Broker for SREC sales
-- Asset management and maintenance to maximize system performance
-- Track record of 400+ projects and 150 MW installed capacity
+- Turnkey EPC services
+- Registered PJM GATS Aggregator and Broker
+- Multiple financing structures (PSA, PPA, lease, tax credit equity, USDA)
+- Asset management with SREC aggregation and brokerage
+- Comprehensive solar repairs and maintenance
 
 ## Capabilities
 - EPC services
-- Solar project financing
-- Power Service Agreements (PSA)
-- Power Purchase Agreements (PPA)
-- Lease financing
-- Tax credit equity financing
-- USDA Rural Development REAP financing
+- Project financing
 - Asset management
 - SREC aggregation and brokerage
 - Solar repairs and maintenance
-- Solar system monitoring
+- System monitoring
+- Design engineering
+- Electrical contractor services
+- Installation services
 
 ## Industries
 - Commercial
-- Municipalities
-- Non-profit organizations
-- Utilities
+- Municipal
+- Non-profit
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -112,17 +110,18 @@ The company was created to deliver innovative financing, development, constructi
 
 <details><summary>Sources</summary>
 
-- Founded January 2010 as a Pennsylvania LLC -> /about
-- Founder Mr. Berry associated with ParenteBeard -> /about
-- Headquarters in Mechanicsburg, Pennsylvania -> db
-- 400+ projects, 150 MW annual output, $500M asset value -> /about
-- Provides turnkey EPC services -> /services
-- Offers financing via PSA, PPA, lease, tax credit equity, USDA REAP -> /services
-- Asset management and SREC aggregation/brokerage -> /services
-- Solar repairs and maintenance -> /services
-- Serves commercial, municipal, non-profit customers -> /about
-- Registered PJM GATS Aggregator and Broker selling SRECs for 100+ MW -> /about
-- Multi-year forward contracts in PA, NJ, MD, OH, DC, CT, DE -> /about
+- Headquarters: Mechanicsburg, Pennsylvania -> db
+- Founded January 2010 as Pennsylvania LLC by Mr. Berry (ParenteBeard association) -> /about
+- 400+ projects, 150 MW annual output, $500M+ asset value -> /about
+- Operates 100+ systems generating 50+ MW annually -> /
+- Turnkey EPC services -> /services
+- Financing structures: PSA, PPA, lease, tax credit equity, USDA -> /about, /services
+- Asset management and SREC aggregation/brokerage (registered PJM GATS) -> /about, /services
+- Solar repairs and maintenance (annual and as-needed) -> /services
+- Serves commercial, municipalities, not-for-profit entities -> /about
+- Regions: PA, NJ, MD, OH, DC, CT, DE -> /about
+- Leadership background: project development, finance, public accounting, taxation -> /about
+- Relationships with panel, racking, inverter, monitoring manufacturers; design engineering, electrical contractor, installation partners -> /about
 </details>
 
 ---
@@ -132,33 +131,33 @@ The company was created to deliver innovative financing, development, constructi
 **Old description:** Solar panels can make a big difference in your electric bills
 
 ## About
-Solar South LLC operates from Hattiesburg, Mississippi, serving the surrounding region including Jackson, Magee, McComb, and Laurel. The company does not state a founding year. General Manager Ryan Ladner, a University of Southern Mississippi graduate, has helped bring solar energy to the state and focuses on reducing costs for farmers. The business describes itself as a small, close-knit group of Mississippians who pride themselves on honesty and hard work.
+Solar South LLC operates from Hattiesburg, Mississippi, serving the southern part of the state including Jackson, Hattiesburg, McComb, Laurel, and Magee. The company does not disclose its founding year. General Manager Ryan Ladner, a University of Southern Mississippi graduate, has helped bring solar energy to Mississippi and works to alleviate energy costs for farmers. The team describes itself as a small, close-knit group of Mississippians who pride themselves on honesty and hard work.
 
-The firm provides solar panel installation for residential, commercial, agricultural, and government clients. After a consultation and site assessment, crews design and install systems intended to pay for themselves over time. The company does not disclose facility size, headcount, or annual volume, but emphasizes a cohesive team approach to each project.
+The company designs and installs solar energy systems for residential, commercial, agricultural, and government clients. After a consultation and site assessment, crews install photovoltaic systems intended to reduce electricity costs and eventually pay for themselves. Solar South handles projects ranging from farm operations to government buildings and commercial facilities across its service area.
 
-Customers span commercial businesses, farms and ranches, and government facilities across central and southern Mississippi. Testimonials cite monthly savings of thousands of dollars for agricultural and commercial operators. The company positions itself as a local expert in reducing one of the highest operating costs for organizations in the area.
+Solar South serves the renewable energy sector with a focus on agricultural producers, commercial businesses, government agencies, and homeowners in southern Mississippi. Customers include farms and ranches seeking to power operations with solar, businesses looking to lower operating costs, and government facilities aiming to reduce electric bills.
 
-Solar South says it was built on the virtues of honesty and hard work, with a stated mission to help clients plow energy savings back into their operations. Ladner's advocacy for growing Mississippi through business and alleviating farm costs is presented as a driving force behind the company's work.
+The company states its goal is to help clients save money on electricity, which it identifies as one of the highest operating costs for any organization. Solar South emphasizes its local roots and commitment to honest, hard work as the foundation of its service approach.
 
 ## Known for
-- Small, close-knit team emphasizing honesty and hard work
-- Dedicated to helping clients save money on electric bills
-- Local Mississippi company focused on agricultural, commercial, and government solar
-- General Manager Ryan Ladner advocates for growing Mississippi through solar energy
-- Systems designed to pay for themselves over time
+- Small, close-knit team with local Mississippi values
+- Focus on agricultural, commercial, government, and residential solar installation
+- Helps clients access USDA grants for solar projects
+- Serves multiple cities across southern Mississippi
 
 ## Capabilities
 - Solar panel installation
-- Consultation and site assessment
-- Commercial solar energy system design
+- Solar energy system design
+- Site consultation and assessment
 - Agricultural solar solutions
+- Commercial solar systems
 - Government solar installations
 - Residential solar installation
 
 ## Industries
 - Renewable Energy
+- Agriculture
 - Commercial
-- Agricultural
 - Government
 - Residential
 
@@ -168,14 +167,14 @@ Solar South says it was built on the virtues of honesty and hard work, with a st
 
 <details><summary>Sources</summary>
 
-- Headquarters in Hattiesburg, MS -> db
+- Hattiesburg, MS location -> db
+- Ryan Ladner, General Manager, USM graduate -> /about
 - Services: residential, commercial, agricultural, government solar installation -> /
-- Service area: Jackson, Magee, McComb, Hattiesburg, Laurel, MS -> /
-- General Manager Ryan Ladner, USM graduate, advocate for Mississippi solar -> /about
-- Company describes itself as small, close-knit team valuing honesty and hard work -> /about
-- Mission: help clients save money on electric bills -> /
-- Testimonials from Dave Kinnewack, Greg Hottsteiter, Reed and Carol Whitehead, Casey Pickler -> /
-- Phone and hours: (601) 498-1514, Mon-Fri 7am-5pm -> /
+- Service areas: Jackson, Hattiesburg, McComb, Laurel, Magee, MS -> /
+- Team described as small, close-knit group of Mississippians -> /about
+- Goal: help clients save money on electric bills -> /
+- USDA Grant assistance mentioned in navigation -> /
+- Testimonials from local customers -> /
 </details>
 
 ---
@@ -185,41 +184,38 @@ Solar South says it was built on the virtues of honesty and hard work, with a st
 **Old description:** The federal tax credit for homeowner-owned solar changes after 2025, but that doesn't mean solar is over. At Solar Wave, we're adjusting with the industry so you don't have to become a policy expert.
 
 ## About
-Solar Wave operates from Denver, Colorado, as an owner-operated residential solar installation company. The firm does not disclose its founding year or the names of its founders, but it presents itself as a local alternative to national door-knocking outfits.
+Solar Wave is a Denver, Colorado-based solar installation company that operates as an owner-operated business.
 
-The company provides expert solar designs and free 3D modeling, along with installation of solar panels (REC Alpha Pure and Q.Peak paired with Enphase microinverters), battery backup systems (Tesla Powerwall 3 and Enphase IQ), and Generac whole-home standby generators. All installation work is performed by in-house licensed teams. Solar Wave offers three financing pathways: ownership with discounted equipment, a power purchase agreement through Lightreach, and a prepaid lease (Propel Prepaid Lease) that applies federal incentives upfront. No facility size, headcount, or installation volume figures are published.
+The company provides solar panel installation using REC Alpha Pure and Q.Peak panels paired with Enphase microinverters, battery backup systems including Tesla Powerwall 3 and Enphase IQ batteries, and whole-home Generac standby generators fueled by natural gas or propane. It also offers free online tools such as a 3D solar design, a solar pricing calculator, a battery sizing and price calculator, and a generator sizing tool built on NEC Article 220 load calculations. All installations are performed by in-house licensed teams, and the company provides 25-year equipment and workmanship warranties.
 
-Solar Wave serves homeowners across the Colorado Front Range, with completed projects cited in Evergreen, University Park, Saddle Rock, Littleton, Arvada, and Golden. Its customer base consists of residential property owners seeking solar generation, energy storage, or backup power.
+Solar Wave serves residential homeowners across Colorado’s Front Range, with completed projects in Evergreen, University Park, Saddle Rock, Littleton, Arvada, and Golden. Customer stories feature homeowners such as Thomas Boh and Houston Moore. The company also assists with financing options including ownership with discounted equipment, a Lightreach power purchase agreement, and a Propel prepaid lease that applies federal incentives upfront.
 
-The company emphasizes five differentiators: best equipment at the lowest prices, 100% online quotes without high-pressure sales, transparent line-by-line pricing, 25-year equipment and workmanship warranties, and in-house licensed installation crews.
+Solar Wave distinguishes itself as a local, owner-operated installer rather than a national door-knocking operation, emphasizing transparent line-by-line pricing, 100% online quotes without high-pressure sales, and the combination of equipment at negotiated prices.
 
 ## Known for
-- Best equipment at the lowest prices
-- 100% online quote — no high-pressure sales
-- Transparent pricing, line by line
-- 25-year equipment & workmanship warranties
-- In-house licensed install teams
+- 100% online quote with no high-pressure sales
+- Transparent pricing line by line
+- 25-year equipment and workmanship warranties
+- In-house licensed installation teams
 
 ## Capabilities
-- Solar PV system design and quoting
 - Solar panel installation
-- Battery backup system installation
-- Standby generator installation
-- Energy consumption analysis and system sizing
-- Solar financing options (cash purchase, loan, PPA, prepaid lease)
-
-## Industries
-- Residential solar
-- Residential energy storage
-- Residential backup power
+- Battery backup installation
+- Generac generator installation
+- 3D solar design
+- Solar pricing calculator
+- Battery sizing and price calculator
+- Generator sizing tool (NEC Article 220)
+- Solar financing consultation
+- Net metering consultation
 
 ## Equipment
-- REC Alpha Pure solar panels
-- Q.Peak solar panels
+- REC Alpha Pure panels
+- Q.Peak panels
 - Enphase microinverters
 - Tesla Powerwall 3
 - Enphase IQ batteries
-- Generac standby generators
+- Generac generators
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -228,18 +224,18 @@ The company emphasizes five differentiators: best equipment at the lowest prices
 
 <details><summary>Sources</summary>
 
-- Company name: Solar Wave -> db
-- Headquarters: Denver, Colorado -> db
-- Website: https://www.thesolarwave.com/ -> db
-- Business type: local solar installation company -> /
-- Owner-operated: 'We're a Denver-based, owner-operated install company' -> /
-- Services: solar panel installation, battery backup, generator installation -> /
-- Equipment brands: REC Alpha Pure, Q.Peak, Enphase, Tesla Powerwall 3, Enphase IQ, Generac -> /
-- Financing options: ownership with discounted equipment, Lightreach PPA, Propel Prepaid Lease -> /
-- Differentiators: best equipment at lowest prices, 100% online quote, transparent pricing, 25-year warranties, in-house licensed teams -> /
-- Service area: Colorado Front Range (Evergreen, University Park, Saddle Rock, Littleton, Arvada, Golden) -> /
-- Licensed, bonded & insured in Colorado -> /
-- Free 3D solar design and calculators -> /
+- headquarters: Denver, Colorado -> db
+- owner-operated -> /
+- services: solar panel installation, battery backup, generator installation -> /
+- brands installed: REC Alpha Pure, Q.Peak, Enphase microinverters, Tesla Powerwall 3, Enphase IQ, Generac -> /
+- online tools: 3D design, solar pricing calculator, battery sizing calculator, generator sizing tool -> /
+- in-house licensed teams -> /
+- 25-year equipment and workmanship warranties -> /
+- project locations: Evergreen, University Park, Saddle Rock, Littleton, Arvada, Golden -> /
+- customer names: Thomas Boh, Houston Moore -> /
+- financing options: ownership with discounted equipment, Lightreach PPA, Propel prepaid lease -> /
+- differentiators: best equipment at lowest prices, 100% online quote, transparent pricing, 25-year warranty, in-house teams -> /
+- licensed, bonded & insured in Colorado -> /
 </details>
 
 ---
@@ -249,45 +245,43 @@ The company emphasizes five differentiators: best equipment at the lowest prices
 **Old description:** When I had my solar panels installed 5 yrs ago, they did not recommend a battery at that time.
 
 ## About
-SolarOne Southwest Energy Group operates from Cottonwood, Arizona, serving the northern Arizona region including Prescott, Sedona, the Verde Valley, and Flagstaff. The company does not disclose its founding year or ownership structure in public materials, and no individual founders are named. It presents itself as a full-time staffed office with electrical engineers and licensed installers who collectively bring over 20 years of experience to residential and commercial photovoltaic projects.
+SolarOne Southwest Energy Group operates from Cottonwood, Arizona, serving the northern and central parts of the state including Prescott, Sedona, the Verde Valley, and Flagstaff. The company supplies and installs photovoltaic solar electric systems for residential and commercial customers.
 
-The firm supplies and installs complete solar electric systems, including panel arrays, inverters, and Tesla Powerwall battery storage. It also runs a solar maintenance program and offers panel cleaning services. As a direct distributor for brands such as SunPower and MAXEON, SolarOne eliminates middle‑man markups and handles permitting, utility coordination (including APS), and system commissioning in‑house. The company does not publish facility size, headcount, or annual installation volumes.
+The company provides turnkey solar installations, including battery storage using Tesla Powerwall units, inverter replacements, panel cleaning, and ongoing maintenance programs. Its staff includes electrical engineers and licensed installers with over 20 years of combined experience. SolarOne also handles permitting, utility coordination, and offers leasing and financing through partnerships with SunPower and Admirals Bank.
 
-Customers are primarily homeowners and businesses across northern Arizona. Reviews cite installations for private residences, and one reviewer identifies as a local realtor who refers clients. The company coordinates with utilities and HOAs on behalf of customers, and provides financing through Admirals Bank and lease options via SunPower.
+Customers range from homeowners adding panels to existing arrays to businesses seeking energy independence. Reviews cite projects such as adding eight panels with a Tesla Powerwall, replacing inverters on older systems, and resolving bird‑netting issues. The company services both new installations and legacy systems across its Arizona territory.
 
-SolarOne differentiates itself with a performance guarantee that compensates customers for any shortfall in promised energy production, a no‑middle‑man pricing model, and certifications as a Tesla Certified Installer and MAXEON Select Partner. The firm emphasizes prompt, responsive service from a dedicated local team rather than subcontractors.
+SolarOne differentiates itself with a performance guarantee that compensates customers for any shortfall in promised energy production.
 
 ## Known for
 - Performance guarantee compensating for undelivered power
 - Direct distributor pricing with no middle‑man markups
+- Over 20 years of engineering and installation experience
 - Tesla Certified Installer for Powerwall battery systems
-- MAXEON Select Partner for high‑efficiency photovoltaic modules
-- Over 20 years of combined experience among licensed installers and engineers
 
 ## Capabilities
-- Solar photovoltaic system design and installation
+- Photovoltaic system design and installation
+- Battery storage installation (Tesla Powerwall)
+- Inverter replacement and upgrades
 - Solar panel cleaning
 - Solar maintenance programs
-- Tesla Powerwall battery installation
-- Electrical engineering and permitting
-- Utility interconnection coordination (APS)
-- Performance monitoring and guarantee
-- Solar lease and loan financing facilitation
+- Bird netting installation and repair
+- Permitting and utility interconnection coordination
+- System monitoring and troubleshooting
+- Leasing and financing options
 
 ## Industries
-- Residential solar installation
-- Commercial solar installation
-- Photovoltaic system integration
-- Battery energy storage systems
+- Residential solar
+- Commercial solar
+- Renewable energy
 
 ## Equipment
 - Tesla Powerwall
-- SunPower photovoltaic modules
 - MAXEON solar panels
+- SunPower solar panels
 
 ## Certifications
 - Tesla Certified Installer
-- MAXEON Select Partner
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -295,52 +289,122 @@ SolarOne differentiates itself with a performance guarantee that compensates cus
 
 <details><summary>Sources</summary>
 
-- Headquartered in Cottonwood, Arizona -> db
-- Serves Prescott, Sedona, Cottonwood, Verde Valley, Flagstaff, Northern Arizona -> /about
-- Over 20 years of experience with electrical engineers and licensed installers -> /about
+- Headquarters in Cottonwood, Arizona -> db
+- Service area: Prescott, Sedona, Cottonwood, Verde Valley, Flagstaff, Northern Arizona -> /about
+- Supplies and installs photovoltaic solar electric systems -> /about
+- Serves residential and commercial customers -> /about
 - Full-time staffed office -> /about
-- Direct distributor for SunPower and MAXEON (no middle-man markups) -> /about
-- Tesla Certified Installers -> / and /about
-- MAXEON Select Partner -> / and /about
-- Offers solar panel cleaning, maintenance programs, Tesla Powerwall installation -> / and /about
+- Electrical engineers & licensed installers with over 20 years experience -> /about
+- Distributor with no middle-man markups -> /about
+- Partnerships with SunPower (leasing) and Admirals Bank (financing) -> /about
 - Performance guarantee: compensate for undelivered power -> /about
-- Financing through Admirals Bank and SunPower leases -> /about
-- Residential and commercial customers -> /about
-- Lead time ~4 months from inquiry to activation -> / (review by Leilani Havens)
-- Handles permitting and utility coordination (APS) -> /about and /
+- Tesla Certified Installers -> /
+- MAXEON Select Partner -> /
+- Offers solar panel cleaning, maintenance programs, inverter replacement, bird netting solutions -> /
+- Handles permitting and utility coordination -> /about
+- Customer reviews mention 4-month timeline from call to power-on -> /
 </details>
 
 ---
 
 # SolarPowerVA
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** Solar Panel and EV Charging Installation, Maintenance, and Repair - VA, WV, MD
+
+## About
+SolarPowerVA operates from The Plains, Virginia, as a locally owned and operated installer and service provider for solar energy and electric-vehicle charging systems. The company is licensed to work across Virginia, West Virginia, and Maryland, and partners with Vesta Home Energy to deliver turnkey projects for residential and commercial customers.
+
+Its core services span solar panel installation, EV charging station installation (certified for Tesla and Enphase equipment), home smart panel upgrades, solar maintenance and monitoring, smart energy system repairs, and backup power alternatives including Generac-certified generators, batteries, and inverters. SolarPowerVA performs all installations and maintenance in-house without subcontracting, and manages the full permitting process—utility applications, HOA approvals, and local permits—for each project.
+
+The company serves homeowners and businesses throughout the three-state region, including rural areas where grid reliability is a concern. Customers range from individual residences seeking energy independence and lower utility bills to commercial properties adding EV charging infrastructure and backup power.
+
+SolarPowerVA emphasizes its local presence as a differentiator, positioning itself against out-of-state contractors by offering in-house crews, direct manufacturer certifications, US-made products with warranties, and a single point of contact from design through post-installation service.
+
+## Known for
+- In-house installations and maintenance with no subcontracting
+- Full permit and application management (utility, HOA, local)
+- Manufacturer certifications for Tesla, Enphase, and Generac equipment
+- Licensed in Virginia, West Virginia, and Maryland
+- US-made products with top-tier warranties
+
+## Capabilities
+- Solar panel installation
+- EV charging station installation
+- Home smart panel installation
+- Solar panel maintenance & monitoring
+- Smart energy system repairs
+- Backup power system installation (generators, batteries, inverters)
+- Permit and application management
+
+## Industries
+- Renewable energy
+- Solar energy
+- Electric vehicle charging infrastructure
+- Residential energy services
+- Commercial energy services
+- Backup power systems
+
+## Equipment
+- Tesla EV chargers
+- Enphase energy systems
+- Generac generators
+- Smart panels
+- Battery storage systems
+- Inverters
+
+## Certifications
+- Generac certified
+- Tesla certified
+- Enphase certified
+
+## Company details
+- **Company Type:** Installer / service company
+- **Ownership:** Locally owned and operated
+- **Headquarters:** The Plains, Virginia
+
+<details><summary>Sources</summary>
+
+- Location: The Plains, Virginia -> db
+- Licensed in VA, WV, MD -> /
+- Locally owned and operated -> /
+- Partners with Vesta Home Energy -> /
+- Services: solar panel installation, EV charging installation, smart panels, maintenance, repairs, backup power -> /
+- In-house installations, no subcontracting -> /
+- Handles permits, utility applications, HOA applications -> /
+- Certified with Tesla, Enphase, Generac -> /
+- US-made products, top warranties -> /
+- Serves residential and commercial customers in three-state region -> /
+- Staff names Louis, Paul, Joseph from reviews -> /
+</details>
+
+---
 
 # Solara Solar
 
 **Old description:** Virtual Consultation. No Pressure. See Exactly What Solar Saves You.
 
 ## About
-Solara Solar is a locally owned solar energy company based in Newtown, Connecticut. The firm serves homeowners across the state with residential solar installations, system repairs, battery backup solutions, and roofing services.
+Solara Solar operates from Newtown, Connecticut, as a locally owned solar installation and service company serving homeowners across the state. The business focuses on residential solar systems, battery storage, and roofing services.
 
-The company designs and installs custom solar panel systems tailored to each home's roof, electricity usage, and long-term energy goals. Its service portfolio also includes troubleshooting and maintenance for existing solar arrays, home battery backup installation for outage protection, and roof replacement or repair—often coordinated ahead of solar projects. Operations cover Fairfield County and surrounding areas.
+The company provides custom-designed residential solar panel installations, solar system repair and maintenance, home battery backup installation, and roof replacement and repair. All services are performed in-house for homeowners throughout Connecticut.
 
-Solara Solar works exclusively with residential customers in Connecticut. Its client base includes homeowners seeking to reduce utility bills, add energy resilience, or replace aging roofs. The company participates in state incentive programs as a CT Green Bank Preferred Contractor and an approved ESS (Energy Storage Solutions) contractor for battery storage incentives.
+Solara Solar works primarily with residential customers in Connecticut, including homeowners seeking solar energy systems, battery storage for outage protection, and roofing solutions. The company is a CT Green Bank Preferred Contractor and an ESS Eligible Contractor for state battery storage incentives.
 
-The business emphasizes a no-pressure, consultative approach—offering virtual consultations and custom designs rather than standardized sales quotas. It holds BBB A+ accreditation and maintains memberships in the Ridgefield and Stamford chambers of commerce.
+The company emphasizes a consultative approach, describing its process as "built around your home, not our sales quota." It holds BBB A+ accreditation and membership in the Ridgefield and Stamford Chambers of Commerce, highlighting its local roots and customer-focused service.
 
 ## Known for
-- Virtual consultation with no sales pressure
-- Custom solar designs built around each home's roof and energy goals
 - CT Green Bank Preferred Contractor
-- BBB Accredited A+ Rated Business
 - ESS Eligible Contractor for Connecticut battery storage incentives
+- BBB Accredited A+ rating
+- Locally owned and operated in Connecticut
+- Member of Ridgefield and Stamford Chambers of Commerce
 
 ## Capabilities
-- Residential solar system design and installation
+- Residential solar installation
 - Solar system repair and maintenance
 - Battery backup installation
 - Roof replacement and repair
+- Custom solar system design
 
 ## Industries
 - Residential solar
@@ -349,7 +413,7 @@ The business emphasizes a no-pressure, consultative approach—offering virtual 
 
 ## Certifications
 - CT Green Bank Preferred Contractor
-- BBB Accredited A+ Rated Business
+- BBB Accredited A+
 - ESS Eligible Contractor
 
 ## Company details
@@ -359,18 +423,12 @@ The business emphasizes a no-pressure, consultative approach—offering virtual 
 
 <details><summary>Sources</summary>
 
-- Headquarters in Newtown, Connecticut -> db
-- Locally owned -> /
-- Services: residential solar installation, repair, battery backup, roofing -> /
-- CT Green Bank Preferred Contractor -> /
-- BBB Accredited A+ Rated Business -> /
-- ESS Eligible Contractor -> /
-- Serves homeowners throughout Connecticut -> /
-- Virtual consultation, no-pressure approach -> /
-- Custom design around home's roof and energy goals -> /
-- Ridgefield Chamber member -> /
-- Stamford Chamber member -> /
-- LinkedIn URL -> db
+- headquarters: Newtown, Connecticut -> db
+- services: residential solar installation, solar system repair and maintenance, battery backup installation, roof replacement and repair -> page:/
+- certifications: CT Green Bank Preferred Contractor, BBB Accredited A+, ESS Eligible Contractor -> page:/
+- ownership: locally owned -> page:/
+- chamber memberships: Ridgefield Chamber, Stamford Chamber -> page:/
+- linkedin: https://www.linkedin.com/company/solara-solar/ -> db
 </details>
 
 ---
@@ -380,42 +438,36 @@ The business emphasizes a no-pressure, consultative approach—offering virtual 
 **Old description:** Solera Energy stands as the leading provider of solar energy solutions across Missouri, Arkansas, Kansas, and Illinois. Specializing in
 
 ## About
-Solera Energy LLC is based in Springfield, Missouri, and provides solar energy solutions across Missouri, Arkansas, Kansas, and Illinois. The company delivers an integrated energy ecosystem that combines solar generation, battery storage, generator backup, and structural protection for residential, commercial, and utility-scale customers.
+Based in Springfield, Missouri, Solera Energy LLC provides integrated solar energy solutions across Missouri, Arkansas, Kansas, and Illinois. The company designs, installs, and maintains custom solar arrays, battery storage, generator backup, and structural protection systems for residential, commercial, and utility-scale customers.
 
-Its service portfolio spans custom system design, permitting and net metering approval, installation of photovoltaic arrays, battery systems (including Generac PWRcell), backup generators, electric vehicle chargers, roofing, and the proprietary ONE Gutter Guard™ system. The team follows a four-step process — qualify, design, install, and support — and provides ongoing monitoring and proactive maintenance after commissioning.
+Solera Energy’s process moves from qualification and permitting through custom design, installation, and ongoing support. Its design department creates project-specific blueprints, and installation crews deploy solar panels, Generac battery and generator systems, EV chargers, roofing, and the proprietary ONE Gutter Guard™ system. The company reports serving the Midwest with a focus on turnkey energy ecosystems rather than standalone products.
 
-Solera serves a range of sectors including architects, auto dealerships, healthcare facilities, hotels and hospitality, manufacturing centers, retail and office properties, schools and nonprofits, and agricultural operations. Customers include homeowners, businesses, and utility developers seeking turnkey energy solutions.
+The firm serves a range of sectors including architects, auto dealerships, healthcare facilities, hotels and hospitality, manufacturing centers, retail and office properties, schools and nonprofits, as well as residential homeowners. Commercial and industrial clients receive tailored solar ROI analysis, structural integrity assessments, and energy storage solutions.
 
-The company distinguishes itself by bundling generation, storage, and protection into a single customized package, handling all permitting and utility coordination in-house, and offering long-term system monitoring and responsive service.
+Solera Energy positions its differentiation on delivering a complete energy ecosystem that combines cost-saving solar, storm-ready backup power, and proactive structural protection in a single integrated offering, customized to each property’s needs.
 
 ## Known for
-- Integrated energy ecosystem combining solar, battery storage, generator backup, and structural protection
-- Custom-designed solutions for each property with in-house design and engineering
-- Full-service process from permitting and net metering approval to installation and ongoing monitoring
+- Integrated energy ecosystem combining solar, backup power, and structural protection
+- Custom design and blueprints for each project
 - Proprietary ONE Gutter Guard™ system for structural protection
-- Partnerships with Generac for PWRcell battery and backup generator options
+- Ongoing system monitoring and proactive service
+- Service across Missouri, Arkansas, Kansas, and Illinois
 
 ## Capabilities
-- Solar photovoltaic system design and installation
-- Battery energy storage system installation (including Generac PWRcell)
+- Solar panel installation
+- Battery backup power installation
 - Generator backup power installation
-- Electric vehicle charger installation
+- EV charger installation
 - Roofing installation and repair
 - Gutter guard installation (ONE Gutter Guard™)
-- Structural protection services
-- Permitting and net metering application
-- System monitoring and proactive maintenance
-- Commercial and industrial solar development
-- Utility-scale solar development
-- Energy storage integration
-- Residential solar installation
-- Solar orphan support (servicing existing systems)
-- Custom energy ecosystem design
+- Custom solar system design and engineering
+- Net metering application and permitting
+- System monitoring and maintenance
+- Energy storage system integration
+- Structural integrity assessment
+- Commercial solar ROI analysis
 
 ## Industries
-- Residential
-- Commercial & Industrial
-- Utility Scale
 - Architects
 - Auto Dealerships
 - Healthcare
@@ -423,7 +475,14 @@ The company distinguishes itself by bundling generation, storage, and protection
 - Manufacturing Centers
 - Retail & Office
 - School & Nonprofit
-- Agricultural
+- Residential
+- Commercial & Industrial
+- Utility Scale
+
+## Equipment
+- PWRcell by Generac
+- Generac generators
+- ONE Gutter Guard™
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -432,14 +491,15 @@ The company distinguishes itself by bundling generation, storage, and protection
 <details><summary>Sources</summary>
 
 - Headquarters in Springfield, Missouri -> db
-- Service areas across Missouri, Arkansas, Kansas, Illinois -> homepage
-- Industries served: Architects, Auto Dealerships, Healthcare, Hotels & Hospitality, Manufacturing Centers, Retail & Office, School & Nonprofit, Agricultural -> homepage
-- Process: Qualify, Design, Install, Support -> homepage
-- Integrated energy ecosystem combining solar, backup power, structural protection -> homepage
-- ONE Gutter Guard™ system for structural protection -> homepage
-- Generac PWRcell battery and backup generator options -> homepage
-- Address: 1725 N Packer Rd, Springfield, MO 65803 -> homepage
-- Phone: 417-771-5817 -> homepage
+- Service areas across Missouri, Arkansas, Kansas, Illinois -> db
+- Integrated energy ecosystem with solar, backup power, structural protection -> /
+- Custom design and installation process (Qualify, Design, Install, Support) -> /
+- Industries served: Architects, Auto Dealerships, Healthcare, Hotels & Hospitality, Manufacturing Centers, Retail & Office, School & Nonprofit -> /
+- Proprietary ONE Gutter Guard™ system -> /
+- PWRcell by Generac battery storage and Generac generator backup -> /
+- Residential, commercial, industrial, utility scale services -> /
+- System monitoring and proactive support -> /
+- Design department creates custom blueprints -> /
 </details>
 
 ---
@@ -449,36 +509,34 @@ The company distinguishes itself by bundling generation, storage, and protection
 **Old description:** Manufactures high-power and high-voltage semiconductor products for aerospace and defense at its La Mirada, California facility.
 
 ## About
-Solid State Devices, Inc. (SSDI) has operated from La Mirada, California since its founding in 1967. The company began with a focus on hermetic semiconductor devices and assemblies for critical aerospace and defense applications, and over more than five decades it has become a pioneer in high-power and high-voltage semiconductor manufacturing.
+Solid State Devices, Inc. (SSDI) has operated from La Mirada, California since its founding in 1967. The company began as a supplier of hermetic semiconductor devices for critical aerospace and defense applications and has remained at that location for over five decades.
 
-SSDI produces a broad line of discrete semiconductors, modules, and hybrids including rectifiers, TVS devices, JFETs, IGBTs, thyristors, MOSFETs, GaN power FETs, SiC MOSFETs, and custom high-voltage assemblies. Manufacturing takes place in a La Mirada facility that houses cleanroom microelectronics fabrication, wafer processing, assembly, and extensive test capabilities. The company supports both standard products and application-specific power devices built to customer source control drawings.
+SSDI designs and manufactures high-power and high-voltage semiconductor components, including rectifiers, IGBTs, thyristors, power modules, hybrids, and assemblies. Its La Mirada facility houses wafer fabrication, assembly, and test operations, with capabilities spanning die attach, wire bonding, hermetic sealing, and a full suite of environmental and reliability screening per MIL-PRF-19500, MIL-STD-883, and related standards. The company also offers custom packaging, reverse engineering, and end-of-life solutions.
 
-The primary customers are aerospace and defense programs, with engineering and procurement teams at prime contractors and subsystem suppliers. SSDI also provides end-of-life and DMS solutions, offering cross-references for devices from manufacturers such as Motorola, Texas Instruments, Microsemi, International Rectifier, and Semtech.
+The primary customers are aerospace and defense programs, including U.S. military and space agencies. SSDI's products are qualified to JANS, the highest reliability level under MIL-PRF-19500, and the company works directly with procurement groups and design engineers on source-controlled drawings for missiles, satellites, and avionics.
 
-The company emphasizes its ability to handle small-quantity orders, material lot traceability, and a strong anti-counterfeit program. Its technical staff brings over 700 years of combined experience from firms like Microsemi, International Rectifier, and Motorola, and in-house capabilities span design engineering, wafer fabrication, package tooling, and HiRel screening to JANS, ISO 9001, and AS9100 standards.
+SSDI emphasizes its combined 700-plus years of engineering experience drawn from alumni of firms such as Microsemi, International Rectifier, and Motorola. It maintains in-house wafer fabrication and assembly, a strong anti-counterfeit program, material lot traceability, and a willingness to accept small-quantity orders — factors the company cites as differentiators in a market often focused on high-volume production.
 
 ## Known for
-- Accommodates small-quantity orders
-- Material lot traceability on all products
-- Strong anti-counterfeit program
-- 700+ years of combined engineering experience from major semiconductor firms
-- In-house wafer fabrication, package tooling, and HiRel screening to JANS level
+- JANS-certified wafer fabrication and assembly facility
+- 700+ years of combined semiconductor engineering experience
+- In-house wafer fabrication, assembly, and test under one roof
+- Accepts small-quantity and prototype orders
+- Material lot traceability and anti-counterfeit program
 
 ## Capabilities
 - High-voltage rectifier manufacturing
 - IGBT manufacturing
-- Thyristor manufacturing
+- Thyristor/SCR manufacturing
 - Power module and hybrid assembly
-- Wafer fabrication (diffusion, metallization, dicing, passivation)
-- Hermetic package assembly (seam sealing, cap welding, resistance welding)
-- Wire bonding and die attach
-- High-reliability screening (MIL-PRF-19500, MIL-STD-883, MIL-STD-750)
-- Environmental testing (temperature cycling, thermal shock, humidity, salt spray)
-- PIND testing and real-time X-ray inspection
-- ATE testing (TESEC 3000)
-- Custom product development and reverse engineering
+- Wafer fabrication (diffusion, metallization, dicing)
+- Die attach and wire bonding
+- Hermetic sealing (cap weld, seam seal, glass encapsulation)
+- Environmental testing (thermal shock, temperature cycling, humidity, salt spray, vibration, shock, acceleration)
+- Reliability screening (burn-in, power cycling, HTRB, PIND, real-time X-ray)
+- Electrical testing per MIL-PRF-19500, MIL-STD-883, MIL-STD-750, MIL-STD-202, ESA SCC-5000, MIL-M-38510, MIL-PRF-38534
+- Custom packaging and reverse engineering
 - End-of-life / DMS solutions
-- GaN and SiC device fabrication
 
 ## Industries
 - Aerospace
@@ -493,19 +551,20 @@ The company emphasizes its ability to handle small-quantity orders, material lot
 - Wire Bonders
 - Cap Welders
 - Seam Sealers
-- DAP Assembly systems
-- Resistance Welders
-- Vapor Phase systems
+- DAP Assembly equipment
+- Resistance Welder
+- Vapor Phase system
 - Encapsulation equipment
-- Machine Shop / CNC Machines
-- Wet Chemistry Benches
+- DAP Sealer
+- Machine Shop / CNC Machine
+- Wet Chemistry Bench (Clean)
 - High Temperature Diffusion Furnaces
 - Varian Evaporator (Lifetime Control / Metallization)
-- Die Saw / Sandblast Dicer
-- Glass Encapsulation systems
+- Die Saw / Sandblast Dicer (Wafer Dicing)
+- Glass Encapsulation equipment
 - Die Etch equipment
-- ATE – TESEC 3000 (200 A)
-- Fine Leak Testers
+- ATE – TESEC 3000 V, 200 A
+- Fine Leak Testing equipment
 
 ## Certifications
 - JANS
@@ -519,17 +578,19 @@ The company emphasizes its ability to handle small-quantity orders, material lot
 
 <details><summary>Sources</summary>
 
-- Founded 1967 -> /about
-- Headquarters La Mirada, California -> db, /about
-- Manufactures high-power/high-voltage semiconductors for aerospace/defense -> db, /
-- JANS, ISO 9001, AS9100 certifications -> db, /quality
-- 700+ years combined engineering experience -> /about
-- In-house wafer fabrication, assembly, test -> /capabilities
-- Small quantity orders, material lot traceability, anti-counterfeit -> /about
-- Cross-references for Motorola, TI, Microsemi, IR, Semtech -> /about
-- GaN and SiC product lines -> /about
-- Equipment list (belt furnaces, wire bonders, diffusion furnaces, TESEC 3000 ATE, etc.) -> /capabilities
-- Testing standards (MIL-PRF-19500, MIL-STD-883, etc.) -> /capabilities, /quality
+- Founded in 1967 -> /about
+- Headquarters in La Mirada, California -> db
+- Manufactures high-power and high-voltage semiconductor products -> db
+- JANS certification granted in 2011 for La Mirada facility -> /quality
+- ISO 9001 and AS9100 certified since 2003 -> /quality
+- 700+ years of combined engineering experience -> /about
+- In-house wafer fabrication, assembly, and test capabilities -> /capabilities
+- Serves aerospace and defense industries -> /about, /
+- Offers small quantity orders and anti-counterfeit program -> /about
+- Equipment list includes belt furnaces, die attach stations, hot gas bonder, etc. -> /capabilities
+- Testing per MIL-PRF-19500, MIL-STD-883, MIL-STD-750, MIL-STD-202, ESA, SCC-5000, MIL-M-38510, MIL-PRF-38534 -> /capabilities, /quality
+- Products include SiC MOSFETs, GaN Power FETs, SiC Schottky rectifiers -> /about
+- Custom packaging, reverse engineering, end-of-life solutions -> /about
 </details>
 
 ---
@@ -539,97 +600,86 @@ The company emphasizes its ability to handle small-quantity orders, material lot
 **Old description:** From groundbreaking audio production consoles to innovative personal studios, Solid State Logic are the world's leading manufacturer of creative tools for music, live sound and broadcast.
 
 ## About
-Solid State Logic was founded in 1969 by Colin Sanders CBE in the village of Stonesfield, Oxfordshire, United Kingdom. The company began by building switching systems for pipe organs before Sanders established Acorn Studios and produced the first SSL console, the A Series, in 1976. The business moved its headquarters to Begbroke Manor in 1986, adding a 4,000 m² manufacturing facility that opened in 1988 and remains the UK headquarters today. A U.S. office is maintained in New York, New York.
+Solid State Logic is headquartered in New York, New York, while its original manufacturing and research base remains at Begbroke Manor in Oxfordshire, UK. The company was founded in 1969 by Colin Sanders CBE, who initially developed switching systems for pipe organs before establishing Acorn Studios in the village of Stonesfield. There he built the first SSL consoles, to the SL 4000 B Series in 1976 and the breakthrough SL 4000 E Series in 1979 that transformed professional recording.
 
-The company designs and manufactures analogue and digital audio consoles, audio interfaces, DAW controllers, analogue outboard processors, and software plug‑ins for music production, live sound, and broadcast. Key product lines include the System T broadcast platform (S500, S400, S300), the L‑Series live sound consoles (L650, L550 Plus, L450), the Odyssey and Oracle studio consoles, the ORIGIN series, and the SSL 12/18 audio interfaces. Production occurs at the Begbroke Manor facility; headcount and annual volumes are not publicly disclosed.
+Today SSL designs and manufactures a wide range of audio hardware and software: large-format analogue and digital consoles for music, broadcast, and live sound; desktop audio interfaces; DAW controllers; 19-inch rackmount processors; 500-series modules; and an extensive library of native plug-ins. Production occurs at the 4,000-square-meter facility opened at Begbroke Manor in 1988, though current headcount and annual volumes are not disclosed.
 
-SSL serves music recording studios, live sound engineers, broadcast facilities, post‑production houses, educational institutions, and installed‑sound venues. Notable installations include Spiritland’s live mix facility in London, Shoreline College’s teaching studio in Seattle, and DVLP Academy’s training center. The company also supports OB and sports production, podcast and webcast workflows, and cloud‑based virtualised production.
+The company serves music production studios, broadcast facilities, live-sound rental companies, post-production houses, educational institutions, installed-sound venues, touring acts, and podcast/webcast creators. Notable installations include the System T platform at major broadcasters and the Odyssey console at Spiritland in London.
 
-SSL’s differentiation stems from a history of console innovation: the SL 4000 E Series (1979) introduced motorised fader automation (Ultimation) and the SuperAnalogue™ signal path; the 2000s brought hybrid consoles (AWS, Duality) that merged analogue summing with DAW control; and the System T platform pioneered native ST 2110 IP audio routing with automated NMOS discovery. The Odyssey console adds full analogue processing with console‑wide Instant Recall.
+SSL differentiates itself through proprietary technologies such as SuperAnalogue™ circuitry, console-wide Instant Recall, motorised fader automation (Ultimation), and native ST 2110 IP workflows with NMOS discovery. The founder’s original drive to improve organ switching evolved into a philosophy of continuous innovation in audio signal processing and workflow integration.
 
 ## Known for
-- Motorised fader automation (Ultimation) since 1979
-- SuperAnalogue™ DC‑coupled signal path for high bandwidth and low distortion
-- Hybrid console architecture blending analogue summing with DAW control
-- Native ST 2110 IP audio routing with automated NMOS IS‑04/IS‑05 discovery
-- Console‑wide Instant Recall on fully analogue Odyssey platform
+- SuperAnalogue™ circuitry for high bandwidth and low distortion
+- Console-wide Instant Recall across all parameters
+- Motorised fader automation (Ultimation) since the 1990s
+- Native ST 2110 IP audio routing with NMOS IS-04/IS-05
+- Virtualised on-prem and cloud production deployment
 
 ## Capabilities
-- Analogue console manufacturing
-- Digital console manufacturing
+- Analogue console design and manufacturing
+- Digital console design and manufacturing
 - Audio interface design and manufacturing
-- DAW controller manufacturing
-- Analogue outboard processor manufacturing
-- Software plug‑in development
-- Broadcast audio production systems (System T)
-- Live sound console manufacturing
-- Audio networking (Dante, MADI, ST 2110)
-- Training and education services
+- DAW controller design and manufacturing
+- Analogue outboard processor design and manufacturing
+- 500-series module design and manufacturing
+- Audio plug-in software development
+- Broadcast audio production system design
+- Live sound console design
+- ST 2110 IP audio routing and processing
+- Virtualised audio processing deployment
+- Cloud-based audio production
+- SSL Certified Training
 
 ## Industries
-- Music Production & Mixing
-- Live Sound
-- Broadcast Production
-- Post Production
+- Music production
+- Live sound
+- Broadcast
+- Post production
 - Education
-- Installed Sound
-- Touring & Events
-- Podcast & Webcast Production
-- OB & Sports Production
-- Cloud Production
-- Virtualised On‑Prem Production
+- Installed sound
+- Touring & events
+- Podcast & webcast
+- OB & sports production
 
 ## Equipment
-- SL 4000 E Series console
-- SL 9000 J Series console
-- System T broadcast platform (S500, S400, S300)
-- Odyssey console
-- Oracle console
-- ORIGIN series consoles
-- AWS δelta console
-- Duality Fuse console
-- L650 live console
-- L550 Plus live console
-- L450 live console
-- L350 Plus live console
-- L200 Plus live console
-- L100 Plus live console
+- SL 4000 E Series
+- SL 9000 J Series
+- System T (S500, S500m, S400, S300)
+- Odyssey
+- Oracle
+- ORIGIN Series
+- AWS δelta
+- Duality Fuse
+- L650
+- L550 Plus
+- SSL 12
+- SSL 18
+- UF8
 - TE2 Tempest Engine
 - TE1 Tempest Engine
-- UF1 controller
-- UF8 controller
-- SSL 12 audio interface
-- SSL 18 audio interface
-- Alpha 8 audio interface
-- Bus Comp Classic processor
-- Super 9000 processor
-- Revival 4000 processor
-- Pure Drive Quad processor
-- Pure Drive Octo processor
-- The Bus+ processor
-- Fusion processor
-- 500 Series modules
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1969
-- **Headquarters:** New York, NY
+- **Headquarters:** New York, New York (US); Begbroke Manor, Oxfordshire (UK)
 
 <details><summary>Sources</summary>
 
-- Founded 1969 by Colin Sanders CBE in Stonesfield, Oxfordshire -> /about
+- Founded 1969 by Colin Sanders CBE -> /about
 - First products: switching systems for pipe organs -> /about
-- First A Series console 1976 -> /about
-- SL 4000 E Series 1979 transformed music recording -> /about
-- Digital R&D started 1985 -> /about
-- HQ moved to Begbroke Manor 1986, 4,000 m² facility opened 1988 -> /about
-- UK headquarters remain at Begbroke Manor -> /about
-- US office in New York, NY -> db
-- Product lines: System T, L-Series, Odyssey, Oracle, ORIGIN, SSL 12/18, etc. -> /
-- Industries served: music, live sound, broadcast, post, education, installed, touring, podcast, OB, cloud -> /
-- Notable installations: Spiritland, Shoreline College, DVLP Academy -> /
-- Innovations: Ultimation, SuperAnalogue, hybrid consoles, ST 2110 native, Instant Recall -> /about
-- Manufacturer claim: 'world's leading manufacturer of analogue and digital audio consoles' -> /about
+- Acorn Studios in Stonesfield, Oxfordshire -> /about
+- SL 4000 B Series 1976, SL 4000 E Series 1979 -> /about
+- Moved HQ to Begbroke Manor 1986, 4,000m2 facility opened 1988 -> /about
+- SuperAnalogue™ design introduced in SL 9000 J Series -> /about
+- Ultimation motorised fader automation 1990s -> /about
+- C100 On-Air console 2003, C200, C300, C100 HDS, C10 HD -> /about
+- AWS 2004, Duality 2006 hybrid consoles -> /about
+- Headquarters New York, New York per database -> db
+- Product lines: Odyssey, Oracle, ORIGIN, AWS δelta, Duality Fuse, System T, L650, SSL 12, SSL 18, UF8, TE2/TE1 -> /
+- Industries served: music production, live sound, broadcast, post production, education, installed sound, touring, podcast, OB sports -> /
+- ST 2110 native IP workflows with NMOS -> /
+- Virtualised on-prem and cloud production -> /
+- SSL Certified Training Partner Directory -> /
 </details>
 
 ---

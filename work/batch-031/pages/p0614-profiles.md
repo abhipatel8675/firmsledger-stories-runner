@@ -3,44 +3,47 @@
 **Old description:** Originally, our business name was Synergy Technologies, founded by my oldest brother, Walter Bergeron, in 1996 in our backyard.
 
 ## About
-Power Control Services is based in Broussard, Louisiana. The company traces its roots to 1996 when Walter Bergeron founded Synergy Technologies in his backyard. The business was later renamed Power Control Services and remains family-owned.
+Power Control Services is based in Broussard, Louisiana. The company traces its roots to 1996 when Walter Bergeron founded Synergy Technologies in a backyard workshop. The business was later renamed Power Control Services and has grown into a specialist in industrial electronic repair.
 
-The firm specializes in industrial electronic repair and rebuild, servomotor repair, and component-level restoration of automation equipment such as AC/DC drives, servo drives, PLCs, power supplies, and industrial displays. Technicians work at ESD- and SMT-equipped repair stations using a proactive process that replaces failed parts with high-reliability components and applies protective coatings for future serviceability. The shop offers snapshot reporting, in-service warranty coverage, and technical support, serving customers nationwide through a network of industrial distributors.
+The shop focuses on repairing and rebuilding industrial electronics such as AC/DC drives, servo drives, industrial displays, power supplies, PLCs, and servomotors. Technicians work at ESD- and SMT-equipped rework stations using a proactive, component-level repair process backed by an extensive parts inventory and research system. The company advertises a standard five-day turnaround and says its pricing runs 35–50 percent below competitor rates.
 
-Its customer base spans power generation (Entergy), food processing (Tyson Foods, Coca‑Cola), oil and gas (Parker Drilling, NOV, Transocean, Halliburton, Schlumberger), chemical manufacturing (Dow), and major end users such as ConocoPhillips in Alaska and Disney World in Florida. The company also partners with regional and national distributors to extend its reach.
+Customers span power generation (Entergy), food processing (Tyson Foods, Coca-Cola), oil and gas (Parker Drilling, NOV, Transocean, Halliburton, Schlumberger), chemical manufacturing (Dow), and industrial distribution (ConocoPhillips, Disney World). The firm also partners with regional and national distributors to extend its reach.
 
-Power Control Services was created because the founders believed original equipment manufacturers prioritize new sales over durable, repairable designs. The company differentiates itself with a five‑day standard turnaround, pricing 35‑50 % below competitor rates, generous warranties, certified technicians, and an extensive online portal for tracking and documentation.
+Power Control Services says its differentiation comes from a 'Right Way, Right Away' philosophy: certified technicians (IPC 7711/7721), generous warranties, innovative technology, and compliance with GSA and military ESD standards (MIL-STD-1686C, MIL-HDBK-263). The goal is to keep automation equipment running indefinitely, maximizing customers' return on investment.
 
 ## Known for
 - 5-day standard repair turnaround
-- Pricing 35‑50 % below competitor rates
+- Pricing 35–50% below competitor rates
 - Generous warranties on all repairs
-- Certified technicians with ongoing training
-- Proactive component-level repair using high-reliability parts
+- Technicians certified to IPC 7711/7721
+- Proactive component-level repair using highest-reliability parts
 
 ## Capabilities
-- Electronic repair & rebuild
+- Industrial electronic repair
 - Servomotor repair
-- Snapshot reporting
-- In-service warranty administration
-- Technical support
-- Component-level PCB repair
-- ESD and SMT rework
-- Proactive repair methodology
-- Parts research and inventory management
 - AC/DC drive repair
 - Servo drive repair
-- PLC repair
-- Power supply repair
 - Industrial display repair
+- Power supply repair
+- PLC repair
+- ESD and SMT rework
+- Component-level repair
+- Snapshot reporting
+- In-service warranty
+- Technical support
+- Parts research and inventory management
+- 5-day repair turnaround
+- IPC 7711/7721 certified repair
+- ISO 9001:2000 quality system
+- GSA contract compliance
+- MIL-STD-1686C ESD controls
 
 ## Industries
-- Power generation
-- Food processing
-- Oil and gas
-- Chemical manufacturing
-- Industrial distribution
-- Entertainment / theme parks
+- Power Companies
+- Food Processors
+- Oil and Gas Industry
+- Chemical Producers
+- Industrial Distributors
 
 ## Equipment
 - ESD and SMT repair/rework stations
@@ -51,36 +54,28 @@ Power Control Services was created because the founders believed original equipm
 - ISO 9001:2000
 - IEEE
 - GSA Contractor to T.O. 00-25-234 Standards
-- ESD Controls per MIL-STD-1686C
-- ESD Controls per MIL-HDBK-263
+- MIL-STD-1686C
+- MIL-HDBK 263
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 1996
-- **Ownership:** Family-owned
 - **Headquarters:** Broussard, Louisiana
 
 <details><summary>Sources</summary>
 
-- Founded 1996 by Walter Bergeron in backyard -> db
-- Headquarters Broussard, Louisiana -> db
-- Company originally named Synergy Technologies -> homepage
-- 5 day repair turnarounds -> /about
-- Prices 35-50% less than competitors -> /about
-- Generous warranties -> /about
-- Certified technicians -> /about
-- Innovative technology -> /about
-- Extensive online benefits -> /about
-- Certifications: IPC 7711, IPC 7721, ISO9001:2000, IEEE, GSA Contractor to T.O. 00-25-234 Standards, ESD Controls per MIL-STD-1686C and MIL-HDBK-263 -> /about
-- Industries served: Power generation (Entergy), Food processing (Tyson Foods, Coca Cola), Oil and gas (Parker Drilling, NOV, Transocean, Halliburton, Schlumberger), Chemical (Dow) -> homepage
-- Partners: Regional and National Industrial Distributors, customers include ConocoPhillips, Disney World -> homepage
-- Capabilities: Electronic Repair & Rebuild, Servomotor Repair, Snapshot Reporting, In-Service Warranty, Technical Support -> homepage, /about
-- Equipment: ESD and SMT repair/rework stations -> homepage
-- Lead time: 5 days -> /about
-- Proactive repair approach -> homepage
-- Highest reliability electronic components -> homepage
-- Protect equipment from external elements -> homepage
-- Mission: The Right Way, Right Away -> /about-us
+- Founded 1996 by Walter Bergeron as Synergy Technologies in backyard -> description/db
+- Renamed to Power Control Services -> home page
+- Located in Broussard, Louisiana -> db
+- Industrial electronic repair services -> home page
+- Repairs AC/DC drives, servo drives, displays, power supplies, PLCs, servomotors -> home page
+- Uses ESD and SMT rework stations -> home page
+- 5-day repair turnaround -> about page
+- Prices 35-50% less than competitors -> about page
+- Certifications: IPC 7711, IPC 7721, ISO9001:2000, IEEE, GSA Contractor, MIL-STD-1686C, MIL-HDBK 263 -> about page
+- Customers: Entergy, Tyson Foods, Coca Cola, Parker Drilling, NOV, Transocean, Halliburton, Schlumberger, DOW, Conoco Phillips, Disney World -> home page
+- Partners with regional and national industrial distributors -> home page
+- Mission: 'The Right Way, Right Away' -> about-us page
 </details>
 
 ---
@@ -90,114 +85,184 @@ Power Control Services was created because the founders believed original equipm
 **Old description:** , Power Factor has been Baltimore’s go-to contractor for difficult and complex
 
 ## About
-Power Factor was founded in March 2013 in Baltimore, Maryland, by master electrician George Lang IV. After graduating from Eastern Vocational Technical High School in 1995 and completing an apprenticeship with Associated Builders and Contractors, Lang ran the electrical maintenance department at Johns Hopkins Hospital before joining a Maryland solar firm as a partner. There he designed a Positive Train Control system and a patented battery system deployed in war zones for the U.S. military. When that company was sold, Lang brought five key employees with him to launch Power Factor as a family-owned solar and electrical contractor.
+Power Factor is a family-owned solar and electrical contractor headquartered in Baltimore, Maryland. The company was formed in March 2013 by George Lang IV, a master electrician licensed in five states who began his career as an apprentice with Associated Builders and Contractors and later ran the electrical maintenance department at Johns Hopkins Hospital. After designing a Positive Train Control system and a patented battery system for military use at a prior solar firm, Lang brought five key employees with him to launch Power Factor.
 
-The company provides full-service solar and electrical installation, repair, replacement, and maintenance for residential, commercial, and industrial properties. With over 60 employees and $18 million in annual sales, Power Factor has completed more than 2,100 residential installations and deployed over 43 megawatts of solar capacity across the United States and abroad. Its crews are OSHA-certified and handle projects ranging from rooftop arrays and battery storage to EV charging stations, LEED-certified lighting retrofits, and general electrical construction.
+The firm provides design, deployment, installation, and maintenance for commercial and residential solar photovoltaic systems, along with general electrical construction, repair, and replacement services. Its capabilities extend to telecommunications infrastructure, LEED-certified lighting retrofits, and electric-vehicle charging station installation. Power Factor employs over 60 people, reports $18 million in annual sales, and has completed more than 2,100 residential installations and over 43 megawatts of solar capacity across the United States and abroad.
 
-Customers include homeowners throughout the Baltimore region, businesses seeking to reduce energy costs, and federal agencies — notably the Department of Defense, for which the firm has delivered over 35 megawatts of PV projects. The company also serves the telecommunications sector and works on commercial solar developments nationwide.
+Customers include commercial businesses, homeowners, industrial facilities, the U.S. military (including Department of Defense projects), utility companies, and telecommunications providers. The company has delivered over 35 megawatts of projects for defense clients and works with commercial and utility partners nationwide.
 
-Lang started Power Factor to bring reliable, transparent solar and electrical services to communities, drawing on his experience building mission-critical power systems for the military. The company emphasizes no hidden fees, 24/7 emergency response, and NABCEP-certified technicians, aiming to complete every project on time and on budget.
+Power Factor emphasizes transparent pricing with no hidden fees, 24/7 emergency response, and a workforce that holds NABCEP and OSHA certifications. The founder’s background in military-grade battery systems and the company’s focus on on-time, on-budget delivery reflect its stated mission to provide power to communities through solar and electrical means.
 
 ## Known for
-- No hidden fees
-- 24/7 emergency service
-- NABCEP-certified technicians
-- OSHA-certified installation crews
-- Family-owned with 60+ employees and 43MW+ solar deployed
+- No hidden fees on any project
+- 24/7 emergency electrical service
+- Technicians certified by NABCEP and OSHA
+- Family-owned with dedicated, long-tenured staff
+- Commitment to on-time, on-budget project completion
 
 ## Capabilities
-- Solar PV system installation
-- Commercial solar array installation
-- Residential solar panel installation
+- Commercial solar PV installation
+- Residential solar PV installation
 - Electrical maintenance and repair
-- Battery storage system deployment
-- Positive Train Control (PTC) systems
-- EV charging station installation
-- LEED-certified lighting retrofits
-- General electrical construction
+- Solar PV system design and deployment
 - Project management
-- Commercial solar development
+- LEED-certified lighting retrofits
+- EV charging station installation
 - Telecommunications infrastructure
+- Positive Train Control system design
+- Battery energy storage system deployment
+- 24/7 emergency electrical service
+- Permit approvals and compliance
 
 ## Industries
-- Residential
 - Commercial
+- Residential
 - Industrial
-- Military/Defense (DOD)
+- Military/Defense
+- Utility
 - Telecommunications
-- Renewable Energy/Solar
 
 ## Certifications
-- NABCEP Certification
-- OSHA Certification
-- Master Electrician License (5 states)
+- NABCEP
+- OSHA
+- Maryland Master Electrician License
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 2013
-- **Employees:** 60+
+- **Employees:** over 60
 - **Ownership:** Family-owned
 - **Headquarters:** Baltimore, Maryland
 
 <details><summary>Sources</summary>
 
-- Founded March 2013 by George Lang IV -> /about
-- Family-owned, 60+ employees, $18M annual sales -> /about
-- 2,100+ residential installations, 43MW+ solar deployed -> /about
-- OSHA-certified crews, NABCEP certification -> /about
-- No hidden fees, 24/7 emergency service -> /
-- Services: solar installation, electrical maintenance, battery systems, EV charging, lighting retrofits -> /, /about
-- Industries: residential, commercial, industrial, military/DOD, telecommunications -> /about
-- Headquarters: Baltimore, Maryland -> db, /about
-- Founder background: Eastern Vocational Technical High School 1995, Johns Hopkins, master electrician 2004 -> /about
+- headquarters Baltimore, Maryland -> db
+- founded March 2013 -> /about
+- founder George Lang IV -> /about
+- family-owned -> /about
+- over 60 employees -> /about
+- $18M annual sales -> /about
+- 2,100+ residential installations -> /about
+- 43+ MW solar deployed -> /about
+- NABCEP certification -> /about
+- OSHA-certified employees -> /about
 - BBB A+ rating -> /
+- commercial and residential solar services -> /
+- telecommunications division, LEED lighting, EV charging -> /about
+- work nationally and globally for military -> /about
+- no hidden fees, 24/7 emergency -> /
 </details>
 
 ---
 
 # Power Train Performance
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** Power Train Plus is the Gallatin County’s premier automotive shop. We serve Bozeman, Belgrade, and beyond. General automotive, diesel repair, and more.
+
+## About
+Power Train Performance, operating as Power Train Plus, is located in Belgrade, Montana, in the Gallatin Valley. It is a two-generation family-owned business, owned and operated by automotive enthusiasts native to the Gallatin Valley.
+
+The shop provides general automotive repair and maintenance, diesel pickup repair for Ford, GM, and Ram platforms, fleet maintenance programs, and performance development services. Its performance division operates a 2,000-hp DynoJet 424X AWD in-ground dyno and a Hunter Hawkeye Elite alignment system capable of handling stock and heavily modified suspensions. The shop also services late-model snowmobiles and side-by-sides, and undertakes full vehicle builds ranging from classic restorations to late-model performance modifications.
+
+Customers include individual vehicle owners from Bozeman, Belgrade, and the broader Gallatin Valley, as well as commercial fleets of various sizes. The shop services daily drivers, work trucks, performance vehicles, and power-sports machines. Reviews highlight service to travelers passing through Yellowstone and local families who have used the shop for generations.
+
+The company emphasizes honesty, reliability, and exceptional workmanship as founding principles. It positions itself as a community pillar that combines traditional automotive expertise with modern diagnostic and performance technology, aiming to be a one-stop shop for all automotive needs in the region.
+
+## Known for
+- Two-generation family ownership
+- In-house 2,000-hp DynoJet 424X AWD dyno
+- Hunter Hawkeye Elite alignment system
+- Services all three major diesel platforms (Ford, GM, Ram)
+- Fleet maintenance programs for businesses
+- Power sports modifications for snowmobiles and side-by-sides
+
+## Capabilities
+- General automotive repair and maintenance
+- Diesel engine diagnostics and repair
+- Fleet maintenance and repair
+- Vehicle performance tuning and development
+- Dyno testing and tuning
+- Wheel alignment
+- Power sports maintenance and performance
+- Full vehicle builds and custom fabrication
+- Electrical system troubleshooting
+- Transmission overhauls
+- Engine diagnostics
+- Brake inspection and repair
+- Oil changes and routine maintenance
+
+## Industries
+- Automotive repair and maintenance
+- Diesel repair
+- Fleet management
+- Automotive performance and tuning
+- Power sports (snowmobiles, side-by-sides)
+- Classic vehicle restoration
+
+## Equipment
+- DynoJet 424X AWD in-ground dyno (2000hp, 200mph rated)
+- Hunter Hawkeye Elite Alignment System
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 1993
+- **Ownership:** Family-owned, two generations
+- **Headquarters:** Belgrade, Montana
+
+<details><summary>Sources</summary>
+
+- Location: Belgrade, Montana -> db, /, /about
+- Founded 1993 (30th anniversary in 2023) -> /about
+- Two-generation family-owned -> /about, /
+- Services: automotive, diesel, fleet, performance, dyno, alignment, power sports, full builds -> /, /about, /services
+- Equipment: DynoJet 424X AWD dyno, Hunter Hawkeye Elite alignment -> /services
+- Serves Bozeman, Belgrade, Gallatin Valley -> /, /about
+- Diesel platforms: Ford, Chevy/GM, Dodge/Ram -> /services
+- Community pillar, honesty, reliability emphasis -> /about
+</details>
+
+---
 
 # Power-Flo Technologies
 
 **Old description:** For inquiries just call  or fill out our Contact Form
 
 ## About
-Power-Flo Technologies, headquartered in New Hyde Park, New York, traces its roots to 1929. The business operates as a family of companies that includes distributors, fabricators, manufacturers, and motor and pump repair firms serving New York, New Jersey, and New England.
+Founded in 1929 and headquartered in New Hyde Park, New York, Power-Flo Technologies operates as a family of companies that includes distributors, fabricators, manufacturers, and motor and pump repair firms serving New York, New Jersey, and New England.
 
-The company distributes over two million electrical and plumbing products from dozens of manufacturers, maintaining a broad warehouse inventory with delivery across the tri-state region. It runs a state-of-the-art repair facility and machine shop capable of servicing motors and pumps from fractional to 1,500 HP at low and medium voltages. In-house fabrication includes UL-certified switchgear and panel building, custom motor controls, and power distribution switchgear design. Diagnostic services cover infrared thermography, vibration analysis, load studies, and power quality analysis. The firm also provides hazardous waste recycling, engineering support, and turnkey energy-efficient lighting upgrades.
+The company distributes over two million electrical and plumbing products from dozens of manufacturers, maintaining a broad warehouse inventory with delivery across the tri-state region. Its capabilities span a state-of-the-art repair facility that services pumps and motors from fractional to 1,500 HP in low and medium voltages, complemented by onsite repairs using crane-equipped trucks. Diagnostic services include infrared thermography, vibration analysis, load studies, and power quality assessments, with comprehensive reporting. The firm also provides hazardous-waste recycling, engineering design for code compliance, and custom fabrication of switchgear, motor control panels, and power distribution equipment in a UL-certified facility. Energy-efficiency projects such as lighting upgrades are handled from design through utility-rebate documentation and installation, while building energy management systems are delivered through sister company US Energy Group. Additional offerings include collaborative and industrial robot sales, industrial automation support, and OEM engineering assistance.
 
-Power-Flo serves electrical, institutional, MRO and OEM industrial, plumbing, and mechanical trades. Customers include commercial buildings, public water facilities, and large retailers such as Macy’s Herald Square, which is featured in a case study. Through its sister company US Energy Group, the firm delivers building energy management systems.
+Power-Flo serves electrical, institutional, MRO, and OEM industrial markets, as well as plumbing and mechanical trades. Concrete end users include commercial lighting, HVAC, pump, and EV-charging infrastructure projects; a featured case study highlights work at Macy’s Herald Square.
 
-The company cites its diversity of product, capability, and service as a key differentiator, positioning itself as a one-stop shop for power distribution system design, drawings, and fabrication, with staff possessing technical or manufacturer backgrounds.
+The company emphasizes its diversity of product, capability, and service as a bridge for specialized trade needs, noting that all personnel have technical or manufacturer backgrounds. It positions itself as a master distributor and manufacturers’ representative providing integrated systems solutions.
 
 ## Known for
-- UL-certified fabrication facility with UL-labeled equipment
-- One-stop shop for power distribution system design, drawings, and fabrication
-- State-of-the-art repair facility and machine shop for motors and pumps up to 1,500 HP
-- Fast turnaround with onsite repairs and crane-equipped truck transport
-- Nationwide service and master distributor relationships
+- Master distributor and manufacturers’ representative with integrated systems solutions
+- UL-certified fabrication facility for custom switchgear and motor control panels
+- Fast turnaround repairs with onsite service and crane-equipped truck transport
+- Comprehensive diagnostic reporting (infrared, vibration, power quality) with recommended solutions
+- Turnkey energy-efficiency projects including utility-rebate documentation
 
 ## Capabilities
 - Electrical and plumbing product distribution
-- Motor and pump repair (fractional to 1,500 HP)
-- Switchgear and panel fabrication (UL certified)
-- Custom motor controls fabrication
-- Power distribution switchgear design
-- Diagnostic testing (infrared thermography, vibration analysis, load studies, power quality analysis)
+- Pump and motor repair (up to 1500 HP)
+- Infrared and thermography testing
+- Vibration analysis
+- Load studies
+- Power quality studies
 - Hazardous waste recycling
-- Engineering support and design
-- Energy efficiency projects (lighting upgrades)
-- Building energy management systems (via US Energy Group)
-- Industrial automation and robotics sales and support
-- Motor controls systems design, build, and installation
-- OEM engineering design and proof of concept
-- Industrial automation systems upgrades
-- Machine shop services
+- Engineering design and code compliance
+- Custom switchgear fabrication
+- Custom motor control panel fabrication
+- Custom power distribution switchgear design
+- Energy efficiency lighting upgrades
+- Utility rebate documentation
+- Building energy management systems
+- Collaborative and industrial robot sales and support
+- Industrial automation systems
+- OEM engineering support
 - Onsite repair services
-- Flatbed and crane-equipped equipment transport
-- Utility rebate documentation and management
+- Crane-equipped truck transport
 
 ## Industries
 - Electrical
@@ -207,18 +272,15 @@ The company cites its diversity of product, capability, and service as a key dif
 - Plumbing
 - Mechanical
 - Commercial Lighting
-- Industrial
-- Robotics
 - HVAC
 - EV Chargers
 - Pumps
-- Public water facilities
-- Large buildings
-- Energy efficiency
-- Building management
+- Robotics
 
 ## Equipment
 - Flatbed and crane-equipped trucks
+- Machine shop
+- UL-certified fabrication facility
 
 ## Certifications
 - UL certified facility
@@ -227,31 +289,23 @@ The company cites its diversity of product, capability, and service as a key dif
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1929
+- **Ownership:** Family of Companies
 - **Headquarters:** New Hyde Park, New York
 
 <details><summary>Sources</summary>
 
-- Headquarters: New Hyde Park, New York -> db
-- Founded: 1929 -> / (Year Established)
-- Family of Companies structure -> / (ABOUT PFT)
-- Distributes over 2 million electrical and plumbing products -> / (Supplies)
-- Warehouse inventory and delivery region -> / (Supplies)
-- Repair facility and machine shop for motors/pumps up to 1,500 HP -> / (Services)
-- UL-certified switchgear and panel fabrication -> / (Solutions)
-- Custom motor controls and power distribution switchgear design -> / (Solutions)
-- Diagnostic testing services (infrared, vibration, load, power quality) -> / (Services)
-- Hazardous waste recycling -> / (Services)
-- Engineering support and code expertise -> / (Solutions)
-- Energy efficiency lighting upgrades and utility rebate documentation -> / (Solutions)
-- Building energy management systems via US Energy Group -> / (Solutions)
-- Industrial automation and robotics sales/support -> / (Capabilities)
-- Motor controls systems for large buildings and public water facilities -> / (Capabilities)
-- OEM engineering design and proof of concept -> / (Capabilities)
-- Industries served: Electrical, Institutional, MRO, OEM Industrial, Plumbing, Mechanical -> / (ABOUT PFT)
-- Case study: Macy’s Herald Square -> / (Featured Case Study)
-- 13 Locations -> / (ABOUT PFT stats)
-- Nationwide Service -> / (Capabilities)
-- Master Distributor and Manufacturers Representative -> / (ABOUT PFT)
+- Founded 1929 -> /
+- Headquarters New Hyde Park, NY -> db
+- 13 locations -> /
+- Over 2 million electrical and plumbing products distributed -> /
+- Repair facility for pumps/motors up to 1500 HP -> /
+- UL certified facility -> /
+- Custom switchgear and motor control panel fabrication -> /
+- Energy efficiency lighting upgrades -> /
+- Building energy management via US Energy Group -> /
+- Robotics sales and support -> /
+- Nationwide service -> /
+- Family of companies including distributors, fabricators, manufacturers, repair firms -> /
 </details>
 
 ---
@@ -261,46 +315,43 @@ The company cites its diversity of product, capability, and service as a key dif
 **Old description:** From concept to production, we build lightweight, rugged solar solutions for transportation, defense, embedded, and specialized applications.
 
 ## About
-PowerFilm Solar operates from Ames, Iowa, where it has designed and manufactured thin-film and crystalline solar panels for over three decades. The company focuses on custom-engineered solar solutions for commercial, government, and OEM platforms, with engineering and production capabilities based in the United States.
+PowerFilm Solar, based in Ames, Iowa, has operated for more than three decades designing and manufacturing custom solar solutions. The company focuses on lightweight, rugged solar panels for transportation, defense, embedded, and specialized applications.
 
-The company manufactures thin-film amorphous silicon solar panels using proprietary processes and assembles semi-flexible crystalline panels through controlled production. Its capabilities span panel construction, electrical integration, system-level validation, and full development from prototype through sustained production volumes. PowerFilm supports custom geometry, substrate selection, encapsulation, energy harvesting electronics, charge controllers, and application-specific mounting configurations.
+PowerFilm designs and manufactures thin-film amorphous silicon solar panels using proprietary production processes in the United States, and assembles semi-flexible crystalline solar panels domestically. Its in-house capabilities span design engineering, manufacturing, system integration, and electronics integration, including energy harvesting, charge control, and regulated outputs. The company follows a structured development process from requirements definition through prototyping, field testing, and controlled production, with validation through environmental and mechanical testing such as vibration, temperature variation, and long-term outdoor exposure.
 
-PowerFilm serves commercial transportation fleets seeking to reduce idling and extend battery life for liftgates, telematics, APUs, and refrigeration; government and defense programs requiring portable, vehicle-mounted, and remote power; uncrewed maritime systems needing sealed, marine-grade surface generation; low-speed electric vehicle fleets on campuses and municipal sites; IoT and connected devices in remote environments; and consumer mobility applications. Past deployments include telematics, marine, IoT, U.S. military, and space exploration programs.
+The company serves commercial transportation fleets (powering liftgates, telematics, auxiliary power units, and refrigeration), government and Department of Defense programs (portable, vehicle-mounted, and remote field power), uncrewed maritime systems (sealed, marine-exposed platforms), low-speed electric vehicle fleets (campuses, resorts, municipal facilities), Internet of Things deployments (low-power connected devices in remote locations), and consumer markets (mobile, off-grid power). Past projects include telematics, marine, space exploration, and U.S. military applications.
 
-The company emphasizes application-specific design over catalog formats, controlled manufacturing with environmental and mechanical testing (vibration, temperature cycling, long-term outdoor exposure), and direct engineering collaboration from early development through deployment. Its U.S.-based thin-film production and crystalline assembly are cited as differentiators for programs requiring domestic sourcing and supply-chain control.
+PowerFilm emphasizes application-specific design tailored to program constraints rather than standard product formats, controlled manufacturing with repeatable quality, and direct engineering collaboration with OEM, fleet, and government teams from early design through sustained production. Its U.S.-based manufacturing and prototype-to-production support are cited as key differentiators.
 
 ## Known for
-- Application-specific design rather than standard product formats
+- Application-specific design tailored to program constraints
 - U.S.-based thin-film amorphous silicon manufacturing
 - Controlled production with environmental and mechanical validation
-- Engineering collaboration from requirements through sustained production
-- Prototype-to-production support for custom solar integration
+- Engineering collaboration from early design through sustained production
+- Prototype to production support
 
 ## Capabilities
-- Custom solar panel design and engineering
-- Thin-film amorphous silicon manufacturing
+- Custom solar panel design engineering
+- Thin-film amorphous silicon solar panel manufacturing
 - Semi-flexible crystalline solar panel assembly
-- Electrical integration (energy harvesting, charge control, regulated outputs)
-- System-level integration and validation
-- Panel geometry and form factor design
-- Substrate selection and encapsulation
-- Power management and battery pairing
-- Cabling and mounting configuration design
-- Environmental testing (vibration, temperature variation, outdoor exposure)
-- Prototype development and field testing
-- Controlled production and quality assurance
-- Design for manufacturability and lifecycle support
+- System integration (charge controllers, energy harvesting electronics, cabling, mounting)
+- Electronics integration (energy harvesting, storage, charge control, regulated outputs)
+- Structured development process (requirements, prototyping, field testing, production)
+- Design architecture (panel geometry, substrate architecture, encapsulation, electrical interfaces)
+- Environmental and mechanical testing (vibration, temperature variation, long-term outdoor exposure)
+- Prototype to production manufacturing support
+- Quality control and repeatable production processes
 
 ## Industries
-- Commercial transportation
-- Government and defense
-- Uncrewed maritime systems
-- Low-speed electric vehicles
+- Commercial Transportation
+- Government & Defense
+- Uncrewed Maritime Systems
+- Low-Speed Electric Vehicles
 - Internet of Things (IoT)
-- Consumer mobility
+- Consumer Electronics
 - Telematics
 - Marine
-- Space exploration
+- Space Exploration
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -308,46 +359,96 @@ The company emphasizes application-specific design over catalog formats, control
 
 <details><summary>Sources</summary>
 
-- Headquarters: Ames, Iowa -> db
-- Manufactures thin-film amorphous silicon and crystalline panels in the U.S. -> /about-us
-- Capabilities: design engineering, manufacturing, system integration, thin-film manufacturing, crystalline assembly -> /about-us, /capabilities
-- Industries served: commercial transportation, government/DoD, uncrewed maritime, LSEV, IoT, consumer -> /
-- Volume: prototype through production volumes -> /
-- Differentiators: application-specific design, controlled manufacturing, engineering collaboration, U.S. manufacturing -> /about-us
-- Testing: vibration, temperature variation, long-term outdoor exposure -> /about-us
-- Company type: manufacturer with in-house production -> /, /about-us
+- Headquarters in Ames, Iowa -> db
+- Operating for more than three decades -> /about-us
+- Designs and manufactures thin-film amorphous silicon solar panels in the United States -> /about-us
+- Assembles semi-flexible crystalline solar panels in the United States -> /about-us
+- Capabilities include design engineering, manufacturing, system integration, electronics integration -> /capabilities
+- Serves commercial transportation, government & DoD, uncrewed maritime systems, low-speed electric vehicles, IoT, consumer -> /
+- Application-specific design rather than standard product formats -> /about-us
+- Controlled manufacturing with environmental and mechanical testing -> /about-us
+- Prototype to production support -> /about-us
+- Proprietary thin-film production processes -> /about-us
+- Success stories include telematics, marine, IoT, United States Military, space exploration -> /
 </details>
 
 ---
 
 # Powers Manufacturing Co
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** When you raise the bar in your athletic uniforms, you raise the bar for your athletic performance.
+
+## About
+Powers Manufacturing Co. has operated from Waterloo, Iowa since its founding in 1902. The company began as a maker of athletic uniforms and has remained in the same city for over a century. Ownership details and founder names are not publicly disclosed.
+
+The company produces custom uniforms for a range of team sports, including football, baseball, softball, basketball, and wrestling. Its manufacturing process covers design, cutting, sewing, and finishing of garments tailored to team specifications. An online custom uniform builder allows dealers and teams to configure designs, and a dealer portal streamlines ordering. Facility size, headcount, and annual volume are not published.
+
+Powers serves athletic programs at the high school, collegiate, and recreational levels, as well as sporting goods dealers who resell the uniforms. Catalogs are available for each sport, and the company highlights its long history of outfitting teams across the Midwest and beyond.
+
+The company emphasizes superior quality and customization as its defining attributes, positioning its uniforms as a factor in athletic performance.
+
+## Known for
+- Custom uniforms for football, baseball/softball, basketball, and wrestling
+- Online custom uniform builder for design configuration
+- Dealer portal for streamlined ordering and management
+- Sport-specific catalogs available for download
+
+## Capabilities
+- Custom athletic uniform manufacturing
+- Online custom uniform design tool
+- Dealer order management portal
+- Sport-specific catalog distribution
+
+## Industries
+- Athletic uniforms
+- Team sports
+- School athletics
+- Collegiate athletics
+- Recreational sports
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1902
+- **Headquarters:** Waterloo, Iowa
+
+<details><summary>Sources</summary>
+
+- Founded in 1902 -> /about
+- Headquartered in Waterloo, Iowa -> /about
+- Manufactures custom athletic uniforms -> /about
+- Serves football, baseball/softball, basketball, wrestling -> /
+- Offers online custom uniform builder -> /
+- Provides dealer portal -> /
+- Provides sport-specific catalogs -> /
+- Company name: Powers Manufacturing Co -> db
+- Website: https://www.powersathletic.com/ -> db
+</details>
+
+---
 
 # Prairie Plastics Holdings
 
 **Old description:** Our commitment is to have your product running in 5-6 weeks after your order is acknowledged.
 
 ## About
-Prairie Plastics Holdings operates from Sun Prairie, Wisconsin, where it was founded in 1998 as a custom thermoforming specialist. In 2016, Marine Corps veteran Jim Cavezza and Jason Zajicek assumed management as managing partners, bringing decades of thermoforming experience from PendaForm and Fabri-Form. Cavezza, honorably discharged as a sergeant and a reservist from 1999 to 2005, focuses on rapid customer response, while Zajicek oversees manufacturing operations and lean development.
+Prairie Plastics Holdings operates from Sun Prairie, Wisconsin, where it was founded in 1998 as a custom thermoforming specialist. In 2016, Marine Corps veteran Jim Cavezza and manufacturing engineer Jason Zajicek assumed management as managing partners, bringing more than 20 years of industry experience each. Cavezza, honorably discharged as a sergeant after service as a radio field operator from 1999 to 2005, focuses on sales and returnable packaging design, while Zajicek oversees manufacturing, tooling, and quality.
 
-The company provides design, prototyping, single- and twin-sheet thermoforming, CNC trimming, assembly, and kitting. Its product range includes wheel packs, sleeve packs, plastic pallets, returnable packaging, and custom components. Prairie Plastics serves both high-volume and smaller-volume orders, emphasizing a full-service approach that covers engineering, material selection, development efficiency, and shipping logistics.
+The company provides design, prototyping, single- and twin-sheet thermoforming, CNC trimming, assembly, and kitting. Its product range includes wheel packs, sleeve packs, pallets, returnable packaging, and custom components. Prairie Plastics serves both high-volume and smaller-volume customers, emphasizing an end-to-end approach that covers engineering optimal designs, identifying suitable plastics, establishing efficient development processes, and planning shipping and delivery logistics.
 
-Customers span industries requiring thermoformed solutions, particularly in returnable packaging and custom component manufacturing. The firm works with clients who need competitively priced, quality parts on compressed timelines, offering an alternative to larger consolidators that have extended lead times. Its service model is built around eliminating status uncertainty, with project updates provided throughout production.
+Customers span industries requiring thermoformed solutions, particularly material handling and returnable packaging. The company cites examples such as custom wheel packs, sleeve packs, and pallets for clients who previously faced extended lead times during industry consolidation. Its model targets buyers who need competitively priced, quality parts without the impersonal experience of larger thermoformers.
 
-The owners cite a culture of "serving at the pleasure of the customer" as their differentiator, rooted in fast quote turnaround (hours, not days), transparent communication, and anticipating issues before they arise. This mindset, they say, has earned loyal customers who value the personal experience over the scale of larger thermoformers.
+Prairie Plastics differentiates itself through a customer-experience mindset: quote responses in hours, project status updates throughout production, and a commitment to have products running within five to six weeks after order acknowledgment. The owners state that serving at the pleasure of both customers and employees drives decisions, aiming to anticipate issues before they become problems and deliver peace of mind alongside the finished part.
 
 ## Known for
 - Quote responses in hours, not days or weeks
 - Product running in 5-6 weeks after order acknowledgment
-- Continuous project status updates
-- Single- and twin-sheet thermoforming capability
-- Veteran-owned leadership with Marine Corps experience
+- Continuous project status updates throughout production
+- Single- and twin-sheet thermoforming with in-house CNC trim, assembly, and kitting
+- Veteran-owned leadership with 20+ years thermoforming experience each
 
 ## Capabilities
 - Custom thermoforming
-- Design
-- Prototyping
+- Design and prototyping
 - Single-sheet thermoforming
 - Twin-sheet thermoforming
 - CNC trimming
@@ -355,35 +456,34 @@ The owners cite a culture of "serving at the pleasure of the customer" as their 
 - Kitting
 - Returnable packaging design
 - Material selection consulting
-- Shipping and logistics planning
+- Shipping and delivery planning
 
 ## Industries
 - Thermoforming
+- Material handling
 - Returnable packaging
 - Custom components
-- Material handling
-- Plastics manufacturing
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1998
-- **Ownership:** Veteran-owned (Marine Corps), Managing partners Jim Cavezza and Jason Zajicek
+- **Ownership:** Veteran-owned (Marine Corps)
 - **Headquarters:** Sun Prairie, Wisconsin
 
 <details><summary>Sources</summary>
 
 - Founded in 1998 -> /about-us
-- Located in Sun Prairie, Wisconsin -> /about-us, db
+- Located in Sun Prairie, Wisconsin -> /about-us
 - Jim Cavezza and Jason Zajicek assumed management in 2016 -> /about-us
-- Jim Cavezza is Marine Corps veteran (sergeant, reservist 1999-2005) -> /about-us
+- Jim Cavezza honorably discharged Marine Corps sergeant (1999-2005) -> /about-us
 - Services: design, prototyping, single- and twin-sheet manufacturing, CNC trim, assembly, kitting -> /about-us
 - Products: wheel packs, sleeve packs, pallets, returnable packaging, custom components -> /
-- Lead time: 5-6 weeks after order acknowledged -> db, /
-- Quote response in hours -> /
-- Project updates provided -> /
+- Quote responses in hours -> /
+- Product running in 5-6 weeks after order acknowledged -> /
+- Project status updates throughout production -> /
 - Serves high-volume and smaller-volume customers -> /about-us
-- Energy policy -> /about-us
-- Thermoforming plastic recycling -> /about-us
+- Energy policy mentioned -> /about-us
+- Thermoforming plastic recycling mentioned -> /about-us
 </details>
 
 ---
@@ -393,20 +493,20 @@ The owners cite a culture of "serving at the pleasure of the customer" as their 
 **Old description:** Our core capabilities overlap and extend into additional areas such as commercial and residential gates, trailer repair, bus and truck hitches and custom fabrication.
 
 ## About
-Prather Metalworks operates from Franklin, Tennessee. The company was founded in 2020 when Franklin resident Kyle Dreier purchased the former Welding Unlimited facility It remains a locally owned and operated metal fabrication shop.
+Prather Metalworks operates from a shop on Confederate Drive in Franklin, Tennessee, a suburb of Nashville. The business was founded in 2020 when Franklin resident Kyle Dreier purchased the former Welding Unlimited location, retaining much of its equipment and workforce. The company is structured as a locally owned and operated limited liability company.
 
-The shop provides structural steel fabrication and installation, custom metal fabrication, welding repair, and design services. Its work spans handrails for residential and commercial projects, custom gates (both decorative and security), trailer repair and modification, and bus and truck hitch installation. The crew includes fabricators and welders with decades of experience, many retained from the previous Welding Unlimited operation, and the company describes itself as a medium-sized operation.
+The shop focuses on structural steel fabrication and installation, producing columns, beams, brackets, flitch plates, stairs, and bollards for commercial and residential projects. It also builds custom metalwork such as wrought‑iron handrails for stairs, balconies, and porches; steel and wrought‑iron gates for security and decorative purposes; and handles welding repairs on heavy equipment, skid‑steer attachments, and dump‑truck beds. Additional services include trailer repair and modification (fenders, ramps, wiring, axle replacements) and hitch installation for buses and trucks. The crew describes itself as medium‑sized, with many fabricators and welders who have been at the facility for more than 15 years, bringing decades of combined experience.
 
-Prather serves contractors and builders needing structural steel components such as columns, beams, brackets, and stairs, as well as homeowners seeking custom iron handrails, gates, and railings. The shop also repairs heavy equipment like skid-steer attachments and dump truck beds, and handles horse, landscape, and utility trailer repairs. Custom fabrication projects have included delivery boxes, paint assembly line carts, chimney caps, and firewood racks.
+Prather Metalworks serves two primary customer groups: contractors and builders who need structural steel and fabrication delivered on schedule, and homeowners seeking handrails, gates, or repair work with responsive communication. Commercial clients include projects requiring entrance gates, bollards, and custom fabrication such as delivery boxes, assembly‑line carts, chimney caps, and firewood racks. The company also works with heavy‑equipment operators and trailer owners across Middle Tennessee.
 
-The company emphasizes quality and communication, quoting every job before work begins and adhering to those quotes even if costs overrun. It highlights its experienced team, local ownership, and a commitment to returning calls within 24 hours as key differentiators.
+The company emphasizes upfront pricing and communication. It provides quotes before any work begins and commits to honoring those quotes even if a job proves more involved than expected. A stated policy promises a return call within 24 hours of an inquiry, and the owner highlights quality and communication as core differentiators.
 
 ## Known for
-- Locally owned and operated in Franklin, Tennessee
-- Crew with decades of experience retained from previous Welding Unlimited operation
-- All jobs quoted upfront with commitment to honor quoted price
-- Design, fabrication, and installation performed in-house
-- Returns customer inquiries within 24 hours
+- Quotes provided before commitment
+- Commitment to quoted price even if job overruns
+- 24-hour callback promise
+- Crew with decades of experience
+- Locally owned and operated
 
 ## Capabilities
 - Structural steel fabrication
@@ -420,51 +520,96 @@ The company emphasizes quality and communication, quoting every job before work 
 - Trailer repair
 - Trailer modification
 - Bus and truck hitch installation
-- Brake light, wiring, and harness repair
-- Axle replacement
-- Jack, coupler, and hub replacement
-- Brake control installation
-- King pin installation
-- Winch installation
-- Heavy equipment repair
-- Design services
-- Custom fabrication (delivery boxes, carts, chimney caps, firewood racks)
+- Custom metal fabrication (delivery boxes, carts, chimney caps, firewood racks)
+- Design, fabrication, installation
 
 ## Industries
-- Construction
-- Residential
+- Contractors and Builders
+- Homeowners
 - Commercial
+- Residential
 - Heavy equipment
 - Trailer
-- Transportation
+- Bus and Truck
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 2020
 - **Ownership:** Locally owned and operated
 - **Headquarters:** Franklin, Tennessee
 
 <details><summary>Sources</summary>
 
-- Founded in 2020 by Kyle Dreier purchasing former Welding Unlimited location -> /about
-- Located in Franklin, Tennessee -> /
-- Locally owned and operated metal fabrication shop -> /
-- Services: structural steel fabrication and installation, custom metal fabrication, welding repair, handrails, gates, trailer repair, bus/truck hitches -> /, /services
-- Medium-sized company with experienced crew (decades of experience) -> /
-- Targets contractors/builders and homeowners -> /
-- Quotes jobs before commitment and sticks to quotes -> /about
-- Design, fabrication, installation in-house -> /services
-- Materials: steel and wrought iron -> /services
-- Does not repair cars, furniture, tanks, decorative items, mailboxes -> /services
-- Contact: info@prathermetalworks.com, 615.794.1031, 120 Confederate Drive, Franklin, TN 37064 -> /
-- Copyright 2026 Prather Metalworks, LLC -> /
+- Founded in 2020 by Kyle Dreier -> /about
+- Located at 120 Confederate Drive, Franklin, TN -> /
+- Locally owned and operated -> /
+- Medium-sized metal fabrication company -> /
+- Services: structural steel fabrication, handrails, welding repair, gates, trailer repair, bus/truck hitches -> /services
+- Customer types: contractors, builders, homeowners -> /
+- Quotes before commitment, stick to quotes -> /about
+- 24-hour callback promise -> /
+- Crew with decades of experience -> /about
+- Materials: structural steel, wrought iron -> /
 </details>
 
 ---
 
 # Pravi Apparel
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** Pravi is excited to announce the introduction of our new female polo sizes!
+
+## About
+Pravi Apparel operates a U.S. sales office in Lancaster, Pennsylvania, while its manufacturing facility, known as Praville, is located in Haiti. Production began in January 2021 after founder Jim Weber built a solar‑powered plant in a town without running water or electricity. The venture started with a mission to create jobs and pull people out of poverty in Haiti, employing individuals like Elyse Ledix, who joined the team after being widowed.
+
+The company produces only polo shirts, offered in four lines—Biz‑Wear, Pravi‑Golf, Wear‑Strong, and Dura‑Text. All shirts are assembled in Haiti using 100 % American‑made fabrics and feature a self‑fabric collar typically found in higher‑priced apparel. The solar‑powered factory has a capacity of up to 275 workers.
+
+Pravi targets buyers of industrial‑strength uniform polos, golf polos, and workwear. Its shirts are marketed to businesses seeking durable, comfortable uniforms and to consumers looking for performance golf or casual wear.
+
+Pravi’s differentiator is its social mission: for every 4,000 shirts sold, the company says it pulls one Haitian out of poverty. It keeps prices low by avoiding rent, property taxes, utilities, and tariffs, and by using interest‑free loans with no repayment timeline.
+
+## Known for
+- Only company offering industrial‑strength uniform polos that combat poverty
+- 100 % American‑made fabrics assembled in Haiti
+- Self‑fabric collar for comfort
+- Solar‑powered plant in Haiti with capacity for 275 employees
+- No rent, property taxes, utilities, or tariffs; interest‑free loans
+
+## Capabilities
+- Polo shirt manufacturing
+- Apparel assembly
+- Fabric sourcing (100% American-made)
+- Self-fabric collar construction
+- Solar-powered production facility
+
+## Industries
+- Uniform apparel
+- Golf apparel
+- Workwear
+- Industrial uniforms
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2021
+- **Employees:** Up to 275
+- **Headquarters:** Lancaster, Pennsylvania
+
+<details><summary>Sources</summary>
+
+- Production began January 2021 -> /about
+- Factory in Praville, Haiti; US sales office in Lancaster, PA -> /about
+- Founder Jim Weber built solar-powered plant -> /about
+- Employee Elyse Ledix joined after being widowed -> /about
+- Only makes polo shirts, four lines -> /about
+- Shirts assembled in Haiti with 100% American-made fabrics -> /about
+- Self-fabric collar feature -> /about
+- Plant capacity up to 275 employees -> /about
+- Mission: for every 4000 shirts sold, pull a Haitian out of poverty -> /about, /
+- Low prices due to no rent, taxes, utilities, tariffs, interest-free loans -> /about
+- Industries: uniform polos, golf polos, workwear -> /
+- Headquarters city/state from db -> db
+</details>
+
+---
 
 # Precious Plastic New York
 

@@ -3,38 +3,36 @@
 **Old description:** Thoughtfully designed systems built for long-term performance.
 
 ## About
-Smart Wave Solar operates from Denver, Colorado, as a locally owned and operated solar installation company. The business serves homeowners across Colorado and Utah, focusing on residential solar panel systems and whole-home battery backup. No founding year or founder names are disclosed in public materials.
+Smart Wave Solar is a locally owned and operated solar installation company based in Denver, Colorado, serving homeowners across Utah and Colorado. The company was founded with a focus on providing turnkey residential solar and battery backup systems without subcontracting installation work.
 
-The company designs and installs custom solar energy systems, including rooftop photovoltaic arrays and Tesla Powerwall 3 battery storage for grid-outage protection. Installations are performed entirely by in-house crews rather than subcontractors, covering system design, permitting, installation, and commissioning. Specific facility size, headcount, or annual installation volumes are not published.
+The firm designs and installs photovoltaic systems paired with battery storage, notably as a certified installer for the Tesla Powerwall 3. Its in-house teams handle every phase of a project—from initial site assessment and system design through permitting, installation, and final inspection—using what it describes as technology and products. The company backs its installations with a 25-year production warranty guaranteeing system output.
 
-Smart Wave Solar targets residential customers seeking to reduce electricity costs and gain energy independence. Its primary markets are the Denver metro area and communities throughout Utah, where the company notes it has served thousands of homeowners. The firm also assists clients with financing options and projected savings estimates.
+Smart Wave Solar serves residential customers exclusively, with a track record of thousands of installations in Utah. Testimonials reference homeowners in both states who have purchased systems financed through the company’s partner lenders. The typical client is a homeowner seeking to reduce electricity bills, gain backup power during grid outages, and increase property value.
 
-The company differentiates itself by managing every project phase internally, avoiding third-party subcontractors, and by holding Tesla certification for Powerwall 3 installation. A 25-year production warranty guarantees the energy output of installed systems, reflecting a focus on long-term performance accountability.
+The company distinguishes itself by refusing to subcontract installations, maintaining direct control over workmanship and project communication. Its installers hold what the firm calls the highest industry credentials, and its sales process emphasizes transparency and education over pressure tactics. The Tesla Powerwall certification allows it to offer whole-home backup that functions during grid failures, a capability the company notes most solar-only systems lack.
 
 ## Known for
-- Certified Tesla Powerwall 3 installer
-- No subcontracting – handles installations in-house
-- 25-year production warranty on solar systems
+- Does not subcontract installations; all work performed by in-house teams
+- Certified installer for Tesla Powerwall 3 whole-home battery backup
+- 25-year production warranty guaranteeing system output
 - Locally owned and operated in Denver, Colorado
+- Handles projects from design through permitting to final inspection
 
 ## Capabilities
 - Solar photovoltaic system design
-- Rooftop solar panel installation
-- Tesla Powerwall 3 battery backup installation
-- Energy savings analysis and consultation
-- Solar financing facilitation
-- Permitting and interconnection management
+- Solar panel installation
+- Battery energy storage system installation
+- Tesla Powerwall 3 installation
+- Project management and permitting
+- Financing consultation
 
 ## Industries
-- Residential solar installation
-- Home energy storage
-- Renewable energy systems
-
-## Equipment
-- Tesla Powerwall 3
+- Residential solar energy
+- Solar installation services
+- Renewable energy
 
 ## Certifications
-- Tesla Certified Installer
+- Tesla Powerwall Certified Installer
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -43,13 +41,15 @@ The company differentiates itself by managing every project phase internally, av
 
 <details><summary>Sources</summary>
 
-- Denver, Colorado headquarters -> db
-- Certified Tesla Powerwall 3 installer -> /
-- Locally owned, no subcontracting -> /
-- 25-year production warranty -> /
-- Serves Utah and Colorado -> /
-- In-house installation crews -> /
-- Residential customer focus -> /
+- Headquarters in Denver, Colorado -> /
+- Locally owned and operated, no subcontracting -> /
+- Certified installer for Tesla Powerwall 3 -> /
+- 25-year production warranty on system output -> /
+- Serves residential customers in Utah and Colorado -> /
+- Thousands of installations in Utah -> /
+- In-house teams handle design, permitting, installation, inspection -> /
+- Installers hold highest industry credentials -> /
+- Offers financing consultation -> /
 </details>
 
 ---
@@ -59,48 +59,49 @@ The company differentiates itself by managing every project phase internally, av
 **Old description:** You are good at what you do and you’ve built something special. Let Smooth Athletics help you show your gear.
 
 ## About
-Based in Waynesboro, Virginia, Smooth Athletics has built a reputation as a local embroidery and screen printing specialist. While the exact founding date and ownership details are not disclosed, the company presents itself as a team-driven operation focused on personalized service.
+Based in Waynesboro, Virginia, Smooth Athletics operates as an embroidery and screen printing shop serving businesses and organizations across the region. The company's founding year and ownership structure are not publicly disclosed, but it has established a presence where it provides decoration and promotional product services.
 
-The facility offers a range of decoration processes: embroidery, screen printing, and digitizing for logo preparation. In addition to custom apparel such as athletic uniforms, the company sources and brands a wide selection of promotional products and manages team and corporate online stores for streamlined ordering. Specifics about production capacity, square footage, or employee count are not provided.
+The shop specializes in custom decoration including embroidery, screen printing, and digitizing, alongside logo design and promotional product sourcing. Its capabilities extend to athletic uniforms, team stores, and corporate stores, allowing clients to order decorated apparel and branded merchandise through a managed online storefront. No facility size, headcount, or production volumes are published.
 
-The customer base includes youth and adult sports leagues, corporate teams, and organizations needing branded merchandise. Testimonials on the site mention league jersey orders and repeat business from corporate clients, indicating a mix of sports and business-to-business work.
+Customers include sports leagues ordering jerseys, corporate teams seeking branded apparel, and businesses purchasing promotional items. Testimonials reference league jersey orders and repeat corporate purchases, indicating a client base that spans youth and adult athletics as well as company-branded merchandise programs.
 
-Smooth Athletics differentiates itself through what it calls a ‘welcome home’ atmosphere, promising quality workmanship, timely delivery, extreme accuracy, and expert guidance throughout the ordering process. The company also points to its use of current technology, awareness of industry trends, and a dedicated support team as reasons clients return.
+Smooth Athletics emphasizes quality workmanship, timely delivery, extreme accuracy, and expert guidance as its hallmarks. The company describes its approach as offering a welcoming environment, up-to-date technology, a keen sense of trends and value, and a team that supports clients through every step of the ordering process.
 
 ## Known for
-- Quality workmanship and timely delivery
-- Extreme accuracy and expert guidance
-- Welcoming, ‘at home’ customer experience
+- Quality workmanship and extreme accuracy
+- Timely delivery and expert guidance
+- Welcoming, customer-focused environment
 - Up-to-date decoration technology
-- Trend-aware product selection and value focus
+- Trend-aware product selection
 
 ## Capabilities
 - Embroidery
 - Screen printing
+- Digitizing
 - Logo design
 - Promotional product sourcing
-- Digitizing
 - Athletic uniform decoration
-- Team and corporate store management
+- Team store management
+- Corporate store management
 
 ## Industries
-- Sports and athletics
-- Corporate
+- Athletic/Sports
+- Corporate/Business
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
-- **Headquarters:** Waynesboro, Virginia
+- **Headquarters:** Waynesboro, VA
 
 <details><summary>Sources</summary>
 
-- Headquarters in Waynesboro, Virginia -> db
-- Services: embroidery, screen printing, logo design, promotional products -> page '/'
-- Additional services: digitizing, athletic uniforms, team and corporate stores -> page '/'
-- Address: 100 Pelham Drive, Waynesboro, VA 22980 -> page '/'
-- Phone: 540-885-6760 -> page '/'
-- Differentiators: quality workmanship, timely delivery, extreme accuracy, expert guidance, welcoming environment, up-to-date technology, trend awareness -> page '/about'
-- Customer testimonials referencing sports leagues and corporate clients -> page '/' and '/about'
-- Company description: 'A Virginia Embroidery Company' -> page '/'
+- Headquarters city and state: Waynesboro, Virginia -> db
+- Address: 100 Pelham Drive, Waynesboro, VA 22980 -> /
+- Phone: 540-885-6760 -> /
+- Services: embroidery, screen printing, logo design, promotional products -> /
+- Additional services: digitizing, athletic uniforms, team and corporate stores -> /
+- Differentiators: quality workmanship, timely delivery, extreme accuracy, expert guidance, welcoming environment, up-to-date technology, trend awareness -> /about
+- Customer examples: sports league jersey orders, corporate repeat orders -> /about
+- Company description: 'A Virginia Embroidery Company' -> /
 </details>
 
 ---
@@ -110,32 +111,32 @@ Smooth Athletics differentiates itself through what it calls a ‘welcome home�
 **Old description:** Smyth Metal Works Welding and Fabrication is your complete solution for certified metal fabrication and repair.
 
 ## About
-Smyth Metal Works is located in Berlin, Vermont, where it provides certified metal fabrication and repair services. The company operates an in-house fabrication shop and also offers mobile welding to serve customer needs on-site. Information about the founding year, ownership type, or founders is not available from public sources.
+Smyth Metal Works operates from Berlin, Vermont, providing certified metal fabrication and repair services. The company does not disclose its founding year or ownership structure in its public materials.
 
-The company’s service offerings include production jobs, custom fabrication, and CNC plasma and light machining. Its described workflow covers projects from imagination through installation, with attention to detail at each step. Details such as facility size, employee count, or typical production volumes are not disclosed.
+The shop runs an in-house fabrication facility and also deploys mobile welding crews for on-site work. Its service lineup includes custom fabrication, CNC plasma cutting, light machining, and production-run jobs. No facility size, headcount, or annual volume figures are published.
 
-Smyth Metal Works emphasizes a business model built on acquiring and serving good customers rather than simply pursuing individual jobs. The company highlights reliability, experience, and upfront communication as key differentiators. While specific industries or customer examples are not listed, the firm positions itself as a dependable partner for fabrication and welding projects.
+The company does not specify the industries it serves or name individual customers in its available content.
 
-The company states that it sets itself apart by focusing on long-term customer relationships and transparent communication throughout the project lifecycle, from initial concept to final installation.
+Smyth Metal Works states that its business model focuses on acquiring and serving long-term customers rather than chasing one-off jobs, emphasizing attention to detail from concept through installation and describing its approach as reliable, experienced, and up-front.
 
 ## Known for
-- In-house fabrication shop and mobile welding services
-- Business model focused on acquiring and serving good customers, not just getting jobs
-- Project management from imagination through installation with attention to detail
-- Reliable, experienced, and upfront communication
+- Business model focused on long-term customer relationships over one-off jobs
+- Attention to detail from concept through installation
+- Describes its approach as reliable, experienced, and up-front
+- Combines in-house fabrication shop with mobile welding capability
 
 ## Capabilities
 - Metal fabrication
 - Metal repair
 - In-house fabrication
 - Mobile welding
-- Production jobs
 - Custom fabrication
 - CNC plasma cutting
 - Light machining
+- Production runs
 
 ## Equipment
-- CNC Plasma
+- CNC plasma cutter
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -143,120 +144,265 @@ The company states that it sets itself apart by focusing on long-term customer r
 
 <details><summary>Sources</summary>
 
-- Company name: Smyth Metal Works -> db
 - Location: Berlin, Vermont -> db
-- Certified metal fabrication and repair -> /
-- In-house fabrication shop and mobile welding -> /
-- Business model: acquire and serve good customers, not just 'get jobs' -> /
-- From imagination through installation care about details -> /
-- Reliable, experienced, up-front -> /
-- Services: Production Jobs, Custom Fabrication, CNC Plasma/Light machining -> /services
+- Provides certified metal fabrication and repair -> /
+- Offers in-house fabrication shop and mobile welding -> /
+- Services include custom fabrication, CNC plasma/light machining, production jobs -> /services
+- Business model focuses on acquiring and serving good customers -> /
+- Emphasizes attention to detail from imagination through installation -> /
+- Describes approach as reliable, experienced, and up-front -> /
 </details>
 
 ---
 
 # Snake River Butcher Supply
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** Snake River Butcher Supply partners with industry leaders to deliver quality equipment for every stage of the
+
+## About
+Snake River Butcher Supply operates from Boise, Idaho, positioning itself as the Pacific Northwest's partner for butcher supplies and meat processing equipment. The company does not disclose its founding year or ownership structure, nor does it name its founders publicly.
+
+The business distributes equipment and consumables across every stage of the butchering process—harvest, cooling, processing, further processing, packaging, storage, and retail. Its product catalog includes seasonings, knives, grinder plates, poly bags, and band saw blades. The company also maintains a technical support team to service the equipment it sells.
+
+Its customers span meat processors, butcher shops, and food production facilities that require equipment for slaughter, cutting, curing, smoking, packaging, and merchandising. The company serves operations of various sizes, from harvest through to retail display.
+
+Snake River Butcher Supply differentiates itself by actively vetting supply sources for long-term value and consistent quality, partnering with manufacturers that design equipment for low total cost of ownership, and providing in-house technician support for the machinery it distributes.
+
+## Known for
+- Partners with premium manufacturers for equipment with low total cost of ownership
+- In-house technicians available for equipment support
+- Actively vets supply sources for long-term value and consistent quality
+- Covers all seven stages of the butchering process
+- Online procurement for supplies and equipment
+
+## Capabilities
+- Butcher equipment distribution
+- Meat processing supply distribution
+- Equipment technical support
+- Online ordering
+
+## Industries
+- Meat processing
+- Butchering
+- Food processing
+- Retail meat sales
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Headquarters:** Boise, Idaho
+
+<details><summary>Sources</summary>
+
+- Headquarters: Boise, Idaho -> db
+- Partners with industry leaders for equipment across all butchering stages -> page /
+- Sells seasonings, knives, grinder plates, poly bags, band saw blades -> page /
+- Has technicians available to support operations -> page /
+- Actively recruits supply sources for long-term value and consistent quality -> page /
+- Partners with premium manufacturers for low total cost of ownership -> page /
+- Offers online shop for supplies and equipment -> page /
+</details>
+
+---
 
 # Snowline Packaging Solutions
 
 **Old description:** For the best experience on our site, be sure to turn on Javascript in your browser.
 
 ## About
-Snowline Packaging Solutions operates from Salt Lake City, Utah. The business emerged from the combination of R&K Packaging and NaMar Packaging, though a specific founding year is not disclosed. Ownership structure and founder names have not been made public.
+Snowline Packaging Solutions operates from Salt Lake City, Utah. The business traces its roots to two predecessor companies, R&K Packaging and NaMar Packaging, which combined to form the current entity.
 
-The company specializes in cap lining, packaging design, industrial packaging materials, and laboratory and specimen packaging technologies. It maintains a full line of packaging supplies, packaging equipment, shipping supplies, and janitorial and sanitation supplies, offering both stock boxes and custom boxes in any quantity. Snowline also provides repair services for large and small packaging and industrial equipment as well as hand tools. It describes itself as the largest packaging supply company in Utah, with service extending into Idaho and Nevada.
+The company specializes in cap lining, custom packaging design, industrial packaging materials, and laboratory specimen packaging technologies. It maintains a full product line encompassing packaging supplies, packaging equipment, shipping supplies, janitorial and sanitation supplies, and both stock and custom corrugated boxes. Snowline also operates a repair service for packaging and industrial equipment as well as hand tools. A digital platform provides live ordering, real-time inventory visibility, contract pricing, custom order portals, advanced reporting, and invoice and order tracking. The firm describes itself as the largest packaging supply company in Utah, with service extending into Idaho and Nevada.
 
-Snowline serves a range of industries, as illustrated by its customer base: Echo Park Paper Company in the paper sector, Recteq in consumer goods, Kimac Industries in industrial manufacturing, and Mountain View Pharmacy in pharmaceuticals. The company positions itself as an integrated partner that manages live real-time ordering, live inventory, contract pricing, custom order pads, advanced reporting, and invoice and order tracking.
+Customers span multiple sectors. Testimonials reference a paper manufacturer (Echo Park Paper Company), an outdoor cooking equipment maker (Recteq), an industrial firm (Kimac Industries), and a pharmacy handling temperature-sensitive shipments (Mountain View Pharmacy). The cap-lining business is marketed to every industry, while the laboratory packaging focus serves scientific and medical clients.
 
-Snowline emphasizes that it goes beyond traditional supply by embedding itself in customers' operations, acting as an extension of their team to protect their bottom line. It cites its team's extensive experience and the ability to apply leading-edge packaging systems across all aspects of a client's business, highlighting attention to detail that it says larger competitors often cannot match.
+Snowline positions itself as an integrated partner rather than a transactional supplier, stating that its team operates as if they are the client's employees, watching the bottom line. The company emphasizes its experience in balancing protection, cost efficiency, branding, and sustainability, and highlights its ability to apply leading-edge packaging systems across all aspects of a customer's operation.
 
 ## Known for
 - Largest packaging supply company in Utah
+- Integrated partnership model (operate as client's employees)
 - Expert cap-lining and sealing solutions
-- Repair services for packaging and industrial equipment
-- Custom boxes available in any quantity
-- Live real-time ordering and inventory management
+- In-house repair for packaging and industrial equipment
+- Real-time ordering, inventory, and reporting platform
 
 ## Capabilities
 - Cap lining
-- Packaging design
+- Custom packaging design
 - Custom box manufacturing
-- Stock box supply
+- Packaging equipment repair
+- Industrial equipment repair
+- Hand tool repair
+- Laboratory specimen packaging
 - Packaging supplies distribution
 - Packaging equipment distribution
 - Shipping supplies distribution
 - Janitorial and sanitation supplies distribution
-- Laboratory and specimen packaging
-- Equipment repair (packaging & industrial equipment)
-- Hand tool repair
-- Live real-time ordering
-- Live inventory management
-- Contract pricing
-- Custom order pad
+- Real-time order management
+- Inventory management
+- Contract pricing programs
+- Custom order portal
 - Advanced reporting
-- Invoice and order tracking
+- Invoice tracking
+- Order tracking
+
+## Industries
+- Paper manufacturing
+- Outdoor cooking equipment
+- Industrial manufacturing
+- Pharmaceutical/pharmacy
+- Laboratory/specimen packaging
 
 ## Company details
-- **Company Type:** Distributor / reseller
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Salt Lake City, Utah
 
 <details><summary>Sources</summary>
 
 - Headquarters: Salt Lake City, Utah -> db
 - Formerly R&K Packaging & NaMar Packaging -> /about-us
-- Specializes in cap lining, packaging design, industrial packaging materials, laboratory and specimen packaging technologies -> /about-us
-- Offers full line of packaging supplies, packaging equipment, shipping supplies, janitorial and sanitation supplies -> /about-us
-- Provides stock boxes and custom boxes in any quantity -> /about-us
-- Provides equipment repair for packaging & industrial equipment and hand tools -> /about-us, /
-- Largest packaging supply company in Utah, serves Idaho and Nevada -> /about-us
+- Largest packaging supply company in Utah -> /about-us
+- Serves Utah, Idaho, Nevada -> /about-us
+- Specializes in cap lining, packaging design, industrial packaging materials, laboratory specimen packaging -> /about-us
+- Full product line: packaging supplies, equipment, shipping supplies, janitorial/sanitation, stock and custom boxes -> /about-us
+- Equipment repair services for packaging/industrial equipment and hand tools -> /about-us, /
+- Digital platform: live ordering, real-time inventory, contract pricing, custom order pad, advanced reporting, invoice/order tracking -> /about-us
 - Customer examples: Echo Park Paper Company, Recteq, Kimac Industries, Mountain View Pharmacy -> /about-us
-- Offers live real-time ordering, live inventory, contract pricing, custom order pad, advanced reporting, invoice and order tracking -> /about-us
-- Emphasizes integrated partnership and attention to detail -> /about-us
+- Cap lining for every industry -> /about-us, /
+- Integrated partnership approach (operate as client's employees) -> /about-us
+- Focus on protection, cost efficiency, branding, sustainability -> /about-us
+- Product categories: Corrugated, Tape, Cushioning & Void Fill, Stretch Wrap & Film, Poly Bags & Mailers, Labels, Cap Lining Closures and Containers -> /
 </details>
 
 ---
 
 # Soeby Motor Company Parts
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** Unleash outstanding performance and capabilities with our range of powerful engines. Engineered to meet the demands of any task, providing the strength and resilience needed to take on everyday.
+
+## About
+Soeby Motor Company operates as a Ford dealership in Walhalla, North Dakota, serving the surrounding communities of Grafton, Devils Lake, and Grand Forks. The business retails new and pre‑owned Ford cars, crossovers, SUVs, and trucks, including the F‑150 and Super Duty lines.
+
+The dealership’s service department employs factory‑trained technicians who perform repairs, scheduled maintenance, and parts installation using Motorcraft components. Those parts carry a two‑year, unlimited‑mileage warranty that includes labor coverage. The facility also arranges financing and lease agreements for vehicle purchases.
+
+Customers include retail buyers as well as Ford employees and retirees who qualify for dedicated service discounts. The company participates in the Ford Rewards program, allowing members to earn 10 points per dollar spent on eligible service and redeem points for future visits.
+
+Soeby Motor Company emphasizes certified Ford parts and technician training as its primary differentiators, aiming to keep Ford vehicles performing optimally through factory‑backed service standards.
+
+## Known for
+- Factory-trained technicians meeting Ford service standards
+- Motorcraft parts warranty: two years, unlimited mileage, includes labor
+- Ford Rewards program: earn 10 points per $1 on eligible service
+- Service discounts for Ford employees and retirees
+- Certified pre-owned vehicle inventory
+
+## Capabilities
+- Automotive repair
+- Automotive maintenance
+- Parts installation
+- New vehicle sales
+- Used vehicle sales
+- Certified pre-owned vehicle sales
+- Financing
+- Leasing
+- Service scheduling
+- Ford Rewards program administration
+
+## Industries
+- Automotive retail
+- Automotive service
+
+## Company details
+- **Company Type:** Retailer
+- **Headquarters:** Walhalla, North Dakota
+
+<details><summary>Sources</summary>
+
+- Location: Walhalla, North Dakota -> db
+- Ford dealership selling new and used vehicles -> /
+- Service department with factory-trained technicians -> /
+- Motorcraft parts warranty: two years unlimited mileage including labor -> /
+- Ford Rewards program: 10 points per $1 on eligible service -> /
+- Service discounts for Ford employees and retirees -> /
+- Certified pre-owned vehicles available -> /
+- Address: 12th St & Central Box 7, Walhalla, ND 58282 -> /
+- Sales hours: Monday-Friday 8:00AM-5:30PM, Saturday 8:00AM-12:00PM -> /
+</details>
+
+---
 
 # Sofas & Chairs
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** Still family owned after 30 years, we take pride in providing every customer with a unique custom experience they will remember for years to come!
+
+## About
+Sofas & Chairs operates from Lafayette, Louisiana, where it has remained family-owned for three decades. The business was founded on a commitment to delivering a unique custom experience, though the exact founding year and founders' names are not publicly disclosed.
+
+The company offers a broad selection of upholstered, wood, and leather furniture, all tailored to individual lifestyles. An in-house design team guides clients through the customization process, from initial concept and house-plan coordination to final delivery and installation. The service emphasizes a hands-on, craft-oriented approach rather than volume production.
+
+While the company does not list specific industrial sectors, its offerings target residential customers and design professionals seeking personalized furnishings. The design team works directly with homeowners and, by implication, with architects or builders involved in house-plan coordination.
+
+Sofas & Chairs distinguishes itself through its family-owned heritage, an in-house design team that manages projects from concept to delivery, and a stated focus on timeless style, custom comfort, and uncompromised craftsmanship.
+
+## Known for
+- Family-owned for 30 years
+- In-house design team managing projects from concept to delivery
+- Custom furniture tailored to individual lifestyles
+- Coordination from house plans through delivery day
+
+## Capabilities
+- Custom furniture design
+- Upholstery
+- Wood furniture
+- Leather furniture
+- Interior design consultation
+- Project coordination and delivery
+
+## Company details
+- **Company Type:** Retailer
+- **Ownership:** Family-owned
+- **Headquarters:** Lafayette, Louisiana
+
+<details><summary>Sources</summary>
+
+- Family-owned for 30 years -> /
+- Located in Lafayette, Louisiana -> db
+- Offers upholstered, wood, and leather furniture -> /
+- In-house design team -> /
+- Custom design experience tailored to lifestyle -> /
+- Coordinates from house plans to delivery -> /
+- Emphasizes timeless style, custom comfort, craftsmanship -> /
+</details>
+
+---
 
 # Soft Goods
 
 **Old description:** Built for everyday wear, shaped by real work. Our t-shirts, sweaters, and sweatshirts carry the same Detroit workshop values that drive everything we make: clean lines, quality fabric, and honest construction.
 
 ## About
-Soft Goods operates a garment factory in Detroit, Michigan, where it produces a line of cotton knitwear including t‑shirts, sweatshirts, sweatpants, robes, crewnecks, thermals and headwear. The company owns and runs its own production facility, emphasizing that each piece is cut, sewn and finished by hand using natural fibers.
+Soft Goods operates a garment factory in Detroit, Michigan, where it produces a range of cotton knitwear including t‑shirts, sweatshirts, sweatpants, robes, and headwear. The company owns and runs its production facility in the city, cutting and sewing each piece by hand using natural fibers.
 
-The product range centers on heavyweight cotton basics — classic tees in multiple colors, double‑front sweatpants, jersey pants, French terry hooded robes and crewneck sweatshirts. Garments are constructed in small batches rather than mass‑produced, with the company describing its process as a labor of love that passes through human hands at every stage. No facility size, headcount or annual volume figures are disclosed.
+The product line centers on heavyweight cotton basics — classic crewneck tees, double‑front sweatpants, jersey pants, French terry hooded robes, and thermal layers. All garments are assembled in the Detroit shop in small batches; nothing is mass‑produced, and every item passes through the hands of the makers. The factory handles cutting, sewing, and finishing for the brand’s own collections.
 
-Soft Goods sells directly to consumers through its e‑commerce site, positioning its Detroit‑made apparel as honest, durable basics for everyday wear. The brand does not list industrial or wholesale customers in the available material; its stated audience is individual buyers seeking domestically produced knitwear.
+Soft Goods sells its own labeled apparel directly to consumers through its e‑commerce site, serving customers who value domestically made, natural‑fiber clothing. The brand positions its goods as everyday wear shaped by “real work” and Detroit workshop values, appealing to buyers seeking durable, honestly constructed basics.
 
-The company’s stated point of difference is its commitment to “Detroit workshop values” — clean lines, quality fabric and honest construction — rooted in a gritty, persistent craftsmanship narrative. It frames its domestic factory ownership as a deliberate alternative to offshore mass production.
+The company emphasizes that its differentiation lies in full vertical control — owning the factory, using only natural fibers, and rejecting mass‑production methods. It frames its approach as a return to “grit and persistent craftsmanship,” where each garment is a labor of love rather than a commodity output.
 
 ## Known for
-- Owns and operates a garment factory in Detroit
-- Garments cut, sewn and finished by hand using natural fibers
-- No mass production; each piece passes through human hands
-- Emphasis on domestic manufacturing and honest construction
-- Product line includes heavyweight cotton tees, sweatpants, French terry robes and crewnecks
+- Owned and operated cut‑and‑sew factory in Detroit
+- Garments handcrafted from natural fibers only
+- Small‑batch production; no mass‑manufacturing
+- Free domestic shipping on orders over $200
 
 ## Capabilities
 - Cut and sew
 - Garment assembly
-- Knitwear manufacturing
-- Hand finishing
-- Small-batch production
+- Hand sewing
+- Small batch production
 
 ## Industries
-- Garment manufacturing
-- Knitwear manufacturing
-- Apparel retail
+- Apparel
+- Knitwear
+- Clothing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -266,10 +412,12 @@ The company’s stated point of difference is its commitment to “Detroit works
 
 - Detroit, Michigan headquarters -> db
 - Owns and operates factory in Detroit -> /
-- Produces cotton knitwear (tees, sweatshirts, sweatpants, robes, crewnecks, thermals, headwear) -> /
-- Garments made by hand with natural fibers -> /
-- No mass production; each garment passes through hands -> /
-- Emphasis on Detroit workshop values: clean lines, quality fabric, honest construction -> /
+- Produces cotton knitwear (t‑shirts, sweatshirts, sweatpants, robes, headwear) -> /
+- Garments cut and sewn by hand using natural fibers -> /
+- Small‑batch, non‑mass‑production approach -> /
+- Direct‑to‑consumer sales via website -> /
+- Free domestic shipping on orders over $200 -> /
+- Materials: cotton, French terry, fleece -> /
 </details>
 
 ---
@@ -279,50 +427,43 @@ The company’s stated point of difference is its commitment to “Detroit works
 **Old description:** We are a trusted manufacturer for some of the world's most iconic companies:
 
 ## About
-Softline Brand Partners, based in Minneapolis, Minnesota, was founded in March 2014 out of a passion for creating high-quality soft goods. The company operates as a full-service contract manufacturer with domestic and overseas factories, offering flexibility and scalability for brands of all sizes.
+Softline Brand Partners was founded in March 2014 in Minneapolis, Minnesota, born from a passion for creating high-quality soft goods. The company operates as a full-service contract manufacturer with a vertically integrated model that spans design, sourcing, and production.
 
-The firm produces a range of soft goods including small leather goods, bags, home goods, watch straps, patches and labels, and strap goods, along with industrial components. Its vertically integrated process covers design and product development, raw material sourcing from mills and tanneries, cut-and-sew manufacturing in plants across the Midwest, East Coast, China, Vietnam, India, Mexico, Europe, and Central America, and logistics and fulfillment services. Customers have reported volumes ranging from 100 units to over one million units annually.
+The firm produces a range of soft goods including small leather goods, bags, home goods, watch straps, patches and labels, and strap goods. It runs cut-and-sew operations in domestic factories across the Midwest and East Coast as well as overseas facilities in China, Vietnam, India, Mexico, Europe, and Central America. The company notes it has scaled clients from 100-unit runs to orders of millions of units, with one partner growing from 5,000 monthly units to over 1,000,000 units in under 18 months.
 
-Softline serves startups and Fortune 500 companies across the soft goods, leather goods, accessories, home goods, and industrial component sectors. Named partners include Love Your Melon, Bespoke Post, Allen Edmonds, Fastanal, Timex, Room & Board, Leesa Sleep, and Acco.
+Softline serves startups, designers, and Fortune 500 companies across consumer goods, apparel, home furnishings, and industrial components. Named partners include Love Your Melon, Bespoke Post, Allen Edmonds, Fastanal, Timex, Room & Board, Leesa Sleep, and Acco.
 
-The company emphasizes end-to-end supply chain solutions, U.S.-based factories for Made-in-USA production, global reach, and factories audited for social and environmental compliance. Its team highlights fast turnaround times, rigorous quality control, and long-term relationship building as key differentiators.
+The company emphasizes its end-to-end supply chain solutions, design-and-build capabilities under one roof, and factories audited for social and environmental compliance. It highlights fast turnaround times, rigorous quality assurance, and a focus on long-lasting relationships with growth-oriented brands.
 
 ## Known for
-- Vertically integrated design and manufacturing under one roof
-- Factories in the United States, China, Vietnam, India, and Mexico
-- End-to-end supply chain solutions from design to logistics
+- Full-service contract manufacturer since March 2014
+- Vertically integrated design, sourcing, and manufacturing under one roof
+- Domestic factories in the Midwest and East Coast plus overseas plants in China, Vietnam, India, Mexico, Europe, and Central America
 - Factories audited for social and environmental compliance
-- Fast turnaround times with efficient processes
+- End-to-end supply chain solutions from concept to logistics
 
 ## Capabilities
-- Design and product development
-- Raw material sourcing
-- Cut and sew manufacturing
-- Logistics and fulfillment
-- Quality assurance and control
-- Pattern making and sampling
-- Leather goods manufacturing
-- Small leather goods production
-- Bag manufacturing
-- Home goods manufacturing
-- Watch strap production
-- Patch and label manufacturing
-- Strap goods production
-- Industrial component manufacturing
-- Supply chain management
-- Freight and logistics
+- Research & Design
+- Product Development
+- Pattern Making
+- Sample Making
+- Sourcing
+- Cut and Sew Manufacturing
+- Leather Working
+- Quality Assurance/Quality Control
+- Fulfillment
+- Freight and Logistics
+- Supply Chain Management
+- Material Sourcing
 
 ## Industries
-- Soft goods manufacturing
+- Soft goods
 - Leather goods
 - Accessories
 - Home goods
 - Industrial components
 - Apparel
-- Bags and luggage
-- Watch straps
-- Patches and labels
-- Strap goods
+- Consumer goods
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -332,20 +473,18 @@ The company emphasizes end-to-end supply chain solutions, U.S.-based factories f
 <details><summary>Sources</summary>
 
 - Founded March 2014 -> /about-us
-- Headquarters Minneapolis, MN -> /about-us
+- Headquartered in Minneapolis, Minnesota -> db
 - Full-service contract manufacturer -> /about-us
-- Factories in US, China, Vietnam, India, Mexico -> /about-us
-- Products: leather goods, bags, home goods, watch straps, patches & labels, strap goods -> /about-us
-- Services: design, sourcing, cut and sew, logistics -> /services
-- Clients: Love Your Melon, Bespoke Post, Allen Edmonds, Fastanal, Timex, Room & Board, Leesa Sleep, Acco -> /about-us and /
-- Factories audited for social and environmental compliance -> / and /about-us
 - Vertically integrated design and manufacturing -> /about-us
-- Volume range 100 units to over 1,000,000 units -> /about-us (testimonials)
-- Fast turnaround times -> /about-us
-- Quality control inspections -> /about-us
-- Made in USA capability -> /about-us
-- Global reach with factories in multiple countries -> /about-us
-- Team roles: Production Manager, Lead Sample Maker, Leather Worker -> / and /about-us
+- Factories in United States, China, Vietnam, India, Mexico -> /about-us
+- Factories audited for social and environmental compliance -> /about-us
+- Products: small leather goods, bags, home goods, watch straps, patches & labels, strap goods -> /about-us
+- Services: Design, Sourcing, Cut and Sew Manufacturing, Logistics -> /services
+- Customers: Love Your Melon, Bespoke Post, Allen Edmonds, Fastanal, Timex, Room & Board, Leesa Sleep, Acco -> /about-us
+- Volume range: 100 units to millions of units -> /about-us
+- Team roles: Production Manager, Lead Sample Maker, Leather Worker -> /
+- U.S. factories in Midwest and East Coast -> /services
+- Global reach with factories in Europe and Central America -> /services
 </details>
 
 ---
@@ -355,32 +494,32 @@ The company emphasizes end-to-end supply chain solutions, U.S.-based factories f
 **Old description:** Installing a modern solar system can provide several benefits for your home or business.
 
 ## About
-Solair operates from a logistics center in Selbyville, Delaware, with administrative offices in Ocean City, Maryland. The company's founding year and ownership structure are not publicly disclosed, nor are its founders named in available materials.
+Solair is a solar integration company based in Selbyville, Delaware, with an additional administrative office in Ocean City, Maryland. The company serves customers across Delaware, Maryland, New Jersey, and Pennsylvania.
 
-The firm provides solar integration services across commercial, agricultural, government, and residential sectors. Its in-house teams handle system design, installation, and ongoing performance monitoring, using REC black-on-black modules and Enphase micro-inverters backed by a 25-year warranty on major components. A dedicated grant administrator coordinates USDA REAP grants, state incentives, and agricultural preservation easements to reduce net project costs. The company also partners with local lenders to offer financing options.
+The firm provides turnkey solar energy systems for commercial, agricultural, government, and residential clients. Its services span consultation, energy analysis, system design, grant administration (including USDA REAP and state incentives), installation, and ongoing performance monitoring. Solair pairs REC black-on-black modules with Enphase microinverters and backs major components with a 25-year warranty. All installation work is performed by full-time, in-house crews rather than subcontractors.
 
-Solair serves businesses, farms, government agencies, and homeowners throughout Delaware, Maryland, New Jersey, and Pennsylvania. Agricultural clients receive assistance navigating REAP grants and Ag Preservation easements, while government and non-profit customers are supported through RFP responses, design-build projects, and power-purchase agreements.
+Agricultural customers receive assistance navigating USDA REAP grants, state grants, and agricultural preservation easements. Government and non-profit clients are supported through RFP responses, design-build projects, and power purchase agreements. Commercial installations are managed across multiple locations, while residential projects emphasize aesthetic integration and cost savings.
 
-The company emphasizes turnkey, low-maintenance installations managed by full-time employees rather than subcontractors. It cites thorough upfront estimates and preparation as key to completing projects on schedule and on budget, and it maintains relationships with wholesalers and manufacturers to secure equipment availability.
+Solair distinguishes itself by managing the entire project lifecycle—from initial estimate through post-installation monitoring—and by maintaining relationships with wholesalers and manufacturers to keep projects on schedule and within budget. The company’s grant administrator secures available subsidies to reduce net costs for customers.
 
 ## Known for
-- Full-time in-house installation crews (no subcontractors)
-- Grant administration partnerships with USDA and state agencies
-- Direct relationships with REC and Enphase for module and inverter supply
-- 25-year warranty on most major system components
-- Thorough estimating and prep work to meet project timelines and budgets
+- Full-time in-house installation teams
+- Grant administration for USDA REAP and state incentives
+- 25-year warranty on major system components
+- Real-time performance monitoring
+- Projects completed on time and on budget
 
 ## Capabilities
-- Solar system design
-- Solar installation
+- Solar integration services
+- Commercial solar installation
+- Agricultural solar installation
+- Government solar installation
+- Residential solar installation
+- Grant administration (USDA REAP, state grants)
+- System design and engineering
+- Installation and maintenance
 - Performance monitoring
-- Grant administration (USDA REAP, state programs)
-- Financing coordination
-- Commercial solar deployment
-- Agricultural solar deployment
-- Government/non-profit solar (RFP, design-build, PPA)
-- Residential solar deployment
-- Solar battery integration
+- Financing partnerships
 
 ## Industries
 - Commercial
@@ -390,24 +529,29 @@ The company emphasizes turnkey, low-maintenance installations managed by full-ti
 - Residential
 
 ## Equipment
-- REC black-on-black solar modules
-- Enphase micro-inverters
+- REC black-on-black modules
+- Enphase microinverters
 
 ## Company details
 - **Company Type:** Installer / service company
-- **Headquarters:** Selbyville, Delaware
+- **Headquarters:** Selbyville, DE
 
 <details><summary>Sources</summary>
 
-- Headquarters in Selbyville, DE and Ocean City, MD -> /
-- Solar integration services for commercial, agricultural, government, residential -> /
-- Full-time in-house installers -> /
-- Uses REC modules and Enphase micro-inverters -> /
-- 25-year warranty on major components -> /
-- Grant administration for USDA REAP and state incentives -> /
-- Financing partnerships with local lenders -> /
-- Service area: DE, MD, NJ, PA -> /
-- Contact info: Info@getsolair.com, 302-841-1108 -> /
+- headquarters in Selbyville, DE -> db
+- additional office in Ocean City, MD -> /
+- service area: Delaware, Maryland, New Jersey, Pennsylvania -> /
+- provides solar integration services -> /
+- serves commercial, agricultural, government, residential sectors -> /
+- uses REC black-on-black modules and Enphase microinverters -> /
+- offers 25-year warranty on major components -> /
+- full-time in-house installers -> /
+- grant administration for USDA REAP and state grants -> /
+- projects completed on time and on budget -> /
+- real-time system monitoring -> /
+- assists with agricultural preservation easements -> /
+- supports government RFPs, design-build, PPAs -> /
+- partners with wholesalers and manufacturers -> /
 </details>
 
 ---

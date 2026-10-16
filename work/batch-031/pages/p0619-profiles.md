@@ -3,48 +3,52 @@
 **Old description:** We’ve built our name on quick turnaround, great quality printing. Whatever your need, we can print it for you.
 
 ## About
-Quality Quick Print, known as QQP, operates from Aberdeen, South Dakota, with additional locations in Pierre, Rapid City, and Belle Fourche. Today it is privately owned, with Justin Feickert serving as CEO and owner, alongside President Steve Lewno.
+Quality Quick Print, known as QQP, operates from Aberdeen, South Dakota, with additional locations in Pierre, Rapid City, and Belle Fourche. Today it is privately owned, led by CEO and owner Justin Feickert and President Steve Lewno, alongside a management team that includes directors of sales, technology, operations, and MIM solutions.
 
-QQP provides a broad range of print and branding services, including commercial printing, signs and banners, custom apparel decorated via embroidery and screen printing, laser engraving, graphic design, mailing and direct-mail fulfillment, promotional products, and copy-center work. The company also operates MIM (Marketing Inventory Management) storefronts, an online platform that streamlines ordering for branded merchandise and employee apparel. Production is handled across its four South Dakota facilities, supported by a management team that includes directors of sales, technology, operations, and MIM solutions.
+QQP provides a broad range of brand-visibility services: commercial printing (brochures, business cards, large-format output), sign and banner production including vehicle graphics and trade-show displays, custom apparel decoration via embroidery and screen printing, laser engraving on awards and drinkware, graphic design, marketing inventory management (MIM) storefronts, direct-mail and mailing services, and a copy center. The company also sources and customizes promotional products. Operations span four South Dakota facilities, supported by a staff of roughly a dozen key personnel listed on its website.
 
-The company serves businesses, organizations, and events throughout the region that need branded materials, trade-show displays, vehicle graphics, awards, drinkware, and custom clothing. While specific client names are not disclosed, QQP emphasizes its work with local and regional accounts across industries such as retail, corporate marketing, education, and hospitality.
+The client base consists primarily of businesses and organizations across central and western South Dakota that need branded materials, from corporate identity packages to event signage and employee apparel. While specific industry verticals are not publicly detailed, the service mix suggests customers in marketing, retail, education, and local government sectors.
 
-QQP cites its core values—unwavering service commitment, passion for the work, and community stewardship—as differentiators, along with a focus on quick turnaround and consistent quality. The MIM storefront system is highlighted as a tool that simplifies procurement for recurring brand orders.
+QQP emphasizes three core values—unwavering service commitment, passion for the work, and community stewardship—and promotes “excellence on every order.” Its stated differentiators are quick turnaround, in-house design capability, and the convenience of multiple locations coupled with an online storefront platform for repeat orders.
 
 ## Known for
 - Quick turnaround on print and sign projects
-- MIM storefronts for streamlined branded-merchandise ordering
-- Four South Dakota locations for local pickup and service
-- Core values: service commitment, passion, community stewardship
-- Single-source provider for printing, signs, apparel, engraving, and mailing
+- In-house graphic design with multiple concept options
+- Four South Dakota locations (Aberdeen, Pierre, Rapid City, Belle Fourche)
+- MIM Storefronts for automated branded-product ordering
+- Broad single-source capability from printing to engraving
 
 ## Capabilities
 - Commercial printing
-- Signs and banners (indoor/outdoor signage, vehicle graphics, trade show displays)
-- Custom apparel decoration (embroidery, screen printing)
+- Large format sign and banner production
+- Vehicle graphics
+- Trade show display fabrication
+- Embroidery
+- Screen printing
 - Laser engraving
 - Graphic design
-- MIM (Marketing Inventory Management) storefronts
-- Mailing and direct mail services
-- Promotional products sourcing and customization
+- Marketing inventory management (MIM) storefronts
+- Direct mail and mailing services
 - Copy center services
+- Promotional product sourcing and customization
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Privately owned
+- **Ownership:** Private
 - **Headquarters:** Aberdeen, South Dakota
 
 <details><summary>Sources</summary>
 
-- Founded as quick printer in 1980s -> /about
-- Privately owned, CEO Justin Feickert -> /about
-- Locations in Aberdeen, Pierre, Rapid City, Belle Fourche -> /
-- Services: printing, signs, apparel, engraving, graphic design, MIM storefronts, mailing, promotional products, copy center -> /services
+- Headquarters in Aberdeen, SD with locations in Pierre, Rapid City, Belle Fourche -> /
+- Founded as quick printer in 1980s, became commercial printer in 1990s -> /about
+- Privately owned, CEO/Owner Justin Feickert, President Steve Lewno -> /about
+- Services: printing, signs & banners, custom apparel (embroidery, screen printing), engraving, graphic design, MIM storefronts, mailing & direct mail, copy center, promotional products -> /, /services
+- Team of 13 named managers/directors -> /about
 - Core values: Unwavering Service Commitment, Bring the Passion, Community Stewards -> /about
-- Leadership team includes Justin Feickert (CEO/Owner), Steve Lewno (President), etc. -> /about
-- MIM storefronts streamline ordering for branded products -> /
-- Quick turnaround and great quality printing emphasized -> /
-- Company evolved from quick printer to commercial printer to full-service branding -> /about
+- Quick turnaround, great quality printing emphasized -> /
+- MIM Storefronts streamline ordering for branded products -> /
+- Vehicle graphics, trade show displays, indoor/outdoor signage -> /
+- Midstates Group and QQP Acquire Brand Star news July 10, 2020 -> /
 </details>
 
 ---
@@ -54,55 +58,59 @@ QQP cites its core values—unwavering service commitment, passion for the work,
 **Old description:** We do Bolted Pressure and High Pressure contact switches every day.
 
 ## About
-Quality Switchgear Inc. is based in Valley View, Texas. The company was founded in 1996 by brothers John and Billy Cope, with Kim Duvall joining as the first employee and office manager. More than two decades later, all three remain with the business, which now employs around 20 people.
+Quality Switchgear Inc operates from Valley View, Texas, where brothers John and Billy Cope founded the company in 1996. Their first hire, office manager Kim Duvall, remains with the firm more than two decades later, reflecting a stable, family-owned culture that has retained its original leadership team.
 
-The firm operates as a distributor and service provider for electrical switchgear and circuit breaker components. Its inventory spans new, reconditioned, obsolete, and hard-to-find parts from brands such as Eaton, Square D, General Electric, Cutler-Hammer, Siemens, Schneider Electric, Westinghouse, ITE, Merlin Gerin, and Pringle. In addition to supplying bolted-pressure and high-pressure contact switches, motor-control parts, and mounting hardware, Quality Switchgear offers identification, testing, and repair services for circuit breakers, backed by 24/7 phone support.
+The company stocks and services electrical switchgear components, specializing in circuit breakers and bolted-pressure switches. Its capabilities include identifying, testing, and repairing breakers, as well as supplying new, reconditioned, and obsolete units from brands such as Eaton, Square D, General Electric, and Siemens. A staff of roughly 20 people manages an extensive inventory that spans molded-case, insulated-case, air, and medium-voltage breakers, plus motor-control parts and mounting hardware.
 
-Customers include industrial factories and plants where switchgear uptime is critical, as well as data-center operators such as Digital Realty. The company’s focus on rapid response—often delivering a replacement breaker within hours—supports facilities that cannot afford extended downtime.
+Customers range from industrial plants and factories to data-center operators; a testimonial from Digital Realty’s vice president highlights the firm’s ability to deliver replacement breakers within hours. The company positions itself as a round-the-clock resource for facilities that cannot afford downtime in critical power-distribution equipment.
 
-Quality Switchgear traces its origin to the founders’ desire to solve customers’ urgent electrical-parts problems. The original team’s continued involvement and round-the-clock availability are presented as the core reasons clients return.
+The founders emphasize that their longevity and hands-on expertise set them apart: the same three people who started the business still answer technical calls 24/7, offering problem-solving continuity that larger distributors may not provide.
 
 ## Known for
-- 24/7 phone support
-- Expert circuit breaker identification, testing, and repair
+- 24/7 phone support with live experts
+- Identification, testing, and repair of circuit breakers
 - Extensive inventory of new, reconditioned, and obsolete parts
-- Original founding team still active after 20+ years
+- Family-owned since 1996 with original team still in place
 
 ## Capabilities
 - Circuit breaker identification
 - Circuit breaker testing
 - Circuit breaker repair
-- Circuit breaker reconditioning
-- Obsolete parts sourcing
+- New circuit breaker supply
+- Reconditioned circuit breaker supply
+- Obsolete/hard-to-find parts sourcing
+- 24/7 phone support
+- Expert technical consultation
 - Bolted pressure switch supply
 - High pressure contact switch supply
 - Motor control parts distribution
 - Switchgear parts distribution
-- 24/7 technical support
+- Electrical switchgear parts distribution
 
 ## Industries
-- Industrial manufacturing
 - Data centers
+- Industrial manufacturing
 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 1996
 - **Employees:** 20
-- **Ownership:** Family-owned (founded by brothers John and Billy Cope)
+- **Ownership:** Family-owned
 - **Headquarters:** Valley View, Texas
 
 <details><summary>Sources</summary>
 
 - Founded in 1996 by brothers John and Billy Cope -> /about-us
-- First employee Kim Duvall -> /about-us
-- Current headcount 20 -> /about-us
+- First employee Kim Duvall, all three still with company -> /about-us
+- 20 employees -> /about-us
 - Headquarters Valley View, Texas -> db
-- Distributes circuit breakers and switchgear parts from brands like Eaton, Square D, GE -> /
-- Offers circuit breaker identification, testing, and repair -> /
+- Specializes in bolted pressure and high pressure contact switches -> /
+- Supplies new, reconditioned, obsolete, hard-to-find circuit breakers and parts -> /
+- Brands: Eaton, Square D, General Electric, Cutler Hammer, Siemens, Schneider Electric, Westinghouse, ITE, Merlin Gerin, Pringle -> /
+- Services: identify, test, repair circuit breakers -> /
 - 24/7 phone support -> /
-- Serves factories and plants -> /
-- Customer example: Digital Realty -> /
-- Company emphasizes customer satisfaction and 24/7 availability -> /
+- Customer testimonial from Bryan Marsh, VP at Digital Realty -> /
+- Contact persons: Scott Treadaway (Sales), John Cope (Owner), Kevin Cart (West Coast) -> /
 </details>
 
 ---
@@ -112,50 +120,46 @@ Quality Switchgear traces its origin to the founders’ desire to solve customer
 **Old description:** We solve complex power infrastructure challenges with leading expertise, innovation, and quality.
 
 ## About
-Qualus was founded in 1984 and is headquartered in Brooklyn Park, Minnesota. The company operates as a pure-play power infrastructure services firm with additional offices across the United States and Canada, including a headquarters and relay training lab in Lake Mary, Florida.
+Qualus, headquartered in Brooklyn Park, Minnesota, traces its roots to 1984. The company began as a power infrastructure specialist and has grown into a multi-location service provider with offices and shops across the United States and Canada, including a headquarters and relay training lab in Lake Mary, Florida.
 
-The firm delivers end-to-end power infrastructure solutions spanning advisory and planning, engineering, program management, energy efficiency, applied solutions, and specialized field services. Its digital capabilities include complex grid advisory, SCADA, systems integration, and implementation services. Qualus supports transmission line and substation design, distribution network resilience, underground distribution, DER/renewables/microgrid integration, mission-critical power, and power generation lifecycle support. The company maintains a multi-state footprint with offices and shops in over 20 locations, plus operations in British Columbia and Ontario.
+The firm delivers end-to-end power infrastructure solutions spanning grid modernization, power demand management, resiliency planning, digital transformation, and operational excellence. Its service portfolio includes advisory and planning, engineering, program management, energy efficiency, applied solutions, specialized field services, and digital systems such as SCADA and systems integration. Qualus also executes transmission line projects from concept to completion, designs and modernizes substations, engineers distribution and underground networks, and integrates distributed energy resources, renewables, and microgrids for commercial, industrial, and utility clients.
 
-Qualus serves utilities, generation and energy storage operators, commercial and industrial facilities, data centers, and government agencies. Named clients include the U.S. Department of Energy and Natural Resources Canada. The company also runs QualU, a training program for power industry professionals, and operates a relay training lab and apparatus training center.
+Qualus serves utilities, generation and energy storage operators, commercial and industrial facilities, data centers, and government agencies. Notable engagements include work with the U.S. Department of Energy and Natural Resources Canada, and the company runs power industry seminars and training programs through its QualU initiative.
 
-Qualus emphasizes a safety-first culture in which every employee holds stop-work authority, underpinned by human performance principles. Quality assurance and control are executed through independent design reviews, equipment inspections, audits, and a repository of standardized procedures. The firm publishes a sustainability report and positions its purpose-driven capabilities around the energy transition and grid resilience.
+The company distinguishes itself as a pure-play power provider with a culture built on human performance, safety, and quality assurance. It emphasizes independent design reviews, equipment inspections, and audits, and publishes a sustainability report outlining its commitment to responsible practices that support the energy transition.
 
 ## Known for
-- Employee stop-work authority for safety hazards
-- Independent design reviews and equipment inspections
-- QualU training program with relay and apparatus training centers
-- 24/7 emergency hotline for mission-critical support
-- Multi-location presence across the U.S. and Canada
+- Pure-play power infrastructure specialist
+- Boutique and integrated service delivery model
+- Outcome-driven solutions focused on grid resiliency
+- Independent design reviews, equipment inspections, and audits
+- Human performance culture with stop-work authority for safety
 
 ## Capabilities
-- Complex Grid Advisory
-- SCADA
-- Systems Integration
-- Implementation Services
-- Advisory and Planning
-- Engineering
-- Program Management
-- Energy Efficiency
-- Applied Solutions
-- Specialized Field Services
-- Transmission Line Design
-- Substation Design and Modernization
-- Distribution Network Design
-- Underground Distribution
-- DER/Renewables/Microgrid Integration
-- Mission-Critical Power Solutions
-- Power Generation Lifecycle Support
-- Digital Transformation
-- Grid Modernization
-- Resiliency Solutions
-- Operational Excellence
-- Quality Assurance/Quality Control
-- Independent Design Reviews
-- Equipment Inspections and Audits
-- Standardized Procedures and Work Instructions
-- Power Industry Training (QualU)
-- Relay Training
-- Apparatus Training
+- Grid modernization
+- Power demand management
+- Resiliency planning and implementation
+- Digital transformation consulting
+- Operational excellence programs
+- Advisory and planning services
+- Engineering design
+- Program management
+- Energy efficiency solutions
+- Applied solutions
+- Specialized field services
+- SCADA systems integration
+- Complex grid advisory
+- Implementation service provider
+- Transmission line engineering and construction
+- Substation design and modernization
+- Distribution network design
+- Underground power infrastructure
+- DER, renewables, and microgrid integration
+- Commercial and industrial power systems
+- Power generation lifecycle support
+- Mission-critical power (behind-the-meter)
+- Power industry training and seminars (QualU)
+- Quality assurance and control (independent design reviews, equipment inspections, audits)
 
 ## Industries
 - Utilities
@@ -171,51 +175,113 @@ Qualus emphasizes a safety-first culture in which every employee holds stop-work
 
 <details><summary>Sources</summary>
 
-- Founded 1984 -> db, /, /about-us, /services, /quality
-- Headquarters Brooklyn Park, MN -> db, /about-us
-- Lake Mary, FL headquarters & relay training lab -> /about-us
-- 20+ U.S. offices and Canadian locations -> /about-us
-- Services: advisory, engineering, program management, field services, SCADA, systems integration -> /, /services
+- Headquarters in Brooklyn Park, Minnesota -> db
+- Founded 1984 -> / (header), /about-us (header), /services (header), /quality (header)
+- Multiple US and Canada office/shop locations -> /about-us
+- Headquarters & Relay Training Lab in Lake Mary, FL -> /about-us
+- Services: Grid Modernization, Power Demand, Resiliency, Digital Transformation, Operational Excellence -> /, /services
+- Service portfolio: Advisory and Planning, Engineering, Program Management, Energy Efficiency, Applied Solutions, Specialized Field Services, Digital Solutions (SCADA, Systems Integration) -> /, /services
+- Transmission line, substation, distribution, underground, DER/renewables/microgrids, commercial/industrial -> /
 - Markets: Utilities, Generation & Energy Storage, Commercial & Industrial, Data Centers, Government -> /
-- Clients: U.S. Department of Energy, Natural Resources Canada -> /, db
-- Safety culture with stop-work authority -> /quality
-- Quality assurance: independent design reviews, inspections, audits -> /quality
-- Sustainability report 2026 -> /quality
-- Training programs: QualU, relay training lab, apparatus training center -> /, /about-us
-- 24/7 emergency hotline -> /, /about-us
+- Clients: U.S. Department of Energy, Natural Resources Canada -> / (products list), / (Key Facts)
+- Power Industry Seminars & Training Programs, QualU -> /, /about-us
+- Pure-play power company, safety/human performance culture, stop-work authority -> /quality
+- Independent design reviews, equipment inspections, audits -> /quality
+- 2026 Sustainability Report -> /quality
+- 24/7 Emergency Hotline -> /about-us
 </details>
 
 ---
 
 # Quantum Semiconductor LLC
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** Introducing a semiconductor technology platform that significantly expands the function and capability of silicon - revolutionizing what silicon can do with light.
+
+## About
+Quantum Semiconductor LLC is headquartered in Santa Clara, California. The company develops a semiconductor technology platform based on atomic-layer engineered Group-IV superlattices that extend silicon's ability to sense and emit light beyond the visible spectrum.
+
+Its core technology combines Group-IV superlattices (carbon, silicon, germanium, tin, lead) with novel device architectures to produce high-gain, low-noise photodiodes, CMOS image sensors, LiDAR photodetectors, and optical receivers monolithically integrated with CMOS. The platform also enables superlattice heterojunction bipolar transistors for 5G and 6G wireless, as well as quantum sensing, computing, and random-number generation devices. The company holds 27 U.S. patents and 25 foreign patents, with 14 peer-reviewed publications.
+
+The technology targets markets that rely on light sensing and imaging across ultraviolet, visible, and infrared wavelengths. Applications include CMOS image sensors for consumer and automotive cameras, silicon photonics receivers for data centers, LiDAR for autonomous vehicles and eye-safe ranging, high-frequency BiCMOS for next-generation wireless infrastructure, and quantum devices for secure communications. Quantum Semiconductor participates in the Southwest Advanced Prototyping (SWAP) Hub under the Department of Defense's Microelectronics Commons, indicating defense and aerospace engagement.
+
+The company states its differentiation lies in overcoming silicon's fundamental optical limitations without requiring heterogeneous integration, delivering noiseless gain in photodiodes and enabling new functionality at minimal added manufacturing cost.
+
+## Known for
+- Atomic-layer engineered Group-IV superlattices monolithically integrated with CMOS
+- High-gain photodiodes without noise amplification
+- Detection and emission from ultraviolet through short-wave infrared
+- Single-photon sensitivity for LiDAR at eye-safe wavelengths
+- CMOS-compatible process with minimal additional manufacturing cost
+
+## Capabilities
+- Group-IV Superlattices
+- Photo-Diodes
+- CMOS Image Sensors
+- LiDAR Photodetectors
+- Optical/Photonic Receivers
+- Superlattice HBTs for BiCMOS (5G/6G)
+- Quantum Sensing
+- Quantum Computing
+- Quantum Communication
+- Quantum Random Number Generation
+- Atomic-layer engineering
+- Epitaxial strain engineering
+- Monolithic integration with CMOS
+
+## Industries
+- CMOS Image Sensors
+- Optical/Photonic Receivers
+- LiDAR
+- 5G/6G Wireless Communications
+- Quantum Sensing/Computing/Communication
+- Cybersecurity
+- Defense
+
+## Company details
+- **Company Type:** Other
+- **Headquarters:** Santa Clara, California
+
+<details><summary>Sources</summary>
+
+- Headquarters: Santa Clara, California -> db
+- Technology: Group-IV superlattices, atomic-layer engineering -> /
+- Products: Photo-diodes, CMOS image sensors, LiDAR photodetectors, optical/photonic receivers -> /
+- Patents: 27 U.S., 25 foreign granted -> /
+- Publications: 14 -> /
+- Presentations: Semicon West 2024, IEEE Nanotechnology Council 2024 -> /
+- SWAP Hub membership under DoD Microelectronics Commons -> /
+- Materials: C, Si, Ge, Sn, Pb, SiGeC -> /
+- Differentiators: noiseless gain, monolithic CMOS integration, extended wavelength detection -> /
+</details>
+
+---
 
 # QuantumScape
 
 **Old description:** Solid-state lithium-metal batteries; Eagle Line pilot production facility
 
 ## About
-QuantumScape was founded in 2010 in San Jose, California. The company develops solid-state lithium-metal battery technology aimed at transforming energy storage. No founders or ownership structure are disclosed in the available sources.
+QuantumScape was founded in 2010 and is headquartered in San Jose, California. The company develops solid-state lithium-metal battery technology aimed at transforming energy storage for a lower-carbon future.
 
-The company designs and pilots production of solid-state battery cells using an anode-less architecture and a ceramic separator. Its Eagle Line pilot production facility in San Jose supports early manufacturing. No headcount, facility size, or volume figures are disclosed.
+QuantumScape designs and manufactures solid-state battery cells using an anode-less architecture that eliminates the graphite anode, relying instead on a nonflammable ceramic separator. Its Eagle Line pilot production facility in San Jose produces cells for automotive, data-center, aerospace, defense, and consumer-electronics applications. The product lineup includes the QSEV series for electric vehicles, the QSDC and QS PowerBlock systems for AI data centers, and the QSAS platform for aerospace and defense.
 
-QuantumScape targets automotive manufacturers for electric vehicles, operators of AI data centers requiring high-power energy storage, and aerospace, defense, and consumer electronics applications where energy density and safety are critical.
+The company serves electric-vehicle makers, AI data-center operators, aerospace and defense contractors, and consumer-electronics brands. Its technology targets the need for higher energy density, faster charging, and improved safety in each of those markets.
 
-The company emphasizes its anode-free lithium-metal design, nonflammable ceramic separator, and elimination of graphite anode material as key differentiators that improve energy density, charging speed, safety, and supply chain resilience.
+QuantumScape says its anode-free design reduces material costs and simplifies manufacturing, while the ceramic separator removes the fire risk associated with liquid electrolytes. Removing graphite also addresses supply-chain concerns tied to a single geographic source.
 
 ## Known for
-- Anode-less cell design for higher energy density
-- Nonflammable ceramic separator for enhanced safety
-- Elimination of graphite anode for secure supply chain
-- Fast-charging capability
-- Pilot production via Eagle Line facility
+- Anode-less cell design that eliminates graphite anode
+- Nonflammable, noncombustible ceramic separator
+- High energy density enabling longer range and runtime
+- Fast-charging capability for EVs and data centers
+- Secure supply chain by removing graphite dependency
 
 ## Capabilities
-- Solid-state lithium-metal battery development
-- Anode-less cell design
-- Pilot-scale battery manufacturing
-- Battery cell testing and validation
+- Solid-state lithium-metal battery cell manufacturing
+- Anode-less cell design and development
+- Ceramic separator production
+- Pilot-scale battery production (Eagle Line facility)
+- Battery technology R&D for automotive, data center, aerospace, defense, consumer electronics
 
 ## Industries
 - Automotive
@@ -231,15 +297,15 @@ The company emphasizes its anode-free lithium-metal design, nonflammable ceramic
 
 <details><summary>Sources</summary>
 
-- Founded 2010 -> db
-- Headquarters San Jose, California -> db
-- Solid-state lithium-metal battery technology -> /
-- Anode-less cell design -> /
-- Eagle Line pilot production facility -> /
-- Applications: automotive, AI data centers, aerospace, defense, consumer electronics -> /
-- Nonflammable ceramic separator -> /
-- Elimination of graphite anode -> /
-- LinkedIn URL -> db
+- Founded in 2010 -> db
+- Headquarters in San Jose, California -> db (hq_city, hq_state_label) and homepage address
+- Eagle Line pilot production facility -> db description
+- Anode-less cell design, ceramic separator, elimination of graphite anode -> homepage
+- Products: QSEV (automotive), QSDC and QS PowerBlock (AI data centers), QSAS (aerospace/defense/consumer) -> homepage
+- Industries served: automotive, AI data centers, aerospace, defense, consumer electronics -> homepage
+- Leadership: Pamela Fong, Chief of Human Resources Operations -> homepage
+- Social links: LinkedIn, X (Twitter), YouTube -> homepage
+- Mission: transform energy storage, higher energy density, faster charging, enhanced safety -> homepage
 </details>
 
 ---
@@ -249,41 +315,39 @@ The company emphasizes its anode-free lithium-metal design, nonflammable ceramic
 **Old description:** once a product is purchased, it cannot be returned to the seller for a refund or exchange;
 
 ## About
-Quick Custom Clothing is based in Glendale, Arizona. The company operates a website that allows customers to request quotes for custom-decorated apparel. No founding year, ownership details, or founder names are provided in the available sources.
+Quick Custom Clothing operates from Glendale, Arizona. The company's founding year and ownership structure are not publicly disclosed.
 
-The company’s core offering is custom T-shirts and hoodies sold in bulk quantities. Published pricing examples include 100 custom T-shirts for $1,100 and 50 custom hoodies for $950. The online quote form captures product selection, garment color, front and back ink colors, quantity, zip code, and optional logo uploads. Pricing guidance notes that higher quantities reduce per-unit cost, designs with one to two colors per side are most economical, white garments cost less than colored ones, and extended sizes (XXL and up) incur additional charges. Rush service is available: a one-week turnaround adds 15% to the order, while a three-day turnaround adds 30%.
+The shop produces custom-decorated apparel, offering screen-printed or embroidered T-shirts and hoodies in bulk quantities. Pricing examples listed on its site include 100 custom tees for $1,100 and 50 custom hoodies for $950. Rush production options of one week (15% surcharge) or three days (30% surcharge) are advertised.
 
-The business appears to serve any organization or individual needing custom branded clothing, though the source material does not specify particular industries or customer segments. The company promotes instant service via phone or text at (602) 500-8710 and email at quickcustomclothing@gmail.com.
+The service targets businesses, organizations, and individuals seeking branded garments; the quote form accepts logo uploads in JPG, PNG, PDF, AI, EPS, and SVG formats.
+
+The company emphasizes responsive communication, inviting customers to call or text for instant service.
 
 ## Known for
-- Volume discounts: higher quantities reduce cost per item
-- Simple color designs (1–2 colors per side) optimize pricing
-- White garments cost less than colored garments
-- Rush options: 1-week (+15%) or 3-day (+30%)
-- Instant service via call or text
+- Rush production: 1-week (+15%) or 3-day (+30%) turnaround
+- Bulk pricing tiers (e.g., 100 tees $1,100; 50 hoodies $950)
+- Call or text for instant service
+- Accepts multiple vector and raster logo formats
 
 ## Capabilities
-- Custom apparel quoting
-- Bulk order pricing
-- Rush production (1-week, 3-day)
-- Logo artwork acceptance (JPG, PNG, PDF, AI, EPS, SVG)
-- Call/text instant service
+- Custom apparel decoration
+- Bulk order fulfillment
+- Rush order processing
+- Logo file preparation
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Headquarters:** Glendale, Arizona
 
 <details><summary>Sources</summary>
 
 - Headquarters: Glendale, Arizona -> db
-- Phone: (602) 500-8710 -> /
-- Email: quickcustomclothing@gmail.com -> /
-- Bulk pricing: 100 custom tees $1,100 -> /
-- Bulk pricing: 50 custom hoodies $950 -> /
-- Rush options: 1-week (+15%) or 3-day (+30%) -> /
-- Pricing tips: quantity discounts, color limits, white garment pricing, extended size charges -> /
-- Quote form fields: product, colors, quantity, zip, logo upload -> /
-- Capability: call or text for instant service -> db
+- Phone: (602) 500-8710 -> page /
+- Email: quickcustomclothing@gmail.com -> page /
+- Bulk pricing: 100 custom tees $1,100; 50 custom hoodies $950 -> page /
+- Rush options: 1-week (+15%) or 3-day (+30%) -> page /
+- Accepted logo formats: JPG, PNG, PDF, AI, EPS, SVG -> page /
+- Call or text for instant service -> page /, db
 </details>
 
 ---
@@ -293,32 +357,32 @@ The business appears to serve any organization or individual needing custom bran
 **Old description:** R&R Textile Mills Inc. is a leading manufacturer and supplier of textile productions and solutions.
 
 ## About
-Based in Lombard, Illinois, R&R Textile Mills Inc. has been supplying textile products across the continental United States for nearly three decades. The company operates as a manufacturer and distributor, with its central distribution hub in Lombard and additional facilities in Vernon, California, and Wilmington, Delaware.
+R&R Textile Mills Inc. operates from its headquarters in Lombard, Illinois, serving the continental United States. The company has been supplying textile products for nearly three decades, though an exact founding year is not disclosed. It began as a manufacturer and distributor focused on textile solutions for multiple industries.
 
-R&R Textile Mills runs vertically integrated manufacturing operations through five facilities in India and Bangladesh, each specializing in a distinct product niche. The company produces cotton-based, microfiber, and synthetic woven textiles across categories that include kitchen, bath, bedding, craft, cleaning, and food-service items such as grill cloths, bar mops, aprons, hot pads, oven mitts, dish towels, and napery. It also offers private-label programs and internal brands, supported by product development and R&D capabilities.
+The company maintains vertically integrated manufacturing across five facilities, with core production in Tamil Nadu, India, and Dhaka, Bangladesh, supplemented by sourcing from China and Pakistan. Its U.S. distribution network includes centers in Lombard, Illinois; Vernon, California; and Wilmington, Delaware. R&R produces cotton-based, microfiber, and synthetic woven textiles spanning kitchen, bath, bedding, craft, and cleaning categories. Food‑service lines include grill cloths, bar mops, aprons, hot pads, oven mitts, dish towels, and napery, while industrial products reach distributors and retailers nationwide. A U.S. fulfillment and processing center provides six service offerings, supported by a technology platform that connects the product life cycle.
 
-The company serves five primary industries: consumer home, hospitality, healthcare, food service, and industrial supply. Its customer base spans retail chains, hospitality distributors, healthcare distributors, restaurant suppliers, and food-service distributors throughout the United States.
+R&R serves five primary industries: consumer home, hospitality, healthcare, food service, and industrial supply. Its customer base ranges from healthcare and hospitality distributors to retail chains and restaurant suppliers, with products sold through both internal brands and private‑label programs.
 
-R&R Textile Mills emphasizes a customer-centric approach, focusing on big-picture needs rather than volume alone. Its technology infrastructure provides flexibility across product lines, and the vertically integrated model is designed to ensure production quality and social accountability.
+The company emphasizes a big‑picture approach over volume‑driven sales, stating that every problem has a unique solution. Its vertically integrated facilities prioritize production quality and social accountability, and its technology infrastructure aims to give customers flexibility across all product lines.
 
 ## Known for
-- Vertically integrated manufacturing with five facilities each specializing in a product niche
-- Technology infrastructure enabling flexibility across five product lines
-- Customer-centric approach prioritizing unique solutions over volume
-- Private label and internal brand programs
-- Multi-location distribution network (Lombard, IL; Vernon, CA; Wilmington, DE)
+- Vertically integrated manufacturing with five facilities, each with a dedicated product niche
+- U.S. fulfillment and processing center offering six distinct services
+- Technology infrastructure providing flexibility across all product lines
+- Focus on customer-specific solutions rather than volume-driven sales
+- Commitment to social accountability in manufacturing operations
 
 ## Capabilities
-- Textile manufacturing
-- Cotton-based product manufacturing
-- Microfiber product manufacturing
-- Synthetic woven product manufacturing
+- Cotton-based textile manufacturing
+- Microfiber and synthetic woven production
 - Private label manufacturing
 - Product development and R&D
-- Distribution and fulfillment
-- Vertical integration
-- Social accountability compliance
-- Technology-driven supply chain management
+- U.S. fulfillment and processing
+- Distribution and logistics
+- Vertically integrated manufacturing
+- Food service textile production (grill cloths, bar mops, aprons, hot pads, oven mitts, dish towels, napery)
+- Industrial textile production
+- Home textile production (kitchen, bath, bedding, craft, cleaning)
 
 ## Industries
 - Consumer Home
@@ -335,17 +399,18 @@ R&R Textile Mills emphasizes a customer-centric approach, focusing on big-pictur
 <details><summary>Sources</summary>
 
 - Headquarters in Lombard, IL -> /about
-- Manufacturing facilities in India (Tamil Nadu) and Bangladesh (Dhaka) -> /about
-- Distribution facilities in Lombard, IL; Vernon, CA; Wilmington, DE -> /about
-- Five industries served: Consumer Home, Hospitality, Healthcare, Food Service, Industrial Supply -> /
-- Products: kitchen, bath, bedding, craft, cleaning textiles -> /
-- Materials: cotton, microfiber, synthetic woven -> /
-- Vertically integrated manufacturing with five facilities -> /
+- Almost 25-30 years in business -> / and /about
+- Vertically integrated manufacturing with 5 facilities -> /
+- Manufacturing facilities in India (Tamil Nadu) and Bangladesh (Dhaka), sourcing from China and Pakistan -> /about
+- Distribution centers in Lombard, IL; Vernon, CA; Wilmington, DE -> /about
+- Products: cotton-based, microfiber, synthetic woven textiles across kitchen, bath, bedding, craft, cleaning categories -> / and /about
+- Food service products: grill cloths, bar mops, aprons, hot pads, oven mitts, dish towels, napery -> /
+- Industries served: Consumer Home, Hospitality, Healthcare, Food Service, Industrial Supply -> /
+- Customers: healthcare/hospitality distributors, retail chains, restaurant suppliers -> /about
+- U.S. fulfillment and processing center with 6 services -> /
 - Technology infrastructure for flexibility -> /
-- Private label and internal brands -> /
-- Focus on big-picture customer needs -> /
-- Nearly 30 years of operation -> /
-- Nearly 25 years of operation -> /about
+- Focus on big-picture needs and unique solutions -> /
+- Social accountability in manufacturing -> /
 </details>
 
 ---
@@ -355,55 +420,54 @@ R&R Textile Mills emphasizes a customer-centric approach, focusing on big-pictur
 **Old description:** JST Connectors and Terminals we use in contract manufacturing
 
 ## About
-RAM Electronic Industries, Inc. operates from a 20,000-square-foot facility in Cinnaminson, New Jersey. The company has over 35 years of experience in contract manufacturing, though a specific founding year is not publicly disclosed. Ownership details and founder names are not provided in available sources.
+RAM Electronics Industries Inc operates from a 20,000-square-foot facility in Cinnaminson, New Jersey. The company has over 35 years of industry experience as a contract manufacturer, though a specific founding year and founder names are not disclosed. Ownership details are not publicly stated.
 
-The company specializes in the contract manufacture of electronic wire harnesses, cable assemblies, and electro-mechanical sub-assemblies. Its processes include automated cut/strip/terminate, crimping (including IDC and ribbon cable termination), soldering, wire and cable preparation, labeling, splicing, cable folding, flat cable splitting, and electronic testing. The facility houses equipment from Komax, Schleuniger, and TE AMP, and the company reports processing millions of feet of wire annually, handling volumes from single-piece prototypes to large-scale production runs.
+The firm specializes in electronic wire harnesses, cable assemblies, and electro-mechanical sub-assemblies for OEM customers. Its capabilities span automated cut/strip/terminate, crimping, soldering, IDC/ribbon cable termination, overmolding, labeling, and testing. The shop runs Komax and Schleuniger wire processing machines, TE/AMP terminators, and 3D printing for tooling, processing millions of feet of wire annually from prototype through large-scale production.
 
-RAM serves OEM customers in medical equipment and devices, telecommunications, amusement, audio and video, electronic data processing, gaming, and renewable energy industries. The company also works with major connector brands such as TE/AMP, Molex, JST, Hirose, and others.
+RAM serves medical equipment, telecommunications, amusement, audio/video, electronic data processing, gaming, and renewable energy sectors. Customers range from prototype runs to medium and high-volume orders, with the company emphasizing no job too large or small.
 
-The company emphasizes its ISO 9001:2015 certification, IPC WHMA-620 standard compliance, and ITAR registration as key differentiators. In-house engineering supports customer drawings, bills of material, and production layouts to reduce time from prototype to market. RAM also highlights its extensive automated tooling, guaranteed conformance to manufacturer specifications, reduced rejection rates through trained personnel, and fully documented quality assurance.
+The company highlights its ISO 9001:2015 certification, ITAR registration, and IPC WHMA-620 compliance as quality differentiators. In-house engineering supports design-to-production transitions, and a broad inventory of connector tooling from brands such as TE, Molex, JST, and Hirose enables fast, cost-effective turnaround.
 
 ## Known for
-- ISO 9001:2015 certified with IPC WHMA-620 compliance
-- ITAR registered for defense-related work
-- In-house engineering for drawings, BOM, and production layout
-- 20,000 sq ft facility with advanced automation from Komax, Schleuniger, and TE AMP
-- Processes millions of feet of wire annually with fast turnaround
+- ISO 9001:2015 certified and ITAR registered
+- IPC WHMA-620 standard compliance
+- In-house engineering for design-to-production
+- 20,000 sq ft facility with advanced automation (Komax, Schleuniger, TE/AMP)
+- Millions of feet of wire processed annually
 
 ## Capabilities
-- Contract manufacturing of wire harnesses and cable assemblies
 - Automated cut/strip/terminate
 - Wire cutting and stripping
-- Crimping (including IDC/ribbon cable termination)
+- Crimping with crimp quality monitoring
 - Soldering
-- Electro-mechanical sub-assembly manufacturing
-- Wire and cable preparation
-- Labeling and marking
+- Electro-mechanical panel/sub-assembly
+- IDC/ribbon cable termination
+- Overmolding (low pressure pneumatic adhesives)
+- Wire labeling and marking (hot stamping)
 - Splicing
-- Cable folding
-- Flat cable splitting
-- Fabrication
-- Electronic testing and verification
+- Cable folding and flat cable splitting
 - First article inspection and prototyping
-- Sample to drawing
-- Box build cable assemblies and wire harnesses
-- 3D printing
-- Hot stamping
-- Crimp quality monitoring
-- High temperature pneumatic adhesives for low pressure over molding
+- Sample-to-drawing production
+- Electronic testing and verification
+- Wire and cable prep (retain, terminate)
+- Coaxial cable assembly
+- Molded cable assembly
+- Box build cable assemblies
+- 3D printing for tooling
 - Pneumatic arbor press assembly
 - Manual arbor press assembly
 - Auto bagging with hot stamping
-- Connector termination (TE/AMP, Molex, JST, Hirose, etc.)
+- High-temperature pneumatic adhesive application
 
 ## Industries
-- Medical Equipment and Devices
+- Medical equipment and devices
 - Telecommunications
 - Amusement
-- Audio and Video
-- Electronic Data Processing
+- Audio and video
+- Electronic data processing
 - Gaming
-- Renewable Energy
+- Renewable energy
+- OEM electronics
 
 ## Equipment
 - Komax Gamma 263
@@ -417,43 +481,36 @@ The company emphasizes its ISO 9001:2015 certification, IPC WHMA-620 standard co
 - TE AMP G Press Terminator Machines
 - TE AMP 3K 40 Crimp Terminator Machines
 - TE AMP Stripper Crimper Machine
-- 3D Printing
 - Applicators
 - Hand Tools
-- Pneumatic Arbor Presses
-- Manual Arbor Presses
+- 3D Printing
+- Pneumatic Arbor presses
+- Manual arbor presses
 - Auto Baggers Self-sealing bagger with hot stamping
-- High Temp. Pneumatic adhesives for low pressure over molding
 
 ## Certifications
 - ISO 9001:2015
-- ITAR registered
-- IPC WHMA-620 Standard
+- ITAR
+- RoHS
+- IPC WHMA-620
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
-- **Headquarters:** Cinnaminson, NJ
+- **Headquarters:** Cinnaminson, New Jersey
 
 <details><summary>Sources</summary>
 
-- Headquarters: Cinnaminson, NJ -> db
+- Location: Cinnaminson, NJ -> db
 - Facility size: 20,000 sq ft -> /
-- Certifications: ISO 9001:2015, ITAR, UL Listed, RoHS -> db, /
-- Capabilities: contract manufacturing of wire harnesses, cable assemblies, electro-mechanical sub-assemblies -> /, /services
-- Processes: automated cut/strip/terminate, crimping, soldering, wire prep, labeling, splicing, testing -> /services
-- Equipment: Komax Gamma 263, Gamma 255, 206, Kappa 340 RIU, Komax 36; Schleuniger JS8300, 9380, UniStrip 2015; TE AMP G Press, 3K 40, Stripper Crimper -> /capabilities
-- Industries served: Medical Equipment and Devices, Telecommunications, Amusement, Audio and Video, Electronic Data Processing, Gaming, Renewable Energy -> /services
-- Volume: millions of feet of wire annually; prototype to large-scale production -> /services
-- Differentiators: ISO 9001:2015, IPC WHMA-620, ITAR, in-house engineering, extensive automated tooling -> /
-- Company type: contract manufacturer -> /
-- Ownership tags: none stated -> /
-- Founding year: not explicitly stated -> /
-- Employee count: not stated -> /
-- CAGE code: not stated -> /
-- Minimum order: not stated -> /
-- Export compliance: ITAR registered -> /
-- Languages: not stated -> /
-- Social links: not found -> /
+- Experience: 35+ years -> /
+- Core business: contract manufacturer of wire harnesses/cable assemblies -> /
+- Processes: automated cut/strip/terminate, crimping, soldering, IDC, overmolding, labeling, testing -> /services
+- Equipment: Komax, Schleuniger, TE/AMP machines listed -> /capabilities
+- Annual wire volume: millions of feet -> /services
+- Industries served: medical, telecom, amusement, audio/video, data processing, gaming, renewable energy -> /services
+- Certifications: ISO 9001:2015, ITAR, UL Listed, RoHS, IPC WHMA-620 -> /, /capabilities
+- Differentiators: in-house engineering, connector tooling breadth, quality standards -> /
+- Prototype to large-scale production -> /services
 </details>
 
 ---
@@ -463,32 +520,32 @@ The company emphasizes its ISO 9001:2015 certification, IPC WHMA-620 standard co
 **Old description:** caused by their complex printed circuit board assemblies (PCBA) and control panel projects.
 
 ## About
-Founded in 1973 in Wooster, Ohio, RBB has operated as an American-owned electronics contract manufacturer for over five decades. The company specializes in printed circuit board assembly and custom industrial control panels, serving original equipment manufacturers across regulated and industrial sectors.
+RBB operates from Wooster, Ohio, where it has been manufacturing electronic assemblies since 1973. The company began as a specialist in printed circuit board assembly and custom industrial control panels, serving manufacturers who needed reliable, high-mix production.
 
-RBB provides turnkey and labor-only PCB assembly, wire and cable assembly, and control panel fabrication, supported by engineering services for new product introduction and legacy product sustainment. The shop handles recurring high-mix assemblies in small, medium, and large quantities, with processes tailored for complex, regulated builds.
+Today RBB provides turnkey and labor-only PCB assembly, control panel assembly, wire and cable assembly, and new product introduction support. Its services span engineering review, component procurement, assembly, testing, and product lifecycle extension for legacy designs. The shop emphasizes recurring high-mix orders and maintains a customized process for each program.
 
-Its customer base spans aerospace and defense, medical devices and imaging, safety systems, power generation and backup for data centers, nuclear, alternative energy, automotive, instrumentation, process manufacturing control, and heavy equipment. OEMs in these sectors rely on RBB for recurring production runs and product lifecycle extension.
+Customers come from aerospace and defense, medical device and imaging, safety systems, power generation and backup for data centers, nuclear, alternative energy, automotive, instrumentation, process manufacturing control, and heavy equipment. The company cites its ability to handle complex, regulated builds across these sectors as a core strength.
 
-The company emphasizes a customized approach for recurring jobs, citing proprietary processes and a deep knowledge base that differentiate it from traditional board houses. Certifications include ISO 9001:2015, AS9100:2016, ITAR registration, and RoHS-compliant processes, supporting traceability and quality requirements in high-reliability applications.
+RBB says it was founded to eliminate the headaches that manufacturers face with complex PCBA and control panel projects. It differentiates itself through over 50 years of process knowledge, a dedicated team that delivers recurring jobs on time, and certifications that meet aerospace, defense, and high-reliability requirements.
 
 ## Known for
-- Customized processes for recurring high-mix electronic assemblies
-- Legacy product lifecycle extension and sustainment engineering
-- Turnkey and labor-only assembly models with in-house engineering support
-- AS9100:2016 and ISO 9001:2015 certified with ITAR registration
-- Focus on complex PCB and control panel projects for regulated industries
+- Over 50 years of PCB assembly and control panel expertise
+- Certified to ISO 9001:2015 and AS9100:2016
+- ITAR registered and RoHS compliant
+- Specializes in recurring high-mix assemblies
+- Offers product lifecycle extension for legacy products
 
 ## Capabilities
-- Turnkey PCB assembly
-- Labor-only PCB assembly
-- Custom industrial control panel assembly
-- Wire and cable assembly
-- New product introduction (NPI) support
-- Legacy product support and lifecycle extension
-- Recurring high-mix electronic assembly
-- Engineering and design for manufacturability support
-- Box build and system integration
-- Functional testing and inspection
+- PCB Assembly
+- Control Panel Assembly
+- Wire & Cable Assembly
+- Turnkey Assembly
+- Labor-Only Assembly
+- Engineering Support
+- New Product Introduction (NPI)
+- Legacy Product Support
+- Product Lifecycle Extension
+- Custom Industrial Control Panels
 
 ## Industries
 - Aerospace & Defense
@@ -517,12 +574,13 @@ The company emphasizes a customized approach for recurring jobs, citing propriet
 
 <details><summary>Sources</summary>
 
-- Founded 1973, Wooster OH -> /
-- Certifications: ISO 9001:2015, AS9100:2016, ITAR, RoHS -> /
-- Capabilities: turnkey/labor-only PCB assembly, control panels, wire/cable, NPI, legacy support -> /
-- Industries served: aerospace, defense, medical, nuclear, energy, automotive, etc. -> /
-- Differentiators: custom processes for recurring high-mix, legacy sustainment -> /
-- Company type: contract manufacturer for PCBA and control panels -> /
+- Founded 1973 -> /
+- Headquarters Wooster, Ohio -> /
+- Certifications ISO 9001:2015, AS9100:2016, ITAR, RoHS -> /
+- Services: PCB assembly, control panel assembly, turnkey, labor-only, wire & cable, NPI, legacy support -> /
+- Industries served: aerospace & defense, medical device, medical imaging, safety systems, power control & backup, power generation, nuclear, alternative energy, automotive, instrumentation & measurement, process manufacturing control, heavy equipment -> /
+- Differentiators: recurring high-mix expertise, product lifecycle extension, 50+ years experience -> /
+- Company type: contract manufacturer for electronic assemblies -> /
 </details>
 
 ---
@@ -532,19 +590,19 @@ The company emphasizes a customized approach for recurring jobs, citing propriet
 **Old description:** LED lighting design/manufacturing; 100,000 sq ft HQ/plant opened 2022
 
 ## About
-RBW, legally RBW Studio LLC, was founded in 2007 and is headquartered in Kingston, New York. The independent, B Corporation–certified company operates a 100,000‑square‑foot manufacturing and innovation facility that opened in 2022, consolidating design, engineering, and production under one roof.
+RBW, an independent design and manufacturing company, was founded in 2007 as RBW Studio LLC and is headquartered in Kingston, New York. The company operates as a certified B Corporation, reflecting a commitment to social and environmental accountability alongside its lighting business.
 
-The company designs and manufactures a range of LED luminaires — sconces, pendants, flush mounts, and linear systems — for architectural and interior applications. In‑house capabilities include powder coating with a designer‑led color program, photometric testing, and the creation of specification‑ready files (DWG, Revit, SketchUp, IES). RBW also serves as the exclusive U.S. supplier for the Spanish brand Arkoslight, expanding its catalog with award‑winning European designs.
+RBW designs and manufactures LED luminaires — including sconces, pendants, flush mounts, and canopy fixtures — from a 100,000-square-foot facility that opened in Kingston in 2022. The plant houses design, engineering, and production under one roof, and the company offers a factory powder-coating service with color selection and shipping starting at 15 business days. Product data such as DWG, Revit, SketchUp, and photometric files are provided for each fixture.
 
-RBW’s primary customers are architects, lighting designers, and specifiers working on commercial office, hospitality, restaurant, and residential projects. Installations include the Noma restaurant in Copenhagen and Fortune 500 corporate offices across the United States. A national‑accounts program supports multi‑location rollouts for design firms and end users.
+The brand serves architects, interior designers, and national account clients across commercial office, hospitality, restaurant, residential, and workplace projects. Notable installations include the Noma restaurant in Copenhagen and offices of Fortune 500 companies throughout the United States. A dedicated national accounts program supports designers scaling atmosphere across multiple locations.
 
-The company emphasizes ‘Different By Design,’ framing quality around how a product is made, shipped, and lasts rather than raw performance metrics. Its B Corp status reflects commitments to carbon‑reduction targets and community investment, while a dedicated product‑specialist team offers consultation on finishes, dimming, and lead times — powder‑coated finishes ship in as few as 15 business days.
+RBW’s “Different By Design” philosophy emphasizes that a product’s strength lies in how it is made, how it ships, and how it lasts. The company highlights quick, reliable delivery and keeps product specialists on call to assist with finish options and dimming science. Its founding goal was to change the game of lighting design while making a positive impact on the planet and community.
 
 ## Known for
 - Exclusive U.S. supplier of Arkoslight architectural lighting
-- B Corporation certified for social and environmental accountability
-- 100,000 sq ft manufacturing headquarters in Kingston, NY
-- Designer-led powder coating with 15‑business‑day shipping
+- 100,000 sq ft integrated design and manufacturing campus in Kingston, NY
+- Certified B Corporation meeting rigorous social and environmental standards
+- Factory powder-coating program with 15-business-day lead time
 - Product specialists available for finish and dimming consultation
 
 ## Capabilities
@@ -552,19 +610,19 @@ The company emphasizes ‘Different By Design,’ framing quality around how a p
 - LED luminaire manufacturing
 - Powder coating
 - Photometric testing
-- Lighting specification support (DWG, Revit, SketchUp, IES)
+- 3D modeling file generation (DWG, Revit, SketchUp)
 - Custom finish selection
-- Architectural lighting distribution (Arkoslight)
-- National accounts program
-- Showroom consultation
+- Architectural lighting specification support
+- National account management
+- Installation support documentation
 
 ## Industries
-- Architectural lighting design
+- Architectural lighting
 - Commercial office
 - Hospitality
 - Restaurant
 - Residential
-- Corporate facilities
+- Workplace
 
 ## Certifications
 - B Corporation
@@ -577,21 +635,18 @@ The company emphasizes ‘Different By Design,’ framing quality around how a p
 
 <details><summary>Sources</summary>
 
-- Founded 2007 -> /about-us
-- Headquarters Kingston, NY -> /about-us
+- Founded in 2007 -> /about-us
+- Headquartered in Kingston, New York -> /about-us
 - 100,000 sq ft facility opened 2022 -> /about-us
-- B Corporation certified -> /about-us
-- Exclusive US supplier of Arkoslight -> /
-- Designer-led powder coating with 15-day shipping -> /
+- B Corporation certification -> /about-us
 - UL Listed certification -> db
-- Manufacturer of LED luminaires -> /about-us
-- Serves architects, designers, commercial, hospitality, residential -> /about-us
-- National accounts program -> /
-- Showroom in Tribeca, NYC -> /about-us
-- Installations at Noma Copenhagen and Fortune 500 offices -> /about-us
-- Different By Design philosophy -> /
-- Carbon reduction and community investment commitments -> /about-us
-- Product specialists for finishes and dimming -> /about-us
+- Exclusive US supplier of Arkoslight -> /
+- RBW Factory Powder Coating with 15 business day shipping -> /
+- Product specialists on call for finish options and dimming science -> /about-us
+- Installations at Noma restaurant Copenhagen and Fortune 500 offices -> /about-us
+- National Accounts program for designers -> /
+- Tribeca showroom at 85 Franklin -> /about-us
+- Independent design and manufacturing company -> /about-us
 </details>
 
 ---

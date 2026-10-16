@@ -1,715 +1,694 @@
 fetched p0600-raw.json 9 / 10
-RETRY oxos-medical-inc HTTP Error 503: Service Unavailable
 RETRY ovr-technology HTTP Error 503: Service Unavailable
-RETRY oceanhead-solar-electric HTTP Error 503: Service Unavailable
+RETRY oakwood-industries-llc HTTP Error 503: Service Unavailable
 fetched p0601-raw.json 10 / 10
-RETRY oh-ghee-inc HTTP Error 503: Service Unavailable
-RETRY ohio-metal-shaping HTTP Error 503: Service Unavailable
+RETRY ohio-semitronics-inc HTTP Error 503: Service Unavailable
 fetched p0602-raw.json 10 / 10
-RETRY ohlhauser-custom-woodworx HTTP Error 503: Service Unavailable
-RETRY old-dominion-furniture-co HTTP Error 503: Service Unavailable
-RETRY olan-plastics-inc HTTP Error 503: Service Unavailable
-RETRY olmsted-automotive-llc HTTP Error 503: Service Unavailable
-RETRY omnimed-inc HTTP Error 503: Service Unavailable
-RETRY olson-solar-energy HTTP Error 503: Service Unavailable
-RETRY orange-packaging HTTP Error 503: Service Unavailable
-RETRY orbitel-communications HTTP Error 503: Service Unavailable
-RETRY oregon-auto-spring-services-inc HTTP Error 503: Service Unavailable
-RETRY oregon-chai HTTP Error 503: Service Unavailable
-RETRY optimum-energy-group HTTP Error 503: Service Unavailable
-RETRY oceanhead-solar-electric HTTP Error 503: Service Unavailable
-fetched p0603-raw.json 10 / 10
-skip Ohio Valley Precision 
-RETRY ohio-metal-shaping HTTP Error 503: Service Unavailable
-fetched p0604-raw.json 10 / 10
-fetched p0605-raw.json 10 / 10
-ok   Oakwood Industries LLC 
-fetched p0606-raw.json 10 / 10
-RETRY osgood-textile-company HTTP Error 503: Service Unavailable
-RETRY ort-furniture-manufacturing-co HTTP Error 503: Service Unavailable
-RETRY otco-inc HTTP Error 503: Service Unavailable
-RETRY otter-tail-power-company HTTP Error 503: Service Unavailable
-ok   Okaw Valley Woodworking 
-fetched p0607-raw.json 10 / 10
-ok   Obex Packaging 
-ok   Ohio Semitronics, Inc. 
-ok   Ohio Woodworking Co 
-RETRY ox-metalworx HTTP Error 503: Service Unavailable
-RETRY p-s-food-company-llc HTTP Error 503: Service Unavailable
-ok   Oceanside Welding & Fabrication 
-RETRY p1-technologies HTTP Error 503: Service Unavailable
-fetched p0608-raw.json 10 / 10
-RETRY pc-industries HTTP Error 503: Service Unavailable
-ok   OXOS Medical, Inc 
-RETRY pdci-automotive HTTP Error 503: Service Unavailable
-ok   Oklahoma Plastic 
-ok   Ohana Fiber Mill 
-fetched p0609-raw.json 9 / 10
-ok   Ohio Shirt Company 
-RETRY populas-furniture HTTP Error 503: Service Unavailable
-RETRY pmj-technology HTTP Error 503: Service Unavailable
-RETRY ppsi HTTP Error 503: Service Unavailable
-fetched p0610-raw.json 10 / 10
-RETRY ppe-pacific-performance-engineering HTTP Error 503: Service Unavailable
-RETRY orange-packaging HTTP Error 503: Service Unavailable
-RETRY orbitel-communications HTTP Error 503: Service Unavailable
-ok   OVR Technology 
-ok   Oh Ghee Inc 
-ok   Orman's Furniture 
-RETRY optimum-energy-group HTTP Error 503: Service Unavailable
-fetched p0611-raw.json 10 / 10
-ok   Onsite Wire & Cable + Telinks 
-RETRY premium-apparel-shops HTTP Error 503: Service Unavailable
-RETRY pt-medical-technologies-inc HTTP Error 503: Service Unavailable
-ok   Our World Energy, LLC 
-RETRY oceanhead-solar-electric HTTP Error 503: Service Unavailable
-RETRY pv-tech HTTP Error 503: Service Unavailable
-fetched p0612-raw.json 9 / 10
-RETRY pvd-design-company HTTP Error 503: Service Unavailable
-RETRY paarlo-plastics-inc HTTP Error 503: Service Unavailable
-RETRY pace-inc HTTP Error 503: Service Unavailable
-ok   Orbis Electric 
-RETRY pacific-allied-products-ltd HTTP Error 503: Service Unavailable
-RETRY ohio-metal-shaping HTTP Error 503: Service Unavailable
-fetched p0613-raw.json 10 / 10
-RETRY pacific-industrial-equipment HTTP Error 503: Service Unavailable
-RETRY pacific-island-medical-inc HTTP Error 503: Service Unavailable
-ok   Old Dominion Furniture Co. 
-ok   Ohlhauser Custom Woodworx 
-ok   Off The Line Performance 
-RETRY pajaro-valley-fabrication-inc HTTP Error 503: Service Unavailable
-fetched p0614-raw.json 10 / 10
-ok   OnPoint Customs 
-RETRY pallas-textiles HTTP Error 503: Service Unavailable
-ok   Oregon Chai 
-ok   Original Maine Factory Store 
-fetched p0615-raw.json 10 / 10
-ok   Origin Food Group LLC 
-RETRY palmetto-sheet-metal HTTP Error 503: Service Unavailable
-ok   PGT Energy Solutions 
-ok   PC PLUG HAWAII 
-ok   PFC Furniture Industries, Inc. (Wholesale Distributor) 
-ok   Olan Plastics, Inc. 
-RETRY osgood-textile-company HTTP Error 503: Service Unavailable
-ok   PHT Systems 
-RETRY ort-furniture-manufacturing-co HTTP Error 503: Service Unavailable
-RETRY otco-inc HTTP Error 503: Service Unavailable
-ok   P A Electronics Corporation 
-ok   Outcast Autoworks LLC. 
-RETRY otter-tail-power-company HTTP Error 503: Service Unavailable
-ok   PB Group, LLC 
-RETRY palmetto-shirt-company HTTP Error 503: Service Unavailable
-ok   Omnimed Inc 
-ok   PFI 
-ok   Olmsted Automotive LLC 
-PAGE DONE p0601-profiles.json
-ok   Oxytech 
-RETRY p-s-food-company-llc HTTP Error 503: Service Unavailable
-RETRY p1-technologies HTTP Error 503: Service Unavailable
-ok   Olson Solar Energy 
-RETRY panic-plastics-inc HTTP Error 503: Service Unavailable
-RETRY pdci-automotive HTTP Error 503: Service Unavailable
-RETRY populas-furniture HTTP Error 503: Service Unavailable
-RETRY pmj-technology HTTP Error 503: Service Unavailable
-RETRY ppsi HTTP Error 503: Service Unavailable
-ok   Pacific Medical Prosthetics & Orthotics 
-ok   Outdoor Interiors 
-RETRY paragon-performance HTTP Error 503: Service Unavailable
-RETRY orange-packaging HTTP Error 503: Service Unavailable
-ok   PFI Inc. - PCBA Electronic Assembly Equipment 
-RETRY paramont-eo HTTP Error 503: Service Unavailable
-ok   PMC SMART Solutions 
-RETRY parts-inc HTTP Error 503: Service Unavailable
-RETRY parts-score HTTP Error 503: Service Unavailable
-ok   Pacific Gulf Wire Rope 
-ok   PDQ South 
-RETRY partsmax-auto-parts-and-accessories HTTP Error 503: Service Unavailable
-RETRY pt-medical-technologies-inc HTTP Error 503: Service Unavailable
-ok   Pacifica Foods Company 
-RETRY optimum-energy-group HTTP Error 503: Service Unavailable
-ok   Oregon Auto Spring Services Inc 
-RETRY patton-electronics-co HTTP Error 503: Service Unavailable
-skip Pacific Manufacturing Ohio Inc 
-fetched p0616-raw.json 10 / 10
-RETRY pvd-design-company HTTP Error 503: Service Unavailable
-RETRY patton-s-medical HTTP Error 503: Service Unavailable
-RETRY oceanhead-solar-electric HTTP Error 503: Service Unavailable
-RETRY paarlo-plastics-inc HTTP Error 503: Service Unavailable
-RETRY patzer-woodworking-inc HTTP Error 503: Service Unavailable
-RETRY pace-inc HTTP Error 503: Service Unavailable
-fetched p0617-raw.json 10 / 10
-RETRY paul-downs-cabinetmakers HTTP Error 503: Service Unavailable
-RETRY payoff-solar HTTP Error 503: Service Unavailable
-fetched p0618-raw.json 10 / 10
-RETRY pacific-industrial-equipment HTTP Error 503: Service Unavailable
-skip PPE - Pacific Performance Engineering 
-ok   PREMIUM APPAREL SHOPS 
-RETRY pacific-island-medical-inc HTTP Error 503: Service Unavailable
-fetched p0619-raw.json 10 / 10
-RETRY peerless-electronic-supplies HTTP Error 503: Service Unavailable
-RETRY pelican-wire HTTP Error 503: Service Unavailable
-ok   Papé Machinery Agriculture & Turf 
-RETRY penn-metal-fabricators-inc HTTP Error 503: Service Unavailable
-RETRY palmetto-sheet-metal HTTP Error 503: Service Unavailable
-ok   Paradise Energy Solutions 
-RETRY performance-audio-llc HTTP Error 503: Service Unavailable
-ok   PC Industries 
-ok   Orbitel Communications 
-ok   Parkman Woodworks 
-RETRY performance-foodservice-midlands HTTP Error 503: Service Unavailable
-RETRY performance-systems-integration HTTP Error 503: Service Unavailable
-RETRY ort-furniture-manufacturing-co HTTP Error 503: Service Unavailable
-ok   Pascagoula Sheet Metal Works 
-RETRY otco-inc HTTP Error 503: Service Unavailable
-ok   Park Distributors Inc 
-ok   Ox Metalworx 
 skip Ohio Metal Shaping 
-ok   Patriot Equipment / Minden Machine Shop Inc. 
-skip OceanHead Solar & Electric HTTP Error 503: Service Unavailable
-PAGE DONE p0600-profiles.json
-RETRY p1-technologies HTTP Error 503: Service Unavailable
-ok   PV Tech 
-ok   Paricon Technologies 
-RETRY pmj-technology HTTP Error 503: Service Unavailable
-RETRY paramont-eo HTTP Error 503: Service Unavailable
-RETRY orange-packaging HTTP Error 503: Service Unavailable
-RETRY parts-inc HTTP Error 503: Service Unavailable
-RETRY phoenix-solar-panel-systems-llc HTTP Error 503: Service Unavailable
-RETRY photonworks-engineering HTTP Error 503: Service Unavailable
-RETRY pt-medical-technologies-inc HTTP Error 503: Service Unavailable
-ok   Pemberton Electrical Supply Co 
-RETRY piedmont-plastics HTTP Error 503: Service Unavailable
-ok   Pajaro Valley Fabrication Inc. 
-RETRY pine-tree-food-equipment HTTP Error 503: Service Unavailable
+skip Ohio Valley Precision 
 RETRY optimum-energy-group HTTP Error 503: Service Unavailable
-RETRY pink-square-embroidery-llc HTTP Error 503: Service Unavailable
-ok   Osgood Textile Company 
-ok   Pallas Textiles 
+skip Ohio Shirt Company 
+fetched p0603-raw.json 10 / 10
+RETRY oregon-chai HTTP Error 503: Service Unavailable
+RETRY ohio-semitronics-inc HTTP Error 429: Too Many Requests
+fetched p0604-raw.json 10 / 10
+RETRY origin-food-group-llc HTTP Error 503: Service Unavailable
+fetched p0605-raw.json 10 / 10
+ok   Off The Line Performance 
+fetched p0606-raw.json 10 / 10
+RETRY orbis-electric HTTP Error 503: Service Unavailable
+RETRY osgood-textile-company HTTP Error 503: Service Unavailable
+fetched p0607-raw.json 10 / 10
+ok   Oakwood Industries LLC 
+ok   Ohana Fiber Mill 
+ok   OXOS Medical, Inc 
+ok   Olmsted Automotive LLC 
+ok   Oh Ghee Inc 
+ok   Oceanside Welding & Fabrication 
+ok   Obex Packaging 
+fetched p0608-raw.json 10 / 10
+RETRY pb-group-llc HTTP Error 503: Service Unavailable
+ok   Old Dominion Furniture Co. 
+ok   Ort Furniture Manufacturing Co 
+ok   Orbitel Communications 
+ok   Oregon Auto Spring Services Inc 
+fetched p0609-raw.json 9 / 10
+ok   Okaw Valley Woodworking 
+ok   OceanHead Solar & Electric 
+fetched p0610-raw.json 10 / 10
+ok   Omnimed Inc 
+ok   Ohio Woodworking Co 
+ok   Onsite Wire & Cable + Telinks 
+ok   Ohlhauser Custom Woodworx 
+ok   Original Maine Factory Store 
 RETRY pvd-design-company HTTP Error 503: Service Unavailable
-ok   Paul Renwick Textiles 
-ok   Peak Automation and Electrical 
-ok   Performance Auto 
-RETRY pittsburgh-plastics-manufacturing HTTP Error 503: Service Unavailable
-ok   Pacific Allied Products Ltd 
-RETRY patzer-woodworking-inc HTTP Error 503: Service Unavailable
-RETRY pivotal-health-solutions HTTP Error 503: Service Unavailable
-RETRY paul-downs-cabinetmakers HTTP Error 503: Service Unavailable
-RETRY pace-inc HTTP Error 503: Service Unavailable
-ok   P & S Food Company Llc 
-RETRY pacific-industrial-equipment HTTP Error 503: Service Unavailable
-RETRY plantible-foods-eldorado HTTP Error 503: Service Unavailable
-RETRY peerless-electronic-supplies HTTP Error 503: Service Unavailable
-RETRY pacific-island-medical-inc HTTP Error 503: Service Unavailable
-RETRY plasman-lawrenceburg-manufacturing HTTP Error 503: Service Unavailable
-ok   Pfeifer Studio 
-ok   Palmetto Shirt Company 
-RETRY penn-metal-fabricators-inc HTTP Error 503: Service Unavailable
-ok   Panic Plastics, Inc. 
-ok   Performance Woodworking Inc 
-RETRY palmetto-sheet-metal HTTP Error 503: Service Unavailable
+fetched p0611-raw.json 10 / 10
+ok   OVR Technology 
+PAGE DONE p0600-profiles.json
+RETRY pt-medical-technologies-inc HTTP Error 503: Service Unavailable
+RETRY paarlo-plastics-inc HTTP Error 503: Service Unavailable
+ok   Orman's Furniture 
+RETRY pacific-allied-products-ltd HTTP Error 503: Service Unavailable
+ok   Our World Energy, LLC 
 ok   Otter Tail Power Company 
-RETRY plastech-machining-fab-inc HTTP Error 503: Service Unavailable
-ok   Penny Fab, LLC 
-ok   Perry's Metal Fabrication 
-ok   Parts Score 
-RETRY plastic-bagmart HTTP Error 503: Service Unavailable
-skip Orange Packaging HTTP Error 503: Service Unavailable
-ok   PPSI 
-RETRY plastic-injection-molding-advance-plastics HTTP Error 503: Service Unavailable
+fetched p0612-raw.json 9 / 10
+RETRY palmetto-sheet-metal HTTP Error 429: Too Many Requests
+ok   OnPoint Customs 
+ok   Otco Inc 
+RETRY palmetto-shirt-company HTTP Error 503: Service Unavailable
+ok   Olan Plastics, Inc. 
+ok   Outdoor Interiors 
+ok   Orange Packaging 
+ok   Optimum Energy Group 
+fetched p0613-raw.json 10 / 10
+ok   PC Industries 
+ok   Olson Solar Energy 
+ok   Outcast Autoworks LLC. 
+ok   Ox Metalworx 
+ok   P A Electronics Corporation 
+fetched p0614-raw.json 10 / 10
+ok   PFC Furniture Industries, Inc. (Wholesale Distributor) 
+ok   Ohio Semitronics, Inc. 
 ok   POPULAS Furniture 
-RETRY plastic-injection-molding-norco-plastics-inc HTTP Error 503: Service Unavailable
-ok   Petoskey Plastics Inc 
-ok   Paragon Performance 
-ok   Partsmax Auto Parts and Accessories 
-RETRY plastics-unlimited HTTP Error 503: Service Unavailable
-skip Optimum Energy Group HTTP Error 503: Service Unavailable
+ok   PC PLUG HAWAII 
+ok   P & S Food Company Llc 
+fetched p0615-raw.json 10 / 10
+ok   P1 Technologies 
+skip Pacific Manufacturing Ohio Inc 
+ok   Oxytech 
+ok   PV Tech 
+ok   Paradise Energy Solutions 
+ok   PGT Energy Solutions 
+ok   Oklahoma Plastic 
+PAGE DONE p0601-profiles.json
+fetched p0616-raw.json 10 / 10
+ok   PREMIUM APPAREL SHOPS 
+ok   PMC SMART Solutions 
+ok   PHT Systems 
+ok   PFI 
+ok   Oregon Chai 
+skip PPE - Pacific Performance Engineering 
+ok   Panic Plastics, Inc. 
+RETRY peak-automation-and-electrical HTTP Error 503: Service Unavailable
+fetched p0617-raw.json 10 / 10
+ok   PMJ Technology 
+skip Patzer Woodworking Inc 
+ok   Pacific Gulf Wire Rope 
+fetched p0618-raw.json 10 / 10
+ok   Pacifica Foods Company 
+fetched p0619-raw.json 10 / 10
+ok   Park Distributors Inc 
+ok   PDQ South 
+RETRY pdci-automotive 'NoneType' object has no attribute 'group'
+ok   PB Group, LLC 
+ok   Origin Food Group LLC 
+ok   Pacific Island Medical Inc 
+ok   PPSI 
+ok   Pascagoula Sheet Metal Works 
+RETRY pine-tree-food-equipment HTTP Error 503: Service Unavailable
+ok   Pajaro Valley Fabrication Inc. 
+ok   Pace Inc 
+RETRY pivotal-health-solutions HTTP Error 503: Service Unavailable
+ok   Pallas Textiles 
+ok   Orbis Electric 
 PAGE DONE p0602-profiles.json
-ok   Paarlo Plastics Inc 
-ok   Patton Electronics Co 
-RETRY plexus-corporation HTTP Error 503: Service Unavailable
-RETRY polymer-components HTTP Error 503: Service Unavailable
-skip Performance Audio, LLC 
-ok   Pelican Wire 
-RETRY paramont-eo HTTP Error 503: Service Unavailable
+RETRY plasman-lawrenceburg-manufacturing HTTP Error 503: Service Unavailable
+ok   Pacific Industrial Equipment 
+ok   PFI Inc. - PCBA Electronic Assembly Equipment 
+PAGE DONE p0605-profiles.json
+ok   Paramont EO 
+ok   Pacific Medical Prosthetics & Orthotics 
+ok   Parts Score 
+ok   Osgood Textile Company 
+PAGE DONE p0603-profiles.json
+ok   Paragon Performance 
+ok   Paricon Technologies 
+RETRY pine-tree-food-equipment HTTP Error 503: Service Unavailable
+RETRY porter-barn-wood HTTP Error 503: Service Unavailable
+ok   PT Medical Technologies, INC 
+ok   Photonworks Engineering 
+RETRY plasman-lawrenceburg-manufacturing HTTP Error 503: Service Unavailable
 ok   Payoff Solar 
-RETRY parts-inc HTTP Error 503: Service Unavailable
-RETRY pdci-automotive Expecting ',' delimiter: line 82 column 4 (char 4378)
-RETRY photonworks-engineering HTTP Error 503: Service Unavailable
-ok   Performance Foodservice - Midlands 
-RETRY pompanoosuc-mills HTTP Error 503: Service Unavailable
-ok   Patton's Medical 
+ok   Parts Inc 
+ok   Peerless Electronic Supplies 
+ok   Pemberton Electrical Supply Co 
+ok   Phoenix Solar Panel Systems LLC 
+ok   Partsmax Auto Parts and Accessories 
+RETRY portugal-woodworks-llc HTTP Error 503: Service Unavailable
 ok   Pickup City Inc 
-ok   Plastic Supply of Maine 
-RETRY power-control-services HTTP Error 503: Service Unavailable
+ok   Patton Electronics Co 
 RETRY power-factor HTTP Error 503: Service Unavailable
+ok   Papé Machinery Agriculture & Turf 
+ok   Paul Renwick Textiles 
 RETRY power-train-performance HTTP Error 503: Service Unavailable
 RETRY power-flo-technologies HTTP Error 503: Service Unavailable
-RETRY powerfilm-solar HTTP Error 503: Service Unavailable
-ok   PolymerPak, LLC - Plastics 
-ok   Plastics Processing Corporation 
-RETRY patzer-woodworking-inc HTTP Error 503: Service Unavailable
-ok   Plastic Molding Manufacturing 
-RETRY powers-manufacturing-co HTTP Error 503: Service Unavailable
-ok   Planeta Woodworking 
-ok   Otco Inc 
-RETRY prairie-plastics-holdings HTTP Error 503: Service Unavailable
-ok   Phoenix Solar Panel Systems LLC 
-RETRY paul-downs-cabinetmakers HTTP Error 503: Service Unavailable
-RETRY plantible-foods-eldorado HTTP Error 503: Service Unavailable
-RETRY pace-inc HTTP Error 503: Service Unavailable
-RETRY peerless-electronic-supplies HTTP Error 503: Service Unavailable
-RETRY pravi-apparel HTTP Error 503: Service Unavailable
-RETRY penn-metal-fabricators-inc HTTP Error 503: Service Unavailable
-ok   Portugal Woodworks LLC 
-ok   Ort Furniture Manufacturing Co 
-PAGE DONE p0603-profiles.json
-ok   Plastik USA 
-RETRY precision-packaging-services HTTP Error 503: Service Unavailable
-ok   P1 Technologies 
-RETRY precision-plastic-products-inc HTTP Error 503: Service Unavailable
+ok   Patton's Medical 
+ok   Performance Audio, LLC 
+ok   Parkman Woodworks 
+ok   Pacific Allied Products Ltd 
+ok   Performance Systems Integration 
+ok   Paarlo Plastics Inc 
+ok   Pfeifer Studio 
+ok   Plastic BagMart 
+ok   PVD Design Company 
+PAGE DONE p0606-profiles.json
+ok   Palmetto Sheet Metal 
 RETRY precision-woodworking-inc HTTP Error 503: Service Unavailable
-skip Precious Plastic New York 
-ok   Plastics, Inc. 
-ok   PT Medical Technologies, INC 
-RETRY plastics-unlimited HTTP Error 503: Service Unavailable
-RETRY presto-packaging-foam-inc HTTP Error 503: Service Unavailable
-RETRY prime-automotive HTTP Error 503: Service Unavailable
+ok   Penny Fab, LLC 
+ok   Plastic Molding Manufacturing 
+ok   Pittsburgh Plastics Manufacturing 
+ok   Planeta Woodworking 
+ok   Patriot Equipment / Minden Machine Shop Inc. 
+PAGE DONE p0608-profiles.json
+ok   Penn Metal Fabricators Inc 
+ok   Perry's Metal Fabrication 
+RETRY prestar-packaging HTTP Error 503: Service Unavailable
+ok   Petoskey Plastics Inc 
 RETRY prime-source-foods HTTP Error 503: Service Unavailable
-ok   Pivotal Health Solutions 
-ok   Pine Tree Food Equipment 
 RETRY primitive-precision-metalcraft HTTP Error 503: Service Unavailable
+RETRY power-factor HTTP Error 503: Service Unavailable
+ok   PolymerPak, LLC - Plastics 
+ok   Plastics Unlimited 
+ok   Polymer Components 
+ok   Plastics Processing Corporation 
+skip Precious Plastic New York 
+ok   Pivotal Health Solutions 
+ok   Plastic Injection Molding | Norco Plastics, Inc. 
+ok   Plantible Foods Eldorado 
+ok   Performance Woodworking Inc 
+RETRY pro-ag-equipment HTTP Error 503: Service Unavailable
+ok   Performance Foodservice - Midlands 
+RETRY pro-tech-power-sales HTTP Error 503: Service Unavailable
+ok   Paul Downs Cabinetmakers 
+ok   Plastic Injection Molding | Advance Plastics 
+ok   Peak Automation and Electrical 
+RETRY production-equipment-services-llc HTTP Error 503: Service Unavailable
+ok   Palmetto Shirt Company 
+PAGE DONE p0607-profiles.json
+RETRY professional-metal-fabricators-pmf HTTP Error 503: Service Unavailable
+ok   Pravi Apparel 
+ok   Plastech Machining & Fab Inc. 
+ok   Powers Manufacturing Co 
+RETRY progressive-packaging-inc HTTP Error 503: Service Unavailable
+ok   Plexus Corporation 
+ok   Prather Metalworks 
+RETRY prysmian-north-america HTTP Error 503: Service Unavailable
+ok   Plasman - Lawrenceburg Manufacturing 
+RETRY precision-woodworking-inc HTTP Error 503: Service Unavailable
+RETRY purelight-power HTTP Error 503: Service Unavailable
+ok   Prairie Plastics Holdings 
+ok   Performance Auto 
+PAGE DONE p0610-profiles.json
+ok   Plastik USA 
+ok   Piedmont Plastics 
+ok   Plastic Supply of Maine 
+ok   PDCI-Automotive 
+PAGE DONE p0604-profiles.json
+ok   Pink Square Embroidery LLC 
+ok   Power Train Performance 
+ok   PowerFilm Solar 
+RETRY pelican-wire Expecting ',' delimiter: line 53 column 4 (char 3630)
+ok   Pompanoosuc Mills 
+ok   Priority Plastics Inc 
 ok   Portsmouth Fabric Co 
 ok   Polo Packaging 
-ok   Popknot Wood 
-RETRY plexus-corporation HTTP Error 503: Service Unavailable
-ok   Pacific Island Medical Inc 
-ok   Pittsburgh Plastics Manufacturing 
-ok   PVD Design Company 
-RETRY printex-fabrics-inc HTTP Error 503: Service Unavailable
-RETRY priority-plastics-inc HTTP Error 503: Service Unavailable
-ok   Performance Systems Integration 
-RETRY pompanoosuc-mills HTTP Error 503: Service Unavailable
-skip Pace Inc HTTP Error 503: Service Unavailable
-RETRY paramont-eo HTTP Error 503: Service Unavailable
-RETRY photonworks-engineering HTTP Error 503: Service Unavailable
-ok   Plasman - Lawrenceburg Manufacturing 
-RETRY pro-ag-equipment HTTP Error 503: Service Unavailable
-RETRY pdci-automotive HTTP Error 503: Service Unavailable
-RETRY pro-forming-sheet-metal-llc HTTP Error 503: Service Unavailable
-RETRY pro-tech-power-sales HTTP Error 503: Service Unavailable
-RETRY power-factor HTTP Error 503: Service Unavailable
-RETRY power-train-performance HTTP Error 503: Service Unavailable
-RETRY power-flo-technologies HTTP Error 429: Too Many Requests
-ok   Pink Square Embroidery LLC 
-ok   Piedmont Plastics 
-ok   PMJ Technology 
-PAGE DONE p0605-profiles.json
-RETRY powers-manufacturing-co HTTP Error 429: Too Many Requests
-RETRY procare-medical-equipment HTTP Error 429: Too Many Requests
-ok   Prather Metalworks 
-ok   Plastic BagMart 
-RETRY prairie-plastics-holdings HTTP Error 429: Too Many Requests
-ok   Palmetto Sheet Metal 
-PAGE DONE p0607-profiles.json
-RETRY process-ohio-corporation HTTP Error 503: Service Unavailable
-ok   Plastic Injection Molding | Norco Plastics, Inc. 
-RETRY porter-barn-wood Expecting ',' delimiter: line 81 column 4 (char 4518)
-RETRY patzer-woodworking-inc HTTP Error 503: Service Unavailable
-RETRY production-equipment-services-llc HTTP Error 503: Service Unavailable
-ok   Prestar Packaging 
-RETRY professional-processor-food-equipment HTTP Error 429: Too Many Requests
-RETRY plantible-foods-eldorado HTTP Error 429: Too Many Requests
-ok   Plastech Machining & Fab Inc. 
-RETRY progressive-packaging-inc HTTP Error 429: Too Many Requests
-RETRY pravi-apparel HTTP Error 429: Too Many Requests
-RETRY paul-downs-cabinetmakers HTTP Error 429: Too Many Requests
-RETRY prysmian-north-america HTTP Error 429: Too Many Requests
-ok   Plastic Injection Molding | Advance Plastics 
-ok   Premier Metal Art 
-RETRY pulmuone-nasoya-foods-usa HTTP Error 429: Too Many Requests
-RETRY peerless-electronic-supplies HTTP Error 429: Too Many Requests
-RETRY precision-packaging-services HTTP Error 429: Too Many Requests
-ok   Premier Plastics 
-RETRY pure-country-custom-embroidery-printing HTTP Error 429: Too Many Requests
-RETRY penn-metal-fabricators-inc HTTP Error 429: Too Many Requests
-ok   PowerFilm Solar 
-RETRY purelight-power HTTP Error 429: Too Many Requests
-RETRY precision-plastic-products-inc HTTP Error 429: Too Many Requests
-RETRY precision-woodworking-inc HTTP Error 429: Too Many Requests
-ok   Polymer Components 
-skip Paramont EO HTTP Error 503: Service Unavailable
-skip PDCI-Automotive HTTP Error 503: Service Unavailable
-PAGE DONE p0604-profiles.json
-ok   Private Label Specialties 
-RETRY purposeful-design HTTP Error 429: Too Many Requests
-RETRY pyramid-packaging-inc HTTP Error 429: Too Many Requests
-RETRY q-d-wire-cable-assembly-inc HTTP Error 429: Too Many Requests
-ok   Power Control Services 
-ok   ProStock Auto Parts - Saddle Brook 
-ok   Parts Inc 
-PAGE DONE p0608-profiles.json
-ok   Pacific Industrial Equipment 
-PAGE DONE p0606-profiles.json
-RETRY prime-automotive HTTP Error 503: Service Unavailable
-ok   Professional Metal Fabricators (PMF) 
-RETRY plastics-unlimited HTTP Error 503: Service Unavailable
-RETRY prime-source-foods HTTP Error 503: Service Unavailable
-RETRY qb-studios-a-julsdesign-company HTTP Error 503: Service Unavailable
-RETRY qsr-steel-corporation HTTP Error 429: Too Many Requests
-ok   Presto Packaging & Foam Inc 
-RETRY primo-packaging Expecting ',' delimiter: line 70 column 4 (char 3114)
-RETRY quality-electrical-systems HTTP Error 429: Too Many Requests
-RETRY qcells-usa-inc-eagle-plant-dalton HTTP Error 429: Too Many Requests
-RETRY primitive-precision-metalcraft HTTP Error 503: Service Unavailable
-skip Patzer Woodworking Inc HTTP Error 503: Service Unavailable
-RETRY quabbin-wire-cable-co-inc HTTP Error 503: Service Unavailable
-skip Paul Downs Cabinetmakers HTTP Error 429: Too Many Requests
-RETRY quality-cable-contractors-inc HTTP Error 503: Service Unavailable
-ok   Qorvo Inc. 
-ok   Plexus Corporation 
-RETRY printex-fabrics-inc HTTP Error 503: Service Unavailable
-ok   Quad 4 Plastics 
-skip Peerless Electronic Supplies HTTP Error 429: Too Many Requests
-PAGE DONE p0609-profiles.json
-RETRY quality-manufacturing-services-inc HTTP Error 503: Service Unavailable
-ok   Priority Plastics Inc 
-RETRY pompanoosuc-mills HTTP Error 503: Service Unavailable
-skip Penn Metal Fabricators Inc HTTP Error 429: Too Many Requests
-PAGE DONE p0610-profiles.json
-ok   Quality Quick Print 
-RETRY pro-ag-equipment HTTP Error 503: Service Unavailable
-RETRY photonworks-engineering HTTP Error 503: Service Unavailable
-RETRY pro-forming-sheet-metal-llc HTTP Error 503: Service Unavailable
-RETRY pro-tech-power-sales HTTP Error 503: Service Unavailable
-RETRY power-factor HTTP Error 429: Too Many Requests
-RETRY power-train-performance HTTP Error 429: Too Many Requests
-RETRY quantum-semiconductor-llc HTTP Error 429: Too Many Requests
-RETRY quantumscape HTTP Error 503: Service Unavailable
-ok   Qualus 
-RETRY r-r-textile-mill-inc HTTP Error 503: Service Unavailable
-RETRY rbb HTTP Error 429: Too Many Requests
-RETRY powers-manufacturing-co HTTP Error 503: Service Unavailable
-RETRY procare-medical-equipment HTTP Error 429: Too Many Requests
-ok   Quality Switchgear Inc 
-ok   RBW 
-RETRY process-ohio-corporation HTTP Error 503: Service Unavailable
-RETRY porter-barn-wood HTTP Error 503: Service Unavailable
-RETRY production-equipment-services-llc HTTP Error 503: Service Unavailable
-RETRY pravi-apparel HTTP Error 429: Too Many Requests
-RETRY prysmian-north-america HTTP Error 503: Service Unavailable
-RETRY pulmuone-nasoya-foods-usa HTTP Error 429: Too Many Requests
-ok   Quick Custom Clothing 
-RETRY precision-packaging-services HTTP Error 429: Too Many Requests
-ok   Power-Flo Technologies 
-RETRY pure-country-custom-embroidery-printing HTTP Error 429: Too Many Requests
-RETRY purelight-power HTTP Error 429: Too Many Requests
-RETRY precision-woodworking-inc HTTP Error 429: Too Many Requests
-ok   RAM Electronics Industries Inc 
-skip Photonworks Engineering HTTP Error 503: Service Unavailable
-ok   Plantible Foods Eldorado 
-PAGE DONE p0611-profiles.json
-ok   Prairie Plastics Holdings 
-ok   Progressive Packaging Inc 
-ok   Precision Plastic Products Inc 
-RETRY pyramid-packaging-inc HTTP Error 503: Service Unavailable
-RETRY professional-processor-food-equipment 'NoneType' object has no attribute 'group'
-RETRY qb-studios-a-julsdesign-company HTTP Error 503: Service Unavailable
-RETRY qsr-steel-corporation HTTP Error 503: Service Unavailable
-RETRY qcells-usa-inc-eagle-plant-dalton HTTP Error 429: Too Many Requests
-RETRY quality-cable-contractors-inc HTTP Error 429: Too Many Requests
-ok   Purposeful Design 
-ok   QUALITY ELECTRICAL SYSTEMS 
-ok   Q&D Wire Cable Assembly Inc. 
-ok   Primitive Precision Metalcraft 
-ok   Prime Source Foods 
-ok   Plastics Unlimited 
-PAGE DONE p0612-profiles.json
-ok   Primo Packaging 
-ok   Prime Automotive 
-RETRY printex-fabrics-inc HTTP Error 503: Service Unavailable
-ok   Quabbin Wire & Cable Co Inc 
-RETRY pro-ag-equipment HTTP Error 503: Service Unavailable
-RETRY pompanoosuc-mills HTTP Error 503: Service Unavailable
-RETRY pro-tech-power-sales HTTP Error 503: Service Unavailable
-RETRY power-train-performance HTTP Error 429: Too Many Requests
-RETRY quantum-semiconductor-llc HTTP Error 429: Too Many Requests
-RETRY quantumscape HTTP Error 429: Too Many Requests
-RETRY r-r-textile-mill-inc HTTP Error 429: Too Many Requests
-RETRY rbb HTTP Error 429: Too Many Requests
-RETRY powers-manufacturing-co HTTP Error 429: Too Many Requests
-RETRY procare-medical-equipment HTTP Error 429: Too Many Requests
-RETRY process-ohio-corporation HTTP Error 429: Too Many Requests
-RETRY production-equipment-services-llc HTTP Error 429: Too Many Requests
-ok   Quality Manufacturing Services Inc 
-RETRY prysmian-north-america HTTP Error 429: Too Many Requests
-ok   Power Factor 
-RETRY pravi-apparel HTTP Error 429: Too Many Requests
-RETRY pure-country-custom-embroidery-printing HTTP Error 429: Too Many Requests
-RETRY purelight-power HTTP Error 503: Service Unavailable
-skip Pompanoosuc Mills HTTP Error 503: Service Unavailable
-ok   Pro-Forming Sheet Metal LLC 
-skip Power Train Performance HTTP Error 429: Too Many Requests
-ok   Precision Packaging Services 
-ok   Pulmuone Nasoya Foods USA 
 ok   Porter Barn Wood 
+ok   Popknot Wood 
+ok   Precision Plastic Products Inc 
+ok   Primo Packaging 
+ok   ProCare Medical Equipment 
+ok   Premier Metal Art 
+ok   Premier Plastics 
+ok   Pine Tree Food Equipment 
+PAGE DONE p0611-profiles.json
+RETRY quick-custom-clothing HTTP Error 503: Service Unavailable
+RETRY r-r-textile-mill-inc HTTP Error 503: Service Unavailable
+ok   Precision Packaging Services 
+RETRY ram-electronics-industries-inc HTTP Error 503: Service Unavailable
+ok   Portugal Woodworks LLC 
 PAGE DONE p0613-profiles.json
-ok   Precision Woodworking Inc 
-PAGE DONE p0615-profiles.json
-RETRY professional-processor-food-equipment HTTP Error 503: Service Unavailable
-skip Powers Manufacturing Co HTTP Error 429: Too Many Requests
-RETRY qcells-usa-inc-eagle-plant-dalton HTTP Error 503: Service Unavailable
-ok   Pyramid Packaging, Inc. 
+ok   ProStock Auto Parts - Saddle Brook 
+RETRY rbb HTTP Error 503: Service Unavailable
+RETRY progressive-packaging-inc HTTP Error 503: Service Unavailable
+ok   Prime Automotive 
+ok   Power Control Services 
+ok   Pure Country Custom Embroidery & Printing 
+ok   Professional Processor Food Equipment 
+ok   QUALITY ELECTRICAL SYSTEMS 
+ok   Private Label Specialties 
+ok   Pulmuone Nasoya Foods USA 
+RETRY progressive-packaging-inc HTTP Error 503: Service Unavailable
+ok   Qcells USA Inc. _ Eagle Plant (Dalton) 
+RETRY progressive-packaging-inc HTTP Error 503: Service Unavailable
+ok   Presto Packaging & Foam Inc 
+ok   Quad 4 Plastics 
+ok   Primitive Precision Metalcraft 
+ok   Pro-Forming Sheet Metal LLC 
 ok   QB Studios-a julsdesign company 
-skip Pravi Apparel HTTP Error 429: Too Many Requests
-PAGE DONE p0614-profiles.json
+ok   Pro AG Equipment 
 ok   QSR Steel Corporation 
-RETRY printex-fabrics-inc HTTP Error 503: Service Unavailable
-RETRY pro-ag-equipment HTTP Error 429: Too Many Requests
-RETRY pro-tech-power-sales HTTP Error 429: Too Many Requests
-RETRY quantum-semiconductor-llc HTTP Error 429: Too Many Requests
-RETRY quantumscape HTTP Error 429: Too Many Requests
-RETRY procare-medical-equipment HTTP Error 503: Service Unavailable
-RETRY process-ohio-corporation HTTP Error 429: Too Many Requests
-RETRY prysmian-north-america HTTP Error 429: Too Many Requests
-skip Printex Fabrics, Inc HTTP Error 503: Service Unavailable
-ok   Quality Cable Contractors, Inc. 
-skip Pro AG Equipment HTTP Error 429: Too Many Requests
-ok   R & R Textile Mill Inc 
-skip Pro-Tech Power Sales HTTP Error 429: Too Many Requests
-ok   RBB 
-ok   Production Equipment Services, LLC 
-RETRY pure-country-custom-embroidery-printing HTTP Error 503: Service Unavailable
-RETRY purelight-power HTTP Error 503: Service Unavailable
-skip ProCare Medical Equipment HTTP Error 503: Service Unavailable
-skip Process Ohio Corporation HTTP Error 429: Too Many Requests
-PAGE DONE p0616-profiles.json
-RETRY qcells-usa-inc-eagle-plant-dalton HTTP Error 429: Too Many Requests
-RETRY quantum-semiconductor-llc HTTP Error 429: Too Many Requests
-skip Prysmian North America HTTP Error 429: Too Many Requests
-skip Pure Country Custom Embroidery & Printing HTTP Error 503: Service Unavailable
-skip Purelight Power HTTP Error 503: Service Unavailable
-skip Qcells USA Inc. _ Eagle Plant (Dalton) HTTP Error 429: Too Many Requests
-PAGE DONE p0618-profiles.json
 ok   QuantumScape 
-skip Quantum Semiconductor LLC HTTP Error 429: Too Many Requests
+ok   Printex Fabrics, Inc 
+ok   Qorvo Inc. 
+RETRY power-flo-technologies 'NoneType' object has no attribute 'group'
+skip Progressive Packaging Inc HTTP Error 503: Service Unavailable
+ok   Prestar Packaging 
+ok   Pro-Tech Power Sales 
+ok   Precision Woodworking Inc 
+ok   Purelight Power 
+ok   Quality Quick Print 
+ok   Quick Custom Clothing 
+ok   Prime Source Foods 
+PAGE DONE p0615-profiles.json
+ok   Qualus 
+ok   Quality Cable Contractors, Inc. 
+ok   Quabbin Wire & Cable Co Inc 
+ok   RBW 
+ok   Pyramid Packaging, Inc. 
+ok   Prysmian North America 
+ok   Quality Manufacturing Services Inc 
+ok   Q&D Wire Cable Assembly Inc. 
+PAGE DONE p0618-profiles.json
+ok   Pelican Wire 
+PAGE DONE p0609-profiles.json
+ok   Process Ohio Corporation 
+PAGE DONE p0616-profiles.json
+ok   Quantum Semiconductor LLC 
+RETRY plastics-inc The read operation timed out
+ok   Quality Switchgear Inc 
+ok   R & R Textile Mill Inc 
+RETRY plastics-inc HTTP Error 503: Service Unavailable
+ok   Professional Metal Fabricators (PMF) 
+ok   RBB 
+ok   Purposeful Design 
+ok   RAM Electronics Industries Inc 
 PAGE DONE p0619-profiles.json
-RETRY professional-processor-food-equipment 'NoneType' object has no attribute 'group'
-skip Professional Processor Food Equipment 'NoneType' object has no attribute 'group'
+ok   Power Factor 
+ok   Production Equipment Services, LLC 
 PAGE DONE p0617-profiles.json
-ALL-DONE errors 26 of 200
-collected 168
-oklahoma-plastic | nums ['3.5']
-onsite-wire-cable-telinks | wording/address
+ok   Plastics, Inc. 
+PAGE DONE p0612-profiles.json
+RETRY power-flo-technologies 'NoneType' object has no attribute 'group'
+ok   Power-Flo Technologies 
+PAGE DONE p0614-profiles.json
+ALL-DONE errors 1 of 200
+collected 192
+oklahoma-plastic | nums ['3.5', '100']
+old-dominion-furniture-co | wording/address
+oregon-auto-spring-services-inc | wording/address
 orman-s-furniture | nums ['50']
-outcast-autoworks-llc | nums ['2003', '2011']
+our-world-energy-llc | nums ['15']
+outdoor-interiors | certs ['FSC certification']
 oxytech | nums ['24']
-p-s-food-company-llc | wording/address
 p1-technologies | certs ['ROHS']
 pht-systems | wording/address
 pmj-technology | nums ['9001:2015']
 ppsi | certs ['RoHS']
-pacific-allied-products-ltd | wording/address
+pvd-design-company | wording/address
 pacific-island-medical-inc | wording/address
 pacific-medical-prosthetics-orthotics | wording/address
-pacifica-foods-company | wording/address
-pallas-textiles | nums ['50']
 paragon-performance | nums ['180']
 park-distributors-inc | wording/address
-parkman-woodworks | wording/address
 paul-renwick-textiles | wording/address
 peak-automation-and-electrical | certs ['North Dakota Master Electrician License']
-pemberton-electrical-supply-co | certs ['NJ Small Business Enterprise (SBE)', "NJ Women's Business Enterprise (WBE)"]
-penny-fab-llc | wording/address
 performance-auto | wording/address
+photonworks-engineering | nums ['28']
 piedmont-plastics | wording/address
-plastic-injection-molding-advance-plastics | wording/address
+planeta-woodworking | nums ['2,500', '3,900']
+plantible-foods-eldorado | nums ['2020']
 plastic-molding-manufacturing | certs ['ISO 9001']
 plastic-supply-of-maine | certs ['UL Listed']
-power-factor | certs ['BBB A+ Rating']
-prather-metalworks | wording/address
+pompanoosuc-mills | nums ['50']
+popknot-wood | wording/address
+power-factor | certs ['BBB A+']
+power-train-performance | nums ['1993']
+powers-manufacturing-co | nums ['120']
 precision-packaging-services | wording/address
 premier-metal-art | wording/address
 premier-plastics | wording/address
+printex-fabrics-inc | wording/address
+private-label-specialties | nums ['18']
 pro-forming-sheet-metal-llc | nums ['0.001']
 production-equipment-services-llc | nums ['1990']
+professional-metal-fabricators-pmf | certs ['AWS Certified Welders (SMAW, GMAW, GTAW, FCAW)', 'Certified Welding Inspectors (CWI)']
+prysmian-north-america | wording/address
+pure-country-custom-embroidery-printing | wording/address
 pyramid-packaging-inc | wording/address
-quality-electrical-systems | wording/address
-quality-cable-contractors-inc | wording/address
-quality-manufacturing-services-inc | certs ['AS9100D', 'ANSI/ESD S20.20']
-quality-quick-print | nums ['1980', '1990']
-ram-electronics-industries-inc | certs ['UL Listed', 'RoHS compliance']
+qorvo-inc | wording/address
+quality-manufacturing-services-inc | nums ['9001:2015', '9100:2016'] ; certs ['ANSI/ESD S20.20']
+quality-quick-print | nums ['1990', '1980']
+ram-electronics-industries-inc | certs ['UL Listed']
 rbw | certs ['UL Listed']
-collected 168
-done ovr-technology 2 
-done oxos-medical-inc 1 
-done oakwood-industries-llc 1 
+collected 192
+RETRY off-the-line-performance HTTP Error 429: Too Many Requests
+RETRY ohana-fiber-mill HTTP Error 429: Too Many Requests
+RETRY ohlhauser-custom-woodworx HTTP Error 429: Too Many Requests
+RETRY ohio-woodworking-co HTTP Error 429: Too Many Requests
+RETRY okaw-valley-woodworking HTTP Error 429: Too Many Requests
+RETRY oklahoma-plastic HTTP Error 429: Too Many Requests
+RETRY old-dominion-furniture-co HTTP Error 429: Too Many Requests
+RETRY olmsted-automotive-llc HTTP Error 429: Too Many Requests
+RETRY olson-solar-energy HTTP Error 429: Too Many Requests
+RETRY omnimed-inc HTTP Error 429: Too Many Requests
+RETRY onpoint-customs HTTP Error 429: Too Many Requests
+done ovr-technology 3 
+done oxos-medical-inc 0 
+done oakwood-industries-llc 0 
 done obex-packaging 1 
+done oceanhead-solar-electric 1 
 done oceanside-welding-fabrication 0 
-done off-the-line-performance 1 
+RETRY off-the-line-performance HTTP Error 429: Too Many Requests
+RETRY original-maine-factory-store HTTP Error 429: Too Many Requests
+RETRY ohio-woodworking-co HTTP Error 429: Too Many Requests
+RETRY okaw-valley-woodworking HTTP Error 429: Too Many Requests
+RETRY oklahoma-plastic HTTP Error 429: Too Many Requests
+RETRY orman-s-furniture HTTP Error 429: Too Many Requests
+RETRY olson-solar-energy HTTP Error 429: Too Many Requests
+RETRY ort-furniture-manufacturing-co HTTP Error 429: Too Many Requests
+RETRY osgood-textile-company HTTP Error 429: Too Many Requests
+RETRY omnimed-inc HTTP Error 429: Too Many Requests
+RETRY onpoint-customs HTTP Error 429: Too Many Requests
+RETRY off-the-line-performance HTTP Error 429: Too Many Requests
+RETRY original-maine-factory-store HTTP Error 429: Too Many Requests
+RETRY ohio-woodworking-co HTTP Error 429: Too Many Requests
+RETRY okaw-valley-woodworking HTTP Error 429: Too Many Requests
+RETRY oklahoma-plastic HTTP Error 429: Too Many Requests
+RETRY orman-s-furniture HTTP Error 429: Too Many Requests
+RETRY olson-solar-energy HTTP Error 429: Too Many Requests
+RETRY ort-furniture-manufacturing-co HTTP Error 429: Too Many Requests
+RETRY omnimed-inc HTTP Error 429: Too Many Requests
+RETRY pht-systems HTTP Error 429: Too Many Requests
+RETRY pmc-smart-solutions HTTP Error 429: Too Many Requests
+RETRY original-maine-factory-store HTTP Error 429: Too Many Requests
+RETRY okaw-valley-woodworking HTTP Error 429: Too Many Requests
+RETRY oklahoma-plastic HTTP Error 429: Too Many Requests
+RETRY orman-s-furniture HTTP Error 429: Too Many Requests
+RETRY olson-solar-energy HTTP Error 429: Too Many Requests
+RETRY populas-furniture HTTP Error 429: Too Many Requests
+RETRY ort-furniture-manufacturing-co HTTP Error 429: Too Many Requests
+RETRY ppsi HTTP Error 429: Too Many Requests
+done off-the-line-performance 2 
 done oh-ghee-inc 0 
-done ohana-fiber-mill 1 
-done ohio-semitronics-inc 0 
-done ohio-shirt-company 0 
-done ohio-woodworking-co 0 
-done ohlhauser-custom-woodworx 1 
-done okaw-valley-woodworking 2 
+done ohana-fiber-mill 0 
+done ohio-semitronics-inc 2 
+done ohio-woodworking-co 1 
+done ohlhauser-custom-woodworx 4 
+RETRY pacific-gulf-wire-rope HTTP Error 429: Too Many Requests
+RETRY pmc-smart-solutions HTTP Error 429: Too Many Requests
+RETRY pacific-island-medical-inc HTTP Error 429: Too Many Requests
+RETRY pacific-medical-prosthetics-orthotics HTTP Error 429: Too Many Requests
+RETRY original-maine-factory-store HTTP Error 429: Too Many Requests
+RETRY oklahoma-plastic HTTP Error 429: Too Many Requests
+RETRY orman-s-furniture HTTP Error 429: Too Many Requests
+RETRY populas-furniture HTTP Error 429: Too Many Requests
+RETRY ort-furniture-manufacturing-co HTTP Error 429: Too Many Requests
+RETRY ppsi HTTP Error 429: Too Many Requests
+done okaw-valley-woodworking 0 
 done oklahoma-plastic 0 
 done olan-plastics-inc 0 
 done old-dominion-furniture-co 0 
 done olmsted-automotive-llc 1 
-done olson-solar-energy 0 
-done omnimed-inc 0 
+done olson-solar-energy 1 
+done omnimed-inc 1 
 done onpoint-customs 0 
-done onsite-wire-cable-telinks 0 
-done orbis-electric 1 
-done orbitel-communications 0 
-done oregon-auto-spring-services-inc 2 
-done oregon-chai 2 
-done origin-food-group-llc 0 
-done original-maine-factory-store 1 
-done orman-s-furniture 2 
-done ort-furniture-manufacturing-co 1 
-done osgood-textile-company 2 
+done onsite-wire-cable-telinks 1 
+done optimum-energy-group 1 
+done orange-packaging 0 
+done orbis-electric 0 
+done orbitel-communications 1 
+done oregon-auto-spring-services-inc 1 
+done oregon-chai 1 
+done origin-food-group-llc 3 
+RETRY pap-machinery-agriculture-turf HTTP Error 429: Too Many Requests
+RETRY paradise-energy-solutions HTTP Error 429: Too Many Requests
+RETRY paricon-technologies HTTP Error 429: Too Many Requests
+RETRY pacific-medical-prosthetics-orthotics HTTP Error 429: Too Many Requests
+RETRY original-maine-factory-store HTTP Error 429: Too Many Requests
+RETRY orman-s-furniture HTTP Error 429: Too Many Requests
+RETRY parts-inc HTTP Error 429: Too Many Requests
+RETRY ort-furniture-manufacturing-co HTTP Error 429: Too Many Requests
+done original-maine-factory-store 0 
+done orman-s-furniture 0 
+RETRY paul-downs-cabinetmakers HTTP Error 429: Too Many Requests
+RETRY pap-machinery-agriculture-turf HTTP Error 429: Too Many Requests
+RETRY peerless-electronic-supplies HTTP Error 429: Too Many Requests
+RETRY pemberton-electrical-supply-co HTTP Error 429: Too Many Requests
+RETRY pacific-medical-prosthetics-orthotics HTTP Error 429: Too Many Requests
+done ort-furniture-manufacturing-co 0 
+done osgood-textile-company 1 
 done otco-inc 0 
-done otter-tail-power-company 3 
-done our-world-energy-llc 1 
-done outcast-autoworks-llc 3 
+done otter-tail-power-company 0 
+done our-world-energy-llc 0 
+done outcast-autoworks-llc 1 
 done outdoor-interiors 1 
 done ox-metalworx 0 
-done oxytech 0 
-done p-s-food-company-llc 5 
+done oxytech 1 
+done p-s-food-company-llc 0 
 done p-a-electronics-corporation 0 
 done p1-technologies 0 
-done pb-group-llc 2 
+done pb-group-llc 0 
 done pc-industries 2 
-done pc-plug-hawaii 0 
-done pdq-south 0 
+done pc-plug-hawaii 1 
+done pdci-automotive 0 
+done pdq-south 1 
 done pfc-furniture-industries-inc-wholesale-distributor 0 
 done pfi 0 
-done pfi-inc-pcba-electronic-assembly-equipment 2 
+done pfi-inc-pcba-electronic-assembly-equipment 1 
 done pgt-energy-solutions 1 
-RETRY pht-systems Remote end closed connection without response
 done pht-systems 0 
 done pmc-smart-solutions 0 
-done pmj-technology 0 
-done populas-furniture 1 
+done pmj-technology 2 
+done populas-furniture 0 
 done ppsi 0 
-done premium-apparel-shops 1 
-done pt-medical-technologies-inc 3 
+done premium-apparel-shops 0 
+done pt-medical-technologies-inc 0 
 done pv-tech 0 
 done pvd-design-company 3 
 done paarlo-plastics-inc 0 
-done pacific-allied-products-ltd 0 
+done pace-inc 0 
+done pacific-allied-products-ltd 1 
 done pacific-gulf-wire-rope 1 
-done pacific-industrial-equipment 0 
-done pacific-island-medical-inc 1 
-done pacific-medical-prosthetics-orthotics 0 
-done pacifica-foods-company 3 
-done pajaro-valley-fabrication-inc 2 
+done pacific-industrial-equipment 1 
+done pacific-island-medical-inc 0 
+RETRY penny-fab-llc HTTP Error 429: Too Many Requests
+RETRY performance-audio-llc HTTP Error 429: Too Many Requests
+RETRY performance-auto HTTP Error 429: Too Many Requests
+RETRY parts-inc HTTP Error 429: Too Many Requests
+RETRY performance-foodservice-midlands HTTP Error 429: Too Many Requests
+RETRY phoenix-solar-panel-systems-llc HTTP Error 429: Too Many Requests
+RETRY piedmont-plastics HTTP Error 429: Too Many Requests
+RETRY pine-tree-food-equipment HTTP Error 429: Too Many Requests
+RETRY pemberton-electrical-supply-co HTTP Error 429: Too Many Requests
+RETRY pacific-medical-prosthetics-orthotics HTTP Error 429: Too Many Requests
+RETRY penny-fab-llc HTTP Error 429: Too Many Requests
+RETRY pink-square-embroidery-llc HTTP Error 429: Too Many Requests
+RETRY performance-audio-llc HTTP Error 429: Too Many Requests
+RETRY parts-inc HTTP Error 429: Too Many Requests
+RETRY plastic-injection-molding-norco-plastics-inc HTTP Error 429: Too Many Requests
+RETRY phoenix-solar-panel-systems-llc HTTP Error 429: Too Many Requests
+RETRY plastic-supply-of-maine HTTP Error 429: Too Many Requests
+RETRY pemberton-electrical-supply-co HTTP Error 429: Too Many Requests
+RETRY plastics-processing-corporation HTTP Error 429: Too Many Requests
+RETRY plastics-inc HTTP Error 429: Too Many Requests
+RETRY pink-square-embroidery-llc HTTP Error 429: Too Many Requests
+RETRY performance-audio-llc HTTP Error 429: Too Many Requests
+RETRY plexus-corporation HTTP Error 429: Too Many Requests
+done pacific-medical-prosthetics-orthotics 1 
+done pacifica-foods-company 4 
+done pajaro-valley-fabrication-inc 3 
 done pallas-textiles 1 
 done palmetto-sheet-metal 0 
-done palmetto-shirt-company 0 
-done panic-plastics-inc 1 
-done pap-machinery-agriculture-turf 1 
-done paradise-energy-solutions 3 
+done palmetto-shirt-company 3 
+done panic-plastics-inc 0 
+done pap-machinery-agriculture-turf 2 
+done paradise-energy-solutions 1 
 done paragon-performance 0 
-done paricon-technologies 2 
-done park-distributors-inc 3 
-done parkman-woodworks 2 
-done parts-inc 2 
-done parts-score 0 
-done partsmax-auto-parts-and-accessories 5 
-done pascagoula-sheet-metal-works 2 
+done paramont-eo 1 
+done paricon-technologies 0 
+done park-distributors-inc 2 
+done parkman-woodworks 3 
+done parts-inc 1 
+done parts-score 1 
+done partsmax-auto-parts-and-accessories 3 
+done pascagoula-sheet-metal-works 1 
 done patriot-equipment-minden-machine-shop-inc 1 
-done patton-electronics-co 1 
-done patton-s-medical 0 
-done paul-renwick-textiles 3 
-done payoff-solar 1 
+done patton-electronics-co 0 
+done patton-s-medical 2 
+done paul-downs-cabinetmakers 1 
+done paul-renwick-textiles 2 
+done payoff-solar 0 
 done peak-automation-and-electrical 1 
+done peerless-electronic-supplies 0 
 done pelican-wire 0 
+RETRY portsmouth-fabric-co HTTP Error 429: Too Many Requests
+RETRY plastic-injection-molding-norco-plastics-inc HTTP Error 429: Too Many Requests
+RETRY power-factor HTTP Error 429: Too Many Requests
+RETRY plastic-supply-of-maine HTTP Error 429: Too Many Requests
+RETRY power-train-performance HTTP Error 429: Too Many Requests
+RETRY pemberton-electrical-supply-co HTTP Error 429: Too Many Requests
+RETRY plastics-processing-corporation HTTP Error 429: Too Many Requests
+RETRY plastics-inc HTTP Error 429: Too Many Requests
+RETRY power-flo-technologies HTTP Error 429: Too Many Requests
+RETRY performance-audio-llc HTTP Error 429: Too Many Requests
+RETRY precision-plastic-products-inc HTTP Error 429: Too Many Requests
+RETRY premier-metal-art HTTP Error 429: Too Many Requests
+RETRY plastic-injection-molding-norco-plastics-inc HTTP Error 429: Too Many Requests
+RETRY power-factor HTTP Error 429: Too Many Requests
+RETRY plastic-supply-of-maine HTTP Error 429: Too Many Requests
+RETRY power-train-performance HTTP Error 429: Too Many Requests
+RETRY pemberton-electrical-supply-co HTTP Error 429: Too Many Requests
+RETRY plastics-processing-corporation HTTP Error 429: Too Many Requests
+RETRY prestar-packaging HTTP Error 429: Too Many Requests
+RETRY power-flo-technologies HTTP Error 429: Too Many Requests
 done pemberton-electrical-supply-co 0 
+done penn-metal-fabricators-inc 0 
 done penny-fab-llc 0 
+done performance-audio-llc 1 
 done performance-auto 2 
 done performance-foodservice-midlands 0 
-done performance-systems-integration 0 
-done performance-woodworking-inc 1 
-done perry-s-metal-fabrication 1 
+done performance-systems-integration 3 
+done performance-woodworking-inc 0 
+done perry-s-metal-fabrication 3 
 done petoskey-plastics-inc 0 
 done pfeifer-studio 0 
 done phoenix-solar-panel-systems-llc 0 
-done pickup-city-inc 3 
-done piedmont-plastics 2 
-done pine-tree-food-equipment 1 
+done photonworks-engineering 0 
+done pickup-city-inc 4 
+done piedmont-plastics 1 
+done pine-tree-food-equipment 0 
 done pink-square-embroidery-llc 0 
 done pittsburgh-plastics-manufacturing 0 
-done pivotal-health-solutions 1 
-done planeta-woodworking 4 
-done plantible-foods-eldorado 1 
-done plasman-lawrenceburg-manufacturing 1 
-done plastech-machining-fab-inc 0 
+done pivotal-health-solutions 0 
+done planeta-woodworking 3 
+done plantible-foods-eldorado 0 
+done plasman-lawrenceburg-manufacturing 2 
+done plastech-machining-fab-inc 1 
 done plastic-bagmart 0 
-done plastic-injection-molding-advance-plastics 1 
-done plastic-injection-molding-norco-plastics-inc 1 
-done plastic-molding-manufacturing 1 
-done plastic-supply-of-maine 0 
-done plastics-processing-corporation 1 
+done plastic-injection-molding-advance-plastics 0 
+RETRY printex-fabrics-inc HTTP Error 429: Too Many Requests
+RETRY precision-plastic-products-inc HTTP Error 429: Too Many Requests
+RETRY plastic-injection-molding-norco-plastics-inc HTTP Error 429: Too Many Requests
+RETRY pro-forming-sheet-metal-llc HTTP Error 429: Too Many Requests
+RETRY power-factor HTTP Error 429: Too Many Requests
+RETRY plastic-supply-of-maine HTTP Error 429: Too Many Requests
+RETRY power-train-performance HTTP Error 429: Too Many Requests
+RETRY pro-tech-power-sales HTTP Error 429: Too Many Requests
+RETRY plastics-processing-corporation HTTP Error 429: Too Many Requests
+RETRY procare-medical-equipment HTTP Error 429: Too Many Requests
+RETRY power-flo-technologies HTTP Error 429: Too Many Requests
+RETRY professional-metal-fabricators-pmf HTTP Error 429: Too Many Requests
+RETRY professional-processor-food-equipment HTTP Error 429: Too Many Requests
+RETRY pulmuone-nasoya-foods-usa HTTP Error 429: Too Many Requests
+RETRY pure-country-custom-embroidery-printing HTTP Error 429: Too Many Requests
+RETRY purposeful-design HTTP Error 429: Too Many Requests
+RETRY pro-tech-power-sales HTTP Error 429: Too Many Requests
+RETRY plastics-processing-corporation HTTP Error 429: Too Many Requests
+RETRY procare-medical-equipment HTTP Error 429: Too Many Requests
+RETRY pyramid-packaging-inc HTTP Error 429: Too Many Requests
+done plastic-injection-molding-norco-plastics-inc 0 
+done plastic-molding-manufacturing 2 
+done plastic-supply-of-maine 3 
+done plastics-processing-corporation 0 
 done plastics-unlimited 1 
 done plastics-inc 0 
 done plastik-usa 2 
 done plexus-corporation 1 
 done polo-packaging 0 
-done polymer-components 0 
-done polymerpak-llc-plastics 2 
-done popknot-wood 0 
-done porter-barn-wood 1 
-done portsmouth-fabric-co 1 
+done polymer-components 2 
+done polymerpak-llc-plastics 1 
+done pompanoosuc-mills 2 
+done popknot-wood 1 
+done porter-barn-wood 0 
+done portsmouth-fabric-co 5 
 done portugal-woodworks-llc 1 
-done power-control-services 1 
+done power-control-services 0 
 done power-factor 1 
+done power-train-performance 0 
 done power-flo-technologies 0 
 done powerfilm-solar 0 
-done prairie-plastics-holdings 0 
-done prather-metalworks 0 
-done precision-packaging-services 1 
+done powers-manufacturing-co 7 
+done prairie-plastics-holdings 3 
+done prather-metalworks 1 
+done pravi-apparel 0 
+done precision-packaging-services 0 
 done precision-plastic-products-inc 0 
 done precision-woodworking-inc 3 
-done premier-metal-art 1 
-done premier-plastics 2 
-done prestar-packaging 2 
+done premier-metal-art 2 
+done premier-plastics 0 
+done prestar-packaging 0 
 done presto-packaging-foam-inc 0 
-done prime-automotive 3 
-done prime-source-foods 1 
-done primitive-precision-metalcraft 3 
+done prime-automotive 1 wrong
+done prime-source-foods 2 
+done primitive-precision-metalcraft 5 
 done primo-packaging 1 
-done priority-plastics-inc 1 
-done private-label-specialties 1 
-done pro-forming-sheet-metal-llc 2 
-done prostock-auto-parts-saddle-brook 2 
-done production-equipment-services-llc 1 
+done printex-fabrics-inc 4 
+done priority-plastics-inc 0 
+done private-label-specialties 0 
+done pro-ag-equipment 5 
+done pro-forming-sheet-metal-llc 1 
+RETRY quad-4-plastics HTTP Error 429: Too Many Requests
+RETRY quality-cable-contractors-inc HTTP Error 429: Too Many Requests
+RETRY professional-processor-food-equipment HTTP Error 429: Too Many Requests
+RETRY pure-country-custom-embroidery-printing HTTP Error 429: Too Many Requests
+RETRY quality-switchgear-inc HTTP Error 429: Too Many Requests
+RETRY purposeful-design HTTP Error 429: Too Many Requests
+RETRY pro-tech-power-sales HTTP Error 429: Too Many Requests
+RETRY qualus HTTP Error 429: Too Many Requests
+RETRY procare-medical-equipment HTTP Error 429: Too Many Requests
+RETRY quantum-semiconductor-llc HTTP Error 429: Too Many Requests
+RETRY quantumscape HTTP Error 429: Too Many Requests
+RETRY rbb HTTP Error 429: Too Many Requests
+RETRY pyramid-packaging-inc HTTP Error 429: Too Many Requests
+RETRY professional-processor-food-equipment HTTP Error 429: Too Many Requests
+RETRY quality-switchgear-inc HTTP Error 429: Too Many Requests
+RETRY procare-medical-equipment HTTP Error 429: Too Many Requests
+RETRY rbb HTTP Error 429: Too Many Requests
+done pro-tech-power-sales 1 
+RETRY rbb HTTP Error 429: Too Many Requests
+done procare-medical-equipment 0 
+done prostock-auto-parts-saddle-brook 1 
+done process-ohio-corporation 0 
+done production-equipment-services-llc 0 
 done professional-metal-fabricators-pmf 0 
-done progressive-packaging-inc 2 
-done pulmuone-nasoya-foods-usa 2 
+done professional-processor-food-equipment 1 
+done prysmian-north-america 0 
+done pulmuone-nasoya-foods-usa 1 
+done pure-country-custom-embroidery-printing 2 
+done purelight-power 2 
 done purposeful-design 0 
-done pyramid-packaging-inc 0 
-done q-d-wire-cable-assembly-inc 0 
+done pyramid-packaging-inc 3 
+done q-d-wire-cable-assembly-inc 1 
 done qb-studios-a-julsdesign-company 0 
-done qsr-steel-corporation 0 
-done quality-electrical-systems 0 
-done qorvo-inc 2 
-done quabbin-wire-cable-co-inc 1 
-done quad-4-plastics 0 
+done qsr-steel-corporation 1 
+done quality-electrical-systems 1 
+done qcells-usa-inc-eagle-plant-dalton 0 
+done qorvo-inc 0 
+done quabbin-wire-cable-co-inc 0 
+done quad-4-plastics 2 
 done quality-cable-contractors-inc 0 
 done quality-manufacturing-services-inc 0 
-done quality-quick-print 2 
-done quality-switchgear-inc 1 
+done quality-quick-print 4 
+done quality-switchgear-inc 3 
 done qualus 0 
+done quantum-semiconductor-llc 1 
 done quantumscape 0 
-done quick-custom-clothing 1 
-done r-r-textile-mill-inc 1 
-done ram-electronics-industries-inc 1 
+done quick-custom-clothing 2 
+done r-r-textile-mill-inc 0 
+done ram-electronics-industries-inc 0 
+RETRY rbb HTTP Error 429: Too Many Requests
 done rbb 1 
-done rbw 2 
-ALL-DONE errors 0
-clean 167 | sentences removed 144 | needs review 1 | check errors 0
-REVIEW p-s-food-company-llc too short after fact-check (69 words)
-sql parts 3 stories 167
+done rbw 1 
+ALL-DONE errors 6
+clean 181 | sentences removed 160 | needs review 5 | check errors 6
+REVIEW planeta-woodworking too short after fact-check (75 words)
+REVIEW plastic-molding-manufacturing too short after fact-check (73 words)
+REVIEW powers-manufacturing-co too short after fact-check (71 words)
+REVIEW prime-automotive Source name mismatch: describes Hahn Automotive while company name is Prime Automotive.
+REVIEW quick-custom-clothing too short after fact-check (65 words)
+ERROR oklahoma-plastic
+ERROR original-maine-factory-store
+ERROR orman-s-furniture
+ERROR ort-furniture-manufacturing-co
+ERROR pemberton-electrical-supply-co
+ERROR plastics-processing-corporation
+sql parts 3 stories 181

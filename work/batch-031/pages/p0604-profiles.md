@@ -3,30 +3,35 @@
 **Old description:** #1 Metal Fabrication & Mobile Welding Company In Greenville, SC
 
 ## About
-Ox Metalworx operates as a metal fabrication and mobile welding shop in Greenville, South Carolina. The company's fabricators began their careers in local fabrication shops before advancing to specialty welding projects on oil refineries across the United States. No founding year or ownership structure is publicly disclosed.
+Ox Metalworx operates from Greenville, South Carolina, at 846 North HWY25 Bypass. The company was founded by fabricators who began their careers in local fabrication shops before advancing to specialty welding on oil refineries across the United States. No founding year or ownership structure is disclosed.
 
-The shop provides custom fabrication, mobile welding, CNC plasma cutting, and specialty welding services. After a design is approved, the team handles fabrication and coordinates with local powder-coating and painting partners for finishing. Completed assemblies are installed on the customer's schedule. The business describes its workflow in three stages: Dream it, Fabricate it, Install it. Facility size, headcount, and production volumes are not published.
+The shop provides custom metal fabrication, mobile welding, CNC plasma cutting, and specialty welding. After fabrication, the company coordinates with local powder-coating and painting partners for finishing, and handles installation on the customer's schedule. No facility size, headcount, or production volumes are published.
 
-The company's background in refinery welding points to a focus on the oil and gas sector, though other industries served are not specified. Customers range from industrial clients requiring on-site welding to those needing custom metal components.
+The team's background includes extensive work on oil refineries, indicating experience serving the oil and gas sector. The service model targets clients needing custom metalwork from design through installation, though specific industries beyond refineries are not listed.
 
-Ox Metalworx emphasizes turning customer concepts into finished installations, offering a start-to-finish process that includes design collaboration, fabrication, finishing, and installation.
+Ox Metalworx emphasizes a "Dream it, Fabricate it, Install it" workflow, positioning itself as a single-source partner for custom metal projects. The company highlights its craftsmen's passion for the trade as a driver of quality.
 
 ## Known for
-- Mobile welding service for on-site repairs and fabrication
-- CNC plasma cutting for precision part production
-- Partnerships with local powder coaters and painters for finishing
-- Installation scheduled around customer timelines
-- Fabricators with specialty welding experience on oil refineries
+- Mobile welding service on-site
+- CNC plasma cutting capability
+- Coordinated powder coating and painting through local partners
+- Installation scheduled to customer requirements
+- Fabricators with oil refinery welding experience
 
 ## Capabilities
-- Custom Fabrication
-- Mobile Welding
-- CNC Plasma Cutting
-- Specialty Welding
+- Custom fabrication
+- Mobile welding
+- CNC plasma cutting
+- Specialty welding
+- Powder coating (outsourced)
+- Painting (outsourced)
 - Installation
 
 ## Industries
-- Oil refineries
+- Oil and gas (refineries)
+
+## Equipment
+- CNC plasma cutting machine
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -34,15 +39,12 @@ Ox Metalworx emphasizes turning customer concepts into finished installations, o
 
 <details><summary>Sources</summary>
 
-- Location: Greenville, SC -> db
-- Services: Custom Fabrication, Mobile Welding, CNC Plasma Cutting, Specialty Welding -> /
-- Fabricators started in local fab shops and evolved skills to specialty welding on oil refineries across America -> /
-- Works with local powder coaters and painters for finishing -> /
-- Installation according to customer schedule -> /
-- Workflow: Dream it, Fabricate it, Install it -> /
-- Address: 846 North HWY25 Bypass, Greenville, SC 29617 -> /
-- Company description: #1 Metal Fabrication & Mobile Welding Company In Greenville, SC -> db
-- Products: CNC Plasma Cutting -> db
+- Location: Greenville, SC (address 846 North HWY25 Bypass) -> page '/'
+- Services: Custom Fabrication, Mobile Welding, CNC Plasma Cutting, Specialty Welding -> page '/'
+- Finishing: work with local powder coaters and painters -> page '/'
+- Installation: custom metal work installed per schedule -> page '/'
+- Fabricator background: started in local fab shops, specialty welding on oil refineries across America -> page '/'
+- Contact info: info@oxmetalworx.com, (864) 263-8364 -> page '/'
 </details>
 
 ---
@@ -52,59 +54,54 @@ Ox Metalworx emphasizes turning customer concepts into finished installations, o
 **Old description:** Every person deserves the right to live their life with quality.
 
 ## About
-Oxytech, LLC operates from Sparks, Nevada, serving the Reno-Sparks area since 2010. The company is family-owned and privately operated, established as a dedicated oxygen service and repair business in Northern Nevada.
+Oxytech, LLC was established in 2010 in Sparks, Nevada, as a family-owned and operated enterprise. The company began as a privately held oxygen service and repair business focused on the Northern Nevada region.
 
-The firm specializes in the repair and maintenance of oxygen concentrators, CPAP machines, and other durable medical equipment. Oxytech also supplies a range of home respiratory products including CPAP supplies, nebulizers, walkers, wheelchairs, pulse oximeters, and bathroom aids, and carries Interstate Batteries.
+The firm specializes in the repair and maintenance of durable medical equipment, with particular expertise in oxygen concentrators and CPAP devices. Oxytech also supplies a range of respiratory and mobility products, including CPAP supplies, nebulizers, walkers, wheelchairs, pulse oximeters, and bathroom aids, and offers temporary replacement units while customer equipment is being repaired.
 
-The company serves patients with home healthcare needs, durable medical equipment users, and respiratory therapy patients throughout Northern Nevada. It accepts most major insurance plans and works directly with individuals who require equipment repair or replacement.
+Oxytech serves home-care patients and healthcare providers throughout Northern Nevada, accepting most major insurance plans as well as cash, check, and credit payments. Its customer base includes individuals requiring long-term oxygen therapy, sleep-apnea treatment, and mobility assistance.
 
-Oxytech distinguishes itself as the only privately-owned oxygen service and repair business in the region. It offers temporary replacement CPAP or concentrator units during repairs at a minimal fee, provides compassionate, Spanish-speaking service, and operates with a mission to deliver a high standard of care so that every person can live with quality.
+The company distinguishes itself as the only privately owned oxygen service and repair operation in Northern Nevada, emphasizing compassionate, timely service and a commitment to ensuring that every person can live with quality. Free logistics, round-the-clock access, and loaner equipment are cited as key differentiators.
 
 ## Known for
 - Only privately-owned oxygen service and repair business in Northern Nevada
 - Free pickup and delivery for Reno/Sparks residents
-- Temporary replacement CPAP/concentrator units during repairs
-- Spanish-speaking staff
+- Temporary replacement CPAP/concentrator during repairs
+- All staff qualified in concentrator and CPAP equipment
 
 ## Capabilities
-- Oxygen concentrator repair
+- Durable medical equipment repair
 - CPAP equipment repair
-- Durable medical equipment (DME) repair
-- Equipment pickup and delivery
-- Insurance billing
-- Temporary equipment loaner program
-- Respiratory equipment sales (CPAP supplies, nebulizers, walkers, wheelchairs, pulse oximeters, bathroom aids)
-- Battery sales (Interstate Batteries)
+- Oxygen concentrator repair
+- Free pickup and delivery
+- Temporary replacement equipment provision
+- Respiratory equipment sales
+- DME sales
+- On-call emergency service
 
 ## Industries
 - Durable medical equipment
+- Respiratory care
 - Home healthcare
-- Respiratory therapy
-- Medical equipment repair
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 2010
-- **Ownership:** Family-owned, Privately-owned
-- **Headquarters:** Sparks, Nevada
+- **Ownership:** Family-owned
+- **Headquarters:** Sparks, NV
 
 <details><summary>Sources</summary>
 
-- Company name Oxytech, LLC -> db
-- Headquarters Sparks, Nevada -> db
-- Founded 2010 -> / (copyright)
+- Founded 2010 (copyright notice) -> /
 - Family-owned and operated -> /about
 - Privately-owned oxygen service and repair business in Northern Nevada -> /about
-- Qualified technicians in concentrator and CPAP equipment -> /about
 - Free pickup and delivery to Reno/Sparks citizens -> /about
-- 24/7 on-call service -> /about
+- 24/7 on-call service availability -> /about
+- Temporary replacement CPAP/Concentrator during repairs -> /about
+- All staff qualified technicians in concentrator and CPAP equipment -> /about
+- Headquarters at 1544 Pittman Ave, Sparks, NV 89431 -> /about
+- Spanish language support (Hablamos español) -> /
 - Accepts most major insurance -> /about
-- Accepts cash, check, credit for repairs -> /about
-- Provides temporary replacement CPAP/Concentrator during repairs -> /about
-- Supplies CPAP, nebulizers, walkers, wheelchairs, pulse oximeters, bathroom aids, Interstate Batteries -> /
-- Spanish spoken (Hablamos español) -> /
-- Mission: high standard of service, compassion -> /
-- Hours: Mon-Fri 8:30 AM-4:30 PM, on-call 7 days -> /
+- Provides respiratory equipment and mobility aids -> /
 </details>
 
 ---
@@ -114,26 +111,25 @@ Oxytech distinguishes itself as the only privately-owned oxygen service and repa
 **Old description:** We manufacture fresh Rice Noodles that can be found in most grocery stores and restaurants all over Seattle.
 
 ## About
-P & S Food Company LLC operates from a facility in Seattle’s International District. The business is owned by Johnny Sirinontanaves and Thanawan Jittretan, with Christian Junel Taloza serving as operations manager. The company produces fresh rice noodles for the local market.
+P & S Food Company LLC operates from Seattle, Washington, where it produces fresh rice noodles for the local market. The business is owned by Johnny Sirinontanaves and Thanawan Jittretan, with Christian Junel Taloza serving as operations manager. The company's founding year is not publicly disclosed.
 
-The company’s sole product line consists of fresh rice noodles, manufactured on-site and distributed to grocery stores and restaurants throughout the Seattle metropolitan area. The noodles are made daily and delivered to retail and foodservice accounts across the city.
+The facility manufactures fresh rice noodles, which are distributed to grocery stores and restaurants throughout the Seattle area. Specific details about production capacity, facility size, or employee headcount are not provided.
 
-Customers include independent grocers, Asian markets, and restaurant operators in the Seattle area. The company’s distribution reaches most grocery stores and restaurants in the region, according to its own description.
+The company's primary customers are grocery retailers and foodservice establishments in the Seattle metropolitan area. Its noodles are described as being available in most grocery stores and restaurants across the city.
 
-P & S Food Company emphasizes its local roots, stating that all noodles are “made with love in Seattle, WA” and “locally made in Seattle, WA.” The focus on fresh, locally produced noodles distinguishes the operation from larger, non-local suppliers.
+P & S Food Company emphasizes that its products are made locally in Seattle, a point highlighted on its website with phrases such as "Made with love in Seattle, WA" and "All our fresh Rice Noodles are locally made in Seattle, WA."
 
 ## Known for
-- Fresh rice noodles produced daily in Seattle
-- Distribution to most Seattle grocery stores and restaurants
-- Locally owned and operated
+- Locally produced in Seattle, WA
+- Fresh rice noodles
+- Distribution to grocery stores and restaurants across Seattle
 
 ## Capabilities
 - Fresh rice noodle manufacturing
 
 ## Industries
-- Grocery retail
-- Foodservice
-- Restaurant supply
+- Grocery stores
+- Restaurants
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -141,13 +137,15 @@ P & S Food Company emphasizes its local roots, stating that all noodles are “m
 
 <details><summary>Sources</summary>
 
-- Manufactures fresh rice noodles -> /
-- Located at 1300 S Weller St, Seattle, WA 98144 -> /
-- Owned by Johnny Sirinontanaves and Thanawan Jittretan -> /
-- Operations manager: Christian Junel Taloza -> /
-- Products found in most grocery stores and restaurants all over Seattle -> /
-- All fresh rice noodles locally made in Seattle, WA -> /
-- Headquarters: Seattle, Washington -> db
+- Company name: P & S Food Company Llc -> db
+- Manufactures fresh rice noodles -> db (description) and /
+- Headquartered in Seattle, Washington -> db (hq_city, hq_state_label) and /
+- Owners: Johnny Sirinontanaves & Thanawan Jittretan -> /
+- Operations Manager: Christian Junel Taloza -> /
+- Products sold in most grocery stores and restaurants across Seattle -> db (description) and /
+- Address: 1300 S Weller St, Seattle, WA 98144 -> /
+- Tagline: Made with love in Seattle, WA -> /
+- Tagline: All our fresh Rice Noodles are locally made in Seattle, WA -> /
 </details>
 
 ---
@@ -157,45 +155,54 @@ P & S Food Company emphasizes its local roots, stating that all noodles are “m
 **Old description:** Copyright © 2025, P.A. Electronics Corporation. All Rights Reserved. 675 Industrial Court
 
 ## About
-P A Electronics Corporation operates from Hartland, Wisconsin. The company was founded in 1995 and is veteran owned and operated.
+P.A. Electronics Corporation operates from Hartland, Wisconsin, where it was founded in 1995 as a veteran-owned and operated business. The company marks its 30th anniversary in 2025, reflecting three decades of continuous service in the magnetics sector.
 
-The company designs and manufactures military and commercial transformers, inductors, and coils. Its product range includes control transformers, audio transformers, toroidal transformers, current transformers, 50/60 Hz and 400 Hz transformers, inductors, three-phase units, Scott-T and Vernistat transformers, and synchro/resolver components. P A Electronics specializes in quick-turnaround prototypes and maintains thousands of existing designs to meet immediate needs, while also offering custom designs to customer specifications. The facility provides environmental vibration and shock testing and performs qualification to standards such as MIL-PRF-27 Grade 5 and Grade 4, MIL-STD-981, MIL-STD-202, MIL-STD-2000, MIL-T-16315, MIL-I-45208, J-W-1177, and MIL-E917.
+The company designs and manufactures military and commercial transformers, inductors, and coils. Its capabilities span custom magnetic component design, quick-turnaround prototyping, and full-scale production of control transformers, audio transformers, toroidal transformers, current transformers, 50/60 Hz and 400 Hz transformers, three-phase units, Scott‑T and synchro/resolver transformers, and VERNISTAT models. In‑house environmental testing includes vibration and shock validation per military standards. The firm maintains a catalog of thousands of existing designs to meet immediate demand.
 
-The company serves both military and commercial customers, supplying magnetic components for defense programs and commercial electronic equipment.
+Primary customers include military procurement agencies and commercial OEMs requiring components qualified to MIL‑PRF‑27 (Grades 4 and 5), MIL‑T‑27, MIL‑T‑16315, MIL‑STD‑981, MIL‑I‑45208, MIL‑STD‑202, J‑W‑1177, MIL‑E917, and MIL‑STD‑2000. Parts are searchable by PA Electronics part number, national stock number (NSN), and military or commercial part numbers, supporting both defense and industrial supply chains.
 
-P A Electronics emphasizes rapid prototype delivery and a large library of proven designs as its core differentiators, allowing customers to obtain qualified magnetic components with short lead times.
+The company emphasizes its veteran ownership, rapid prototype turnaround, extensive design library, and in‑house environmental test capability as key differentiators. Its founding purpose was to provide reliable, specification‑compliant magnetics with the agility to deliver custom solutions on short notice.
 
 ## Known for
+- Veteran-owned and operated since 1995
 - Quick-turnaround prototype service
-- Thousands of catalog designs available for immediate use
-- Custom magnetic component design to customer specifications
-- Environmental vibration and shock testing in-house
-- Compliance with MIL-PRF-27 Grade 5 and Grade 4
+- Thousands of existing designs available for immediate shipment
+- In-house environmental vibration and shock testing
+- Compliance with MIL-PRF-27 Grade 4/5 and multiple military specifications
 
 ## Capabilities
-- Transformer design and manufacturing
-- Inductor and coil manufacturing
-- Prototype development
-- Environmental testing (vibration/shock)
-- MIL-STD compliance testing (MIL-STD-202, MIL-STD-981, MIL-STD-2000)
+- Transformer design and manufacture
+- Inductor design and manufacture
+- Coil winding
+- Quick-turn prototyping
+- Environmental vibration testing
+- Environmental shock testing
+- MIL-PRF-27 Grade 4 compliance
+- MIL-PRF-27 Grade 5 compliance
+- MIL-T-27 compliance
+- MIL-T-16315 compliance
+- MIL-STD-981 compliance
+- MIL-I-45208 compliance
+- MIL-STD-202 compliance
+- J-W-1177 compliance
+- MIL-E917 compliance
+- MIL-STD-2000 compliance
 - Custom magnetic component design
-- Scott-T transformer manufacturing
-- Vernistat variable transformer manufacturing
-- Synchro/resolver transformer manufacturing
-- Control transformer manufacturing
-- Audio transformer manufacturing
-- Toroidal transformer manufacturing
-- Current transformer manufacturing
-- 50/60 Hz transformer manufacturing
-- 400 Hz transformer manufacturing
-- Three-phase transformer manufacturing
+- Scott-T transformer manufacture
+- Synchro/Resolver transformer manufacture
+- VERNISTAT transformer manufacture
+- Control transformer manufacture
+- Audio transformer manufacture
+- Toroidal transformer manufacture
+- Current transformer manufacture
 
 ## Industries
 - Military
 - Commercial
 
 ## Certifications
-- MIL-PRF-27
+- MIL-PRF-27 Grade 5
+- MIL-PRF-27 Grade 4
 - MIL-T-27
 - MIL-T-16315
 - MIL-STD-981
@@ -204,8 +211,7 @@ P A Electronics emphasizes rapid prototype delivery and a large library of prove
 - J-W-1177
 - MIL-E917
 - MIL-STD-2000
-- MIL-PRF-27 Grade 5
-- MIL-PRF-27 Grade 4
+- MIL-STD
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -215,17 +221,18 @@ P A Electronics emphasizes rapid prototype delivery and a large library of prove
 
 <details><summary>Sources</summary>
 
-- Founded 1995 -> /
-- Veteran owned and operated -> /
-- Headquarters Hartland, Wisconsin -> /
+- Headquarters: Hartland, WI -> db
+- Founded 1995 (30th anniversary 2025) -> /
+- Veteran-owned and operated -> /
 - CAGE code 1QGG9 -> /
-- Designs and manufactures military/commercial transformers, inductors, coils -> /
-- Specializes in quick turnaround prototypes -> /
-- Offers thousands of catalog designs -> /
-- Provides environmental vibration/shock testing -> /
-- Certified to MIL-PRF-27 Grade 5 and Grade 4 -> /
-- Tests to MIL-STD-202, MIL-STD-981, MIL-STD-2000, MIL-T-16315, MIL-I-45208, J-W-1177, MIL-E917 -> /
-- Serves military and commercial customers -> /
+- Designs & manufactures military/commercial transformers, inductors, coils -> /
+- Quick turnaround prototypes -> /
+- Thousands of designs for immediate needs -> /
+- Environmental vibration/shock test data testing -> /
+- MIL-PRF-27 Grade 4/5 compliance -> /
+- MIL-T-16315, MIL-STD-981, MIL-I-45208, MIL-STD-202, J-W-1177, MIL-E917, MIL-STD-2000 compliance -> /
+- Product categories: control, audio, toroidal, current, 50/60Hz, 400Hz, 3-phase, Scott-T, synchro/resolver, VERNISTAT -> /
+- Parts searchable by PA part number, NSN, military/commercial part numbers -> /
 </details>
 
 ---
@@ -235,39 +242,42 @@ P A Electronics emphasizes rapid prototype delivery and a large library of prove
 **Old description:** Since 1949, P1 Technologies has combined technical precision with deep manufacturing expertise to bring complex ideas to life. From our
 
 ## About
-P1 Technologies operates from a 144,000-square-foot vertically integrated facility in Roanoke, Virginia. The company traces its roots to 1949 and was rebranded as P1 Technologies in 2019. It is employee-owned.
+P1 Technologies operates from a 144,000-square-foot vertically integrated facility in Roanoke, Virginia. The company traces its roots to 1949 and was rebranded as P1 Technologies in 2019; a planned 2026 merger with Keltech will add printed circuit board assembly and box-build capabilities. The business is employee-owned.
 
-The company provides turnkey contract manufacturing services including printed circuit board assembly (PCBA), box builds, additive manufacturing, rapid prototyping, custom cable assemblies, in-house tooling design and fabrication, precision molding, packaging, inspection, and cleanroom sterile barrier packaging. With two SMT production lines equipped with Europlacer pick-and-place machines, the facility supports surface-mount, through-hole, BGA and micro-BGA assembly, selective soldering, automated conformal coating, and rework. The operation runs from prototype through full production volumes with a staff of over 480.
+The shop provides precision molding, custom cable assemblies and connectors, printed circuit board assembly (including surface-mount, through-hole, BGA and micro-BGA), box builds, additive manufacturing, rapid prototyping, in-house tooling design and fabrication, and cleanroom sterile barrier packaging. Two SMT lines with Europlacer pick-and-place equipment support prototype through high-volume production, backed by 480-plus employees.
 
-P1 serves original equipment manufacturers in the medical, defense, and audio sectors. Medical work includes diagnostic connectors and sterile-packaged assemblies; defense programs require rugged interconnects for mission-critical conditions; audio customers rely on high-end cable assemblies for professional and in-ear-monitor applications.
+Primary markets are medical (diagnostic, therapeutic and wearable devices), defense (rugged interconnects for mission-critical systems) and audio (high-end and in-ear-monitor cable assemblies). Customers are OEMs that outsource complex electro-mechanical assemblies.
 
-The company emphasizes its integrated in-house model as a differentiator, citing lean operations that reduce waste, deep supply-chain knowledge that shortens lead times, and advanced capabilities that keep control, speed, and reliability under one roof. It holds ISO 9001:2015 and ISO 13485:2016 certifications, is FDA registered, and ITAR compliant.
+P1 emphasizes its integrated in-house model—tooling, molding, electronics assembly and cleanroom packaging under one roof—to reduce lead times and supply-chain risk. The employee-owned structure is cited as a driver of accountability and precision.
 
 ## Known for
-- In-house tooling design and fabrication
-- ISO Class 7 & 8 cleanroom capabilities for sterile barrier packaging
-- Additive manufacturing and soft tooling for rapid prototyping
-- Turnkey assembly and inspection from PCB integration to final validation
+- Vertically integrated in-house capabilities from tooling to cleanroom packaging
+- Employee-owned team of 480+ delivering accountability
+- 144,000 sq ft facility with two SMT lines and ISO Class 7/8 cleanrooms
 - ISO 9001:2015, ISO 13485:2016, FDA registered, ITAR compliant
+- Prototype to high-volume production accelerated by additive manufacturing
 
 ## Capabilities
-- PCBA (printed circuit board assembly)
-- Box builds
+- Precision molding
+- Custom cable assemblies & connectors
+- PCB assembly (SMT, through-hole, BGA/micro-BGA)
+- Box build & final assembly
 - Additive manufacturing
 - Rapid prototyping
-- Custom cable assemblies & connectors
 - In-house tooling design & fabrication
-- Precision molding
-- Packaging & inspection
-- Cleanroom & sterile barrier packaging
-- Surface mount technology (SMT) assembly
-- Through-hole assembly
-- BGA and micro-BGA assembly
+- Cleanroom sterile barrier packaging (ISO Class 7 & 8)
+- Packaging, inspection & identification
 - Selective soldering
 - Automated conformal coating
-- Rework and repair
+- Rework & repair
 - Final assembly testing
-- Ultra-precise part fabrication
+- Soft tooling
+- Low-volume production
+- High-volume production
+- Systems engineering
+- Medical device molding
+- Rugged interconnect manufacturing
+- Audio cable assembly
 
 ## Industries
 - Medical
@@ -276,7 +286,8 @@ The company emphasizes its integrated in-house model as a differentiator, citing
 
 ## Equipment
 - Europlacer pick-and-place equipment
-- SMT production lines
+- Two SMT production lines
+- Multiple slide-line assembly stations
 
 ## Certifications
 - ISO 9001:2015
@@ -294,21 +305,27 @@ The company emphasizes its integrated in-house model as a differentiator, citing
 <details><summary>Sources</summary>
 
 - Founded in 1949 -> /about-us
-- Rebranded as P1 Technologies in 2019 -> /about-us
+- Reimagined as P1 Technologies in 2019 -> /about-us
+- 2026 strategic merger with Keltech -> /about-us
 - Employee-owned -> /about-us
-- Headquarters Roanoke, Virginia -> / (homepage) and /about-us
-- Facility size 144,000 sq ft -> / (homepage) and /about-us
-- Employee count 480+ -> /about-us
-- Certifications: ISO 9001:2015, ISO 13485:2016, FDA Registered, ITAR Compliant -> /about-us
+- 144,000 sq ft facility -> /about-us, /
+- 480+ employees -> /about-us
+- ISO 9001:2015 & ISO 13485:2016 certified -> /about-us, /
+- FDA Registered & ITAR Compliant -> /about-us, /
 - ROHS certification -> db
-- Capabilities: PCBA, box builds, additive manufacturing, rapid prototyping, custom cable assemblies, in-house tooling, precision molding, packaging, inspection, cleanroom packaging -> / (homepage) and /about-us
-- Specific processes: SMT assembly, through-hole, BGA/micro-BGA, selective soldering, conformal coating, rework, final assembly testing -> / (homepage) products array
-- Industries served: Medical, Defense, Audio -> / (homepage) markets section
-- Equipment: Europlacer pick-and-place, SMT production lines -> / (homepage) products array
-- Volume: Prototype through production support -> / (homepage) products array
-- Export compliance: ITAR Compliant -> /about-us
-- Company type: Contract manufacturer -> /about-us phrase 'Shaping the Future of Contract Manufacturing'
-- Makes products: yes -> inferred from manufacturing capabilities
+- Markets: Medical, Defense, Audio -> /
+- Medical: diagnostic, therapeutic, wearable medical technologies -> /
+- Defense: rugged, reliable interconnects and components -> /
+- Audio: high-end audio and IEM cable assemblies -> /
+- Capabilities: precision molding, custom cable assemblies, PCBA, box builds, additive manufacturing, rapid prototyping, in-house tooling, cleanroom packaging -> /, /about-us
+- Two SMT production lines with Europlacer pick-and-place equipment -> /
+- BGA and Micro-BGA assembly capabilities -> /
+- Selective soldering capabilities -> /
+- In-house automated conformal coating -> /
+- Rework and repair capabilities -> /
+- ISO Class 7 & 8 cleanroom -> /about-us
+- Prototype through production support -> /
+- Cost Savings Through Lean Operations, Deep Supply Chain Knowledge, Advanced In-House Capabilities -> /
 </details>
 
 ---
@@ -318,27 +335,26 @@ The company emphasizes its integrated in-house model as a differentiator, citing
 **Old description:** This site uses cookies for analytics, personalized content and ads. By continuing to browse this site, you agree to this use.
 
 ## About
-PB Group, LLC, operating as PLAN-B GROUP, is headquartered in Baton Rouge, Louisiana. The company maintains two facilities in the area: a corporate headquarters on North Harrells Ferry Road and an additional office on South Sherwood Forest Boulevard. It holds CAGE code 7RVV8, indicating its registration for government contracting. A copyright notice dated 2020 appears on its website, though a specific founding year is not disclosed.
+PB Group, LLC, doing business as PLAN-B GROUP, is headquartered in Baton Rouge, Louisiana. The company operates under the cage code 7RVV8 and presents itself as a hybrid supply chain solution for electronic components.
 
-The firm describes itself as a hybrid supply chain solution and functions as a distributor of electronic components. Its online catalog lists thousands of active SKUs from manufacturers such as Molex, AVX, Amphenol, Fedco Batteries, Hoffman Enclosures, Keystone Electronics, Maxim Integrated, Microsemi, and NXP. Product categories include connectors, capacitors, enclosures, and integrated circuits. The company emphasizes that all inventory is ready to ship from its sellers and offers a request-for-quote (RFQ) system for procurement.
+The firm functions as a distributor and supply-chain integrator, maintaining a searchable inventory of electronic components from manufacturers such as Molex, AVX Corporation, Amphenol, Maxim Integrated, and NXP. Its platform allows customers to submit instant requests for quote (RFQ) and access value-added services, with stock ready to ship from its network of sellers. The company lists active SKUs across categories including connectors, capacitors, enclosures, and semiconductors.
 
-PB Group serves customers in the electronics, government, military, aerospace, and marine sectors. Its government and military focus aligns with its CAGE registration, while the aerospace and marine listings suggest it supplies components for harsh-environment and regulated applications. The company markets to buyers seeking rapid fulfillment and competitive pricing across these verticals.
+PLAN-B GROUP serves customers in the electronics, government, military, aerospace, and marine sectors. Its manufacturer lineup and product categories suggest a focus on high-reliability components for defense and aerospace programs, as well as commercial electronics.
 
-The company promotes its hybrid supply chain model as a differentiator, combining broad inventory access with value-added services. It advertises quality guarantees, low prices, and competitive pricing on its inventory. The "Value Added" section of its website hints at additional services beyond basic distribution, though specifics are not detailed publicly.
+The company emphasizes its hybrid supply-chain model, combining a global component search with ready-to-ship availability and competitive pricing. It promotes quality assurance and low-cost inventory as key differentiators for buyers seeking rapid fulfillment.
 
 ## Known for
-- Hybrid supply chain model
-- Inventory ready to ship from multiple sellers
-- Quality guaranteed
-- Competitive pricing
-- CAGE code 7RVV8 for government contracting
+- Hybrid supply chain solution
+- Global search across electronic component inventory
+- Ready-to-ship stock from authorized sellers
+- Competitive pricing with quality guarantee
 
 ## Capabilities
 - Electronic component distribution
-- Supply chain solutions
-- RFQ processing
-- Inventory management
+- Request for Quote (RFQ) management
 - Value-added services
+- Supply chain integration
+- Inventory sourcing and fulfillment
 
 ## Industries
 - Electronics
@@ -353,16 +369,14 @@ The company promotes its hybrid supply chain model as a differentiator, combinin
 
 <details><summary>Sources</summary>
 
-- Company name PB Group, LLC and website pbgrp.com -> db
-- Headquarters Baton Rouge, Louisiana -> db and /
-- CAGE code 7RVV8 -> /
-- Two Baton Rouge addresses (11965 N Harrells Ferry Rd and 4520 S. Sherwood Forest Blvd) -> /
-- Business described as 'Hybrid supply chain solution' and distributor of electronic components -> /
-- Carries products from manufacturers Molex, AVX, Amphenol, Fedco, Hoffman, Keystone, Maxim, Microsemi, NXP -> /
+- Company name PB Group, LLC / PLAN-B GROUP -> db
+- Headquarters Baton Rouge, Louisiana -> db
+- Cage code 7RVV8 -> /
 - Industries served: Electronics, Government, Military, Aerospace, Marine -> /
-- Copyright 2020 PLAN-B GROUP, LLC -> /
-- RFQ system and 'Value Added' services mentioned -> /
-- Marketing claims: quality guaranteed, low price, competitive pricing, inventory ready to ship -> /
+- Business model: distributor of electronic components, hybrid supply chain solution -> /
+- Manufacturers represented: Molex, AVX, Amphenol, Maxim, NXP, etc. -> /
+- RFQ and value-added services mentioned -> /
+- Copyright 2020 -> /
 </details>
 
 ---
@@ -372,32 +386,38 @@ The company promotes its hybrid supply chain model as a differentiator, combinin
 **Old description:** Check out our new video demonstration and view our Kocsis catalog.
 
 ## About
-PC Industries, LLC operates from Afton, Wyoming, where it does business under the Powerline Components trademark. The company was formed as a limited liability company, though its founding year and ownership structure are not publicly disclosed.
+PC Industries operates from Afton, Wyoming, doing business under the Powerline Components® trademark. The company does not publish a founding year or ownership structure in its public materials, positioning itself as a specialist supplier to the heavy-duty diesel market.
 
-The firm functions as an authorized distributor for Kocsis hydraulic starter systems and Donaldson filtration and exhaust products. It also stocks engines, parts, and accessories for Detroit Diesel, Cummins, Perkins, John Deere, and Caterpillar, along with overhaul kits, water-cooled manifolds, and the 6V92 industrial engine. The company maintains an engine inventory and lists the 6V92 industrial engine at a starting price of $29,500.
+The firm stocks and distributes engine parts and accessories for Detroit Diesel, Cummins, John Deere, and Caterpillar platforms. Its catalog includes overhaul kits, water-cooled manifolds, Donaldson filtration and exhaust products, and Kocsis hydraulic starting systems. The company notes that a percentage of all hydraulic assemblies are tested before shipment and that its modular product design allows flexibility for customers.
 
-Its customer base spans operators of heavy-duty diesel engines in industrial, marine, and power-generation settings who require replacement components, hydraulic starting solutions, and filtration systems. The company provides product support for Kocsis systems, offers Spanish-language service, and states a policy of full compliance with U.S. export laws. Operating hours are Monday through Thursday, 6:30 AM to 5:00 PM Mountain Time.
+Customers span industrial, construction, agricultural, and marine sectors that run heavy-duty diesel engines. The company serves fleets, equipment dealers, and repair operations needing OEM and aftermarket components for engines such as the 6V92 industrial series.
+
+Powerline Components® emphasizes compliance with U.S. export regulations and offers bilingual support in English and Spanish. The trademarked product line and authorized-distributor status for Kocsis starters are cited as key differentiators.
 
 ## Known for
 - Authorized distributor for Kocsis hydraulic starter systems
-- Authorized distributor for Donaldson filtration products
-- Carries major engine brands: Detroit Diesel, Cummins, Perkins, John Deere, Caterpillar
-- Spanish-language customer support
-- Policy of compliance with U.S. export laws
+- Trademarked POWERLINE COMPONENTS® product line
+- Hydraulic assembly testing on a portion of production
+- Export compliance policy covering U.S. regulations
+- Bilingual customer support in English and Spanish
 
 ## Capabilities
-- Diesel engine parts distribution
+- Engine parts distribution
+- Filtration products supply
+- Exhaust products supply
 - Hydraulic starter system distribution
-- Filtration product distribution
 - Overhaul kit supply
-- Technical support for Kocsis products
-- Export compliance management
+- Water-cooled manifold supply
+- Product technical support
+- Hydraulic assembly testing
 
 ## Industries
 - Heavy-duty diesel engines
-- Hydraulic starting systems
-- Filtration and exhaust
 - Industrial engines
+- Construction equipment
+- Agricultural equipment
+- Marine engines
+- Mining equipment
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -406,15 +426,19 @@ Its customer base spans operators of heavy-duty diesel engines in industrial, ma
 <details><summary>Sources</summary>
 
 - Headquarters in Afton, Wyoming -> db
-- Company name PC Industries, LLC and trademark Powerline Components -> db
+- Website: powerlinecomponents.com -> db
+- Trademark POWERLINE COMPONENTS® registered to P C Industries, LLC -> /
 - Authorized distributor for Kocsis hydraulic starter systems -> /
-- Authorized distributor for Donaldson filtration and exhaust products -> /
-- Stocks engines, parts, accessories for Detroit Diesel, Cummins, Perkins, John Deere, Caterpillar -> /
-- Offers overhaul kits, water-cooled manifolds, 6V92 industrial engine -> /
-- Provides product support for Kocsis systems -> /
-- Spanish-language service -> /
-- Policy of compliance with U.S. export laws -> /
-- Operating hours Monday-Thursday 6:30AM-5:00PM -> /
+- Distributes Detroit Diesel, Cummins, John Deere, Caterpillar engine parts -> /
+- Offers Donaldson filtration and exhaust products -> /
+- Supplies overhaul kits and water-cooled manifolds -> /
+- Tests a percentage of hydraulic assemblies -> /
+- Modular design for product flexibility -> /
+- Serves heavy-duty diesel engine market -> /
+- Export compliance policy stated -> /
+- Bilingual support: English and Spanish -> /
+- Phone numbers and email listed -> /
+- Hours of operation: Mon-Thurs 6:30AM-5:00PM -> /
 </details>
 
 ---
@@ -424,20 +448,20 @@ Its customer base spans operators of heavy-duty diesel engines in industrial, ma
 **Old description:** Experience the next generation of custom PC building and expert repair. Transparent pricing, premium parts, and elite craftsmanship in Sand Island.
 
 ## About
-PC Plug Hawaii operates from a workshop in the Sand Island area of Honolulu, Hawaii. The company was founded by Liplop Tran, Eric Ligsay, and Ross Kanakuri, who set out to bring premium-quality custom PC builds and honest repair services to the local community without the runaround.
+PC Plug Hawaii operates from a lab at 2290 Alahao Place in Honolulu’s Sand Island district. The company was founded by Liplop Tran, Eric Ligsay, and Ross Kanakuri, who shared a goal of delivering premium custom PC builds and straightforward repair services to the local community.
 
-The shop specializes in custom computer assembly, component-level diagnostics and repair, hardware upgrades, data recovery, and networking services. Technicians handle everything from budget planning and part selection to professional assembly with meticulous cable management, stress testing, and thermal tuning. They also repair phones and other devices, reset passwords, and provide training and consultation for device setup and upgrade planning. The facility operates six days a week, accepting walk-ins and appointments.
+The shop specializes in custom PC assembly, component-level diagnostics, hardware repairs, and performance tuning. Services include full system builds with cable management and thermal optimization, SSD/RAM/GPU upgrades, operating system cleanup, phone and device repair (screen, battery, charging port), data recovery from SSDs and HDDs, password resets, and networking setup for home offices and small businesses. Walk-in service is available Monday through Saturday.
 
-The clientele spans gamers, content creators, students, and businesses, as well as home offices, streamers, and small businesses seeking secure, high-performance networks. The team tailors each build or repair to the user’s performance goals and budget, whether it’s a silent studio workstation or a hyper-tuned gaming rig.
+Customers range from gamers and content creators to students, home-office workers, streamers, and small businesses. The team builds workstations for creative professionals, tunes rigs for competitive gaming, and provides on-site networking optimization for small commercial clients.
 
-The founders emphasize a luxury experience with zero attitude: transparent pricing, clean aesthetics, and clear communication. They prioritize careful handling of customer gear, honest upgrade recommendations, and a “performance first” approach that aims to deliver systems that run flawlessly and look premium doing it.
+The founders started the business to offer a “luxury experience, zero attitude” — emphasizing transparent pricing, premium parts, clean aesthetics, and honest recommendations. They position the lab as a place where tech works flawlessly and looks premium doing it, with a focus on careful handling, privacy-first data handling, and clear communication throughout the process.
 
 ## Known for
-- Transparent pricing and premium parts
-- Showroom-ready cable management
-- Component-level diagnostics with clear timelines
-- Honest upgrade recommendations
-- Privacy-first data recovery
+- Transparent pricing with premium parts and elite craftsmanship
+- Showroom-ready cable management and clean build aesthetics
+- Component-level diagnostics and transparent repair plans before spending
+- Privacy-first data handling during recovery and repair
+- Luxury service experience with zero attitude
 
 ## Capabilities
 - Custom PC building
@@ -445,15 +469,19 @@ The founders emphasize a luxury experience with zero attitude: transparent prici
 - Professional assembly and cable management
 - Stress testing and thermal tuning
 - System overclocking and BIOS optimization
-- Hardware upgrades (SSD, RAM, GPU, PSU, cooling)
+- SSD/RAM/GPU/PSU/cooling upgrades
 - OS cleanup and performance tuning
 - Phone and device repair (screen, battery, charging port, speaker)
-- Password reset and account recovery (Windows/macOS)
-- Cable management and airflow optimization
-- PC troubleshooting and hardware diagnostics
-- Thermal and stability testing
-- Training and consultation (device setup, upgrade roadmap)
-- Data recovery (SSD/HDD assessment, backup/migration)
+- Hardware diagnostics and thermal stability testing
+- Password resets and account recovery (Windows/macOS)
+- Secure settings review and backup setup
+- Full re-wire and tidy cable routing
+- Airflow optimization and RGB/controller cleanup
+- PC troubleshooting (blue screens, no boot, random shutdowns)
+- Device setup and optimization
+- Upgrade roadmap guidance
+- Quick how-to walkthroughs
+- Data recovery (SSD/HDD assessment, backup, migration)
 - Networking services (router/Wi-Fi optimization, hardwire/switch setup, security best practices)
 
 ## Industries
@@ -466,17 +494,18 @@ The founders emphasize a luxury experience with zero attitude: transparent prici
 
 ## Company details
 - **Company Type:** Installer / service company
-- **Headquarters:** Honolulu, Hawaii
+- **Ownership:** Private (three owners)
+- **Headquarters:** Honolulu, HI
 
 <details><summary>Sources</summary>
 
-- Location: Honolulu, Hawaii (Sand Island) -> db (hq_city, hq_state_label) and home page address
-- Founders: Liplop Tran, Eric Ligsay, Ross Kanakuri -> /about page
-- Services: custom PC building, repair, upgrades, data recovery, networking -> /services page
-- Customer types: gamers, creators, students, businesses, home offices, streamers, small businesses -> /about and /services pages
-- Differentiators: transparent pricing, premium parts, clean cable management, fast diagnostics, honest upgrades -> /about and home pages
-- No founding year explicitly stated -> db
-- No certifications mentioned -> db
+- Location: 2290 Alahao Pl Unit #303A, Honolulu, HI 96819 -> /
+- Owners: Liplop Tran, Eric Ligsay, Ross Kanakuri -> /about
+- Founding goal: premium custom PC builds and honest tech repair -> /about
+- Services: custom builds, repairs, upgrades, phone repair, data recovery, networking -> /services
+- Customer types: gamers, creators, students, businesses, home offices, streamers -> /about, /services
+- Differentiators: transparent pricing, premium parts, clean builds, luxury experience, privacy-first -> /about, /services
+- Hours: Mon-Sat 10:00 AM - 6:00 PM -> /
 - LinkedIn URL -> db
 </details>
 
@@ -484,26 +513,97 @@ The founders emphasize a luxury experience with zero attitude: transparent prici
 
 # PDCI-Automotive
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** Pacific Die Cut Industries (PDCI) Medical is an ISO 13485 certified manufacturer of precision die cut components and converted materials for use in a broad range of medical device applications.
+
+## About
+Pacific Die Cut Industries (PDCI) is headquartered in Lebanon, Kentucky. The company traces its origins to 1989 when it opened in the San Francisco Bay Area to address a shortage of custom automotive converting suppliers for Toyota and General Motors, offering just-in-time delivery and quality parts. No founders are named, and ownership structure is not disclosed.
+
+PDCI converts non-rigid and thin rigid substrates into precision die-cut components through processes that include multi-station rotary die cutting, kiss cutting, lamination, slitting (up to 72 inches wide), CNC knife cutting, and clean-room manufacturing. The firm operates more than 4,000 square feet of Class 10,000 clean-room space with Class 1,000 capability, and provides value-added assembly, kitting, packaging, engineering support, and just-in-time logistics. Headcount and annual volume are not published.
+
+The company serves four primary markets: automotive, where it acts as a Tier 1 and Tier 2 supplier of NVH gaskets, seals, and decorative interior trim to global OEMs; medical, producing clean-room components for wound care, diagnostic consumables, and wearable sensors; energy, converting photovoltaic films, adhesives, and conductive foils for solar and wind manufacturers; and electronics, laminating pressure-sensitive adhesives onto technical films, gaskets, and dielectric materials.
+
+PDCI states its mission is to be the industry leader in custom conversion across medical, automotive, electronic, and industrial markets by delivering the highest quality in the shortest lead times. Its quality system emphasizes risk analysis (PFMEA), error-proofing (poka-yoke), and continuous improvement, supported by IATF 16949 and ISO 13485 certifications.
+
+## Known for
+- Just-in-time logistics with daily, weekly, and Kanban releases
+- Over 4,000 sq ft Class 10,000 clean room with Class 1,000 availability
+- Multi-station computer-controlled rotary die cutting with ultra-sensitive optics for accurate registration
+- End-to-end manufacturing from conceptualization through distribution
+- Advanced slitting capabilities up to 72" width including shear slitting of chemically treated membranes
+
+## Capabilities
+- Rotary Die Cutting
+- Kiss Cutting
+- Lamination
+- Slitting (up to 72")
+- Clean Room Manufacturing (Class 10,000/1,000)
+- CNC Knife Cutting
+- Value-Added Assembly
+- Engineering & Prototyping
+- Packaging & Labeling
+- Just-In-Time Logistics
+- End-to-End Program Management
+
+## Industries
+- Automotive
+- Medical
+- Energy
+- Electronics
+- Industrial
+
+## Equipment
+- Multi-station rotary die cutting systems
+- High-speed kiss cutting presses with ultra-sensitive optics
+- Computerized single-lever slitting equipment
+- Score slitting equipment
+- Shear slitting equipment
+- CNC knife cutting systems
+- Computer-aided nesting software
+
+## Certifications
+- IATF 16949:2016
+- ISO 13485:2016
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1989
+- **Headquarters:** Lebanon, Kentucky
+
+<details><summary>Sources</summary>
+
+- Headquarters: Lebanon, Kentucky -> db
+- Founded 1989 in Bay Area to serve Toyota and GM -> /about
+- Tier 1 & 2 automotive supplier of die cut NVH, gaskets, seals, trim -> /
+- Medical clean room manufacturing for wound care, diagnostics, wearables -> /
+- Energy market: conversion of photovoltaic films, adhesives, conductive foils -> /
+- Electronics: lamination of pressure sensitive adhesives on technical films -> /
+- Clean room: over 4,000 sq ft Class 10,000 with Class 1,000 availability -> /capabilities
+- Processes: rotary die cutting, kiss cutting, lamination, slitting up to 72", CNC knife cutting, value-add assembly, engineering, packaging, JIT logistics, end-to-end manufacturing -> /capabilities
+- Certifications: IATF 16949:2016 (California, Kentucky), ISO 13485:2016 (California) -> /quality
+- Quality methods: PFMEA, poka-yoke, APQP, PPAP, FAIR -> /quality
+- Mission: industry leader in custom conversion across medical, automotive, electronic, industrial -> /about
+</details>
+
+---
 
 # PDQ South
 
 **Old description:** business. We offer in house mold making, design, and repair, offering the highest quality and most efficient service as the southeast's premier manufacturer of custom injection molded products.
 
 ## About
-Based in Pageland, South Carolina, PDQ South Technologies has operated for over 42 years as a contract manufacturer specializing in custom injection molding and precision machining. The company's name reflects its founding principles: Pride, Determination, and Quality.
+PDQ South operates from Pageland, South Carolina, where it has been in business for over 42 years. The company, known as PDQ South Technologies, was built on the principles of Pride, Determination, and Quality, though its founding year and original founders are not publicly documented.
 
-The shop runs injection molding presses up to 550 tons and maintains in-house mold making, design, and repair capabilities, allowing it to build and maintain tooling internally. Its machining department includes CNC milling up to five axes, CNC turning, EDM, and manual mill and lathe work, supported by CAD/CAM systems such as SolidWorks, SolidCam, DP Esprit, and Surfcam. A recently completed manufacturing plant houses the tooling and machining departments, expanding capacity for both contract molding and machining work. Value-added services include pad printing, hot stamping, and assembly.
+The shop specializes in contract manufacturing, custom injection molding, and precision machining. Its injection molding presses range up to 550 tons, supported by in-house mold making, design, and repair capabilities. The machining department runs CNC milling up to 5-axis, CNC turning, EDM, and manual mill and lathe work, all programmed through CAD/CAM systems including SolidWorks, SolidCam, DP Esprit, and Surfcam. A recently completed state-of-the-art manufacturing plant houses the tooling and machining departments, expanding capacity for both molding and machining work. Value-added services such as pad printing, hot stamping, and assembly are also offered.
 
-PDQ South serves customers who need a single source for plastic parts, mold tooling, and precision machined components. By designing, building, and running tools in house, the company aims to reduce lead times and eliminate the need for multiple vendors.
+PDQ South serves customers across a range of industries that require contract manufacturing, custom injection molded parts, and machined components. Specific industry sectors are not detailed in available materials, but the company's capabilities target applications needing integrated tooling and production under one roof.
 
-The firm emphasizes that its integrated approach—combining mold design, fabrication, and molding under one roof—optimizes parts for cost, quality, and performance while simplifying the supply chain for its clients.
+The company emphasizes that its in-house tooling and design eliminate the need for outside vendors, shortening lead times and optimizing part cost, quality, and performance. Its name reflects a philosophy of exceeding customer expectations through integrated mold building, molding, and machining services.
 
 ## Known for
 - In-house mold making, design, and repair for faster turnaround
-- Single-source molding and machining eliminates extra vendors
 - Injection molding capacity up to 550 tons
-- 5-axis CNC milling and EDM machining
+- CNC machining including 5-axis milling, turning, and EDM
+- Integrated CAD/CAM with SolidWorks, SolidCam, DP Esprit, and Surfcam
 - Value-added services: pad printing, hot stamping, assembly
 
 ## Capabilities
@@ -515,15 +615,13 @@ The firm emphasizes that its integrated approach—combining mold design, fabric
 - CNC turning
 - EDM machining
 - Manual milling
-- Manual lathe
-- Custom machine work
+- Manual turning
+- CAD/CAM programming (SolidWorks, SolidCam, DP Esprit, Surfcam)
+- Custom machining
 - Production machining
 - Pad printing
 - Hot stamping
 - Assembly
-- CAD/CAM programming (SolidWorks, SolidCam, DP Esprit, Surfcam)
-- Contract manufacturing
-- Tool shop services
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -533,15 +631,14 @@ The firm emphasizes that its integrated approach—combining mold design, fabric
 
 - Location: Pageland, South Carolina -> db
 - Over 42 years in business -> /about
-- Name stands for Pride, Determination, Quality -> /about
-- Contract manufacturing, custom injection molding, mold making, design, repair, CNC machining, tool shop functions -> /about
+- In-house mold making, design, and repair -> /about
 - Injection molding up to 550 tons -> /about
-- In-house mold making, design, and repair -> /about, /
-- CNC milling up to 5-axis, CNC lathe, EDM machining, manual milling, manual lathe -> /about
-- CAD/CAM: SolidWorks, SolidCam, DP Esprit, Surfcam -> /about
-- Recently built new manufacturing plant for tooling and machining departments -> /about
-- Value-added services: pad printing, hot stamping, assembly -> /about, /
-- Single-source approach eliminates additional vendors -> /about
+- CAD/CAM with SolidWorks, SolidCam, DP Esprit, Surfcam -> /about
+- CNC milling up to 5-axis, CNC lathe, EDM machining, manual milling and lathe -> /about
+- Value-added services: pad printing, hot stamping, assembly -> /about
+- New state-of-the-art manufacturing plant housing tooling and machining departments -> /about
+- Contract manufacturing, custom injection molding, mold making, design, repair, CNC machining, general tool shop functions -> /about
+- PDQ Difference: Pride, Determination, Quality -> /about
 </details>
 
 ---

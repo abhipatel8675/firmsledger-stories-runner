@@ -1,0 +1,666 @@
+# Wits End Fabrication
+
+**Old description:** Wits End is your trusted shop for complete automotive repair services, custom fabrication, performance, and off-road upgrades.
+
+## About
+Wits End Fabrication operates from Halethorpe, Maryland, serving the Baltimore–Washington area. The shop is led by Kenny Belt and combines automotive repair with custom metal fabrication under one roof.
+
+The shop provides general auto repair and maintenance, differential overhauls, custom exhaust and intercooler plumbing, rust and frame repair, performance and off-road upgrades, welding repairs and fabrication, and CNC plasma cutting for commercial and specialty projects. Work ranges from daily-driver maintenance to one-off chassis fabrication, using mild steel, 304 stainless, aluminum, and titanium.
+
+Customers include individual vehicle owners, off-road enthusiasts, and commercial equipment operators. Differential work is supported through East Coast Gear Supply and Yukon Gear & Axle. The shop also takes on CNC and commercial fabrication for businesses and specialty projects.
+
+The company emphasizes that "custom does not come in a box," positioning itself as problem solvers who blend repair knowledge with fabrication skills. A social-media post notes that quality is the number-one priority, citing a remade radiator shroud as an example.
+
+## Known for
+- Repair and fabrication under one roof
+- Custom exhaust and intercooler plumbing built around vehicle routing
+- Differential overhauls with East Coast Gear Supply and Yukon Gear & Axle support
+- CNC plasma cutting for commercial and specialty projects
+- Welding in mild steel, 304 stainless, aluminum, and titanium
+
+## Capabilities
+- General auto repair & maintenance
+- Diagnostics
+- Brake service
+- Steering & suspension repair
+- Differential overhaul & gearing
+- Ring-and-pinion service
+- Limited-slip & locker upgrades
+- Custom exhaust fabrication
+- Intercooler plumbing
+- Rust & frame repair
+- Performance & off-road upgrades
+- Engine-swap support
+- Suspension upgrades
+- Bumper fabrication
+- Welding repairs & fabrication
+- Custom bracket, rack & chassis fabrication
+- CNC plasma cutting
+- Custom component fabrication for equipment
+- Commercial fabrication
+
+## Industries
+- Automotive repair
+- Custom automotive fabrication
+- Off-road & performance vehicles
+- Commercial & industrial equipment fabrication
+
+## Equipment
+- CNC plasma cutter
+- Baileigh fabrication equipment
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Ownership:** Led by Kenny Belt
+- **Headquarters:** Halethorpe, Maryland
+
+<details><summary>Sources</summary>
+
+- Location: Halethorpe, Maryland -> /
+- Address: 1907 Lansdowne Road, Halethorpe, MD 21227 -> /
+- Founder/leader: Kenny Belt -> /about
+- Services: General auto repair & maintenance, differential overhauls, custom exhausts, intercooler plumbing, rust & frame repair, performance & off-road, welding, CNC plasma cutting -> /services
+- Materials: Mild steel, 304 stainless, aluminum, titanium -> /services
+- Differential component suppliers: East Coast Gear Supply, Yukon Gear & Axle -> /services
+- Quality emphasis: 'quality is the number one priority' -> /quality
+- Equipment: CNC plasma cutting, Baileigh equipment (hashtag) -> /services, /quality
+- Phone: (443) 963-9487 -> /
+- Email: witsendfab@gmail.com -> /about
+- Serves Baltimore-Washington area -> /
+- Custom fabrication for daily drivers and project vehicles -> /
+</details>
+
+---
+
+# Wolfspeed Fayetteville
+
+**Old description:** Learn about our role in powering AI with reliable silicon carbide-based solid-state transformers
+
+## About
+Wolfspeed operates a silicon carbide semiconductor fabrication facility in Fayetteville, Arkansas. The company is the world's only pure-play, vertically integrated silicon carbide manufacturer, producing both substrates and power devices under one roof.
+
+The Fayetteville site manufactures silicon carbide substrates, power modules, discrete power devices (including MOSFETs and Schottky diodes), and power die products. Wolfspeed has recently expanded to 200 mm wafer processing, introducing premium n-type SiC substrates that improve yield per wafer and per lot. The company provides design support tools, reference designs, evaluation kits, and gate driver boards to accelerate customer development. Its "silicon carbide corridor" enables end-to-end fabrication from substrate to finished device at massive scale.
+
+Concrete examples include a partnership with Stercom to scale grid-compatible V2X technology for heavy-duty EVs, a long-term wafer supply agreement with Infineon, and collaboration with Amperesand on medium-voltage solid-state transformers for AI data centers.
+
+Wolfspeed differentiates itself through its pioneering role in silicon carbide, vertical integration from substrate to system, and a focus on enabling electrification and sustainability. The company emphasizes safety, integrity, ingenuity, and ownership as core values guiding its operations.
+
+## Known for
+- World's only pure-play, vertically integrated silicon carbide company
+- Largest pure-play provider of SiC substrates globally
+- First U.S.-based end-to-end silicon carbide corridor (substrate to power device)
+- 200 mm n-type SiC substrates with multi-metric quality improvement
+
+## Capabilities
+- Silicon carbide substrate manufacturing
+- Power device fabrication (MOSFETs, Schottky diodes)
+- Power module assembly
+- Power die production
+- 200 mm wafer processing
+- Design support tools and reference designs
+- Evaluation kits and gate driver boards
+- Automotive qualification (AEC-Q101) and PPAP
+- Solid-state transformer development (partnered)
+
+## Industries
+- Automotive (electric vehicles)
+- Renewable energy
+- Industrial motor drives
+- Aerospace
+- Data centers (AI hyperscale)
+- Commercial and off-highway EVs
+- Grid infrastructure (solid-state transformers)
+- Racing
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Publicly traded (Wolfspeed, Inc.)
+- **Headquarters:** Fayetteville, Arkansas
+
+<details><summary>Sources</summary>
+
+- Headquarters in Fayetteville, Arkansas -> db
+- World's only pure-play, vertically integrated silicon carbide company -> /
+- Largest pure-play provider of SiC substrates in the world -> /about
+- Produces silicon carbide substrates, power modules, discrete power devices, power die products -> /about
+- 200 mm n-type SiC substrates with multi-metric quality leap -> /
+- Design support tools, reference designs, evaluation kits, gate driver boards -> /about
+- First U.S.-based silicon carbide corridor with end-to-end substrate and power device fabrication -> /
+- Serves automotive (AEC-Q101 qualified), renewable energy, industrial, aerospace, data centers, commercial EVs -> /, /about, industries_served
+- Partnership with Stercom for grid-compatible V2X technology -> /
+- Long-term wafer supply agreement with Infineon -> /
+- Collaboration with Amperesand on medium-voltage solid-state transformers -> /
+- Core values: Safety, Integrity & Respect; Ingenuity & Passion; Ownership & Accountability -> /about
+- Automotive qualified (AEC-Q101) and PPAP capable -> industries_served
+- Wolfspeed, Inc. fiscal earnings call -> /
+</details>
+
+---
+
+# Wood Machinery Systems
+
+**Old description:** Need machinery, parts and tooling? You've come to the right place. Count on WMS for all your manufacturing and automation needs!
+
+## About
+Wood Machinery Systems (WMS) is headquartered in Minnetonka, Minnesota, where Jim Besonen founded the company in 1995 to supply woodworking and furniture manufacturers with high‑tech equipment and a lifetime of customer support. The business remains family‑owned and locally operated.
+
+WMS distributes new and used woodworking machinery from a range of global brands, covering categories such as boring machines, dovetailers, moulders, saws, sanders, dust collectors, and router bits. The company also stocks parts and tooling for wood, aluminum, composites, and plastics. Beyond equipment sales, WMS provides installation, hands‑on training, repair, warranty service, technical maintenance, consulting, and financing through a partnership with Stearns Bank.
+
+The customer base spans home hobbyists, specialty boutiques, and large‑scale manufacturers producing windows, doors, cabinets, clocks, and other wood products. WMS serves clients throughout the Midwest and beyond, positioning itself as a supply‑chain link for businesses of all sizes.
+
+The company emphasizes a family‑owned philosophy of treating others as it would like to be treated, investing in employees, suppliers, and customers rather than maximizing short‑term profit. Its stated differentiator is a “lifetime of customer support” that covers the entire distribution process from delivery to ongoing maintenance.
+
+## Known for
+- Lifetime customer support covering delivery, installation, training, and maintenance
+- Family‑owned business with a philosophy of treating others as they would like to be treated
+- Partnerships with premier global manufacturers for woodworking machinery
+- Equipment financing available through Stearns Bank
+- Supplies new and used machinery, parts, and tooling for wood, aluminum, composites, and plastics
+
+## Capabilities
+- Equipment distribution
+- Used machinery sales
+- Parts and tooling supply
+- Installation
+- Training
+- Repair
+- Warranty service
+- Technical maintenance
+- Consulting
+- Financing
+
+## Industries
+- Woodworking
+- Furniture manufacturing
+- Window manufacturing
+- Door manufacturing
+- Cabinet manufacturing
+- Clock manufacturing
+
+## Equipment
+- Boring machines
+- Dovetailers
+- Moulders
+- Saws
+- Sanders
+- Dust collectors
+- Router bits
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1995
+- **Ownership:** Family-owned
+- **Headquarters:** Minnetonka, Minnesota
+
+<details><summary>Sources</summary>
+
+- Headquartered in Minnetonka, Minnesota -> /
+- Founded in 1995 by Jim Besonen -> /
+- Family-owned business -> /about-us
+- Distributes new and used woodworking machinery from global brands -> /
+- Offers parts and tooling for wood, aluminum, composites, plastics -> /
+- Services: installation, training, repair, warranty, maintenance, consulting, financing -> /services
+- Customer base: hobbyists, boutiques, global manufacturers; industries: windows, doors, cabinets, clocks -> /about-us
+- Lifetime customer support philosophy -> /about-us, /services
+- Financing partnership with Stearns Bank -> /services
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Wood Originals
+
+**Old description:** My wife, Terri and I have been married since 1977 and have two grown children, Kendall and Kip. I enjoy cross-country skiing and cycling in my spare time.
+
+## About
+Wood Originals is a custom woodworking shop based in Watertown, Wisconsin. Founded in 1972 by John, who began crafting custom cabinets in a small garage in the Milwaukee area, the business later moved to Watertown and expanded into a 24-by-64-foot workshop at the owner’s home. The operation is run with his wife, Terri, whom he married in 1977.
+
+The company specializes in custom cabinetry and woodworking for residential and office spaces, including kitchens, bathrooms, living rooms, dining rooms, and bedrooms. All work is handcrafted using all-wood construction, with projects ranging from a single piece to an entire room. The shop operates out of a home-based workshop, and the owner personally handles design, fabrication, and installation.
+
+Wood Originals serves homeowners and small businesses in the Watertown area and surrounding communities. Customers seek custom cabinetry for new construction, remodels, or individual furniture pieces. The company works directly with clients to design pieces that fit their budget and space.
+
+John started the business out of a passion for carpentry, and the company emphasizes affordable, handcrafted custom work designed and installed with the client’s budget in mind. The “home is our showroom” approach allows clients to see the workshop and discuss projects in person.
+
+## Known for
+- Custom woodworking since 1972
+- All-wood construction
+- Handcrafted custom cabinetry
+- Projects from single pieces to entire rooms
+- Home-based workshop serving as showroom
+
+## Capabilities
+- Custom cabinetry
+- Woodworking
+- Design and installation
+- All-wood construction
+- Kitchen cabinetry
+- Bathroom cabinetry
+- Living room furniture
+- Dining room furniture
+- Bedroom furniture
+
+## Industries
+- Residential construction
+- Commercial office fit-out
+- Home remodeling
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1972
+- **Ownership:** Owner-operated
+- **Headquarters:** Watertown, Wisconsin
+
+<details><summary>Sources</summary>
+
+- Founded 1972 -> db
+- Founded 1972 -> /
+- Location Watertown, WI -> db
+- Location Watertown, WI -> /
+- Owner John -> /
+- Workshop size 24x64 -> /
+- Custom cabinetry -> /
+- All wood construction -> /
+- Home-based showroom -> /
+- Services: kitchens, bathrooms, living rooms, dining rooms, bedrooms -> /
+- Affordable handcrafted custom made -> /
+- One piece to entire room -> /
+</details>
+
+---
+
+# Wood Touch LLC Reclaimed Live Edge Tables Beams, Pergolas & Mantels NJ
+
+**Old description:** Visit Our Shop • 12 Maple Ave, Pine Brook, NJ 07058 • Mon–Fri 8am–4pm • Sat 8am–2pm
+
+## About
+Wood Touch LLC operates from a shop in Pine Brook, New Jersey. The company is family-owned and operated, though its founding year and founders' names are not publicly disclosed. The business began as a woodworking shop focused on custom rustic and modern wood products, emphasizing locally sourced materials and personal craftsmanship.
+
+The shop manufactures a range of custom wood items including live-edge tables, epoxy resin river tables, hollowed ceiling beams, fireplace mantels, barn doors, conference tables, floating shelves, pergolas, gazebos, and barn wood siding. Core processes include wood slab flattening, epoxy resin pouring and coating, and custom joinery. All wood is sourced from New Jersey, New York, and Connecticut, then designed and built in North Jersey. Facility size, headcount, and annual volume are not published.
+
+Wood Touch serves designers, builders, and home-business owners. Its products appear in residential projects such as dining tables, desktops, and bed frames, as well as commercial settings like restaurant tables and conference rooms. The company also supplies raw live-edge slabs of black walnut, maple, and white oak for further fabrication.
+
+The company highlights its family-owned structure and local sourcing as key differentiators, stating it takes personal pride in each piece and aims to deliver projects on time. The emphasis on regionally harvested lumber and in-house design and build distinguishes it from suppliers that import materials or outsource fabrication.
+
+## Known for
+- Family-owned and operated with personal pride in each piece
+- Locally sourced wood from New Jersey, New York, and Connecticut
+- Designed and built in North Jersey
+- Wood slab flattening services offered
+- Custom rustic and modern wood products made to order
+
+## Capabilities
+- Wood slab flattening
+- Epoxy resin pouring and coating
+- Custom woodworking
+- Custom pergola and gazebo construction
+- Barn wood siding fabrication
+- Live edge table fabrication
+- Epoxy resin river table fabrication
+- Hollowed wood ceiling beam fabrication
+- Wood fireplace mantel and shelf fabrication
+- Reclaimed wood processing
+- Live edge wood slab selection and preparation
+- Custom barn door fabrication
+- Conference table fabrication
+- Floating wood shelf fabrication
+- Custom wood gate fabrication
+
+## Industries
+- Interior design
+- Construction
+- Residential
+- Commercial office
+- Hospitality
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Family-owned
+- **Headquarters:** Pine Brook, New Jersey
+
+<details><summary>Sources</summary>
+
+- Headquarters in Pine Brook, NJ -> db
+- Family-owned and operated -> /
+- Manufactures custom rustic or modern wood products -> /
+- Product list: live edge tables, epoxy resin river tables, pergolas, beams, mantels, barn doors, conference tables, shelves, etc. -> /
+- Wood sourced from New Jersey, New York, Connecticut -> /
+- Designed and built in North Jersey -> /
+- Clients: designers, builders, home-business owners -> /
+- Wood slab flattening services -> db, /
+- Epoxy resin pouring/coating -> /
+- Materials: black walnut, maple, white oak, reclaimed wood, barn wood -> /
+- Personal pride, do things right and on time -> /
+</details>
+
+---
+
+# Wood-Mizer Manufacturing
+
+**Old description:** Portable sawmills engineered for hobbyists, homesteaders, and professional sawyers since 1982.
+
+## About
+Wood-Mizer Manufacturing is based in Batesville, Indiana. Founded in 1982, the company began as a garage startup and has grown into a global family business, though ownership details are not explicitly stated.
+
+The company designs, engineers, and manufactures portable sawmills, bandsaw blades, and a range of wood-processing equipment including pallet equipment, log splitters, and custom industrial sawmilling systems. Its product line spans more than 20 sawmill models priced from $2,995, serving hobbyists, DIY woodworkers, and high-volume professional operations. Blades are produced in the United States and built to cut extreme hardwoods and frozen logs.
+
+Wood-Mizer serves customers across hobby sawmilling, commercial lumber production, pallet manufacturing, and specialty timber markets. Its equipment has been used by distillers such as Hollerhorn Distilling, builders like Charles Singleton who milled tornado-damaged timber for a dovetail cabin, guitar-makers sourcing rare Australian species through David Linton, and historic restoration projects including a 1779 New England barn. The company also showcases its sawmills at more than 125 trade shows annually.
+
+Wood-Mizer emphasizes American manufacturing of its blades and custom-engineered industrial solutions designed to maximize yield and reduce operational costs. The company’s stated differentiation rests on providing portable sawmills for every stage of operation, from entry-level to high-production, backed by a full line of accessories and replacement parts.
+
+## Known for
+- Bandsaw blades engineered and manufactured in the USA
+- Custom industrial sawmilling solutions tailored to maximize yield and reduce costs
+- Portable sawmills for hobby to high-volume production
+- Free shipping on select sawmill blades, parts, and accessories
+- Presence at 125+ trade shows annually
+
+## Capabilities
+- Portable sawmill manufacturing
+- Bandsaw blade manufacturing
+- Custom industrial sawmilling system design
+- Pallet equipment manufacturing
+- Log splitter manufacturing
+- Sawmill accessory production
+- Power feed and trailer fabrication
+- Replacement parts supply
+
+## Industries
+- Hobby woodworking
+- Commercial sawmilling
+- Lumber production
+- Pallet manufacturing
+- Log processing
+- Specialty timber milling
+- Historic restoration
+- Musical instrument wood supply
+- Distilling
+
+## Equipment
+- Portable sawmills
+- Bandsaw blades
+- Power feeds
+- Trailers
+- Pallet equipment
+- Log splitters
+- Custom industrial sawmilling systems
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1982
+- **Headquarters:** Batesville, Indiana
+
+<details><summary>Sources</summary>
+
+- Headquarters in Batesville, Indiana -> db
+- Founded in 1982 -> description (db)
+- Manufactures portable sawmills, bandsaw blades, accessories, pallet equipment, log splitters -> page '/'
+- Blades engineered and manufactured in USA -> page '/'
+- Custom industrial sawmilling solutions -> page '/'
+- 20+ sawmill models from $2,995 -> page '/'
+- Serves hobbyists, DIY, professional sawyers -> page '/'
+- Customer examples: Hollerhorn Distilling, Charles Singleton, David Linton, Alan Spooner, Kenney Batchelor -> page '/'
+- 125+ trade shows annually -> page '/'
+- Free shipping on select blades and parts -> page '/'
+- From Garage Startup to Global Family -> page '/'
+</details>
+
+---
+
+# WoodWorkingHawaii.com
+
+**Old description:** We make custom tables to fit your space. Our tables are made using Hawaiian Hardwood and become your family heirloom.
+
+## About
+WoodWorkingHawaii.com operates from a woodshop in Waimanalo on the island of Oahu, Hawaii. The business was started by Kini Ziegner out of a personal passion for working with wood; Ziegner passed away in April 2024, and the team continues his work. The shop sits about 20 minutes from Honolulu and doubles as a showroom where visitors can view pieces by appointment.
+
+The company builds custom furniture from tropical hardwoods reclaimed on Oahu — primarily Monkey Pod and Koa — sourced from dead trees and construction sites using portable sawmills and chainsaws. The product line spans dining tables, coffee tables, chairs, benches, headboards, sofa tables, entryway tables, TV stands, canoe paddles, round tables, desks, slab tables, live‑edge pieces, floating shelves, wall hangings and mirrors. Each piece is made to order to fit the customer’s space.
+
+WoodWorkingHawaii serves residential clients across Oahu, offering delivery of dining sets island‑wide and discounts to military personnel with delivery to all Oahu bases. The showroom is open weekdays and by appointment on weekends.
+
+The operation distinguishes itself through its hyper‑local material cycle — harvesting, milling and finishing wood from the same island — and by positioning each table as a future family heirloom. The founder’s original motivation, a love of woodworking, remains the stated guiding principle.
+
+## Known for
+- Reclaimed tropical hardwoods sourced exclusively from dead trees and construction sites on Oahu
+- Custom tables built to fit the customer’s exact space
+- Military discounts with delivery to all Oahu bases
+- Live‑edge and slab furniture crafted from Monkey Pod and Koa
+- Showroom visits by appointment featuring farm animals
+
+## Capabilities
+- Custom furniture manufacturing
+- Wood reclaiming and milling (portable sawmill, chainsaw)
+- Live-edge slab processing
+- Custom table fabrication
+- Delivery and installation (Oahu)
+- Showroom appointments
+
+## Industries
+- Residential furniture
+- Custom woodworking
+- Hawaiian hardwood furniture
+- Military community services
+
+## Equipment
+- Portable sawmills
+- Chainsaws
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Waimanalo, Hawaii
+
+<details><summary>Sources</summary>
+
+- Location: Waimanalo, Oahu, Hawaii -> /about
+- Founder: Kini Ziegner, started from love of woodworking, passed April 2024 -> /about
+- Materials: Monkey Pod and Koa, reclaimed from dead trees and construction sites on Oahu -> /about
+- Process: portable sawmills and chainsaws used for milling -> /about
+- Products: dining tables, coffee tables, chairs, benches, headboards, sofa tables, entryway tables, TV stands, canoe paddles, round tables, desks, slab tables, live-edge, floating shelves, wall hangings, mirrors -> /about, /
+- Military discounts and delivery to all Oahu bases -> /about
+- Delivery of dining table sets on Oahu -> /about
+- Showroom at 41-625 Kaulukanu St, Waimanalo, HI 96795, open Mon-Fri 10-4, weekends by appointment -> /, /about
+- Contact: 808-389-6458, WoodworkingWaimanalo@gmail.com -> /, /about
+</details>
+
+---
+
+# WoodWorx Supply, Inc.
+
+**Old description:** Innovative Finishing Solutions • Top Manufacturers • Quality Products • Industry Experience • Working Relationships • Product Knowledge • Hardworking Staff
+
+## About
+WoodWorx Supply, Inc. opened in 2015 in Elmhurst, Illinois. The company was founded to supply commercial wood coatings and paint supplies, growing into the largest Renner distributor in the Midwest.
+
+The company stocks a broad range of finishing products including Renner wood coatings, Mirka abrasives, SATA spray equipment, and Apollo HVLP systems. Its in-house paint lab performs color and stain matching using industry-standard quality-control procedures, and the staff provides technical advising drawn from over 20 years of hands-on refinishing experience. Local delivery is available for qualifying customers.
+
+WoodWorx serves professional woodworkers, refinishers, and contractors across the Midwest and nationally online. Its customer base includes shops handling commercial wood coating projects, residential refinishing, and PVC applications such as windows, doors, and fences using RennerPlast systems.
+
+The business differentiates itself by requiring every employee to have personal woodworking knowledge, ensuring that product recommendations reflect practical experience. The paint lab’s specialized equipment allows consistent scaling of color matches, and the company’s long-standing manufacturer relationships give it priority access to product lines like Renner’s 15-year-warranty PVC coatings.
+
+## Known for
+- Largest Renner supplier in the Midwest
+- In-house paint lab with industry-standard quality control for precise color and stain matching
+- Employees required to have personal woodworking and refinishing experience
+- Over 20 years of refinishing experience backing technical advising
+- Local delivery service for qualified customers
+
+## Capabilities
+- Color matching
+- Stain matching
+- Technical advising
+- Local delivery
+- Paint lab quality control
+- Wood coating distribution
+- Abrasives distribution
+- Spray equipment distribution
+
+## Industries
+- Woodworking
+- Refinishing
+- Commercial wood coatings
+- Home finishing
+- PVC coating
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 2015
+- **Headquarters:** Elmhurst, Illinois
+
+<details><summary>Sources</summary>
+
+- Founded 2015 in Elmhurst, Illinois -> /about-us
+- Largest Renner supplier in the Midwest -> /about-us
+- Paint lab uses industry standards for quality control and color matching -> /about-us
+- Employees required to have personal woodworking and refinishing knowledge -> /about-us
+- Over 20 years of refinishing experience advising customers -> /services
+- Services: advising, delivery, color matching, stain matching -> /services
+- Product categories: Renner coatings, Mirka abrasives, SATA spray equipment, Apollo HVLP, etc. -> /
+- RennerPlast PVC coatings with 15-year warranty -> /
+- Serves professional woodworkers, refinishers, contractors locally and online -> /about-us
+- Specializes in commercial wood coatings, paint supplies -> /about-us
+</details>
+
+---
+
+# Woodcraft Mill & Cabinet
+
+**Old description:** Cabinet maker with 30+ years of custom cabinetry designs, manufacturing, and installation serving homes in Salt Lake City, West Jordan, Holladay, and Park City.
+
+## About
+Woodcraft Mill & Cabinet has operated from West Jordan, Utah since 1996. The family‑owned shop began as a local cabinetry workshop and has grown to serve homeowners across the Wasatch Front, from Ogden to Provo and into Park City.
+
+The company designs, manufactures, and installs custom cabinetry for kitchens, bathrooms, home offices, laundry rooms, closets, mudrooms, and living spaces, as well as custom wood mantels and millwork. All fabrication takes place in its West Jordan facility, where a CNC router provides precision cutting followed by hand‑sanding and finishing. The shop reports a tolerance of 1/16 inch and has completed more than 2,000 projects, each built from hand‑sorted premium hardwoods such as maple, cherry, walnut, oak, and exotic species. Finishes are mixed and applied in‑house.
+
+Woodcraft serves residential homeowners undertaking remodels or new construction, and also partners with builders across Utah to supply cabinetry for new homes. Its service area covers Salt Lake, Davis, Weber, Wasatch, and Summit counties, including cities such as Salt Lake City, West Jordan, Holladay, Park City, and Ogden.
+
+The firm emphasizes complete control from raw lumber to installed product, citing its owned mill, hand‑sorted lumber, CNC precision with hand finishing, custom mixed finishes, and direct communication between client and craftsmen as differentiators. It is a member of the National Kitchen & Bath Association.
+
+## Known for
+- Own mill for complete quality control from raw lumber to installed cabinetry
+- Hand‑sorted premium hardwoods (maple, cherry, walnut, oak, exotic species)
+- CNC precision cutting with hand‑finished surfaces
+- Custom mixed finishes applied in‑house
+- Cabinets built to 1/16″ tolerance with direct client‑craftsman communication
+
+## Capabilities
+- Custom cabinet design
+- Custom cabinet manufacturing
+- Cabinet installation
+- Cabinet refinishing and repair
+- Appliance integration (Wolf, Sub-Zero, Cove, Best)
+- Custom wood mantels and millwork
+- Custom closet systems
+- Custom built-ins
+- Kitchen cabinet remodels
+- Bathroom vanity fabrication
+- Home office cabinetry
+- Laundry room cabinetry
+- Mudroom and entryway cabinetry
+- Living room cabinetry and shelving
+- Pantry cabinetry
+
+## Industries
+- Residential construction
+- Home remodeling
+- New home construction
+- Kitchen and bath industry
+
+## Equipment
+- CNC router
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1996
+- **Ownership:** Family-owned
+- **Headquarters:** West Jordan, Utah
+
+<details><summary>Sources</summary>
+
+- Founded 1996 -> /about
+- Family-owned -> /about
+- West Jordan shop location -> /about
+- 2000+ projects completed -> /about
+- 1/16" precision tolerance -> /about
+- Own mill for complete quality control -> /about
+- Hand-sorted premium hardwoods (maple, cherry, walnut, oak, exotic) -> /about
+- CNC router for precision cutting -> /about
+- Custom mixed finishes applied in-house -> /about
+- Direct communication with craftsmen -> /about
+- NKBA member -> /about
+- Service areas across Salt Lake, Davis, Weber, Wasatch, Summit counties -> /services
+- Appliance integration with Wolf, Sub-Zero, Cove, Best -> /
+- Custom cabinetry for every room (kitchen, bath, office, laundry, closet, mudroom, living, mantels) -> /services
+- Partners with builders for new construction -> /
+</details>
+
+---
+
+# Woodcrafters of Virginia
+
+**Old description:** The Woodcrafters of Virginia team assists our clients from building concept to finished design. Our Woodcraft experts handle each project
+
+## About
+Woodcrafters of Virginia is a locally owned and operated supplier of architectural mouldings and millwork based in Virginia Beach, Virginia. The company has served the Mid-Atlantic region for over 30 years, providing trim products to builders, contractors, and designers.
+
+The company operates an on-site production facility where it manufactures custom mouldings and millwork using regionally sourced Southern Yellow Pine and other hardwoods. Its catalog includes nearly 2,000 profiles, and the shop regularly creates new tooling to match existing trim or produce new designs. In addition to custom millwork, Woodcrafters stocks a range of building components including pine and poplar boards, Azek PVC trim, Western Red Cedar siding, interior and exterior doors, stair parts, columns, decking, and rail systems.
+
+Woodcrafters serves contractors, builders, designers, architects, and property owners across residential and commercial projects. Its customers include top builders and trim carpenters in the Mid-Atlantic region, and the company works on projects ranging from historic restorations and renovations to new construction and additions.
+
+The company emphasizes its ability to match or restore any existing moulding detail, a large selection of domestic and exotic hardwoods, and a team of skilled woodcrafters with deep industry knowledge. It positions itself as the Mid-Atlantic builder’s primary source for home finish building supplies, backed by over three decades of local operation.
+
+## Known for
+- Outstanding customer service
+- Skilled woodcrafters with top-of-industry knowledge
+- Large selection of domestic and exotic hardwoods
+- Ability to match or restore any existing moulding or trim detail
+- Locally owned and operated for over 30 years
+
+## Capabilities
+- Custom moulding
+- Custom millwork production
+- Tooling custom grind
+- Profile matching
+- Design consultation
+- Value engineering
+- Delivery
+- Blueprint estimations
+- Custom door fabrication
+- Arched casing fabrication
+- Bracket fabrication
+- Wainscoting fabrication
+- Column fabrication
+
+## Industries
+- Contractors
+- Builders
+- Designers
+- Architects
+- Property owners
+- Residential construction
+- Commercial construction
+- Historic restoration
+- Renovations
+- Remodels
+- Additions
+- New construction
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Locally owned and operated
+- **Headquarters:** Virginia Beach, Virginia
+
+<details><summary>Sources</summary>
+
+- Location: Virginia Beach, Virginia -> db
+- Locally owned and operated for over 30 years -> /about
+- On-site production facility manufacturing custom mouldings and millwork -> /about
+- Nearly 2,000 profiles in catalog -> /about
+- Custom tooling to match existing trim -> /about
+- Stock pine, poplar, hardwoods, Azek PVC, Western Red Cedar -> /about
+- Sell interior/exterior doors, stair parts, columns, decking, rail systems -> /about
+- Serve contractors, builders, designers, architects, property owners -> /
+- Residential and commercial projects, historic restoration, renovations, additions -> /services
+- Outstanding customer service, skilled woodcrafters, large hardwood selection, match/restore capability -> /
+- Mid-Atlantic builder's primary source for home finish building supplies -> /
+</details>
+
+---

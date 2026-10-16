@@ -543,68 +543,59 @@ Management highlights employee involvement and continuous improvement as cultura
 **Old description:** `�n0J9>�Q�8�1wa,��\0F�F��]�Vh��/Ũ��V1�䙘I�@�t�Nb0�8��8�!	€���$�����>~}ԍr4	����d&�4:�t
 
 ## About
-North Star Systems, Inc. was founded in 1997 in Pelham, Alabama, by the former management team of SRT Electro-Optics, Inc., a subsidiary of Southern Research. The small business was established to serve commercial, industrial, and defense clients with engineering services and product manufacturing.
+North Star Systems, Inc. was founded in 1997 in Pelham, Alabama, by the former management team of SRT Electro-Optics, Inc., a subsidiary of Southern Research. The small business operates from the Birmingham area and was established to serve commercial, industrial, and defense clients with engineering and production services.
 
-The company provides engineering services for the design and development of high-technology products and manufactures hardware for applications such as servo control, image processing, defense system line-replaceable units (LRUs), line-of-sight stabilization, target tracking, and fire control. Its technical capabilities span embedded software, custom electronics design, electro-optics, video signal processing, telemetry, high-speed digital video electronics, fiber-optic communications, gimbal design, and ballistic algorithms. The team includes engineers and technicians with backgrounds in electrical engineering and computer science, supporting projects from concept design through prototype hardware development, transition to production, and live-fire testing.
+The company provides electronic circuit design, embedded software development, electro-optics, servo controls, and video signal processing. Its capabilities span prototype hardware development, transition-to-production, production test equipment design, quality assurance documentation, and configuration management. North Star has delivered projects ranging from video recording equipment controllers and infrared target collection systems to remote weapon stations, gun control units, and airborne fire-retardant dispensing controls.
 
-North Star serves aerospace, defense, commercial, and industrial markets. Its aerospace and defense work includes contributions to missile, ground vehicle, ship, and aircraft programs, with experience in U.S. Army Integrated Sensor Architecture, DISA STIGs, and MISB video metadata standards. The company has also supported nuclear power generation reliability projects, airborne fire retardant dispensing controls for firefighting, welding-industry machine tools, commercial video recording and editing equipment, and RF communications systems.
+Customers include U.S. Army programs such as the Integrated Sensor Architecture, missile and ground vehicle platforms, naval vessels, and aircraft systems. The firm also serves the nuclear power sector (independent verification and validation), commercial video recording and editing equipment manufacturers, welding machine tool builders, and firefighting air-tanker operators. Work has covered DISA STIG compliance, MISB metadata standards, and electromagnetic compatibility testing.
 
-Founded to solve challenging problems for customer success, North Star emphasizes its transition-to-production expertise, including developing production test equipment, routing sheets, acceptance test procedures, procurement and inspection controls, in-process inspections, quality assurance documentation, configuration management, and redesign for parts obsolescence.
+North Star emphasizes its 30-plus years of aerospace and defense experience and its ability to redesign products for parts obsolescence while adding new features. The team focuses on solving challenging problems to make customers successful, offering a responsive, experienced crew that can take a concept through live-fire testing and full-rate production.
 
 ## Known for
-- Small Business with a responsive, experienced team
 - 30+ years of aerospace and defense engineering experience
-- Transition-to-production support including test equipment development and quality documentation
-- Parts obsolescence redesign and reengineering
+- Transition-to-production expertise for defense and commercial hardware
+- Redesign and reengineering for parts obsolescence
+- Small Business with responsive, experienced engineering team
 - SBIR project experience (Infrared Target Collection System)
 
 ## Capabilities
-- Engineering services
-- Embedded software development
-- Custom electronics design
-- Servo control systems
-- Image processing
-- Line-of-sight stabilization
-- Target tracking
-- Fire control systems
-- Airborne fire retardant dispensing controls
-- Electro-optics
+- Electronic circuit design
+- Embedded system software development
+- Electro-optics engineering
+- Servo controls design
 - Video signal processing
-- Telemetry
-- High-speed digital video electronics
-- Fiber-optic communications
-- Gimbal design
-- Laser rangefinder integration
-- Marinization
-- Ballistic algorithms
-- Remote weapon systems
-- Digital data recorders
-- Gun control units
-- System concept design
-- Trade studies
+- Independent verification and validation (IV&V)
 - Prototype hardware development
-- Transition to production
-- Production support
-- Live-fire testing
-- Industrial controls
-- Wireless data link design
+- Transition-to-production management
 - Production test equipment development
 - Quality assurance documentation
 - Configuration management
 - Parts obsolescence redesign
+- Wireless data link design (RF 900MHz, 2.5GHz)
+- Fiber-optic video/communications links
+- Gimbal design
+- Line-of-sight stabilization
+- Video target detection and tracking
+- Laser rangefinder integration
+- Marinization (marine environment component selection)
+- Ballistic algorithm development
+- Remote weapon systems integration
+- Gun control unit development
+- Digital data recorder design
+- Fire retardant dispensing system controls
 
 ## Industries
-- Aerospace
-- Defense
-- Commercial
-- Industrial
+- Aerospace and Defense
 - Nuclear Power Generation
-- Firefighting
-- Welding
-- Video Production
+- Industrial Controls
+- Commercial Video Recording and Editing
+- Welding Industry
+- Firefighting (Air-Tanker)
+- Commercial RF Communications
+- Defense System LRUs
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1997
 - **Ownership:** Small Business
 - **Headquarters:** Pelham, Alabama
@@ -612,13 +603,15 @@ Founded to solve challenging problems for customer success, North Star emphasize
 <details><summary>Sources</summary>
 
 - Founded in 1997 by former management team of SRT Electro-Optics, Inc. -> /about
-- Based in Birmingham, AL, small business -> /about
-- Provides engineering services and manufactures products for servo control, image processing, defense LRUs, etc. -> /
-- Specialties: realtime image processing, servo inertial stabilization, fire control systems, etc. -> /
-- Aerospace and defense experience over 30 years, including ISA, DISA STIGs, MISB -> /about
-- Transition-to-production expertise for remote weapon stations, video recording equipment, welding tools, firefighting controllers -> /about
-- Parts obsolescence redesign example: Timing and Control Board for Esonix Ultrasonic Impact Generator -> /about
-- Headquarters in Pelham, Alabama -> db
+- Headquartered in Pelham, Alabama (database) / Based in Birmingham, AL (page) -> db, /about
+- Small Business designation -> /about
+- Engineering capabilities: electronic circuit design, embedded software, electro-optics, servo controls, video signal processing -> /about
+- Projects: video recording equipment controllers, IV&V for nuclear power, SBIR infrared target collection, airborne retardant dispensing controls, ultrasonic welding controls, image target tracking, remote weapon systems, high-speed telemetry recording -> /about
+- Aerospace and defense experience >30 years; work on missiles, ground vehicles, ships, aircraft, test systems -> /about
+- Specific defense standards: US Army ISA, DISA STIGs, MISB standards, EMC/EMI -> /about
+- Industrial controls: video recorders, editing equipment, ultrasonic tools, TV cameras, wireless data links (900MHz/2.5GHz), solid-state data recorders -> /about
+- Transition-to-production experience: remote weapon stations, commercial video equipment, welding machine tools, air-tanker controllers, airborne gimbals, video trackers, RF communications, fiber-optic data links -> /about
+- Redesign for parts obsolescence example: Timing and Control Board for Esonix Ultrasonic Impact Generator, programmable flow controller -> /about
 - Industries served: Defense System LRUs -> db
 </details>
 

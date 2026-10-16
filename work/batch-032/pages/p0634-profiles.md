@@ -3,30 +3,28 @@
 **Old description:** Simplify your component sourcing and stabilize your supply chain with focused customer support and 100% quality assurance.
 
 ## About
-Sensible Micro Corporation, based in Tampa, Florida, operates as an independent and authorized electronic component distributor and supply chain solutions partner. The company leverages a global supply chain network while delivering localized service to its customers.
+Sensible Micro Corporation operates as an independent and authorized electronic component distributor and supply chain solutions partner from its headquarters in Tampa, Florida. The company leverages a global supplier network to deliver local service and quality assurance for a broad range of electronic components.
 
-The company provides a suite of supply chain services including component sourcing, inventory management and logistics, product lifecycle management, and testing and inspection. Its testing capabilities are backed by AS6081 and IDEA-QMS-9090B quality certifications and an ICE-3000 certified inspection team. Sensible Micro serves customers ranging from large original equipment manufacturers to smaller contract manufacturers, shipping millions of components annually through its authorized and independent distribution lines.
+Its service portfolio includes component sourcing, inventory management and logistics, product lifecycle management, and testing and inspection. The testing lab operates under AS6081, IDEA-QMS-9090B, and ICE-3000 certifications, supporting custom and industry-approved sampling plans. An inventory buy-back program provides an outlet for excess stock. The company distributes active devices such as microcontrollers, memory, and RF components, along with passives and electro-mechanical parts.
 
-Its customer base spans aerospace and defense, automotive and transportation, consumer electronics, energy, industrial, medical, and networking and AI sectors. The company emphasizes long-term relationships, offering programs for inventory flexibility, long-term protection, and consolidated vendor management to mitigate supply chain volatility.
+Customers span aerospace and defense, automotive and transportation, consumer electronics, energy, industrial, medical, and networking and AI sectors. The client base ranges from large original equipment manufacturers to smaller contract manufacturers seeking a consolidated vendor for electronic components.
 
-Founded on the principle of simplifying component sourcing and stabilizing supply chains, Sensible Micro differentiates itself through focused customer support and a commitment to 100% quality assurance, positioning itself as an extension of its clients' supply chain teams.
+Sensible Micro emphasizes a fairer, more flexible, and stable supply chain experience, combining global reach with local responsiveness. The company states that its approach is built on relentless quality assurance and tailored programs that reduce costs and provide efficiencies throughout the supply chain.
 
 ## Known for
 - Global supply chain network with local service
-- AS6081 and IDEA-QMS-9090B quality certifications
+- AS6081 and IDEA-QMS-9090B certified quality management system
 - ICE-3000 certified inspection team
-- Inventory flexibility and long-term protection programs
-- Consolidated vendor management
+- Inventory buy-back program for excess stock
+- Authorized distributor for multiple electronic component lines
 
 ## Capabilities
 - Component sourcing
 - Inventory management and logistics
 - Product lifecycle management
 - Testing and inspection
-- Authorized electronic component distribution
-- Independent electronic component distribution
-- Supply chain optimization
 - Inventory buy-back program
+- Electronic component distribution
 
 ## Industries
 - Aerospace & Defense
@@ -48,15 +46,13 @@ Founded on the principle of simplifying component sourcing and stabilizing suppl
 
 <details><summary>Sources</summary>
 
-- Headquarters: Tampa, Florida -> db
-- Independent and authorized electronic component distributor -> page /
-- Supply chain solutions partner -> page /
-- Certifications: AS6081, IDEA-QMS-9090B, ICE-3000 -> page /
-- Industries served: Aerospace & Defense, Automotive & Transportation, Consumer Electronics, Energy, Industrial, Medical, Networking & AI -> page /
-- Services: Component sourcing, inventory management, product lifecycle management, testing & inspection -> page /
-- Global supply chain network with local service -> page /
-- Inventory flexibility and long-term protection programs -> page /
-- Consolidated vendor management -> page /
+- Headquarters in Tampa, Florida -> db
+- Independent and authorized electronic component distributor and supply chain solutions partner -> page '/'
+- Certifications: AS6081, IDEA-QMS-9090B, ICE-3000 -> page '/'
+- Industries served: Aerospace & Defense, Automotive & Transportation, Consumer Electronics, Energy, Industrial, Medical, Networking & AI -> page '/'
+- Services: Component Sourcing, Inventory Management & Logistics, Product Lifecycle Management, Testing & Inspection -> page '/'
+- Inventory buy-back program -> page '/'
+- Global supply chain network with local service -> page '/'
 - LinkedIn URL -> db
 </details>
 
@@ -67,63 +63,63 @@ Founded on the principle of simplifying component sourcing and stabilizing suppl
 **Old description:** Sensitron has over 50 years of heritage as a leading manufacturer of high reliability power electronic component solutions for the Defense, Aerospace, Space, and Medical markets.
 
 ## About
-Sensitron Semiconductor operates from Deer Park, New York. The company traces its heritage back more than 50 years as a manufacturer of high-reliability power electronic components, though a specific founding year is not disclosed. Ownership details and founder names are not publicly stated.
+Sensitron Semiconductor operates from Deer Park, New York, drawing on over 50 years of heritage in high-reliability power electronics. The company's founding year and original owners are not disclosed in public materials, but it has established itself as a specialist in solid-state power management for demanding markets.
 
-The company designs and produces solid-state power controllers, motor controllers, space-level diodes and die, and a range of high-reliability power electronics. Its product portfolio includes high-power rectifier bridges, lightweight SiC and IGBT power modules, SuperClamp transient voltage suppressors, rotating rectifier assemblies, and solid-state power distribution units. Sensitron also offers screening and test services, up-screening of commercial discrete parts, and custom hybrid microelectronics assembly certified to MIL-PRF-38534 Class K. Part numbers such as the SCP-5282 series, SPM1 series, and SEPD series illustrate the breadth of its catalog.
+The company designs and manufactures a broad range of power electronic components, including high-power rectifier bridges, lightweight SiC and IGBT power modules, motor controllers, solid-state power controllers, and a full line of JANS QPL diodes and transistors. Its capabilities span custom design, hybrid microelectronics, chip-on-board packaging, power conversion assemblies, and screening and test services such as up-screening commercial discrete parts to military standards. Specific part numbers referenced include the SCP-5282 series TVS modules, SPM1 Series SiC power modules, and SEPD Series solid-state relay power controllers.
 
-Sensitron serves the defense, aerospace, space, and medical markets. Its components are used in commercial aerospace, launch vehicles, naval and missile systems, and industrial generator applications. The company's rotating rectifier assemblies, for example, are built for aerospace and defense generators rated up to 1000 V, 120 A, and 27,500 RPM.
+Sensitron serves commercial aerospace, space and launch vehicles, defense (aerospace, vehicle, naval, missiles), medical, and high-reliability industrial applications. Its rotating rectifier assemblies are used in aerospace and defense generators rated up to 1000V, 120A, and 27,500 RPM, while its SuperClamp TVS devices protect 115Vac and 270Vdc systems against lightning and voltage spikes per MIL-STD-704, MIL-STD-1399, and DO-160.
 
-Sensitron differentiates itself through its QPL listings under MIL-PRF-19500 for JAN, JANTX, JANTXV, and JANS diodes, its AS9100 registration, and patented packaging technologies such as the High Strength SMD package. The firm emphasizes rugged, lightweight, and cost-effective solutions for switching power supplies, AC-DC rectification, power distribution, motion control, and transient voltage protection.
+The company emphasizes its certifications to MIL-PRF-38534 Class K for hybrid microelectronics and MIL-PRF-19500 for JANS-level discrete diodes, along with AS9100 registration. It highlights patented packaging technology such as the High Strength SMD package, which improves temperature and power cycling performance, and ultralight SiC power bridge modules that deliver high power in a small footprint.
 
 ## Known for
 - Certified to MIL-PRF-38534 Class K for hybrid microelectronics
-- MIL-PRF-19500 QPL for JAN, JANTX, JANTXV, and JANS discrete diodes
+- QPL listed to MIL-PRF-19500 for JANTX, JANTXV, and JANS discrete diodes
 - AS9100 quality management system registration
-- Patented High Strength SMD package with enhanced temperature/power cycling capability
-- Ultralight SiC power bridge modules up to 1200 V, 150 A for high-reliability applications
+- Patented High Strength SMD package with enhanced thermal cycling capability
+- Ultralight rugged SiC power bridge modules up to 1200V/150A
 
 ## Capabilities
 - High power rectifier bridge design and production
-- Motion control module design and production
+- Motion control and motor controller design
+- Solid state power controller (SSPC) design and manufacturing
+- Hybrid microelectronics assembly (MIL-PRF-38534 Class K)
+- JANS/QPL discrete diode manufacturing (MIL-PRF-19500)
 - Screening and test services
 - Up-screening/testing of commercial discrete parts
-- Performance screening
-- Serialization and statistical control
-- Custom hybrid microelectronics assembly (MIL-PRF-38534 Class K)
-- Custom packaging (chip on board, power conversion)
-- EOL replacements (DMS)
-- Solid state power controller design (single and multi-channel)
-- Solid state relay and contactor controller design
-- High voltage diode assembly
-- Diode stack and bridge stack assembly
-- Bare die supply
+- Custom design and packaging (hybrids, chip-on-board, power conversion)
+- EOL replacement / DMS solutions
+- High voltage diode assemblies
+- Transient voltage suppressor (TVS) module design
 - SiC and IGBT power module manufacturing
-- Transient voltage suppressor module manufacturing
-- Rotating rectifier assembly manufacturing
-- Motor controller manufacturing
-- Intelligent power module manufacturing
-- Linear voltage regulator manufacturing
-- Bidirectional current limiter manufacturing
-- Lightning strike protection module manufacturing
-- MIL-STD-704 and MIL-STD-1399 compliant module manufacturing
-- High power protection (MIL-STD-1275) manufacturing
+- Light weight bridge rectifier production
+- Power distribution and control modules
+- Linear voltage regulators
+- Solid state relays and contactor controllers
+- Bidirectional current limiters
+- Lightning strike protection (LSP) modules
+- MIL-STD-704 and MIL-STD-1399 compliant modules
+- Performance screening and serialization
+- Bare die supply
+- Solar array diodes
+- SiC Schottky diodes
+- SiC MOSFETs
+- IGBTs/Thyristors
 
 ## Industries
-- Defense
-- Aerospace
-- Space
-- Medical
 - Commercial Aerospace
 - Space and Launch Vehicles
-- Naval
-- Missiles
-- Industrial
-- High Reliability
+- Defense Aerospace
+- Defense Vehicle
+- Defense Naval
+- Defense Missiles
+- Medical
+- High Reliability Industrial
+- Industrial Power Generation
 
 ## Certifications
 - AS9100
 - MIL-PRF-38534 Class K
-- MIL-PRF-19500 (JAN, JANTX, JANTXV, JANS)
+- MIL-PRF-19500 (JANTX, JANTXV, JANS)
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -132,19 +128,18 @@ Sensitron differentiates itself through its QPL listings under MIL-PRF-19500 for
 <details><summary>Sources</summary>
 
 - Headquarters in Deer Park, New York -> db
-- Over 50 years heritage as manufacturer of high reliability power electronic components -> db
-- Certified to MIL-PRF-38534 Class K for Hybrid Microelectronics -> /
-- MIL-PRF-19500 QPL for JANTX, JANTXV, JANS discrete diodes -> /
-- Registered to AS9100 -> /
-- Product lines: solid state power controllers, motor controllers, space level diodes & die, high reliability power electronics -> /
-- Industries served: Defense, Aerospace, Space, Medical, Commercial Aerospace, Space and Launch Vehicles, Naval, Missiles -> /
-- Patented High Strength SMD package -> /
-- Ultralight Rugged SiC Power Bridge Modules up to 1200V, 150A -> /
-- SuperClamp TVS 100% tested to single pulse 120A for 100ms -> /
-- Rotating Rectifier Assemblies up to 1000V, 120A, 27,500 RPM -> /
-- SEPD Series Solid State Relay Power Modules with instant trip protection -> /
-- 16-channel SSPC Board for 270Vdc, user configurable 1A-10A per channel -> /
-- High power TVS modules meeting MIL-STD-704, MIL-STD-1399, DO-160 Level 4 & 5 -> /
+- Over 50 years of heritage as a manufacturer of high reliability power electronic components -> db, page /
+- Certified to MIL-PRF-38534 Class K for Hybrid Microelectronics -> page /
+- QPL listed to MIL-PRF-19500 for JANTX, JANTXV, JANS discrete diodes -> page /
+- Registered to AS9100 -> db, page /
+- Products include high power rectifier bridges, SiC/IGBT power modules, motor controllers, SSPCs, TVS modules, JANS diodes -> page /
+- Serves commercial aerospace, space, defense (aerospace, vehicle, naval, missiles), medical, high reliability industrial -> page /
+- Rotating rectifier assemblies rated up to 1000V, 120A, 27,500 RPM -> page /
+- SuperClamp TVS modules for 115Vac/270Vdc meeting MIL-STD-704, MIL-STD-1399, DO-160 -> page /
+- Patented High Strength SMD package -> page /
+- Ultralight rugged SiC power bridge modules up to 1200V/150A -> page /
+- Screening and test services including up-screening of commercial parts -> page /
+- Custom design, hybrids, chip-on-board, power conversion, EOL replacements -> page /
 - LinkedIn URL -> db
 </details>
 
@@ -155,26 +150,27 @@ Sensitron differentiates itself through its QPL listings under MIL-PRF-19500 for
 **Old description:** Stay informed with our latest news and product releases. Explore the innovations and advancements in the wire and cable industry.
 
 ## About
-Sequel Wire and Cable LLC was founded in May 2019 in Argos, Indiana, by four partners who aimed to build a significant player in the wire and cable industry. The founding group included industry veterans such as Rich Carr, who serves as founder and CEO of the OEM group, and Gary Yetman, executive chairman of Sequel Holdings. The leadership team also comprises Jim Coleman, Kurt Hennelly, Denise Feece, James Rothstein, Brian Meachum, Tiffany Austin, and Mike Frigo, each bringing decades of experience from companies like Coleman Cable, Southwire, and Honeywell.
+Sequel Wire and Cable LLC was founded in May 2019 when four partners established the company in Argos, Indiana. The venture was led by industry veterans including Rich Carr, who serves as founder and CEO of the OEM group, and Gary Yetman, executive chairman of Sequel Holdings. The leadership team also includes Jim Coleman as president and CEO of the low-voltage group, and Kurt Hennelly as president of Sequel Wire and Cable. Their stated vision was to quickly become a meaningful player in the wire and cable industry by employing the latest technologies, hiring top talent, and maintaining an unrelenting focus on customer care.
 
-The company specializes in the drawing and extrusion of insulated copper wire, serving both OEM and low-voltage markets. Its product range spans UL/CSA and SAE wire for applications including agricultural equipment, automotive, battery and EV charging, construction equipment, marine, welding cable, and photovoltaic cable, as well as low-voltage categories such as security, fire alarm, access control, and audio-visual systems. Operations are conducted from its Argos facility, though specific facility size and headcount are not publicly disclosed.
+The company specializes in the drawing and extrusion of insulated copper wire for OEM and low-voltage markets. Its product lines encompass UL/CSA and SAE compliant wire, as well as low-voltage cables such as CMR, CMP, FPLR, and FPLP types. Manufacturing capabilities cover a range of insulated copper wire products for diverse applications, though specific facility size, headcount, and annual volumes are not publicly disclosed.
 
-Sequel serves a broad spectrum of industries, including alternative energy, automotive, heavy-duty truck, construction, appliance, marine, and recreational vehicles. Its customer base includes OEMs in sectors such as electric vehicle charging, battery systems, and industrial equipment, as well as low-voltage contractors for security, fire alarm, and building automation systems.
+Sequel serves a broad set of industries. OEM customers include agricultural equipment, appliance, automotive, battery and electric-vehicle charging, construction equipment, heavy-duty truck, marine, motorcycle, off-road vehicle, RV and trailer, water heater, and welding cable sectors. The low-voltage division supplies security and intrusion, access control, thermostat, fire alarm, audio-visual and sound systems, landscape lighting, and alternative energy markets, including PV cable.
 
-The founders established Sequel with a focus on employing the latest technologies, hiring top talent, and maintaining an unrelenting focus on customer service. The company highlights its ISO 9001:2015 certification, Great Place to Work recognition, and "Made in USA" designation as markers of its commitment to quality and domestic manufacturing.
+It also promotes a “Quality, Customer-Driven, Agile” approach and notes that its products are made in the USA. The founders’ stated goal was to build a company distinguished by its people and an unwavering focus on taking care of the customer.
 
 ## Known for
 - ISO 9001:2015 certified quality management
-- Great Place to Work certified culture (2022-2027)
-- Domestic manufacturing (Made in USA)
+- Made in USA manufacturing
+- Drawing and extrusion of insulated copper wire
+- Quality, Customer-Driven, Agile operating philosophy
 
 ## Capabilities
 - Drawing and extrusion of insulated copper wire
+- UL/CSA/SAE wire manufacturing
+- Low voltage cable manufacturing (CMR, CMP, FPLR, FPLP)
 - OEM wire and cable manufacturing
-- Low voltage wire and cable manufacturing
 
 ## Industries
-- Alternative Energy
 - Agricultural Equipment
 - Appliance
 - Automotive
@@ -198,27 +194,30 @@ The founders established Sequel with a focus on employing the latest technologie
 - Fire Alarm
 - Audio Visual and Sound Systems
 - Landscape Lighting
+- Alternative Energy
 
 ## Certifications
 - ISO 9001:2015
 - Great Place to Work Certified 2022-27
-- Made in USA
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2019
-- **Ownership:** Private partnership
 - **Headquarters:** Argos, Indiana
 
 <details><summary>Sources</summary>
 
-- Founded May 2019 in Argos, Indiana by four partners -> /about
-- Leadership team includes Rich Carr (Founder/CEO OEM), Gary Yetman (Executive Chairman), Jim Coleman (President/CEO Low Voltage), Kurt Hennelly (President), Denise Feece (COO/CFO), James Rothstein (CCO/President Low Voltage), Brian Meachum (EVP Engineering), Tiffany Austin (Dir. Product Management), Mike Frigo (Senior Advisor) -> /about
+- Founded May 2019 in Argos, Indiana -> /about
+- Four partners formed the company -> /about
+- Leadership team includes Gary Yetman, Rich Carr, Jim Coleman, Kurt Hennelly, Denise Feece, James Rothstein, Brian Meachum, Tiffany Austin, Mike Frigo -> /about
 - Drawing and extrusion of insulated copper wire -> /
-- Markets served: Agricultural Equipment, Appliance, Automotive, Battery, Battery Electric Power and Charging, Construction Equipment, Control Panel, Electric Vehicle Charging, Heavy-Duty Truck, Home Wiring Panel Prep, Marine, Motorcycle, Off-Road Vehicle, RV and Trailer, Water Heaters, Welding Cable/Commercial Welders, PV Cable, Security/Intrusion, Access Control, Thermostat, Fire Alarm, Audio Visual and Sound Systems, Landscape Lighting, Alternative Energy -> /
-- Certifications: ISO 9001:2015, Great Place to Work Certified 2022-27, Made in USA -> /
-- Company type: Manufacturer (drawing and extrusion of insulated copper wire) -> /
+- Markets: OEM and Low Voltage -> /
+- Industries served: Agricultural Equipment, Appliance, Automotive, Battery, Battery Electric Power and Charging, Construction Equipment, Control Panel, Electric Vehicle Charging, Heavy-Duty Truck, Home Wiring Panel Prep, Marine, Motorcycle, Off-Road Vehicle, RV and Trailer, Water Heaters, Welding Cable/Commercial Welders, PV Cable, Security/Intrusion, Access Control, Thermostat, Fire Alarm, Audio Visual and Sound Systems, Landscape Lighting, Alternative Energy -> /
+- Certifications: ISO 9001:2015, Great Place to Work Certified 2022-27 -> /
+- Made in USA claim -> /
+- Quality, Customer-Driven, Agile slogan -> /
 - Headquarters: Argos, Indiana -> db
+- Company type: Manufacturer -> inferred from description
 </details>
 
 ---
@@ -228,42 +227,38 @@ The founders established Sequel with a focus on employing the latest technologie
 **Old description:** SESCO will design, prototype and manufacture your electrical assemblies.
 
 ## About
-SESCO, an electrical contract manufacturer, was founded in 1983 by David Souders in Mont Alto, Pennsylvania. Beginning as a small wire harness operation, the company has grown into a full-service manufacturing partner operating an 88,000-square-foot facility in Pennsylvania. It remains a small business serving customers across the United States.
+SESCO is an electrical contract manufacturer headquartered in Mont Alto, Pennsylvania. Founded in 1983 by David Souders, the company began as a small wire harness operation and has grown into a full-service manufacturing partner operating an 88,000-square-foot facility in the state. The business is structured as a small business.
 
-The company designs, prototypes, and manufactures custom electrical assemblies, including wire harnesses, cable assemblies, control panels, and box builds. It holds UL 508A certification for control panels and supports projects from concept through full-scale production. Its capabilities span engineering support, supply chain management, and new product introduction.
+The company designs, prototypes, and manufactures custom electrical assemblies including wire harnesses, cable assemblies, control panels, and box builds. It supports programs from concept through full-scale production, offering in-house engineering, testing, supply chain management, and new product introduction services. The facility accommodates both prototype and volume runs, though specific annual volumes are not disclosed.
 
-SESCO serves OEMs and industrial customers, with notable work in the defense sector producing electrical systems for the U.S. military. It also supplies UL 508A control panels and cable assemblies for data center applications. The customer base includes innovative companies requiring end-to-end contract manufacturing.
+SESCO serves OEMs and industrial customers across sectors such as defense, data centers, and general industrial markets. Its products are used in military systems supporting U.S. service members, and the company highlights its UL 508A-listed control panels for data center applications. The customer base includes innovative companies requiring end-to-end contract manufacturing.
 
-SESCO emphasizes responsive customer service and engineering support as its differentiator, citing demonstrated flexibility and small-business responsiveness to deliver competitively priced, quality products on time.
+SESCO emphasizes responsive customer service and engineering support as its primary differentiators, citing demonstrated flexibility and small-business agility to deliver competitively priced, quality products on time. The founder’s original focus on wire harnesses evolved into a broader electrical manufacturing capability driven by customer demand for integrated solutions.
 
 ## Known for
 - Responsive customer service and engineering support
-- Full-service manufacturing from concept to full-scale production
-- 88,000 sq ft facility in Pennsylvania
-- UL 508A certified control panels
-- Defense industry experience with small business agility
+- Full-service electrical manufacturing from concept to full-scale production
+- 88,000 sq ft manufacturing facility in Pennsylvania
+- UL 508A control panel certification
+- Defense industry experience with small business flexibility
 
 ## Capabilities
-- Design
+- Electrical assembly design
 - Prototyping
-- Electrical assembly manufacturing
 - Wire harness assembly
 - Cable assembly
-- Control panel assembly
-- Box build
-- UL 508A control panel manufacturing
+- Control panel manufacturing (UL 508A)
+- Box build / panel build
+- Electrical testing
 - Supply chain management
-- New product introduction
+- New product introduction (NPI)
 - Engineering support
-- Custom electrical assemblies
-- Engineered electrical solutions
 
 ## Industries
-- OEM
-- Industrial
-- Defense
-- Data Centers
-- Military
+- Defense / Military
+- Data centers
+- OEM (Original Equipment Manufacturers)
+- Industrial equipment
 
 ## Certifications
 - UL 508A
@@ -278,12 +273,12 @@ SESCO emphasizes responsive customer service and engineering support as its diff
 
 - Founded in 1983 by David Souders -> /about
 - Operates 88,000 sq ft manufacturing facility in Pennsylvania -> /about
-- Specializes in wire harnesses, cable assemblies, control panels -> /about
+- Specializes in custom electrical assemblies, wire harnesses, cable assemblies, control panels -> /about
 - Serves OEMs and industrial customers -> /about
 - Manufactures electrical systems for US Military -> /about
-- UL 508A control panels for data centers -> /
+- UL 508a control panels for data centers -> /
 - End-to-end contract manufacturing and design services -> /
-- Responsive customer service and engineering support -> /about, /
+- Responsive customer service and engineering support -> /
 - Small business responsiveness -> /about
 - Headquarters in Mont Alto, Pennsylvania -> db
 - Website: http://www.sesco.com/ -> db
@@ -296,29 +291,25 @@ SESCO emphasizes responsive customer service and engineering support as its diff
 **Old description:** We've got you covered with super fun, simple designs for the kiddos!
 
 ## About
-Based in Woodbury, Connecticut, Livin' Country Apparel operates a small design studio where original artwork is created and hand screen printed onto a range of country-themed apparel. The business sells directly to consumers through its e-commerce site, offering free shipping on all orders.
+Woodbury, Connecticut-based Seven 1 Studios operates the Livin' Country Apparel brand from a small design studio. The company creates original artwork in-house and hand screen prints its entire apparel line. Founder or ownership details are not publicly disclosed; the primary contact is Steve (steve@livincountryusa.com).
 
-The company produces t-shirts, hoodies, and onesies for men, women, children, and toddlers. All items are printed in-house using hand screen printing techniques on 100% cotton or 50/50 cotton-polyester blend fabrics. Product designs feature farm and outdoor motifs such as tractors, animals, and rural lifestyle graphics. No facility size, headcount, or production volumes are disclosed.
+The studio produces a range of country-themed apparel including 100% cotton t-shirts, 50/50 blend hoodies, onesies, hats, and accessories. Designs feature farm motifs such as tractors, outhouses, cows, goats, horses, antlers, and bass. All printing is done by hand in the studio, with no mention of automated equipment or facility size.
 
-Livin' Country Apparel serves individual consumers seeking casual, family-friendly clothing with a country aesthetic. The product lineup includes adult tees priced around $20, hoodies around $35, women's tees at $18, and kids' and toddler sizes. The brand markets its goods as "super fun, simple designs for the kiddos" and emphasizes a classic, durable fit.
+Livin' Country sells directly to consumers through its e-commerce site, offering free shipping on all orders. The brand targets country-lifestyle enthusiasts with products for women, men, and children. Customer testimonials highlight design appeal, fit, and responsive service.
 
-The company differentiates itself by creating all artwork internally and hand screen printing every garment in its own studio. Customer testimonials highlight responsible sourcing, good fit, and responsive customer service, though these are buyer observations rather than formal company claims.
+The company differentiates itself through original artwork, hand screen printing, and a focus on comfortable, durable basics. No founding year, certifications, or B2B contract manufacturing services are advertised.
 
 ## Known for
 - Original artwork created in-house
-- Hand screen printed in small design studio
+- Hand screen printing on all apparel
 - Free shipping on all orders
-- 100% cotton and 50/50 blend fabric options
+- 100% cotton tees and 50/50 blend hoodies
+- Country-themed designs for whole family
 
 ## Capabilities
 - Hand screen printing
 - Graphic design
-- Apparel decoration
-
-## Industries
-- Apparel
-- Retail
-- E-commerce
+- Apparel printing
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -326,15 +317,13 @@ The company differentiates itself by creating all artwork internally and hand sc
 
 <details><summary>Sources</summary>
 
-- Headquarters: Woodbury, Connecticut -> db
-- Company name: Seven 1 Studios/Livin' Country Apparel -> db
-- Creates own artwork in small design studio -> /
-- Hand screen prints all apparel -> /
-- Materials: 100% cotton, 50/50 blend -> /
-- Products: tees, hoodies, onesies for adults, women, kids, toddlers -> /
+- Location: Woodbury, Connecticut -> db
+- In-house artwork design and hand screen printing -> /
+- Products: 100% cotton tees, 50/50 blend hoodies, onesies, hats, accessories -> /
+- Country-themed designs (tractors, outhouses, cows, etc.) -> /
 - Free shipping on all orders -> /
-- Contact: steve@livincountryusa.com, 2034053015 -> /
-- Customer testimonials referencing responsible sourcing and service -> /
+- Contact: Steve, steve@livincountryusa.com, 2034053015 -> /
+- Customer testimonials from Instagram and X -> /
 </details>
 
 ---
@@ -344,19 +333,18 @@ The company differentiates itself by creating all artwork internally and hand sc
 **Old description:** We are so glad you are here! We love making personalized gifts and clothing for you and your family! Learn more about our process and why we do what we do...
 
 ## About
-Sew Sudberry operates from Shelbyville, Tennessee. The company's founding year and ownership structure are not publicly disclosed, and no founders are named in available materials.
+Sew Sudberry operates from Shelbyville, Tennessee, where it runs an e-commerce business centered on personalized gifts and custom apparel. The company’s founding year, ownership structure, and founders are not publicly disclosed.
 
-The business focuses on personalized gifts and apparel, offering custom printing and embroidery services on items ranging from infant clothing — such as ruffle-collar bubbles, Peter Pan collar dresses, and longalls — to tote bags and decorative statues. It also decorates Nike-branded fleece joggers, hoodies, quarter-zips, and Legend tees with printed or embroidered graphics. Product categories shown include Fashionable Fans, Memory Makers, Holiday Hype, and Everyday.
+The company specializes in decorating blank garments and other items through printing and embroidery. Its product catalog includes customized Nike sportswear such as the Club Fleece Jogger (printed), Club Fleece Sleeve Swoosh Pullover Hoodie (embroidered), Therma-FIT Pocket 1/4-Zip (embroidered), and Long Sleeve rLegend Tee (printed), alongside a range of personalized gifts like the Sage Green Ruffle Collar Bubble, Peter Pan Collar Dress, Baby Longall, Howdy Hunny Quilted Tote, Santa’s Favorite Teacher Tote, and the Glammy the Flamingo Statue. Items are organized into categories labeled Fashionable Fans, Memory Makers, Holiday Hype, and Everyday. No information is available regarding facility size, headcount, production volumes, or part-number inventory.
 
-The storefront appears oriented toward individual consumers and gift-givers rather than industrial buyers; no B2B customer segments or industry verticals are identified in the source material.
+Sew Sudberry sells directly to consumers seeking personalized gifts for family and friends. The company does not publicly list industrial or B2B customers, served industries, or specific client examples.
 
-The company states it was motivated by a love for making personalized gifts and clothing for families, though no further differentiation claims or origin details are provided.
+The company has not published a statement about its competitive differentiators or the reason it was started.
 
 ## Capabilities
-- Personalization
-- Screen printing
+- Printing
 - Embroidery
-- Custom apparel decoration
+- Personalization
 
 ## Company details
 - **Company Type:** Retailer
@@ -364,66 +352,158 @@ The company states it was motivated by a love for making personalized gifts and 
 
 <details><summary>Sources</summary>
 
-- Location: Shelbyville, Tennessee -> db
-- Business focus: personalized gifts and clothing -> page /
-- Processes: printing and embroidery on Nike apparel -> page /
-- Product types: baby clothing (bubbles, dresses, longalls), tote bags, decorative statues -> page /
-- Categories: Fashionable Fans, Memory Makers, Holiday Hype, Everyday -> page /
-- Company statement: 'We love making personalized gifts and clothing for you and your family!' -> page /
+- Company name: Sew Sudberry -> db
+- Headquarters: Shelbyville, Tennessee -> db
+- Business description: personalized gifts and clothing -> db
+- Product examples: Nike apparel with printing/embroidery, personalized totes, baby clothing, statue -> /
+- Product categories: Fashionable Fans, Memory Makers, Holiday Hype, Everyday -> /
+- E-commerce website: https://www.sewsudberry.com/ -> db
 </details>
 
 ---
 
 # Shadows Custom Apparel & Promotional Products
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** We earn your trust through communication, quality results, and always doing the right thing.
+
+## About
+Shadows Custom Apparel & Promotional Products operates from Boise, Idaho. The company is led by CEO Mike Intravia and VP of Sales & Branding Laurie Intravia, supported by a team that includes operations, marketing, sales, and graphic design staff.
+
+The shop specializes in custom embroidery, screen printing, and branded promotional products, handling projects from initial concept through finished goods. Its facility houses equipment for both embroidery and screen printing, and a staff of approximately ten — including operations, marketing, sales, and graphic design — manages design, production, and account coordination.
+
+Clients range from local businesses such as Dennis Dillon Powersports and community events like the Greek Food Festival of Boise to national brands seeking branded merchandise. The company serves organizations looking for custom apparel and promotional items for teams, customers, and communities, emphasizing a collaborative process from concept to delivery.
+
+The company positions itself on a balance of capacity and personal attention, summarizing its approach as 'big enough to handle your order... and small enough to care about every detail,' with an emphasis on communication, quality results, and always doing the right thing.
+
+## Known for
+- Big enough to handle your order, small enough to care about every detail
+- Expert staff and state-of-the-art facility
+- Communication, quality results, and always doing the right thing
+- Concept-to-finished-goods workflow
+
+## Capabilities
+- Custom embroidery
+- Custom screen printing
+- Apparel decoration
+- Promotional products
+- Graphic design
+- Branded merchandise development
+
+## Industries
+- Local business
+- National brands
+- Event and festival
+- Corporate branding
+- Powersports
+
+## Company details
+- **Company Type:** Manufacturer
+- **Employees:** 10
+- **Headquarters:** Boise, Idaho
+
+<details><summary>Sources</summary>
+
+- Location: Boise, Idaho -> db
+- Leadership team names and roles -> /about-us
+- Team size of 10 from listed staff -> /about-us
+- Services: custom embroidery, screen printing, promotional products -> / (homepage title)
+- Client examples: Dennis Dillon Powersports, Greek Food Festival of Boise -> / (homepage testimonials)
+- Differentiator tagline: 'big enough to handle your order... small enough to care about every detail' -> / (homepage)
+- Company description: 'We earn your trust through communication, quality results, and always doing the right thing' -> db and / (homepage)
+- LinkedIn URL -> db
+</details>
+
+---
 
 # Shenandoah Planing Mill
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** SPM specializes in Countertops, Stair Parts, Exterior Features, Custom Glue-ups, and innovative woodworking solutions.
+
+## About
+Shenandoah Planing Mill was founded in 2017 by father-and-daughter team John and Amanda in Charles Town, West Virginia, with the goal of reviving a traditional planing mill in the state's Eastern Panhandle. The family-owned business has since assembled a team of industry professionals dedicated to working with Appalachian hardwoods.
+
+The mill produces a range of custom wood products including countertops, stair parts, exterior features, and glue-up panels, while also supplying hardwood and softwood lumber, hardwood plywood, architectural mouldings, flooring, and siding. In-house capabilities cover custom moulding production—with thousands of feet of hardwood trim stocked for quick pickup or delivery—as well as kiln drying, planing, sawing, and glue-up services performed on the company's production equipment.
+
+Customers span residential and commercial construction, cabinetry, furniture making, and architectural millwork. Testimonials reference projects such as high-end bars, cabinetry, home trim, and custom beds, indicating a client base of contractors, woodworkers, and individual homeowners.
+
+The company emphasizes preserving woodworking craftsmanship by training new craftspeople on traditional techniques alongside modern methods, and it highlights responsible sourcing of West Virginia hardwoods as a core differentiator. Its stated mission centers on building lasting partnerships through innovative ideas, quality, and service.
+
+## Known for
+- In-house custom moulding production with thousands of feet of hardwood trim stocked for quick pickup or delivery
+- Custom kiln drying, planing, sawing, and glue-up services
+- Focus on Appalachian hardwoods with responsible sourcing and harvesting practices
+- Training next-generation craftspeople using traditional techniques and modern equipment
+
+## Capabilities
+- Custom wood parts (countertops, stair parts, exterior features, glue-ups)
+- Hardwood lumber supply
+- Kiln drying
+- Hardwood plywood supply
+- Architectural moulding production
+- Saw milling
+- Hardwood flooring supply
+- Siding supply
+- Planing
+- Sawing
+- Custom glue-ups
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2017
+- **Ownership:** Family-owned
+- **Headquarters:** Charles Town, West Virginia
+
+<details><summary>Sources</summary>
+
+- Founded in 2017 by John and Amanda -> /about
+- Headquarters in Charles Town, West Virginia -> db
+- Produces custom mouldings in-house and stocks hardwood trim for quick pickup/delivery -> /
+- Offers custom kiln drying, planing, sawing, and glue-up services -> /
+- Specializes in countertops, stair parts, exterior features, custom glue-ups -> /
+- Focus on Appalachian hardwoods and responsible sourcing -> /about
+- Trains next-generation craftspeople using traditional and modern techniques -> /about
+- Customer testimonials from Jeremie D., North Mountain Timber Craft, Doug S. -> /
+</details>
+
+---
 
 # Sheridan Sheet Metal Co.
 
 **Old description:** Safeguard your space with custom metal roofing and gutter systems
 
 ## About
-Sheridan Sheet Metal Co. operates from New Hope, Minnesota, in the Twin Cities metro area. The company has served the region for more than 75 years, though a precise founding year is not publicly stated. Ownership details and founder names are not disclosed in available sources.
+Sheridan Sheet Metal Co. operates from New Hope, Minnesota, a suburb of Minneapolis. The company has served the Twin Cities area for more than 75 years, though a precise founding year is not publicly stated. Ownership details such as family, veteran, or woman-owned status are not disclosed in available sources. The business began as a local sheet metal fabricator focusing on architectural metal roofing and gutter systems.
 
-The firm fabricates and installs custom metal roofing, gutters, downspouts, and architectural accents for residential and commercial projects. Its shop produces custom metal products both in-house and on-site, and it stocks over 2,000 rain-carrying and roofing items, including hard-to-find half-round gutter parts in copper, galvanized steel, and prefinished steel. Installation crews handle everything from k-style and half-round gutters to flashing, roof accessories, and building facade panels, backed by a five-year warranty on residential labor and materials.
+The company specializes in custom sheet metal fabrication for residential and commercial projects, producing gutters, downspouts, metal roofing, architectural accents, and building facade panels. Fabrication occurs both in-shop and on-site, supported by a team that includes a president, plant manager, estimators, and inside sales staff. Sheridan stocks more than 2,000 metal rain-carrying and roofing products, including hard-to-find half-round gutter parts in copper, galvanized steel, and prefinished steel. Installation services carry a five-year warranty on labor and materials for residential work.
 
-Customers include commercial and residential contractors who partner with the company for product recommendations and technical advice, as well as homeowners and business owners who work directly with installers on curb-appeal projects. The company emphasizes clear communication, timeline transparency, and on-site professionalism.
+Sheridan serves residential and commercial contractors, as well as homeowners and business owners throughout the Twin Cities. Contractors partner with the company for product recommendations, technical advice, and professional installation. Homeowners and business owners engage directly with installation teams for custom gutter systems, metal roofing, and architectural copper accents such as bay window roofs and chimney caps.
 
-Sheridan Sheet Metal differentiates itself through experienced installation teams that solve on-site challenges, tailored project plans rather than one-size-fits-all solutions, and a deep inventory of specialized products — particularly the largest selection of half-round gutters in Minnesota. The company also highlights its use of domestic materials and local labor, and its decades-long presence in the community.
+The company differentiates itself through experienced installation crews familiar with its product line, tailored project plans rather than one-size-fits-all solutions, and a deep local presence spanning more than 75 years.
 
 ## Known for
-- Experienced installation teams that solve on-site challenges
-- Tailored project plans for each unique structure
-- Over 75 years of continuous service in the Twin Cities
-- Inventory of 2,000+ specialized metal roofing and gutter products, including the region's best half-round gutter selection
+- Experienced installation teams with deep product knowledge
+- Tailored project plans instead of one-size-fits-all solutions
+- More than 75 years of continuous service in the Twin Cities
+- Inventory of 2,000 specialized metal and copper roofing and gutter products
 - Five-year warranty on residential labor and materials
 
 ## Capabilities
-- Custom metal fabrication (in-shop and on-site)
-- Gutter installation (k-style, half-round)
+- Custom sheet metal fabrication (in-shop and on-site)
+- Gutter and downspout installation
 - Metal roofing installation
-- Architectural accents fabrication (bay window roofs, chimney caps)
+- Architectural sheet metal accents fabrication
 - Building facade panel fabrication
 - Custom copper fabrication (soldered watertight systems)
-- Sheet metal fabrication
-- Stocking and distribution of 2,000+ gutter and roofing products
-- Flashing fabrication
-- Downspout fabrication
-- Roof accessory fabrication
-- Sealant and fastener supply
-- Color matching and finishing
+- Product recommendation and technical consulting
+- Professional installation services
 
 ## Industries
 - Residential construction
 - Commercial construction
 - Roofing contractors
 - Gutter contractors
-- Architectural sheet metal
-- Home improvement
+- Homeowners
+- Business owners
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -431,16 +511,25 @@ Sheridan Sheet Metal differentiates itself through experienced installation team
 
 <details><summary>Sources</summary>
 
-- Headquarters in New Hope, Minnesota -> db
-- Serving Twin Cities for more than 75 years -> page "/"
-- Custom metal product fabrication, both in-shop and on-site -> page "/"
-- More than 2,000 metal rain-carrying and metal roofing products in stock -> page "/"
-- Hard-to-find half-round gutter parts in copper, galvanized steel, and prefinished steel -> page "/"
-- 5-year warranty on residential labor and materials -> page "/"
-- Team includes President Eric DeWees, Plant Manager Chad Podlasek, estimators, sales -> page "/about-us"
-- Serves commercial & residential contractors, homeowners & business owners -> page "/"
-- Domestic materials and local muscle -> page "/about-us"
-- Experienced installation teams, tailored plans, decades of dependability, hard-to-find products -> page "/"
+- headquarters: New Hope, Minnesota -> db
+- more than 75 years in Twin Cities -> /about-us
+- 2,000 unique metal rain-carrying and roofing products in stock -> /
+- hard-to-find half-round gutter parts in copper, galvanized steel, prefinished steel -> /
+- 5-year warranty on residential labor and materials -> /
+- team members: Eric DeWees President, Chad Podlasek Plant Manager, April Eichholz Accounting, Steve Mattson Estimator, Martin Wood Estimator, Andrew Prosser Estimator, Andy Tegland City Desk Sales, Terry Bird City Desk Sales -> /about-us
+- serves residential and commercial contractors, homeowners, business owners -> /
+- custom fabrication in-shop and on-site -> /
+- installation services with experienced crews -> /
+- architectural accents like bay window roofs and chimney caps -> /
+- building facade panels -> /
+- product recommendations and technical advice -> /
+- custom copper elements soldered watertight systems -> /
+- domestic materials and local muscle -> /about-us
+- tailored plans for unique projects -> /
+- decades of dependability (75+ years) -> /
+- one-stop shop for hard-to-find products -> /
+- best selection of half-round gutters in Minnesota -> /about-us
+- K-Style Gutters, Half Round Gutters, Elbows, Downspouts, Flashing, Roof Accessories -> /
 </details>
 
 ---
@@ -450,28 +539,31 @@ Sheridan Sheet Metal differentiates itself through experienced installation team
 **Old description:** SDI prides itself on the quality of our products.  We 100% test everything we build to ensure our customers receive the product they need.
 
 ## About
-Sheyenne Dakota, founded in 1996 in West Fargo, North Dakota, rebranded in 2025 as SDI Wire & Cable. Ownership retains the original values that have guided the company for nearly three decades. Founder names are not publicly disclosed.
+Sheyenne Dakota was founded in 1996 in West Fargo, North Dakota. The company rebranded in 2025 as SDI Wire & Cable, retaining the same ownership and values that have guided it for nearly three decades.
 
-The company manufactures custom wire harnesses and cable assemblies. In-house capabilities include semi-automatic crimping equipment that handles low-volume prototypes through high-volume production runs. Every unit undergoes 100% testing before shipment. Operations are housed in a West Fargo facility where all assembly is performed domestically.
+The company manufactures custom wire harnesses and cable assemblies using semi‑automatic crimping equipment. It handles low‑volume prototypes through high‑volume production runs and performs 100 % testing on every unit built. All assembly takes place at its West Fargo facility.
 
-SDI serves customers requiring wire harness solutions, though specific industry verticals are not detailed in public materials. The company emphasizes a personal support model backed by quality-control processes typical of larger suppliers.
+SDI serves the wire harness industry, supplying assemblies to customers who require reliable, U.S.-built interconnect solutions.
 
-Leadership cites quality as the driving vision, measured by customer satisfaction. Differentiators include a commitment to on-time delivery, automation for transparency and competitive pricing, and a made-in-USA footprint that aims to reduce landed costs.
+The company emphasizes a quality vision that drives every action, citing 100 % testing, on‑time delivery, sophisticated automation for transparency, and a Made‑in‑USA commitment. It positions itself as offering the personal support of a small shop with the quality processes and competitive pricing of larger competitors.
 
 ## Known for
-- 100% testing of every assembled product
-- On-time delivery commitment to prevent supply-chain ripple effects
-- Automation and systems for operational transparency
-- 100% domestic assembly in West Fargo, ND
-- Personal support scale with large-company QC rigor
+- 100% testing of every product
+- On-time delivery focus
+- Sophisticated automation and systems for transparency
+- 100% U.S. assembly in West Fargo, ND
+- Personal support with large-company quality processes
 
 ## Capabilities
 - Custom wire harness manufacturing
-- Cable assembly
 - Semi-automatic crimping
-- 100% product testing
+- 100% testing
 - Low-volume prototype production
-- High-volume production runs
+- High-volume production
+- Wire harness assembly
+
+## Industries
+- Wire Harness
 
 ## Equipment
 - Semi-automatic crimping equipment
@@ -483,17 +575,16 @@ Leadership cites quality as the driving vision, measured by customer satisfactio
 
 <details><summary>Sources</summary>
 
-- Founded in 1996 -> /about
-- Rebranded in 2025 as SDI Wire & Cable -> /about
-- Headquartered in West Fargo, North Dakota -> /, /about
-- Manufactures custom wire harnesses -> /
-- 100% testing of all products -> /
-- Semi-automatic crimping equipment for low-volume prototypes to high-volume production -> /
-- All assembly performed in West Fargo, ND -> /
+- Founded 1996, rebranded 2025 -> /about
+- Headquarters West Fargo, ND -> /about, /
+- Custom wire harness manufacturer -> /
+- Semi-automatic crimping equipment -> /
+- Low-volume prototypes to high-volume production -> /
+- 100% testing of everything built -> /
 - On-time delivery focus -> /
-- Automation and systems for transparency -> /
-- Personal support with large-company QC processes -> /about
-- Quality vision driven by customer satisfaction -> /about
+- Sophisticated automation and systems -> /
+- Made in USA, 100% assembly in West Fargo -> /
+- Personal support with large-company quality processes -> /about
 </details>
 
 ---

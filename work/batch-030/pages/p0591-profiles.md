@@ -110,35 +110,37 @@ The founders emphasize combining digital fabrication with the warmth of handmade
 **Old description:** Delivering exceptional, professional service and care for 20+ years.
 
 ## About
-Mountaineer Home Medical operates from Morgantown, West Virginia, where it has delivered in-home respiratory services for over two decades. The company does not disclose a specific founding year or ownership structure, but its website notes a combined 20-plus years of experience in respiratory care.
+Mountaineer Home Medical operates from Morgantown, West Virginia, where it has delivered in-home respiratory services for more than two decades. The company's founding year and original owners are not publicly disclosed, and no individual founders are named in available materials.
 
-The business provides in-home respiratory services and equipment, including oxygen therapy, sleep apnea treatment, and custom mask fitting. Its clinical team develops personalized care plans, offers patient education, and manages chronic respiratory conditions such as COPD, asthma, cystic fibrosis, and neuromuscular diseases. The company emphasizes a home treatment model that coordinates with patients’ care teams and handles equipment resupply.
+The firm provides home respiratory equipment and clinical services to patients with chronic obstructive pulmonary disease, asthma, cystic fibrosis, chronic respiratory failure, and neuromuscular diseases. Its care model combines coordination with patients' medical teams, personalized education, custom care plans, and chronic disease management. Specific facility size, headcount, and service volumes are not published.
 
-Mountaineer Home Medical serves individual patients referred by physicians, as well as clinical professionals seeking respiratory support for their patients. Its services target the home healthcare and durable medical equipment sectors, with a focus on chronic disease management for respiratory disorders.
+Mountaineer Home Medical serves individual patients in their homes and collaborates with clinical professionals such as physicians and respiratory therapists. The company's website highlights patient stories involving oxygen therapy, sleep apnea treatment, and mobility equipment, illustrating its role in post-acute and long-term respiratory care.
 
-The company states that its people, knowledge, technology, and community connections set it apart. Its mission centers on improving patient outcomes and inspiring better lives through personalized education, custom-made care plans, and a collaborative home treatment approach.
+The organization states that its people, knowledge, technology, and community connections distinguish it in the home medical equipment sector. Its stated mission is to improve patient outcomes and inspire better lives through a highly effective home treatment model.
 
 ## Known for
-- Home treatment model coordinating with patient care teams
-- Personalized education and custom care plans for respiratory conditions
-- Chronic disease management for COPD, asthma, cystic fibrosis, and neuromuscular diseases
-- 20+ years of respiratory care experience
-- Community involvement and local connections
+- Highly effective home treatment model
+- Coordination with patient care teams
+- Personalized education and custom care plans
+- Chronic disease management focus
+- People, knowledge, technology, and community connections
 
 ## Capabilities
 - In-home respiratory services
-- Oxygen therapy equipment
-- Sleep apnea therapy equipment
-- Custom mask fitting
-- Patient education and training
+- Respiratory equipment provision
+- Personalized patient education
+- Custom care plan development
 - Chronic disease management
-- Resupply services
-- Care plan development
+- Care team coordination
+- Oxygen therapy services
+- Sleep apnea treatment support
+- Mobility equipment services
 
 ## Industries
 - Home healthcare
 - Respiratory therapy
 - Durable medical equipment
+- Post-acute care
 - Chronic disease management
 
 ## Company details
@@ -147,13 +149,13 @@ The company states that its people, knowledge, technology, and community connect
 
 <details><summary>Sources</summary>
 
-- headquarters: Morgantown, West Virginia -> db
-- provides in-home respiratory services and equipment -> /
-- 20+ years of experience in respiratory care -> /
-- serves patients with COPD, asthma, cystic fibrosis, chronic respiratory failure, neuromuscular diseases -> /about-us
-- mission: improve patient outcomes, inspire better lives -> /about-us
-- differentiators: people, knowledge, technology, community connections -> /about-us
-- home treatment model with personalized education and custom care plans -> /about-us
+- Headquarters in Morgantown, West Virginia -> db
+- Provides in-home respiratory services and equipment -> /
+- Serves patients with COPD, asthma, cystic fibrosis, chronic respiratory failure, neuromuscular diseases -> /about-us
+- Mission to improve patient outcomes and inspire better lives -> /about-us
+- Offers personalized education, custom care plans, chronic disease management -> /about-us
+- Highlights people, knowledge, technology, community connections as differentiators -> /about-us
+- Website includes HIPAA notice -> /
 </details>
 
 ---

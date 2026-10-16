@@ -3,54 +3,68 @@
 **Old description:** Solar Installation throughout Wisconsin, Eastern Minnesota, & Northern Iowa
 
 ## About
-Olson Solar Energy is based in Onalaska, Wisconsin, with operations extending from La Crosse, Eau Claire, and Wausau to areas near Green Bay, Rochester, and Madison. The company was founded by twin brothers Cameron and Brandon Olson after they reunited in Wisconsin following years living in Washington state and North Carolina. Cameron Olson serves as CEO and Brandon Olson as COO, both holding co-owner titles.
+Olson Solar Energy operates from Onalaska, Wisconsin, with additional bases in La Crosse, Eau Claire, and Wausau, serving customers across Wisconsin, eastern Minnesota, and northern Iowa. The company was founded by twin brothers Cameron and Brandon Olson after they reunited in Wisconsin following years living in Washington state and North Carolina. Within months of their reunion, the pair launched the business as co‑owners, with Cameron serving as CEO and Brandon as COO. The venture grew from Brandon’s interest in solar energy sparked while living in the Pacific Northwest and Cameron’s background managing multi‑million‑dollar warehouses.
 
-The firm designs and installs grid-tied photovoltaic systems for residential and commercial customers, offering both roof-mount and ground-mount configurations. Completed projects range from 4‑kilowatt rooftop arrays to a 21‑kilowatt roof installation, with multiple systems commissioned in the La Crosse area between 2019 and 2020.
+The firm specializes in designing and installing photovoltaic systems for residential and commercial clients. Its portfolio includes grid‑tied, hybrid, and off‑grid configurations, mounted on roofs or ground arrays. Project examples range from a 4‑kilowatt roof mount in La Crosse to a 21‑kilowatt roof mount in the same city, with installations documented from late 2019 through 2020. The team handles the full process: free site evaluations, system design, permitting, installation, and utility interconnection. A commercial solar specialist and a design supervisor with a Building Science and Energy Management degree support the technical side, while two sales managers cover territories in Minnesota, Iowa, and southern and northeastern Wisconsin.
 
-Olson Solar serves homeowners and businesses across Wisconsin, eastern Minnesota, and northern Iowa. Reference installations include a 20‑kilowatt ground‑mount system in Onalaska (November 2019), a 15.9‑kilowatt ground‑mount in Mindoro (December 2019), and numerous rooftop projects in La Crosse throughout 2020.
+Customers are primarily homeowners and businesses seeking to reduce energy costs and carbon footprints. Installations have been completed in communities such as Onalaska, La Crosse, Mindoro, Viroqua, Green Bay, and Eau Claire. The company also works with referral partners and offers financing options to lower upfront barriers.
 
-The founders emphasize a strong work ethic, rapid project timelines, and a passion for solar energy sparked by Brandon’s time in the Pacific Northwest. The company promotes free, no‑obligation evaluations and a customer referral program, aiming to bridge the gap between clients and the solar systems they seek.
+The founders emphasize a commitment to fast turnaround — aiming to complete every project in the shortest timeline possible — and a consultative approach that begins with a no‑cost evaluation using only an address and an energy bill. A referral program rewards existing customers, and the leadership cites a blend of work ethic, customer service, and passion for renewable energy as the foundation of their operation.
 
 ## Known for
-- Free solar evaluation with no cost to the customer
-- Customer referral program
-- Goal to complete projects in the shortest possible timeline
-- Multi‑location operations across Wisconsin, eastern Minnesota, and northern Iowa
-- Dedicated commercial solar specialist on staff
+- Goal to complete every project in the shortest timeline possible
+- Free solar evaluation with only an address and energy bill
+- Referral program for existing customers
+- Multiple Wisconsin locations (La Crosse, Eau Claire, Wausau) for regional coverage
+- Offers grid‑tied, hybrid, and off‑grid system designs
 
 ## Capabilities
-- Solar photovoltaic system design
-- Grid-tied solar installation
-- Roof-mount solar installation
-- Ground-mount solar installation
-- Solar project consultation
-- Solar financial estimates
-- Commercial solar specialization
-- Residential solar installation
-- Free solar evaluation
-- Customer referral program
+- Solar photovoltaic system installation
+- Grid‑tied system installation
+- Hybrid system installation
+- Off‑grid system installation
+- Roof‑mount solar array installation
+- Ground‑mount solar array installation
+- Solar system design and engineering
+- Free site evaluation and consultation
+- Permitting and utility interconnection
+- Commercial solar project development
+- Residential solar project development
+- Project management
+- Sales and territory management
+- Marketing and customer outreach
 
 ## Industries
-- Residential solar
-- Commercial solar
 - Solar energy installation
+- Renewable energy
+- Residential construction
+- Commercial construction
+- Energy efficiency
 
 ## Company details
 - **Company Type:** Installer / service company
-- **Ownership:** Co-owned by twin brothers Cameron and Brandon Olson
+- **Ownership:** Family-owned
 - **Headquarters:** Onalaska, Wisconsin
 
 <details><summary>Sources</summary>
 
-- Headquarters in Onalaska, Wisconsin -> db
-- Founded by twin brothers Cameron and Brandon Olson after reuniting in Wisconsin -> /about-us
-- Cameron Olson CEO/Co-Founder, Brandon Olson COO/Co-Founder -> /about-us
-- Operates from La Crosse, Eau Claire, Wausau and near Green Bay, Rochester, Madison -> /
-- Installs grid-tied photovoltaic systems (roof-mount and ground-mount) -> /
-- Project sizes from 4 kW to 21 kW, installations in Onalaska, Mindoro, La Crosse 2019-2020 -> /
-- Serves residential and commercial customers in Wisconsin, eastern Minnesota, northern Iowa -> /
-- Offers free solar evaluation and referral program -> /
+- Operates from Onalaska, Wisconsin with bases in La Crosse, Eau Claire, Wausau -> /, /about-us
+- Serves Wisconsin, eastern Minnesota, northern Iowa -> /, /about-us
+- Founded by twin brothers Cameron and Brandon Olson -> /about-us
+- Cameron Olson CEO, Brandon Olson COO, co-founders/co-owners -> /about-us
+- Brandon inspired by Pacific Northwest, Cameron managed warehouses -> /about-us
+- Specializes in grid-tied, hybrid, off-grid PV systems -> /about, /
+- Roof-mount and ground-mount installations -> /
+- Project examples 4 kW to 21 kW, 2019-2020 -> /
+- Free solar evaluation with address and energy bill -> /
 - Goal to complete projects in shortest timeline possible -> /
+- Referral program -> /
+- Team includes sales managers, marketing director, design supervisor, commercial specialist -> /about-us
+- Emily Patterson has Building Science and Energy Management degree -> /about-us
+- Shannon Duha 20+ years marketing experience, international manufacturer -> /about-us
+- Installations in Onalaska, La Crosse, Mindoro, Viroqua, Green Bay, Eau Claire -> /, /about-us
+- Residential and commercial customers -> /about-us, /about
+- Financing options available -> /
 - LinkedIn URL -> db
 </details>
 
@@ -61,33 +75,33 @@ The founders emphasize a strong work ethic, rapid project timelines, and a passi
 **Old description:** Citadel Nex Gen Narcotic Cabinet with Audit Digital Lock (24″ H x 16″ W x 8″ D)
 
 ## About
-Omnimed Inc. operates from Moorestown, New Jersey, where it has developed and manufactured premium medical products for over 45 years. The company produces and distributes its entire product line from this single facility, serving medical facilities around the world.
+Omnimed Inc is based in Moorestown, New Jersey. The company has been developing and manufacturing medical products for over 45 years, though a specific founding year is not disclosed. Ownership details and founder names are not publicly stated. The business began with a focus on improving workplace safety, employee efficiency, and patient security in medical facilities.
 
-The product range spans medical office supplies and equipment, including glove box dispensers, exam room flag systems, chart racks, narcotic cabinets, isolation stations, privacy screens, phlebotomy carts, and wall-mounted storage solutions. Omnimed’s facility houses state-of-the-art machinery that supports custom fabrication, such as power lifter cover casting, and allows the company to tailor products to specific organizational requirements.
+Omnimed manufactures a range of medical office supplies and equipment, including narcotic cabinets, glove box holders and dispensers, exam room flag systems, chart racks, medical privacy screens, isolation stations, phlebotomy carts, wall storage solutions, and transport carts. The company operates a facility in Moorestown equipped with state-of-the-art machinery and a staff committed to service. It both manufactures and distributes its products, offering direct sales and distribution through medical distributors. Customization capabilities are noted, allowing products to be tailored to organizational needs.
 
-Customers include hospitals, clinics, and other medical facilities worldwide, as well as medical distributors who resell the product line. The company serves segments such as patient charting systems, privacy screening, glove box holding, isolation stations, and general medical office equipment.
+The primary customers are medical facilities worldwide, such as hospitals, clinics, and healthcare offices. Products are used in exam rooms, patient care areas, and administrative spaces. Examples include the Citadel Nex Gen narcotic cabinet with audit digital lock, acrylic isolation stations, stainless steel glove box holders, and customizable exam room flag systems.
 
-Omnimed emphasizes its ISO 9001:2015 certified quality management system, which governs policies and procedures across the organization. The company cites its local presence, experienced staff, and the flexibility to customize orders as key differentiators, offering both direct sales and distributor channels.
+Omnimed states its goal is to provide innovative medical products and professional equipment that streamline daily operations for medical facilities. The ISO 9001:2015 certification reflects a quality management system covering the entire organization. The company emphasizes its local presence, flexibility, and ability to customize products as key differentiators.
 
 ## Known for
-- ISO 9001:2015 certified quality management system
-- State-of-the-art machinery and experienced staff
-- Direct sales and distributor network
-- Custom product fabrication per customer requirements
-- All products manufactured and distributed from Moorestown, NJ facility
+- ISO 9001:2015 quality management system
+- Manufactures and distributes from own facility in Moorestown, NJ
+- Offers product customization per organization needs
+- Direct sales and distributor channels
+- Over 45 years of experience developing medical products
 
 ## Capabilities
-- Power Lifter Cover Casting
-- Custom medical product manufacturing
-- Medical equipment assembly
+- Medical product manufacturing
+- Product customization
+- Direct and distributor sales
+- Casting (Power Lifter Cover Casting)
+- Assembly and fabrication of medical equipment
 
 ## Industries
-- Medical & Patient Charting Systems
-- Medical Privacy Screens
-- Medical Cross Stainless Steel Glove Box Holders
-- Medical Privacy Screen Replacement Panels
-- Medical Isolation Station - Acrylic
-- Medical Office Equipment
+- Healthcare
+- Medical facilities
+- Hospitals
+- Clinics
 
 ## Certifications
 - ISO 9001:2015
@@ -99,17 +113,15 @@ Omnimed emphasizes its ISO 9001:2015 certified quality management system, which 
 <details><summary>Sources</summary>
 
 - Location: Moorestown, NJ -> db
-- Over 45 years of manufacturing -> /about-us
-- Manufactures medical office supplies and equipment -> /
-- Manufactures and distributes all products from Moorestown facility -> /about-us
+- Over 45 years of experience -> /about-us
 - ISO 9001:2015 certified -> /about-us
-- State-of-the-art machinery -> /about-us
-- Custom product fabrication -> /about-us
-- Direct and distributor sales -> /about-us
-- Product categories: glove box dispensers, exam room flags, chart racks, narcotic cabinets, isolation stations, privacy screens, phlebotomy carts, wall storage -> /
-- Industries served: medical facilities, medical distributors -> / and db
-- Materials: stainless steel, acrylic, powder-coated steel, PETG, wire, steel -> /
-- Capability: Power Lifter Cover Casting -> db
+- Manufactures and distributes medical office supplies and equipment -> / and /about-us
+- Offers product customization -> /about-us
+- Sells directly and through medical distributors -> /about-us
+- Products include narcotic cabinets, glove box holders, exam room flags, chart racks, privacy screens, isolation stations, phlebotomy carts, wall storage, transport carts -> /
+- Facility has state-of-the-art machinery -> /about-us
+- Power Lifter Cover Casting capability -> db
+- Materials: stainless steel, acrylic, powder-coated steel, wire, steel, PETG, plastic -> /
 </details>
 
 ---
@@ -119,63 +131,66 @@ Omnimed emphasizes its ISO 9001:2015 certified quality management system, which 
 **Old description:** Every time you call in, chat with us online, or send us an email, you will talk with a real person.
 
 ## About
-OnPoint Customs operates a 6,500‑square‑foot production facility in South Charleston, West Virginia. The West Virginia–owned and operated business runs its decoration operations from this location, with staff available by phone, chat, or email Monday through Friday, 8 AM to 5 PM EST.
+OnPoint Customs operates a 6,500-square-foot production facility in South Charleston, West Virginia. The company is West Virginia-owned and operated, focusing on custom apparel decoration including screen printing, embroidery, and digital printing.
 
-The shop specializes in custom apparel decoration, offering in‑house screen printing, embroidery, and digital printing. All digitizing is handled internally, allowing the team to control every stitch of a logo. The facility also stocks blank apparel from WRAP‑certified suppliers and uses water‑based inks alongside organic product options. Volume discounts are applied automatically as order quantities increase, and an online design tool lets customers create and save artwork for future orders.
+The shop provides in-house screen printing, embroidery, and digital printing services, handling everything from artwork digitizing to final quality control. Its facility houses production for custom t-shirts, sweatshirts, headwear, polo shirts, and occupational wear. The company emphasizes eco-friendly practices, using water-based inks and offering organic apparel options sourced from WRAP-certified suppliers.
 
-OnPoint serves a mix of individual consumers, teams, schools, corporate clients, and non‑profit organizations. Its occupational product lines target industries such as automotive, food service, construction and maintenance, first responders, high‑visibility safety, and landscaping. Pricing is transparent, with discounts shown up front at checkout.
+OnPoint serves a broad client base ranging from individuals and school teams to corporate entities and non-profit organizations. Its occupational product lines cater to industries such as automotive, food service, construction and maintenance, high-visibility safety, first responders, and landscaping. The company also works with both large and small businesses for branded uniform programs.
 
-The company emphasizes attention to detail and customer satisfaction, citing in‑house production as the key to faster turnaround and stricter quality control. Eco‑friendly practices, including water‑based inks and organic materials, are presented as part of its commitment to minimizing environmental impact. Every order undergoes a strict quality‑control process before shipping.
+The company differentiates itself through in-house production control, which enables fast standard turnaround times and volume discounts with transparent pricing. In-house digitizing allows quicker design revisions, while a strict quality control process inspects every order. The business was built on a commitment to personal service—every inquiry is handled by a real person during business hours—and a focus on minimizing environmental impact.
 
 ## Known for
-- In-house screen printing, embroidery, and digitizing
-- 6,500 sq ft production facility in South Charleston, WV
-- Water-based inks and organic product options
-- WRAP‑certified blank‑apparel suppliers
-- Transparent volume discounts and fast standard turnaround
+- In-house production from artwork to finished garment
+- Water-based inks and organic apparel options
+- WRAP-certified supply chain
+- In-house digitizing for faster turnaround
+- Volume discounts with upfront transparent pricing
+- Real-person customer service during business hours
 
 ## Capabilities
 - Screen printing
 - Embroidery
 - Digital printing
 - In-house digitizing
-- Custom apparel decoration
-- Volume discount pricing
-- Online design tool
+- Eco-friendly printing (water-based inks)
 - Quality control inspection
+- Volume discount pricing
+- Custom apparel decoration
 
 ## Industries
-- Automotive
+- Automotive accessories
 - Food service
-- Construction
+- Construction & maintenance
+- Automotive
+- High visibility safety
 - First responders
-- High-visibility safety
 - Landscaping
-- Corporate
-- Education
-- Non-profit
-- Teams and clubs
-- Individual consumers
+- Occupational wear
+- Corporate branding
+- Schools and teams
+- Non-profit organizations
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
-- **Ownership:** West Virginia Owned & Operated
+- **Company Type:** Manufacturer
+- **Ownership:** West Virginia-owned and operated
 - **Headquarters:** South Charleston, West Virginia
 
 <details><summary>Sources</summary>
 
-- 6,500 sq ft production facility in South Charleston, WV -> /
-- In-house screen printing, embroidery, and digitizing -> /
-- Water-based inks and organic product options -> /
-- WRAP-certified suppliers -> /
-- Volume discounts with transparent pricing -> /
+- 6,500-square-foot production facility in South Charleston, West Virginia -> /
+- West Virginia-owned and operated -> /
+- In-house screen printing, embroidery, and digital printing -> /
+- Artwork digitizing done in-house -> /
+- Eco-friendly practices: water-based inks, organic apparel, WRAP-certified suppliers -> /
 - Fast standard turnaround times -> /
-- Strict quality control on every order -> /
-- Serves automotive, food service, construction, first responders, high-visibility, landscaping -> /
-- Customer types: individuals, teams, schools, corporate, non-profit -> /about
-- West Virginia owned and operated -> /
-- Staff available Mon-Fri 8AM-5PM EST -> /
-- Online design tool with saved artwork -> /
+- Volume discounts with transparent pricing -> /
+- Strict quality control process on every order -> /
+- Real-person customer service during business hours -> /
+- Serves individuals, schools, teams, corporate entities, non-profits -> /about
+- Occupational lines for automotive, food service, construction, high visibility, first responders, landscaping -> /
+- Works with both large and small companies -> /
+- In-house production control enables speed and quality -> /
+- Company differentiates through attention to detail and customer satisfaction -> /about
 </details>
 
 ---
@@ -185,39 +200,37 @@ The company emphasizes attention to detail and customer satisfaction, citing in�
 **Old description:** Onsite Wire + Telinks specializes in providing infrastructure products for use in Central Offices, Cell Sites, and Data Centers, Outside Plant, and Military Aerospace applications.
 
 ## About
-Onsite Wire & Cable + Telinks operates from Hanover, Maryland, with a second location in Michigan serving the Midwest and East Coast. The company has been a customer service-oriented distributor of low-voltage cabling products for more than two decades.
+Based in Hanover, Maryland, with a second facility in Michigan, Onsite Wire & Cable + Telinks has served as a distributor of low-voltage cabling products for more than two decades. The company operates across the Midwest and East Coast, positioning inventory to support both regional and national demand.
 
-The business stocks a broad range of low-voltage cable categories including sound and security, fire alarm, coaxial, voice and data, fiber optic, and temperature control cables. Beyond distribution, it provides job kitting, custom cable design, cable cutting and striping, and cable assembly services. Its two warehouses support local and nationwide delivery, and the company maintains relationships with over 50 manufacturing partners to keep inventory on hand.
+The firm stocks a broad range of low-voltage cable categories, including sound and security, fire alarm, coaxial, voice and data with racks and connectivity, fiber optic, and temperature control products. Beyond distribution, it provides job kitting, custom cable design, cutting and striping, and local as well as nationwide delivery. The company reports partnerships with over 50 manufacturers to maintain on-hand inventory.
 
-Its customers work in telecommunications, data centers, cell sites, central offices, outside plant, and military aerospace applications. These clients are typically involved in engineering, furnishing, installing, or maintaining the nation's backbone infrastructure and connections to it.
+Its customer base spans telecommunications infrastructure, central offices, cell sites, data centers, outside plant installations, and military aerospace applications. Buyers typically include engineering firms, installers, and maintenance contractors responsible for the nation’s backbone communications networks.
 
-The company emphasizes a customer-first approach with knowledge-based sales staff, same-day delivery on stocked items, and responsive support. It positions itself as a partner for low-voltage cabling needs by combining extensive inventory with value-added services such as kitting and custom design.
+Onsite Wire & Cable + Telinks emphasizes a customer-first approach, highlighting same-day shipping on stocked items, multi-location distribution for faster turnaround, and responsive sales support as key differentiators. The business was built on the premise of delivering products onsite and on time, a commitment reflected in its service offerings.
 
 ## Known for
 - Same-day delivery on stocked items
-- Two locations covering Midwest and East Coast
-- Over 50 supplier partners
+- Multi-location distribution covering Midwest and East Coast
 - Job kitting and custom cable design services
-- Extensive on-hand inventory with knowledge-based sales support
+- Cutting and striping for wire identification
+- Responsive customer service with knowledgeable sales staff
 
 ## Capabilities
+- Low-voltage cable distribution
 - Job kitting
 - Custom cable design
-- Cable cutting and striping
-- Cable assembly
-- Local delivery
-- Nationwide delivery
+- Cutting and striping
+- Local and nationwide delivery
 - Multi-location distribution
 - Responsive customer service
 
 ## Industries
 - Telecommunications
 - Data centers
-- Cell sites
 - Central offices
+- Cell sites
 - Outside plant
 - Military aerospace
-- Infrastructure engineering
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -225,70 +238,189 @@ The company emphasizes a customer-first approach with knowledge-based sales staf
 
 <details><summary>Sources</summary>
 
-- Headquartered in Hanover, Maryland with a second location in Michigan -> /
-- Operating as a low-voltage cable distributor for over 20 years -> /
-- Offers job kitting, custom cable design, cable cutting and striping, and cable assembly -> /
-- Maintains over 50 supplier partners and extensive on-hand inventory -> /
-- Provides local and nationwide delivery, including same-day delivery -> /
-- Serves telecommunications, data centers, cell sites, central offices, outside plant, and military aerospace -> /
-- Customer base includes firms engineering, furnishing, installing, or maintaining backbone infrastructure -> /
-- Emphasizes customer-first approach with knowledge-based sales staff -> /
+- Hanover, Maryland headquarters -> db
+- Second location in Michigan -> /
+- Over 20 years as distributor -> /
+- Low-voltage cable categories: sound and security, fire alarm, coaxial, voice and data, fiber optic, temperature controls -> /
+- Services: job kitting, custom cable design, cutting and striping, local and nationwide delivery, multi-location distribution -> /
+- Over 50 manufacturer partners -> /
+- Industries: telecommunications, central offices, cell sites, data centers, outside plant, military aerospace -> /
+- Same-day delivery offered -> /
+- Customer-first approach, responsive sales support -> /
 </details>
 
 ---
 
 # Optimum Energy Group
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** Thank you for your submission, an Optimum Energy Group Representative will contact you shortly.
+
+## About
+Optimum Energy Group operates from Duluth, Minnesota, with a second office in American Fork, Utah. The company was founded by Marshall Manle, who serves as owner and CEO, and Matt Crowell, also an owner. While the founding year is not publicly disclosed, the firm has established itself as a solar installation provider focused on residential and commercial projects.
+
+The company provides end-to-end solar services, beginning with a no-obligation consultation to assess a property's energy needs and savings potential. Its design team creates customized solar plans, and certified installers handle the physical installation. Optimum Energy Group manages permitting, system design, and ongoing support. The firm reports having generated over 18 million kilowatt-hours of solar energy and more than $23 million in customer savings, equivalent to planting 14 million trees.
+
+Optimum Energy Group serves homeowners and businesses seeking to reduce energy costs through solar power. Its residential customers include individual property owners, while commercial clients span various sectors looking to transition to renewable energy. The company emphasizes accessibility, offering $0 down financing options and assistance with federal, state, and local incentives.
+
+The company states its differentiation lies in a customer-first approach, transparency, and integrity. It uses only top-rated solar panels and equipment to ensure durability and performance. By handling every step from consultation to installation and ongoing support, Optimum Energy Group aims to make the switch to solar simple and stress-free, guided by core values of trust, integrity, and excellence.
+
+## Known for
+- Customer-first approach with customized solar solutions
+- Uses top-rated solar panels and equipment for durability
+- Expert guidance from consultation through installation and ongoing support
+- $0 upfront cost options with assistance securing incentives
+- Handles permitting, design, and maintenance for a hassle-free experience
+
+## Capabilities
+- Solar energy consultation
+- Custom solar system design
+- Professional solar panel installation
+- Permit acquisition and management
+- Ongoing system monitoring and support
+- Energy savings analysis
+- Assistance with tax credits and incentives
+
+## Industries
+- Residential solar installation
+- Commercial solar installation
+- Renewable energy services
+
+## Company details
+- **Company Type:** Installer / service company
+- **Headquarters:** Duluth, Minnesota
+
+<details><summary>Sources</summary>
+
+- Company name and locations: Duluth, MN and American Fork, UT -> db
+- Owners: Marshall Manle (Owner/CEO), Matt Crowell (Owner) -> /about-us
+- Services: consultation, custom design, professional installation, permit handling, ongoing support -> / and /about-us
+- Impact claims: 14M+ trees equivalent, 18M+ kWh generated, $23M+ savings -> / and /about-us
+- Customer-first approach, top-rated equipment, expert guidance, savings focus -> /about-us
+- $0 down financing, assistance with incentives -> /
+- Headquarters address: 314 W Superior St #802c, Duluth, MN 55802 -> /
+</details>
+
+---
 
 # Orange Packaging
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** We Are a Leading Thermoformed Packaging and POP Display Manufacturer
+
+## About
+Orange Packaging operates from Newburgh, New York, where it was founded in 1950 by the current owners' grandfather. The company remains a fourth-generation, family-owned and operated business, built on a founding principle of customer satisfaction through diverse capabilities.
+
+The firm manufactures thermoformed packaging, point-of-purchase displays, and custom molds under one roof. Its 150,000-square-foot facility houses more than ten production lines, supported by in-house mold making with four CNC machines and two routing tables. Services extend to heat and RF sealing, high-end acrylic fabrication, and full packaging fulfillment with worldwide drop shipping.
+
+Customers span food and beverage (including vertical-farming produce), medical (thermoformed trays), cosmetics (L'Oréal, Sally Hansen, Revlon), pharmaceutical (Fortune 500), and big-box retail. Orange Packaging is a preferred vendor for major retailers, producing pallet displays that meet specific store guidelines, and serves organizations from startups to Fortune 500 companies.
+
+The company states its core purpose is to help clients spend marketing money effectively, increase product sales and awareness, and move merchandise off the shelf. It emphasizes continuous reinvention, in-house control of the forming process for competitiveness, and access to the latest packaging technology.
+
+## Known for
+- In-house mold making with 4 CNC machines and 2 routing tables (mold company acquired in 2015)
+- 150,000 sq ft facility with 10+ production lines enabling high-volume, short-lead-time runs
+- Preferred vendor status with big-box retailers for compliant pallet displays
+- Worldwide drop shipping from a single integrated facility
+- Leadership in recycled and compostable food packaging
+
+## Capabilities
+- Thermoforming (vacuum forming)
+- POP display design and engineering
+- In-house mold making (CNC machining, routing)
+- Heat and RF sealing
+- High-end acrylic fabrication
+- Product packaging and fulfillment (assembly, pack-out, drop shipping)
+- Recycled and compostable food packaging
+- Pallet display manufacturing for big-box retailers
+- Custom mold design and fabrication
+- Finishing and assembly services
+
+## Industries
+- Food & Beverage (vertical farming, salad, mixed use)
+- Medical & Healthcare
+- Cosmetics & Personal Care
+- Pharmaceutical
+- Retail (big-box)
+- Packaging & Logistics
+
+## Equipment
+- 4 CNC machines
+- 2 routing tables
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1950
+- **Ownership:** Family-owned (4th generation)
+- **Headquarters:** Newburgh, NY
+
+<details><summary>Sources</summary>
+
+- Founded 1950 -> /about-us
+- 4th generation family-owned -> /about-us
+- 150,000 sq ft manufacturing space -> /about-us, /services
+- 10+ production lines -> /about-us, /services
+- In-house mold making with 4 CNC machines, 2 routing tables -> /services
+- Purchased mold company in 2015 -> /services
+- Thermoforming/vacuum forming -> /, /services
+- POP display design and engineering -> /, /services
+- Heat and RF sealing -> /, /services
+- High-end acrylic fabrication -> /, /services
+- Product packaging and fulfillment, drop ship worldwide -> /, /services
+- Food packaging (vertical farming, salad) -> /, /services
+- Medical thermoformed trays -> / (blog)
+- Cosmetics clients: L'Oréal, Sally Hansen, Revlon -> /services
+- Pharmaceutical Fortune 500 -> /services
+- Preferred vendor for big box stores -> /, /services
+- Core purpose and mission -> /about-us
+- Headquarters Newburgh, NY -> / (address), db
+</details>
+
+---
 
 # Orbis Electric
 
 **Old description:** Axial-flux in-wheel electric motors for EVs
 
 ## About
-Orbis Electric is based in Santa Rosa, California. The company was founded by Marcus Hays (CEO/CTO), Chance Claxton (COO/CMO), and Scott Streeter (Manufacturing Director) on a vision to revolutionize electric propulsion through advanced axial-flux permanent-magnet motor technology. Its origins trace to electric mobility, where the team developed Ring Drive Wheel technology and completed a four-year validation program with Volkswagen Group in Germany.
+Orbis Electric is headquartered in Santa Rosa, California. The company was founded by Marcus Hays, a U.S. Navy veteran and EV pioneer who set land-speed records on electric motorcycles, along with co-founders Chance Claxton and Scott Streeter. Hays began the venture with a vision to revolutionize electric propulsion through advanced axial-flux permanent-magnet motor technology, drawing on experience from the CALSTART Advanced Transportation Hatchery in Burbank.
 
-Today Orbis produces axial-flux in-wheel motors, modular liquid-cooling platforms (COOL·E), and high-efficiency electric drive systems for propulsion, power generation, and thermal management. The COOL·E platform integrates automotive- and defense-grade motor technology, advanced power electronics, and intelligent orchestrated controls with predictive diagnostics to deliver megawatt-scale liquid cooling. Manufacturing processes include additive manufacturing, CNC machining, and casting, supported by a portfolio of 16 issued patents and 40 pending applications.
+The company develops axial-flux in-wheel motors (its Ring Drive Wheel) and the COOL•E platform, an intelligent power-recovery system for AI data centers that combines EV-derived drive technology, orchestrated controls, and predictive diagnostics across CDUs, pumps, fans, and chillers. Manufacturing capabilities include additive manufacturing, CNC machining, and casting. Orbis holds 16 issued patents and 40 pending applications, and collaborates with Ames National Laboratory and Oak Ridge National Laboratory on next-generation magnetic materials such as Cerium Gap and MAGMA technologies.
 
-The company serves electric mobility (Volkswagen Group), transport refrigeration (eTRU), defense propulsion, and AI data-center operators. Its cooling systems are designed for the transition to 800V DC-native architectures used by cloud infrastructure providers. Collaborations with Ames National Laboratory and Oak Ridge National Laboratory on Cerium Gap and MAGMA magnetic materials further extend its reach into critical-materials research.
+Orbis serves electric mobility (including a four-year validation program with Volkswagen Group in Germany), electric transport refrigeration (eTRU), defense propulsion, and AI data-center infrastructure. Its cooling platforms target megawatt-scale liquid cooling for 800 V DC-native architectures supporting next-generation AI compute, with customers referencing NVIDIA chip roadmaps.
 
-Orbis was started to bring EV-derived drive technology into data-center cooling, arguing that legacy HVAC approaches cannot match the efficiency and response speed of automotive-grade systems. The firm emphasizes a DC-native, power-agnostic platform that recovers power, reclaims white space, and protects uptime, while its national-lab partnerships aim to reduce reliance on scarce critical minerals.
+The company states it was started to engineer more performance from less — born in electric mobility, proven in demanding applications, and reimagined for AI infrastructure. It positions its automotive- and defense-grade motor technology as a way to reduce cooling overhead, reclaim white space, protect uptime, and lessen dependence on critical mineral supply chains.
 
 ## Known for
-- DC-native, power-agnostic cooling platform (COOL·E)
-- EV-derived HaloDrive technology adapted for data-center cooling
-- Predictive diagnostics and orchestrated controls across the cooling system
-- Compact, high-capacity liquid cooling architecture
-- Collaboration with Ames and Oak Ridge National Laboratories on next-generation magnetic materials
+- EV-derived drive technology applied to data-center cooling
+- DC-native, power-agnostic platform (AC today, 800 V DC tomorrow)
+- Automotive- and defense-grade motors for megawatt-scale liquid cooling
+- 16 issued patents and 40 pending applications
+- Collaboration with Ames and Oak Ridge National Laboratories on magnetic materials
 
 ## Capabilities
 - Axial-flux permanent-magnet motor design
-- Ring Drive Wheel technology
-- Electric transport refrigeration (eTRU) systems
-- Defense propulsion systems
-- AI data-center liquid cooling (COOL·E platform)
-- Intelligent power recovery and orchestration
-- Predictive diagnostics for cooling systems
-- Modular cooling system design
-- High-efficiency electric drive systems
-- Advanced power electronics
-- Magnetic materials development (Cerium Gap, MAGMA)
+- In-wheel motor development (Ring Drive Wheel)
+- Liquid cooling system design
+- Modular cooling system manufacturing
+- Power electronics development
+- Intelligent controls and predictive diagnostics
 - Additive manufacturing
 - CNC machining
 - Casting
+- Magnetic materials research (Cerium Gap, MAGMA)
+- Megawatt-scale thermal management
+- 800 V DC power systems
 
 ## Industries
-- Electric mobility
-- Automotive
-- Transport refrigeration
-- Defense
-- AI data centers
-- Data center cooling
-- Cloud infrastructure
+- Electric vehicles / electric mobility
+- Data centers / AI infrastructure
+- Defense / military
+- Transport refrigeration (eTRU)
+- High-performance computing
+
+## Equipment
+- Additive manufacturing equipment
+- CNC machines
+- Casting equipment
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -296,24 +428,21 @@ Orbis was started to bring EV-derived drive technology into data-center cooling,
 
 <details><summary>Sources</summary>
 
-- Headquarters: Santa Rosa, California -> db
-- Founders: Marcus Hays, Chance Claxton, Scott Streeter -> /about
-- Founding vision: axial-flux permanent-magnet motor technology -> /about
-- Ring Drive Wheel technology, Volkswagen Group validation -> /about
+- HQ Santa Rosa, California -> db
+- Founders Marcus Hays, Chance Claxton, Scott Streeter -> /about
+- Marcus Hays US Navy veteran, EV pioneer, land speed records -> /about
+- Axial-flux permanent-magnet motor technology, Ring Drive Wheel -> /about, /
+- Four-year validation with Volkswagen Group Germany -> /about
 - Applications: eTRU, defense propulsion, AI data-center cooling -> /about
-- COOL·E platform: automotive/defense-grade motor tech, power electronics, intelligent controls for megawatt-scale liquid cooling -> /about
-- 800V DC-native data center transition -> /about, /
-- Collaboration with Ames National Laboratory and Oak Ridge National Laboratory on Cerium Gap and MAGMA technologies -> /about
-- 16 issued patents, 40 pending patent applications -> /
+- COOL•E platform for megawatt-scale liquid cooling -> /about, /
+- 16 issued patents, 40 pending -> /
+- Work with Ames National Laboratory and Oak Ridge National Laboratory -> /about
+- Cerium Gap and MAGMA technologies -> /about
 - 2026 R&D 100 Awards Finalist -> /
-- Team members and roles -> /about
-- Marcus Hays: US Navy veteran, EV pioneer, land speed records -> /about
-- Chance Claxton: co-founded U-Konserve, scaled Design Within Reach -> /about
-- Scott Streeter: additive manufacturing, CNC, casting specialist -> /about
-- Products: modular cooling systems, liquid cooling platform, modular power system -> /
-- Capabilities: axial-flux motor design, predictive diagnostics, orchestrated controls, additive manufacturing, CNC, casting -> /about, /
-- Industries: electric mobility, automotive, transport refrigeration, defense, AI data centers -> /about, /
-- Differentiators: DC-native power-agnostic platform, EV-derived drive tech, predictive diagnostics, compact architecture, national lab collaboration -> /about, /
+- Manufacturing: additive, CNC, casting -> /about
+- Products: modular cooling, liquid cooling platform, modular power system, POD-scale cooling -> /
+- DC native, 800V DC, power agnostic -> /
+- Press mentions: Fierce Network, Business Wire, Motor Trend -> /
 </details>
 
 ---
@@ -323,33 +452,36 @@ Orbis was started to bring EV-derived drive technology into data-center cooling,
 **Old description:** Maximum speed for homes that do it all. Stream, game, create, and connect across every device simultaneously with unmatched performance and zero slowdowns.
 
 ## About
-Orbitel Communications operates from Sun Lakes, Arizona, where it maintains a local customer service center alongside additional locations in Maricopa and SaddleBrooke. The company's founding year and ownership structure are not publicly disclosed in the available materials.
+Orbitel Communications operates from Sun Lakes, Arizona, providing telecommunications services across the region. The company maintains local service centers in Sun Lakes, Maricopa, and SaddleBrooke, offering customers in-person support alongside 24/7 phone assistance. While the founding year and ownership structure are not publicly disclosed, the provider has established a physical presence in multiple Arizona communities.
 
-The provider delivers a suite of telecommunications services centered on fiber-based internet connectivity, offering wired speeds up to 5 gigabits per second with unlimited data. Its portfolio includes Flight Mobile, a mobile virtual network service bundled with internet plans, as well as television and streaming packages. Orbitel distinguishes its service model with a seasonal hold feature that allows customers to pause internet, TV, and phone services during extended absences, and it staffs a 24/7 technical support line for service interruptions.
+The company delivers three core services: fiber internet with speeds up to 5 gigabits per second, mobile phone service under the Flight Mobile brand, and TV and streaming packages. Internet plans feature unlimited data and WiFi equipment, while Flight Mobile offers unlimited talk, text, and data on a nationwide network. Business services and seasonal hold options allow customers to pause service during extended absences. The provider emphasizes that actual speeds may vary based on networking, wiring, and device capabilities.
 
-The company serves both residential households and business clients across its Arizona service territory. Residential marketing emphasizes multi-device streaming, gaming, and content creation, while a dedicated business services division targets organizations seeking productivity-focused connectivity tools. Service availability varies by address, with multi-gigabit tiers not offered in all areas.
+Orbitel serves both residential and business customers throughout its Arizona service area. Residential subscribers use the service for streaming, gaming, remote work, and general connectivity. Business clients receive dedicated support teams and productivity-focused telecommunications tools. The company positions itself as a single local provider for all connection needs, bundling internet, mobile, and television into combined packages.
 
-Orbitel positions itself as a single local provider for all connection needs, combining internet, mobile, and television under one account. The seasonal hold option and localized service centers are highlighted as customer-centric differentiators, though specific performance guarantees or service-level agreements are not detailed in the published materials.
+Orbitel differentiates itself through local service centers, multi-gigabit fiber infrastructure, and flexible seasonal holds. The Flight Mobile bundle offers a discounted rate when paired with home internet. The company highlights its Arizona-based customer service and the ability to manage all telecommunications through one provider.
 
 ## Known for
-- Fiber internet speeds up to 5 Gbps with unlimited data
-- Seasonal service hold for internet, TV, and phone
-- 24/7 technical support availability
-- Bundled Flight Mobile service at $10/month for one year
-- Local service centers in Sun Lakes, Maricopa, and SaddleBrooke
+- Fiber internet up to 5 Gbps with unlimited data
+- Flight Mobile unlimited talk, text, data for $10/month when bundled with internet
+- Seasonal service hold for summer absences
+- Three local service centers in Sun Lakes, Maricopa, SaddleBrooke
+- 24/7 customer support
 
 ## Capabilities
 - Fiber internet service (up to 5 Gbps)
-- Mobile virtual network service (Flight Mobile)
-- Television and streaming packages
+- Mobile phone service (Flight Mobile)
+- TV and streaming packages
 - Business telecommunications services
 - Seasonal service hold
-- 24/7 technical support
+- 24/7 customer support
+- Local in-person service centers
 
 ## Industries
-- Residential telecommunications
-- Business telecommunications
-- Internet service provider
+- Telecommunications
+- Residential internet service
+- Business internet service
+- Mobile communications
+- TV and streaming services
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -357,16 +489,16 @@ Orbitel positions itself as a single local provider for all connection needs, co
 
 <details><summary>Sources</summary>
 
-- Company name: Orbitel Communications -> db
-- Headquarters: Sun Lakes, Arizona -> db
-- Service centers in Sun Lakes, Maricopa, SaddleBrooke -> /
-- Fiber internet up to 5 Gbps with unlimited data -> /
-- Flight Mobile service at $10/month for one year -> /
-- TV and streaming packages -> /
-- Seasonal service hold for internet, TV, phone -> /
-- 24/7 technical support -> /
-- Business services division -> /
-- Residential and business customer focus -> /
+- Headquarters in Sun Lakes, Arizona -> db
+- Service centers in Sun Lakes, Maricopa, SaddleBrooke -> db
+- Fiber internet up to 5 Gbps -> /
+- Flight Mobile service -> /
+- TV & Streaming service -> /
+- Business services -> db
+- Seasonal service hold -> db
+- 24/7 customer support -> db
+- Unlimited data on internet plans -> /
+- Bundled pricing for Flight Mobile with internet -> /
 </details>
 
 ---
@@ -376,34 +508,34 @@ Orbitel positions itself as a single local provider for all connection needs, co
 **Old description:** We service and install many car and truck suspension parts. Bring in your car or truck and we will service, repair or install things such as springs, u-bolts and bushings.
 
 ## About
-Oregon Auto Spring Services Inc operates from Tualatin, Oregon, providing suspension services and parts to car and truck owners in the Portland metropolitan area. The company focuses on service, installation, and repair of suspension components such as springs, u-bolts, and bushings.
+Oregon Auto Spring Services Inc operates from Tualatin, Oregon, serving the Portland metropolitan area with suspension services and parts. The company runs a brick-and-mortar shop on SW Pacific Highway where customers bring vehicles for hands-on work.
 
-The shop offers suspension service, installation, and repair, backed by equipment for diagnosing and replacing worn components. It also maintains a retail inventory of suspension parts, including leaf springs, overload kits, urethane bushing kits, and related hardware for a range of vehicle makes and models.
+The business focuses on three core activities: servicing and installing suspension components such as leaf springs, u-bolts, and bushings; repairing suspension issues on cars and trucks; and selling a range of suspension parts including overload kits, lift springs, and hanger assemblies. The shop stocks parts for a wide variety of applications, from late-model Chevrolet and GMC 1500/2500 trucks to Toyota Tacoma, Tundra, Ford Ranger, and Raptor models.
 
-Customers include individual vehicle owners and commercial fleets needing suspension maintenance or upgrades. The business serves both walk-in repair clients and account customers who order parts by number for recurring needs.
+Customers include individual vehicle owners, commercial fleets, and off-road enthusiasts. The company notes that account holders can place orders by part number using purchase orders, indicating a B2B channel alongside walk-in retail. Product listings show specific fitments for model years ranging from 1998 through 2018 across multiple brands.
 
-The company emphasizes fast, professional, and reliable service, aiming for 100 percent customer satisfaction by asking detailed questions to match parts and repairs to each vehicle’s requirements.
+The company emphasizes a consultative approach, stating that determining exact needs, goals, and expectations requires asking the right questions — often to a phone call rather than email. They describe their service as fast, professional, and reliable, and aim for 100% customer satisfaction through direct communication.
 
 ## Known for
-- Fast, professional, and reliable service
-- Large stocked inventory of suspension parts
-- Equipment for on-site diagnosis and repair
-- Account ordering by part number for repeat customers
+- Fast, professional and reliable service
+- Large inventory of suspension parts in stock
+- Account ordering via purchase order for repeat customers
+- Detailed consultation to determine exact suspension needs
 
 ## Capabilities
-- Suspension service and installation
-- Suspension repair and diagnosis
-- Suspension parts distribution and retail
-- Leaf spring service and replacement
-- U-bolt replacement
-- Bushing replacement (including urethane)
+- Suspension system installation
+- Suspension system repair
+- Suspension parts distribution
+- Leaf spring service
+- U-bolt installation
+- Bushing replacement
 - Overload kit installation
-- Spring replacement for specific vehicle models
+- Lift spring installation
 
 ## Industries
-- Automotive repair
-- Commercial trucking
-- Fleet maintenance
+- Automotive suspension
+- Commercial truck suspension
+- Off-road vehicle suspension
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -412,14 +544,13 @@ The company emphasizes fast, professional, and reliable service, aiming for 100 
 <details><summary>Sources</summary>
 
 - Location: Tualatin, Oregon -> db
-- Services: suspension service, installation, repair -> db description and page '/'
-- Parts sold: springs, u-bolts, bushings, hangers, overload kits, urethane bushing kits -> page '/'
-- Retail inventory of suspension parts -> page '/'
-- Customer focus: individual owners and fleets -> page '/'
-- Emphasis on fast, professional, reliable service and 100% customer satisfaction -> page '/'
-- Contact: 18650 SW Pacific Hwy, Tualatin, OR 97062 -> page '/'
-- Hours: Mon-Fri 8am-5pm -> page '/'
-- Account ordering via Joe v. -> page '/'
+- Services: service, repair, install suspension parts (springs, u-bolts, bushings) -> /
+- Also sells/distributes suspension parts (retail) -> /
+- Stocks parts for Chevy/GMC, Toyota, Ford, Raptor models -> /
+- Account ordering via purchase order with Joe v. -> /
+- Business hours Mon-Fri 8am-5pm -> /
+- Contact info and address -> /
+- Consultative approach, 100% satisfaction goal -> /
 </details>
 
 ---
@@ -429,46 +560,41 @@ The company emphasizes fast, professional, and reliable service, aiming for 100 
 **Old description:** Drawing inspiration from the Oregon outdoors, she spent three years perfecting her recipe and in 1994 Oregon Chai was founded. It was the first chai brought to America and set the standard for
 
 ## About
-Oregon Chai was founded in 1994 in Portland, Oregon, after its founder spent three years perfecting a recipe inspired by the Pacific Northwest outdoors. The company began as a woman-led venture to introduce authentic chai to the American market.
+Oregon Chai was founded in 1994 in Portland, Oregon, by a female entrepreneur who spent three years perfecting a recipe inspired by the Pacific Northwest outdoors. The company began as the first chai brand introduced to the American market, setting a benchmark for chai tea lattes.
 
-The company produces liquid chai concentrates, powdered chai mixes, and super concentrates, using a blend of black tea, cardamom, cinnamon, clove, and ginger. Manufacturing details such as facility size, headcount, or annual volume are not publicly disclosed.
+The company produces a range of chai products including liquid concentrates, powdered mixes, and super concentrates. Its formulations center on a simple ingredient deck of black tea, cardamom, cinnamon, clove, and ginger, blended to create a layered flavor profile.
 
-Oregon Chai serves both retail consumers and foodservice operators, with products sold through grocery channels and used in coffee shops for chai lattes. The brand also publishes recipes for iced chai, flavored lattes, and chai-based cocktails.
+Oregon Chai sells its products directly to consumers through its website and through retail distribution, targeting the specialty tea and beverage market. The brand also provides recipes for iced chai, flavored lattes, and chai-based cocktails to encourage consumer engagement.
 
-The company states it was the first to bring chai to America and set the category standard, emphasizing simple ingredients layered for depth of flavor and a connection to the Oregon landscape.
+The founder’s original vision was to bring an authentic chai experience to the U.S., drawing on the simplicity and depth of traditional spices. The company emphasizes its heritage as the first chai brought to America and its commitment to simple, high-quality ingredients.
 
 ## Known for
 - First chai brand introduced to the U.S. market (1994)
-- Recipe developed over three years using Oregon-inspired ingredients
+- Recipe developed over three years inspired by Oregon outdoors
 - Simple ingredient deck: black tea, cardamom, cinnamon, clove, ginger
-- Offers liquid, powdered, and super-concentrate formats
+- Original chai tea latte concentrate format
 
 ## Capabilities
-- Tea blending
 - Liquid concentrate production
-- Powder mixing and packaging
+- Powdered mix production
+- Super concentrate production
+- Tea blending
 - Flavor formulation
-
-## Industries
-- Food & Beverage
-- Specialty Tea
-- Coffee Shop Supplies
-- Consumer Packaged Goods
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1994
-- **Ownership:** Private (female-founded)
+- **Ownership:** Woman-owned
 - **Headquarters:** Portland, Oregon
 
 <details><summary>Sources</summary>
 
-- Founded in 1994 -> db
-- Headquarters in Portland, Oregon -> db
-- Female founder developed recipe over three years -> db
-- First chai brought to America -> db
-- Products: liquid concentrates, powdered mixes, super concentrates -> /
-- Ingredients: black tea, cardamom, cinnamon, clove, ginger -> /
+- Founded in 1994 -> db, /
+- Female founder ('she') -> db, /
+- Headquarters: Portland, Oregon -> db
+- Product collections: Liquid Concentrates, Powdered Mixes, Super Concentrates -> /
+- Ingredients: Black Tea, Cardamom, Cinnamon, Clove, Ginger -> /
+- Claim: first chai brought to America -> db, /
 - Social media: Facebook, Instagram, TikTok -> /
 </details>
 

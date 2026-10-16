@@ -3,44 +3,42 @@
 **Old description:** New or Obsolete Product | Ready to Test Prototypes in Just 3 Weeks
 
 ## About
-Ohio Semitronics, Inc. was founded in 1964 in Hilliard, Ohio, where it pioneered the first Hall Effect electrical measurement devices. The company has remained a U.S.-based manufacturer of custom transducers and sensors for over six decades.
+Ohio Semitronics, Inc. is based in Hilliard, Ohio, and has been manufacturing electrical transducers and sensors since its founding in 1964. The company pioneered the first Hall Effect electrical measurement devices that year and has since served as a key resource for organizations such as Battelle Institute, Bell Labs, and the U.S. Department of Defense.
 
-The company designs and builds a broad line of standard transducers — including AC/DC current, AC/DC voltage, watt-VAR, multifunction, frequency, and power factor models — as well as signal conditioners, relays, integrators, and panel meters. Its core business is custom engineering: Ohio Semitronics takes measurement concepts from discussion to working prototype in two to six weeks, leveraging CAD and 3D printing to accelerate development.
+The company’s core business is custom electrical measurement devices, including a full line of standard transducers for AC/DC current, AC/DC voltage, watt-VAR, multifunction, frequency, power factor, signal conditioning, relays, switches, integrators, and panel meters. Ohio Semitronics combines deep engineering expertise with modern CAD and 3D printing technologies to move from concept to working prototype in as little as three weeks, while also supporting volume production of catalog devices.
 
-Its devices serve petroleum and petrochemical plants, electric utilities, solar and wind installations, test and measurement labs, automation and control systems, and naval surface and subsurface programs. The company has been a key resource for organizations such as Battelle Institute, Bell Labs, and the U.S. Department of Defense.
+Its customers span petroleum and petrochemical, electric utility, solar and wind energy, test and measurement, automation and control, and naval surface and subsurface applications. The firm has a track record with defense and industrial clients requiring high-accuracy sensors for critical environments.
 
-Ohio Semitronics differentiates itself through deep expertise in the physics of electrical measurement, an ability to engineer unique devices for the most challenging applications, and a track record of delivering custom prototypes in as little as three weeks.
+Ohio Semitronics differentiates itself through a deep understanding of the inner workings of electrical measurements, enabling it to engineer sensors that achieve high accuracy, functionality, and durability in demanding application environments. The company emphasizes rapid prototyping throughput and an impeccable track record on challenging measurement projects.
 
 ## Known for
-- Custom prototypes ready to test in 2–6 weeks
-- Pioneered Hall Effect electrical measurement in 1964
-- Deep expertise in custom electrical measurement engineering
-- Serves defense and critical infrastructure applications
+- Custom prototypes ready for testing in 3 weeks
+- Pioneered Hall Effect electrical measurement devices (1964)
+- Deep engineering expertise in electrical measurement physics
+- CAD and 3D printing accelerated prototyping
+- Trusted by U.S. Department of Defense and national labs
 
 ## Capabilities
-- Custom transducer design
-- Electrical measurement device engineering
-- Rapid prototyping (2-6 weeks)
-- CAD design
-- 3D printing
-- AC/DC current transducer manufacturing
-- AC/DC voltage transducer manufacturing
-- Watt-VAR transducer manufacturing
-- Multifunction transducer manufacturing
-- Frequency transducer manufacturing
-- Power factor transducer manufacturing
+- Custom electrical measurement device engineering
+- Hall Effect transducer design and manufacturing
+- Standard transducer production (AC/DC current, AC/DC voltage, watt-VAR, multifunction, frequency, power factor)
 - Signal conditioner manufacturing
 - Relay/switch manufacturing
 - Integrator manufacturing
 - Panel meter manufacturing
+- Rapid prototyping (2-6 weeks)
+- CAD design
+- 3D printing for prototyping
+- Accuracy calculation and specification assistance
 
 ## Industries
-- Petroleum and Petrochemical
-- Electric Utility
-- Solar and Wind
-- Test and Measurement
-- Automation and Control
-- Naval Surface and Subsurface
+- Petroleum and petrochemical
+- Electric utility
+- Solar energy
+- Wind energy
+- Test and measurement
+- Automation and control
+- Naval surface and subsurface
 - Defense
 
 ## Company details
@@ -50,55 +48,24 @@ Ohio Semitronics differentiates itself through deep expertise in the physics of 
 
 <details><summary>Sources</summary>
 
+- Company name and location: Hilliard, Ohio -> db
 - Founded in 1964 -> /about
-- Headquartered in Hilliard, Ohio -> db
-- Pioneered Hall Effect devices -> /about
-- Makes custom transducers and sensors -> /
-- Offers standard transducers: AC/DC current, voltage, watt-VAR, multifunction, frequency, power factor, signal conditioners, relays, integrators, panel meters -> /
-- Custom prototypes in 2-6 weeks -> /
-- Custom prototypes in 3 weeks -> /about
-- Serves petroleum, petrochemical, electric utility, solar, wind, test and measurement, automation, naval, defense -> /about
+- Pioneered first Hall Effect electrical measurement devices in 1964 -> /about
 - Key resource for Battelle Institute, Bell Labs, Department of Defense -> /about
-- Uses CAD and 3D printing for rapid prototyping -> /about
-- Deep understanding of electrical measurements -> /about
+- Core business: custom electrical measurements -> /about
+- Standard transducers: AC/DC current, AC/DC voltage, watt-VAR, multifunction, frequency, power factor, signal conditioners, relays/switches, integrators, panel meters -> /
+- Custom prototypes in 2-6 weeks, as fast as 3 weeks -> / and /about
+- Uses CAD and 3D printing technologies -> /about
+- Industries served: petroleum and petrochemical, electric utility, solar and wind, test and measurement, automation and control, naval surface and subsurface -> /about
+- Deep understanding of electrical measurements for accuracy, functionality, durability -> /about
+- Website: http://www.ohiosemitronics.com/ -> db
 </details>
 
 ---
 
 # Ohio Shirt Company
 
-**Old description:** Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device
-
-## About
-Ohio Shirt Company operates from Findlay, Ohio, where it maintains an appointment-only showroom at PO Box 88. The company sells directly to consumers through its e-commerce website, offering a range of Ohio-themed printed apparel.
-
-The product line centers on screen-printed and decorated garments such as T-shirts, hoodies, and crew-neck sweatshirts featuring Ohio scripts, football motifs, and retro designs. Prices range from $25 for a basic tee to $39 for hoodies, with occasional sale pricing. The company promotes free shipping on orders exceeding $100.
-
-The business appears to serve a retail consumer base rather than industrial or wholesale channels, with no stated B2B programs, contract manufacturing services, or volume pricing tiers. Contact is handled via email and phone, and the showroom operates by appointment only, suggesting a lean, direct-to-consumer model.
-
-The company emphasizes its Ohio-centric branding and free-shipping threshold as its primary customer-facing differentiators, though no specific production capabilities, certifications, or founding narrative are disclosed on its public-facing pages.
-
-## Known for
-- Free shipping on orders over $100
-- Appointment-only showroom in Findlay, OH
-- Ohio-themed printed apparel designs
-
-## Company details
-- **Company Type:** Retailer
-- **Headquarters:** Findlay, OH
-
-<details><summary>Sources</summary>
-
-- Company name: Ohio Shirt Company -> db
-- Headquarters: Findlay, Ohio -> db
-- Location: PO Box 88, Findlay, OH 45839 -> /
-- Products: Ohio-themed printed apparel (tees, hoodies, sweatshirts) -> /
-- Free shipping on orders over $100 -> /
-- Hours: By appointment only -> /
-- Contact email and phone -> /
-</details>
-
----
+_skipped: not enough facts_
 
 # Ohio Valley Precision
 
@@ -109,69 +76,69 @@ _skipped: not enough facts_
 **Old description:** From precision machining to high-quality finishing, our team delivers consistency, accuracy, and scalability—helping you keep production on schedule and up to standard.
 
 ## About
-Ohio Woodworking Company operates from a facility near downtown Cincinnati, Ohio, on the same site where German immigrant William Frank founded the business in 1930 after apprenticing as a cabinetmaker. Now a third-generation, family-owned firm, leadership has passed from Frank to his son Tom and then to Tom’s son Tom Jr. and son-in-law Richard, who together bring over 27 years of cabinetmaking expertise.
+Ohio Woodworking Company operates from Cincinnati, Ohio, where it was founded in 1930 by William Frank, a German immigrant and cabinetmaker who started the business on the site of a former lumberyard. Now in its third generation of family ownership, the company is led by Tom Jr. and his brother-in-law Richard, who took over in 2005 after 75 years under the previous generation.
 
-The shop combines CNC machinery and AutoCAD-based drafting with traditional woodworking tools to produce custom millwork and cabinetry for commercial and institutional spaces. Capabilities range from one-of-a-kind custom builds to large-scale production runs, covering architectural millwork, commercial casework, retail fixtures, bank teller lines, salon displays, university furniture, residential cabinetry, and kitchen and food service stations. A dedicated team—many with decades of experience—supports the full design-to-execution process alongside architects, designers, and trades.
+The shop produces custom millwork and cabinetry for commercial and institutional spaces, including bank fixtures, salon displays, university furniture, residential cabinetry, architectural millwork, and retail fixtures. Production blends CNC machining and AutoCAD drafting with traditional woodworking tools, allowing the team to handle one-of-a-kind builds as well as large-scale production runs from a facility near downtown Cincinnati with convenient access to I-71, I-75, and Route 562.
 
-The company serves banking, retail, salon, higher education, medical office, and food service sectors. Long-standing clients include U.S. Bank, which relies on Ohio Woodworking for branch fixtures and casework. Projects also encompass medical office reception areas, salon and service area furniture, and custom residential work, all engineered to precise specifications.
+Clients span banking (notably U.S. Bank), salon, education, retail, medical, and residential sectors. The company collaborates directly with architects, designers, and trades to engineer fixtures and millwork packages that must be reproduced consistently across multiple locations.
 
-Ohio Woodworking emphasizes values of quality, ingenuity, perseverance, humor, and family—principles the firm says are built into every project. By blending time-tested techniques with modern technology, the company aims to deliver precision, reliability, and smart custom solutions that sustain decades-long partnerships.
+Ohio Woodworking attributes its longevity to core values of quality, ingenuity, perseverance, humor, and family—principles the firm says are built into every project. The combination of nearly a century of experience with modern technology underpins its reputation for precision and on-time delivery.
 
 ## Known for
-- Third-generation family ownership since 1930
-- Nearly 95 years of continuous operation
-- CNC machining and AutoCAD drafting paired with traditional hand tools
-- Decades-long client relationships (e.g., U.S. Bank)
-- Capacity for both one-off custom pieces and large production runs
+- Third-generation family-owned business
+- Combines traditional woodworking with CNC machinery and AutoCAD drafting
+- Decades-long partnerships with clients such as U.S. Bank
+- Handles one-of-a-kind custom builds to large-scale production runs
+- Facility near major highways (I-71, I-75, Route 562) for logistics
 
 ## Capabilities
 - Custom millwork
 - Cabinetry
-- CNC machining
-- AutoCAD drafting
 - Architectural millwork
-- Commercial casework
 - Retail fixture fabrication
 - Bank fixture fabrication
-- Salon display fabrication
-- University furniture fabrication
+- Salon furniture
+- University furniture
 - Residential cabinetry
-- Kitchen and food service station fabrication
-- Salon & service area furniture fabrication
+- CNC machining
+- AutoCAD drafting
+- Traditional woodworking
+- Design collaboration with architects/designers/trades
+- Kitchen and food service stations
+- Salon & Service Area Furniture
 
 ## Industries
-- Banking
-- Retail
-- Salon & personal care
-- Higher education
-- Medical office
-- Food service
 - Commercial
 - Institutional
+- Banking
+- Salon
+- Education
+- Retail
+- Residential
+- Medical
 
 ## Equipment
 - CNC machinery
 - AutoCAD drafting software
 
 ## Company details
-- **Company Type:** Contract manufacturer / job shop
+- **Company Type:** Manufacturer
 - **Founded:** 1930
-- **Ownership:** Family-owned, third-generation
+- **Ownership:** Family-owned (third-generation)
 - **Headquarters:** Cincinnati, Ohio
 
 <details><summary>Sources</summary>
 
-- Founded 1930 by William Frank -> /about
+- Founded in 1930 by William Frank -> /about
 - Third-generation family-owned -> /about, /
-- Headquarters Cincinnati, Ohio -> /about, /
-- Facility near downtown Cincinnati with CNC and AutoCAD -> /about
-- Custom millwork and cabinetry for commercial/institutional -> /
-- Services: architectural millwork, commercial casework, retail fixtures, bank fixtures, salon displays, university furniture, residential cabinetry, kitchen/food service stations -> /, db
-- Client example: U.S. Bank -> /
-- Industries: banking, retail, salon, university, medical office, food service -> /, db
-- Values: quality, ingenuity, perseverance, humor, family -> /about
+- Located in Cincinnati, Ohio -> /, /about
+- Custom millwork and cabinetry for commercial/institutional spaces -> /
+- Clients include U.S. Bank -> /
+- Uses CNC machinery and AutoCAD drafting -> /about
 - Handles one-of-a-kind to large-scale production -> /about
-- Team with decades of experience -> /about
+- Values: quality, ingenuity, perseverance, humor, family -> /about
+- Facility near downtown Cincinnati, accessible via RT 562, I-75, I-71 -> /about
+- Current leadership: Tom Jr. and Richard since 2005 -> /about
 </details>
 
 ---
@@ -181,45 +148,56 @@ Ohio Woodworking emphasizes values of quality, ingenuity, perseverance, humor, a
 **Old description:** Envision bespoke, handcrafted woodworks elevating your environment. Experience artisanal craftsmanship.
 
 ## About
-Ohlhauser Custom Woodworx operates from Lincoln, North Dakota. The business was founded by Mason Ohlhauser, who introduces himself as the owner and craftsman behind the operation; no founding year is disclosed.
+Ohlhauser Custom Woodworx operates from Lincoln, North Dakota. The business was founded by Mason Ohlhauser, who serves as the owner and primary craftsman. The company focuses on custom woodworking for residential and commercial clients throughout the Bismarck region.
 
-The shop produces custom furniture, cabinetry, and decorative accents, working with both new and reclaimed lumber such as barnwood. Services include custom CNC milling, personalized engraving, and a range of smaller handcrafted items like cutting boards, turkey fan mounts, key racks, and novelty gifts. The company describes its output as handcrafted, high-quality wood products tailored to client specifications.
+The shop produces custom furniture, cabinetry, and reclaimed-wood designs, supplemented by CNC milling capabilities. In addition to large-scale pieces, the company creates handcrafted items such as personalized cutting boards, turkey fan mounts, key racks, and novelty jars. All work is performed in-house using solid wood and reclaimed barnwood.
 
-Customers include homeowners and commercial clients in the Bismarck region seeking bespoke pieces for residences, offices, and other spaces. Projects referenced range from residential furniture and cabinetry to commercial installations and personalized gift items.
+Customers include homeowners seeking one-of-a-kind furniture or decor, businesses needing custom cabinetry or branded gifts, and retail buyers looking for personalized wooden accessories. Past projects range from residential dining tables to commercial office installations in the Bismarck area.
 
-The founder emphasizes a passion for craftsmanship and attention to detail, aiming to exceed client expectations by showcasing the beauty and versatility of wood through expert woodworking skills.
+Ohlhauser cites a passion for craftsmanship, attention to detail, and dedication to customer satisfaction as the principles that guide the business. The availability of custom CNC milling alongside traditional hand-tool work is presented as a key differentiator for clients requiring both precision and artisanal character.
 
 ## Known for
-- Handcrafted custom woodworking with attention to detail
-- Custom CNC milling available for precision parts
-- Reclaimed wood and barnwood fabrication
-- Personalized engraving and logo etching
-- Serves residential and commercial clients in the Bismarck area
+- Custom CNC milling available alongside handcrafting
+- Reclaimed barnwood furniture designs
+- Personalized handcrafted wood products (cutting boards, key racks, turkey fan mounts)
+- Serves residential and commercial clients in the Bismarck region
+- Owner-operated with direct craftsman involvement
 
 ## Capabilities
 - Custom furniture making
 - Custom cabinetry
-- Reclaimed wood fabrication
+- Reclaimed wood furniture
 - CNC milling
-- Laser engraving
-- Handcrafted woodworking
+- Handcrafted wood products
+- Wood engraving
+- Personalized cutting boards
+- Turkey fan mounts
+- Key rack fabrication
+- Novelty wood items
 
 ## Industries
 - Residential
 - Commercial
+- Giftware
+- Interior design
+
+## Equipment
+- CNC milling
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Owner-operated
+- **Ownership:** Sole proprietorship (Mason Ohlhauser)
 - **Headquarters:** Lincoln, North Dakota
 
 <details><summary>Sources</summary>
 
-- Company name and location: Lincoln, ND -> db
-- Founder Mason Ohlhauser -> /
-- Custom furniture, cabinetry, reclaimed wood designs, CNC milling, personalized engraving -> /
-- Serves residential and commercial clients in Bismarck area -> /
-- Emphasis on craftsmanship, attention to detail, handcrafted quality -> /
+- Location: Lincoln, ND -> /
+- Founder: Mason Ohlhauser -> /
+- Services: custom furniture, cabinetry, reclaimed wood designs, CNC milling -> /
+- Products: turkey fan mounts, cutting boards, key racks, jars -> /
+- Industries: residential, commercial -> /
+- Differentiators: attention to detail, customer satisfaction, custom CNC milling -> /
+- Company type: manufacturer -> /
 </details>
 
 ---
@@ -229,30 +207,29 @@ The founder emphasizes a passion for craftsmanship and attention to detail, aimi
 **Old description:** Want to really set your house apart from your neighbors? Install custom designed cabinets in your home.
 
 ## About
-Okaw Valley Woodworking, based in Arcola, Illinois, was founded in 2001 as a limited liability company. The business began as a custom cabinetry shop serving residential clients in the Arthur, Illinois area, operating from a facility on County Road 200 North.
+Okaw Valley Woodworking is based in Arcola, Illinois, and has operated as a limited liability company since its founding in 2001. The business was established to produce high-end, custom-made cabinetry for residential kitchens and bathrooms, along with custom millwork services for the surrounding area.
 
-The company manufactures and sells high-end, custom-made cabinetry for kitchens and bathrooms, and provides custom millwork. Operations focus on tailored designs with attention to detail beyond standard practices, offering unique style options for each project. No facility size or headcount figures are publicly disclosed.
+The company manufactures custom cabinetry tailored to individual homes, offering unique style options and a level of detail that exceeds typical standards. Its work spans kitchen and bathroom cabinets as well as broader millwork projects, all built to order rather than held in inventory. No facility dimensions, employee counts, or annual production volumes are disclosed.
 
-The primary customers are homeowners seeking distinctive cabinetry for kitchen and bathroom renovations. The company serves the residential construction and remodeling market in central Illinois, with a focus on the Arthur community.
+The primary customers are homeowners and residential contractors seeking distinctive cabinetry for new construction or remodeling projects in the Arthur, Illinois region. The firm does not cite specific commercial or industrial clients, focusing instead on the private residential market.
 
-Okaw Valley Woodworking emphasizes unique style options and a level of detail that exceeds typical industry standards as its differentiating approach, aiming to set homes apart from neighboring properties.
+Okaw Valley Woodworking emphasizes its unique design selections and meticulous craftsmanship as key differentiators, positioning its cabinets as a way to set a home apart from neighboring properties. The company was started to deliver that elevated, custom alternative to mass-produced cabinetry.
 
 ## Known for
-- Custom-designed cabinetry for kitchens and bathrooms
+- Unique cabinet styles
+- Attention to detail beyond normal standards
+- High-end custom cabinetry for kitchens and bathrooms
 - Custom millwork services
-- Attention to detail beyond standard practices
-- Unique style options for each project
 
 ## Capabilities
-- Custom cabinetry manufacturing
-- Custom millwork
+- Custom cabinet manufacturing
 - Kitchen cabinetry
 - Bathroom cabinetry
+- Custom millwork
 
 ## Industries
 - Residential construction
-- Home remodeling
-- Cabinetry
+- Kitchen and bath remodeling
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -262,13 +239,13 @@ Okaw Valley Woodworking emphasizes unique style options and a level of detail th
 
 <details><summary>Sources</summary>
 
-- Founded in 2001 -> db
-- Headquarters in Arcola, Illinois -> db
-- Manufactures custom cabinetry for kitchens and bathrooms -> /
-- Provides custom millwork -> /
-- Located at 403 E Co Rd 200 N, Arcola, IL 61910 -> /
-- Serves Arthur, Illinois area -> /
-- Emphasizes unique styles and attention to detail beyond normal standards -> /
+- Founded 2001 -> db
+- Headquarters Arcola, Illinois -> db
+- Company is an LLC -> page:/
+- Manufactures custom cabinetry for kitchens and bathrooms -> page:/
+- Provides custom millwork -> page:/
+- Offers unique styles and attention to detail beyond normal standards -> page:/
+- Serves residential customers in Arthur, Illinois area -> page:/
 </details>
 
 ---
@@ -278,66 +255,63 @@ Okaw Valley Woodworking emphasizes unique style options and a level of detail th
 **Old description:** >>> A trio out-of-state investors has launched the Sapulpa manufacturer
 
 ## About
-Oklahoma Plastic Enterprises, LLC operates from Sapulpa, Oklahoma, where a trio of out-of-state investors acquired the former Branchcomb, Inc. on August 22, 2012. Branchcomb had been a custom injection and extrusion molder for over 27 years. The new ownership brought a management team with more than 40 years of plastics industry experience and 75 years of combined business leadership.
+Oklahoma Plastic Enterprises, LLC operates from Sapulpa, Oklahoma. The company was formed on August 22, 2012, when a trio of out-of-state investors purchased the assets of Branchcomb, Inc., a custom injection and extrusion molder with 27 years of history. The new ownership group brought a management team with more than 40 years of plastics industry experience and 75 years of general business experience.
 
-The company provides custom injection molding, plastic extrusion, and blow molding, supported by a tool shop, mold design, hot stamping, and distribution/assembly services. The facility also stamps and imprints extruded parts and runs daily shipping for customer inventories. Management plans to expand to two or three shifts, six days a week.
+The shop provides custom injection molding, plastic extrusion, and blow molding, supported by an in-house tool shop and mold design service. Additional services include hot stamping on extruded parts, distribution, assembly, boxing, and coordinated shipping. The investors have indicated plans to expand to two or three shifts running six days a week, targeting first-year revenue above $2 million.
 
-Customers span medical, aerospace, boating, watercraft, oil and gas, automotive, energy, and housing sectors. The company molds electronic housings, consumer goods, medical components, housewares, and automotive parts, and supplies a product line nationally distributed through major sports retailers.
+Customers span medical devices, aerospace components, marine and watercraft parts, oil and gas equipment, automotive components, and general industrial markets such as energy and housing. The company also produces consumer goods, electronic housings, and houseware items, some of which are distributed nationally through major sports retailers. Mid-sized manufacturers in the energy, housing, and watercraft sectors are noted as a core client base.
 
-The founders framed the venture around exceeding customer expectations rather than merely meeting them. Quality control includes a visual inspection of every part by machine operators followed by random QA checks, with accepted parts boxed, counted, labeled, and prepared for shipment.
+The company emphasizes exceeding customer expectations rather than simply meeting them. Quality assurance includes a visual inspection by trained operators on every part, followed by random checks by QA personnel, with final counting, labeling, and staging in a dedicated quality control area before shipment.
 
 ## Known for
 - Exceeding customer expectations, not just meeting them
 - Management team with 40+ years plastics industry experience
-- Blow molding capacity of 5–16 pound shots
-- Full distribution/assembly and daily shipping services
+- Full-service capabilities: injection molding, extrusion, blow molding, tool shop, hot stamping, distribution/assembly
+- Planned multi-shift operation (2–3 shifts, 6 days/week)
 
 ## Capabilities
 - Injection molding
-- Plastic extrusion
-- Blow molding
-- Tool shop and mold design
-- Hot stamping
-- Distribution and assembly
-- Extrusion stamping/imprinting
-- Quality inspection
-- Shipping and logistics
+- Plastic extrusion (Prodex line, 3.5" screw)
+- Blow molding (5–16 lb shot capacity)
+- Tool shop & mold design
+- Hot stamping / imprinting
+- Distribution & assembly
+- Shipping & logistics (boxing, labeling, coordinated shipping)
+- Quality inspection (visual, random QA)
 
 ## Industries
 - Medical
 - Aerospace
-- Boating
-- Oil and Gas
+- Marine / Watercraft
+- Oil & Gas
 - Automotive
 - Energy
 - Housing
-- Watercraft
+- Consumer products
+- Electronics
 
 ## Equipment
-- Prodex extrusion line (3.5-inch screw)
-- Blow molding machines (5-16 lb shot capacity)
+- Prodex extrusion line (3.5" screw)
+- Blow molding machines (5–16 lb shot capacity)
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2012
-- **Ownership:** Private (investor-owned)
+- **Ownership:** Trio of out-of-state investors
 - **Headquarters:** Sapulpa, Oklahoma
 
 <details><summary>Sources</summary>
 
-- Founded August 22, 2012 via acquisition of Branchcomb, Inc. -> /
-- Headquartered in Sapulpa, Oklahoma -> db
-- Capabilities: injection molding, extrusion, blow molding, tool shop, hot stamp, distribution/assembly -> /, capabilities
-- Equipment: Prodex extrusion line with 3.5-inch screw -> capabilities
-- Blow molding capacity 5-16 pound shots -> capabilities
-- Industries served: medical, aerospace, boating, oil and gas, automotive, energy, housing, watercraft -> industries_served
-- Management team has 40+ years plastics experience -> /
-- Trio of out-of-state investors launched company targeting $2M+ first-year revenue -> /
-- Plan to operate 2-3 shifts, 6 days a week -> /
-- Provide extruded rod, tubing, rubber molded products -> products
-- Stamping/imprinting on extrusion products -> capabilities, products
-- Distribution/assembly and daily shipping services -> products, /
-- Quality inspection: visual every part, random QA -> products
+- Founded August 22, 2012 via purchase of Branchcomb, Inc. -> /
+- Headquarters at 9845 Frankoma Road, Sapulpa, Oklahoma -> /
+- Capabilities: injection molding, extrusion, blow molding, tool shop, hot stamping, distribution/assembly -> /
+- Industries served: medical, aerospace, marine, oil & gas, automotive, energy, housing -> /
+- Management team with 40+ years plastics experience -> /
+- Plans for 2-3 shifts, 6 days/week -> /
+- Prodex extrusion line with 3.5" screw -> capabilities
+- Blow molding 5-16 lb shot capacity -> capabilities
+- Targeting $2M+ first-year revenue -> /
+- Quality: visual inspection on every part, random QA checks -> /
 </details>
 
 ---
@@ -347,46 +321,35 @@ The founders framed the venture around exceeding customer expectations rather th
 **Old description:** From first design to final delivery, Olan Plastics can successfully produce parts for any type of industry.
 
 ## About
-Based in Canal Winchester, Ohio, Olan Plastics has over 40 years of industry experience in injection molding and related services. The company operates a 30,000-square-foot manufacturing facility and holds more than 20 industrial design patents.
+Olan Plastics, Inc. operates from a 30,000-square-foot facility in Canal Winchester, Ohio. The company has accumulated more than 40 years of injection molding experience, though a specific founding year is not publicly disclosed. Ownership details and founder names are not stated in available sources.
 
-Olan Plastics runs multiple injection molding machines ranging from 85 to 610 tons, processing a wide variety of resins and rubber. Its core processes include thermoplastic injection molding, insert molding, and thermo-rubber injection molding, with capabilities for short runs and close-tolerance work supported by closed-loop process control. The company also provides subassembly services such as hot stamping, unit packaging, and bar coding, along with consulting and resourcing that cover prototyping, industrial design, CAD engineering, tooling procurement, branding, packaging, and logistics. Warehousing and drop-shipping services round out the offering.
+The shop runs multiple injection molding machines ranging from 85 to 610 tons, processing thermoplastic resins, rubber, and thermo-rubber. Core processes include thermoplastic injection molding, insert molding, thermo-rubber injection molding, short-run production, and close-tolerance work supported by closed-loop process control. Beyond molding, Olan Plastics provides subassembly services such as hot stamping, unit packaging, and bar coding, as well as consulting and resourcing that cover prototyping, industrial design, CAD engineering, tooling procurement, and logistics. Warehousing and drop-shipping directly to end users round out the offering.
 
-The company serves customers across various industries, from startups to established firms. A noted example is Carton Flow Slotting Systems, which uses Olan Plastics to manufacture components that optimize order-picking systems in distribution and fulfillment centers throughout North America.
+Olan Plastics serves a broad industrial base, describing its market as “any type of industry.” A documented customer example is Carton Flow Slotting Systems, a manufacturer of order-picking optimization systems for distribution and fulfillment centers across North America. The company also works with entrepreneurs and established firms seeking design guidance, prototyping, or full-scale production.
 
-Olan Plastics emphasizes statistical process control and strict quality procedures aimed at defect-free processing, and positions itself as a cost-effective solution provider with short lead times and on-time delivery.
+The company emphasizes statistical process control and strict quality procedures aimed at 100 percent defect-free processing. Differentiators cited include short lead times, on-time delivery, and a consulting approach that helps clients move from concept to market, including patent guidance and packaging design.
 
 ## Known for
-- Statistical process control and strict quality procedures for defect-free processing
-- Injection molding machines from 85 to 610 tons
-- 30,000 sq ft manufacturing facility with 20+ industrial design patents
-- Consulting and resourcing from prototyping through packaging and logistics
-- Drop-shipping and warehousing with short lead times
+- Statistical process control and strict quality procedures targeting 100% defect-free processing
+- Injection molding capacity from 85 to 610 tons with closed-loop process control
+- Short-run and close-tolerance molding capabilities
+- Integrated subassembly, hot stamping, packaging, and bar coding services
+- Consulting, prototyping, industrial design, and drop-shipping/warehousing support
 
 ## Capabilities
 - Thermoplastic injection molding
 - Insert molding
 - Thermo-rubber injection molding
 - Short-run molding
-- Close tolerance molding
-- Closed loop process control
-- Subassembly
-- Hot stamping
-- Unit packaging
-- Bar coding
-- Consulting and resourcing
-- 3-D data and SLA prototypes
-- Prototyping
-- Industrial design and CAD engineering
-- Rubber tooling for prototypes
-- Steel tooling resources
-- Branding, packaging, and marketing resources
-- Assembly resources
-- Logistics resources
-- Dropshipping
+- Close-tolerance molding
+- Closed-loop process control
+- Subassembly (hot stamping, unit packaging, bar coding)
+- Consulting and resourcing (application determination, 3-D data, SLA prototypes, prototyping, industrial design, CAD engineering, rubber tooling, steel tooling resources, branding, packaging, marketing, assembly, logistics)
 - Warehousing
+- Drop shipping
 - Packaging
+- Bar coding
 - Direct consumer communication
-- Short lead time and on-time delivery
 
 ## Industries
 - Distribution and fulfillment centers
@@ -395,22 +358,27 @@ Olan Plastics emphasizes statistical process control and strict quality procedur
 - Injection molding machines (85–610 ton)
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Headquarters:** Canal Winchester, Ohio
 
 <details><summary>Sources</summary>
 
 - Location: Canal Winchester, Ohio -> db
-- Over 40 years industry experience -> home page
-- 30,000 sq ft manufacturing facility -> home page
-- 20+ industrial design patents -> home page
-- Injection molding machines 85-610 ton -> capabilities page
-- Thermoplastic injection molding, insert molding, thermo-rubber injection molding -> capabilities page
-- Short-run capabilities, close tolerance applications, closed loop process control -> capabilities page
-- Subassembly including hot stamping, unit packaging, bar coding -> capabilities page
-- Consulting and resourcing including prototyping, industrial design, CAD engineering, tooling resources -> capabilities page
-- Warehouse and shipping including dropshipping, warehousing, packaging, direct consumer communication -> capabilities page
-- Testimonial from Carton Flow Slotting Systems (distribution/fulfillment centers) -> home page
+- Facility size: 30,000 sq ft -> /
+- 40+ years industry experience -> /
+- 20+ industrial design patents -> /
+- Injection molding machines 85-610 ton -> /capabilities
+- Processes: thermoplastic injection molding, insert molding, thermo-rubber injection molding -> /capabilities
+- Short-run capabilities -> /capabilities
+- Close tolerance applications -> /capabilities
+- Closed loop process control technology -> /capabilities
+- Subassembly: hot stamping, unit packaging, bar coding -> /capabilities
+- Consulting and resourcing: prototyping, industrial design, CAD engineering, tooling resources -> /capabilities
+- Warehousing and drop shipping -> /capabilities
+- Quality control: statistical process control, defect-free processing -> /
+- Short lead time, on-time delivery -> /capabilities
+- Materials: resins and rubber -> /capabilities
+- Testimonial: Carton Flow Slotting Systems, distribution/fulfillment centers -> /
 </details>
 
 ---
@@ -420,36 +388,35 @@ Olan Plastics emphasizes statistical process control and strict quality procedur
 **Old description:** Durable and styl­ish fur­ni­ture made by us, designed by you.
 
 ## About
-Old Dominion Furniture Co. operates from Lynchburg, Virginia, where it has served the hospitality market for over 40 years. The company is led by presidents John Morgan and Laura Morgan, supported by a team that includes sales, freight, accounting, and shipping specialists.
+Old Dominion Furniture Co. operates from Lynchburg, Virginia, where it has served the hospitality market for over four decades. The company is led by presidents John Morgan and Laura Morgan, supported by a dedicated team including sales, freight, accounting, and shipping specialists. While the exact founding year is not publicly stated, the business emphasizes a legacy built on combining the personal touch of a small enterprise with the capacity of a larger operation.
 
-The company manufactures a full range of contract furniture for commercial dining and gathering spaces, including table tops, chairs, barstools, booths, table bases, and child seating. Table tops are built from regionally sourced lumber and undergo a six-step hand-finishing process that includes hand-wiped stain, wash coat, oil-based filler, and three coats of conversion varnish with sanding between coats. Chairs and barstools use hardwood frames, premium finishes, and high-density commercial-grade foam. Booths feature one-piece frame construction, web seating with high-density urethane foam, and heavy-duty textured plastic bases with corner protectors. All production occurs at the company's Virginia facility, allowing full quality control, and finished orders ship in a single delivery.
+The company manufactures a full range of contract furniture for commercial spaces, including table tops, chairs, booths, table bases, barstools, child seating, and custom pieces. Table tops are produced from regionally sourced lumber through a six-step finishing process that includes hand-wiped stain, a wash coat, oil-based filler, and three coats of conversion varnish with sanding between coats. Chairs and barstools are built on hardwood frames with premium finishes and high-density commercial-grade foam. Booths feature one-piece frame construction, web seating with high-density urethane foam, and heavy-duty textured plastic bases reinforced with corner protectors. All items are crafted and quality-checked at the firm's Virginia facility before being shipped in a single delivery.
 
-Old Dominion Furniture serves restaurants, country clubs, senior living communities, corporate dining, and educational institutions. The company collaborates with business owners, designers, and architects to develop custom furniture packages that align with specific style and budget requirements.
+Old Dominion Furniture serves restaurants, country clubs, senior living communities, corporate offices, and educational institutions. The company collaborates directly with business owners, designers, and architects to develop furniture packages that align with specific design visions and budgets.
 
-The company emphasizes a blend of small-business personal service and large-scale manufacturing capability, with an emphasis on durable construction suited to high-traffic hospitality environments. Its quality program includes multiple inspection checkpoints for structural integrity, finish consistency, and upholstery technique on every piece.
+The firm positions itself as both a manufacturer and a design partner, highlighting its in-house craftsmen and a service model that blends personal attention with large-scale reliability. Its quality statement underscores control over every production step, from raw material to finished product, as the foundation for durability in high-traffic environments.
 
 ## Known for
-- Furniture made in-house at Virginia facility
-- Six-step hand-finishing process for table tops
-- One-piece frame construction on booths
-- Web seating with high-density urethane foam
-- Single-delivery shipping for complete orders
+- All furniture manufactured start-to-finish at their Virginia facility for total quality control
+- Six-step hand-finished table top process with three coats of conversion varnish
+- One-piece frame booth construction eliminates loose joints
+- Web seating with high-density urethane foam retains shape for booth life
+- In-house craftsmen build and inspect every piece before single-delivery shipment
 
 ## Capabilities
 - Custom furniture design and manufacturing
-- Table top manufacturing (six-step finishing)
-- Chair and barstool manufacturing
-- Booth manufacturing (one-piece frame, web seating)
-- Upholstery with high-density commercial-grade foam
-- Wood finishing (conversion varnish, hand-wiped stain)
-- Design consultation
-- Single-delivery shipping
+- Table top manufacturing with six-step finishing process
+- Chair and barstool construction and upholstery
+- Booth construction with one-piece frame and web seating
+- In-house craftsmanship and quality control
+- Direct shipping in one delivery
+- Design consultation and furniture package development
 
 ## Industries
 - Restaurants
-- Country clubs
-- Senior living
-- Corporate dining
+- Country Clubs
+- Senior Living
+- Corporate
 - Education
 
 ## Company details
@@ -458,19 +425,18 @@ The company emphasizes a blend of small-business personal service and large-scal
 
 <details><summary>Sources</summary>
 
-- Location: Lynchburg, Virginia -> db
-- Over 40 years of success -> /
-- Presidents: John Morgan, Laura Morgan -> /about-us
-- Team members: Sherri Stilwell, Kelly Dewsnap, Cindi Hancock, Barbara Cabell -> /about-us
-- Products: table tops, chairs, booths, table bases, barstools, child seating, custom furniture -> /
-- Industries served: restaurants, country clubs, senior living, corporate, education -> /
-- Table tops made from regionally sourced lumber, six-step finishing process -> /quality
-- Chairs and barstools: hardwood frames, premium finishes, high-density commercial grade foam -> /quality
-- Booths: one-piece frame construction, web seating with high-density urethane foam, heavy duty textured plastic bases -> /quality
-- All production at Virginia facility -> /quality
-- Ship in one delivery direct to customer -> /
-- Combines small business heart with large-scale capabilities -> /about-us
-- Customer-centered service -> /
+- Headquarters in Lynchburg, Virginia -> db
+- Over 40 years of experience -> /
+- Presidents John Morgan and Laura Morgan -> /about-us
+- Manufactures table tops, chairs, booths, table bases, barstools, child seating, custom furniture -> /
+- Six-step finishing process for table tops -> /quality
+- Chairs and barstools built with hardwood frames, premium finishes, high-density commercial grade foam -> /quality
+- Booths with one-piece frame construction, web seating, high-density urethane foam, heavy duty textured plastic bases with corner protectors -> /quality
+- All items made at facility in Virginia -> /quality
+- Serves restaurants, country clubs, senior living, corporate, education -> /
+- Collaborates with business owners, designers, architects -> /about-us
+- In-house craftsmen construct furniture -> /
+- Ships in one delivery direct to customer -> /
 </details>
 
 ---
@@ -480,27 +446,32 @@ The company emphasizes a blend of small-business personal service and large-scal
 **Old description:** Your one stop shop for all late model used parts.  Muscle Car Driveline Swap Specialists and Sales!
 
 ## About
-Olmsted Automotive LLC operates from Hallam, Nebraska, where it serves as a specialist source for late-model used automotive parts and muscle-car driveline swaps. The company’s founding year and ownership structure are not publicly disclosed.
+Olmsted Automotive LLC operates from Hallam, Nebraska, serving as a specialist retailer and service provider for late-model muscle car parts and driveline conversions. The founding year and ownership structure are not publicly disclosed.
 
-The business stocks a focused inventory of used components for platforms including the C6 Corvette (2005–2013), Pontiac Firebird (1982–2002), Chevrolet Camaro (1982–2020), Cadillac CTS-V (2004–2020), Pontiac G8 (2008–2009), and Pontiac GTO (2004–2006). Offerings range from transmission assemblies and torque-tube wiring harnesses to engine control modules and cooling fans. Beyond parts sales, the shop performs complete driveline swaps and custom chassis fabrication, as illustrated by builds such as a 1957 Chevrolet truck fitted with a C6 Corvette driveline and a 996-horsepower 408-stroker Corvette chassis.
+The company stocks and sells used OEM components for platforms including the C6 Corvette (2005–2013), Pontiac Firebird (1982–2002), Chevrolet Camaro (1982–2020), Cadillac CTS-V (2004–2020), Pontiac G8 (2008–2009), and Pontiac GTO (2004–2006). Inventory spans transmissions, torque-tube wiring harnesses, radiator fan assemblies, engine control modules, and bell housings. Beyond parts sales, Olmsted Automotive performs complete driveline swaps — documented projects include a 70 Nova LSA/TR6060 build at 842 RWHP, a 1979 Trans Am LS2/T56 swap, an 89 Camaro LS swap, a 1957 Chevrolet 3100 with a mystery motor, a C6 custom chassis at 996 HP, and a 1957 Chevy truck C6 hybrid conversion.
 
-Customers include restoration shops, performance builders, and private enthusiasts seeking original-equipment components for GM performance vehicles. The company’s product listings reference specific OEM part numbers, indicating a focus on direct-fit replacements for late-model muscle cars and sports cars.
+Customers range from individual enthusiasts restoring or upgrading muscle cars to shops seeking specific late-model drivetrain components. The company supports each platform with model-specific part listings and offers free VIN programming on ECMs.
 
-Olmsted Automotive promotes a “100% Satisfaction Guarantee” that includes free ECM tuning and an unlimited-mile limited warranty on every combo purchase, and emphasizes post-sale communication support that customers have noted extends well beyond the initial transaction.
+Olmsted Automotive positions its driveline-swap expertise as its core differentiator, backing every swap combo with a 100% satisfaction guarantee, free ECM tuning, and an unlimited-mile limited warranty. The business emphasizes post-sale communication and support, citing customer feedback that highlights service responsiveness well over a year after purchase.
 
 ## Known for
-- 100% Satisfaction Guarantee with free ECM tuning and unlimited-mile limited warranty on combo purchases
-- Specialized in muscle-car driveline swaps and custom chassis fabrication
-- Post-sale communication support reported by customers beyond one year
-- Direct-fit OEM part numbers listed for late-model GM performance platforms
+- Muscle car driveline swap specialization
+- Free ECM tuning with swap purchases
+- Unlimited-mile limited warranty on swaps
+- 100% satisfaction guarantee
+- Late-model used OEM parts inventory for six GM platforms
 
 ## Capabilities
-- Used automotive parts sales
 - Driveline swap installation
-- Custom chassis fabrication
-- ECM tuning and programming
+- ECM tuning and VIN programming
+- Used OEM parts sales
 - Warranty administration
-- OEM parts sourcing
+- Custom chassis fabrication
+
+## Industries
+- Automotive aftermarket
+- Performance automotive
+- Muscle car restoration
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -508,14 +479,12 @@ Olmsted Automotive promotes a “100% Satisfaction Guarantee” that includes fr
 
 <details><summary>Sources</summary>
 
-- Location: Hallam, Nebraska -> db (hq_city, hq_state_label)
-- Description: 'Your one stop shop for all late model used parts. Muscle Car Driveline Swap Specialists and Sales!' -> db (description)
-- Product platforms: C6 Corvette, Pontiac Firebird, Chevrolet Camaro, Cadillac CTS-V, Pontiac G8, Pontiac GTO -> db (products list)
-- Specific parts: transmission assemblies, torque tube wiring harnesses, engine control modules, cooling fans -> db (products list)
-- Services: driveline swaps, custom chassis fabrication, ECM tuning -> page '/' (homepage content)
-- Customer testimonials noting post-sale support -> page '/' (testimonials)
-- Warranty guarantee: 100% Satisfaction Guarantee, free ECM tuning, unlimited-mile limited warranty -> page '/' (homepage text)
-- Custom build examples: 1957 Chevy Truck C6 Hybrid, C6 Custom Chassis Build 996HP 408 Stroker -> page '/' (slideshow captions)
+- Location: Hallam, Nebraska -> db
+- Platforms served: C6 Corvette, Pontiac Firebird, Chevrolet Camaro, Cadillac CTS-V, Pontiac G8, Pontiac GTO -> /
+- Parts categories: transmissions, wiring harnesses, radiators, ECMs, bell housings -> /
+- Swap projects documented: Nova, Trans Am, Camaro, 1957 Chevy truck, custom chassis -> /
+- Guarantees: 100% satisfaction, free ECM tuning, unlimited-mile warranty -> /
+- Customer testimonials referencing long-term support -> /
 </details>
 
 ---

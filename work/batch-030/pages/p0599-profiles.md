@@ -329,7 +329,44 @@ OEM Car Parts USA emphasizes guaranteed fitment, free shipping on filter orders,
 
 # OMEC Medical NV
 
-_skipped: not enough facts_
+**Old description:** To play, press and hold the enter key. To stop, release the enter key.
+
+## About
+OMEC Medical NV is based in Reno, Nevada. The company’s founding date, ownership structure, and the identities of its founders have not been disclosed in public sources. The business centers on endoscope repair and the design and commercialization of optical instrumentation for medical and life sciences applications.
+
+The company’s primary offerings include endoscope repair services and the supply of products that draw on its expertise in optical instrumentation design and commercialization. OMEC describes its products as high quality with advanced functionality, though specifics about manufacturing processes, facility dimensions, employee headcount, production volumes, or part numbers are not provided.
+
+OMEC Medical NV serves the medical and life sciences industries. Its customer base consists of organizations that require precision optical instruments and endoscope maintenance, but the company does not publish case studies, client names, or detailed industry subsegments.
+
+The company highlights its expertise in optical instrumentation design and commercialization as a distinguishing factor. No additional information about its founding mission, unique value proposition, or competitive advantages beyond this stated expertise is available.
+
+## Known for
+- Expertise in optical instrumentation design and commercialization
+- High-quality products with advanced functionality
+- Endoscope repair service
+
+## Capabilities
+- Endoscope repair
+- Optical instrumentation design
+- Product commercialization
+
+## Industries
+- Medical
+- Life Sciences
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Reno, Nevada
+
+<details><summary>Sources</summary>
+
+- Headquarters: Reno, Nevada -> db
+- Endoscope repair service -> page:/
+- Optical instrumentation design and commercialization expertise -> page:/
+- Medical and life sciences focus -> db
+</details>
+
+---
 
 # ORACLE Lighting
 

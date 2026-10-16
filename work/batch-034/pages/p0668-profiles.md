@@ -1,0 +1,572 @@
+# WikiWiki Solar and Electric
+
+**Old description:** Have Confidence knowing our Professional Maui Solar and Electric Technicians
+
+## About
+WikiWiki Solar & Electric has served Maui from its Kahului base since 2007. The locally owned and operated company was founded by certified electrician Steve Oren, who leads a team of technicians providing both solar energy and electrical services across the island.
+
+The company installs photovoltaic solar systems up to 100 kW, integrates Tesla Powerwall home battery backup, and provides full electrical service and repair including 24/7 emergency response. Technicians handle everything from panel installation and off-grid design to ceiling fans, pool motors, and service panel upgrades, with most issues resolved in a single visit.
+
+WikiWiki works with residential and commercial customers throughout Maui, covering communities from Hana and Haiku to Lahaina and Kapalua. They partner with equipment suppliers such as CertainTeed and Tesla for panels and storage, and have completed projects for thousands of homeowners as well as commercial clients.
+
+The business was built on a commitment to professionalism in an industry the founders saw as unreliable. They publish a straight-forward pricing menu so customers know costs upfront, email technician photos before arrival, use GPS-tracked marked vehicles, and require uniforms and booties on every job.
+
+## Known for
+- Hawaii C-13 Electrical Contractors License C-34011
+- 24/7 emergency electrical service
+- StraightForward Pricing® with upfront menu
+- Technician photo emailed before arrival, marked vehicles, uniforms, booties
+- GPS-equipped vehicles for accurate arrival estimates
+- Certified solar installer adhering to industry standards
+- Partnerships with Tesla and CertainTeed for panels and storage
+
+## Capabilities
+- Solar panel installation
+- Electrical service & repair
+- Tesla Powerwall / home battery backup installation
+- 24/7 emergency electrical service
+- Off-grid solar system design
+- Photovoltaic system design up to 100 kW
+- Solar system maintenance
+- CertainTeed solar panel installation
+- Service panel upgrades
+- Ceiling fan and pool motor wiring
+
+## Industries
+- Residential solar
+- Commercial solar
+- Electrical contracting
+- Home battery backup
+
+## Equipment
+- Tesla Powerwall
+- CertainTeed solar panels
+- Tesla solar panels
+
+## Certifications
+- Hawaii C-13 Electrical Contractors License C-34011
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2007
+- **Ownership:** Locally owned and operated
+- **Headquarters:** Kahului, Hawaii
+
+<details><summary>Sources</summary>
+
+- Headquarters: Kahului, Hawaii -> db
+- Founded 2007 -> /about
+- Locally owned and operated, led by certified electrician Steve Oren -> /about
+- Services: solar panel installation, electrical service & repair, Tesla Powerwall, 24/7 emergency, off-grid -> /, /about
+- Photovoltaic systems up to 100 kW -> /about
+- Serves all Maui communities listed -> /about
+- Thousands of Maui homeowners served -> /about
+- Partners with CertainTeed and Tesla -> /, /about
+- Hawaii C-13 Electrical Contractors License C-34011 -> /
+- StraightForward Pricing®, technician photos, GPS vehicles, uniforms -> /
+- Certified solar installer, top-tier materials -> /
+- Flexible scheduling 6am-6pm daily -> /about
+- Most issues fixed in one service call -> /
+</details>
+
+---
+
+# Wild Springs Solar
+
+**Old description:** Construction of South Dakota’s Largest Solar Project, Wild Springs Solar
+
+## About
+Wild Springs Solar is a 128-megawatt solar project located near New Underwood in Pennington County, South Dakota. The project is developed by Geronimo Power, a renewable energy company formerly known as National Grid Renewables. Geronimo Power's headquarters are listed in New Underwood, South Dakota, though its development staff operate across the Midwest. The company's founding year and ownership structure are not publicly disclosed in the available materials.
+
+Geronimo Power develops, owns, and operates utility-scale renewable energy infrastructure. Its portfolio includes solar generation, battery storage, onshore wind, and what it terms Powered Data Parks—campuses that co-locate data centers with dedicated renewable generation. The Wild Springs project connects to the New Underwood Substation within the Southwest Power Pool market and represents approximately 200 construction and operations jobs. The company manages permitting, land acquisition, and community engagement through internal teams such as the permitting lead and senior project developers.
+
+The company works with electric utilities, independent power producers, corporate offtakers, landowners, and local communities. Concrete projects referenced include the 100-megawatt Apple River Solar, the 150-megawatt Bee Hollow Solar, and the 270-megawatt Blevins Solar & Storage project with 360 megawatt-hours of storage. Geronimo Power also engages with educational institutions through charitable giving programs tied to project revenues.
+
+Geronimo Power emphasizes a community-benefit model branded as "Solar Does Good," citing commitments such as $500,000 in charitable giving over 20 years at Wild Springs and an estimated $29.5 million in direct economic impact. The company states it operates with honesty, integrity, and respect, and maintains an ethics and compliance hotline for stakeholders.
+
+## Known for
+- Develops utility-scale solar, wind, and storage projects across multiple states
+- Offers Powered Data Parks integrating renewable generation with data center campuses
+- Commits to community benefit agreements with measurable charitable giving
+- Maintains in-house permitting and regulatory compliance expertise for multi-agency approvals
+- Provides long-term project ownership and operations management
+
+## Capabilities
+- Utility-scale solar project development
+- Battery energy storage system development
+- Onshore wind project development
+- Data center campus development (Powered Data Parks)
+- Permitting and regulatory compliance
+- Land acquisition and community relations
+- Power purchase agreement negotiation
+- Project finance and tax equity structuring
+- Construction management and commissioning
+- Long-term asset management and operations
+
+## Industries
+- Renewable energy development
+- Solar power generation
+- Wind power generation
+- Energy storage
+- Data center infrastructure
+- Electric utilities
+- Independent power producers
+- Corporate renewable procurement
+
+## Company details
+- **Company Type:** Other
+- **Headquarters:** New Underwood, South Dakota
+
+<details><summary>Sources</summary>
+
+- Wild Springs Solar is a 128 MW solar project in Pennington County, South Dakota -> /
+- Project connects to New Underwood Substation in Southwest Power Pool market -> /
+- Geronimo Power formerly known as National Grid Renewables -> /
+- Geronimo Power develops solar, storage, onshore wind, and Powered Data Parks -> /
+- Wild Springs project: 200 construction and operation jobs -> /
+- Economic benefits: $29.5M direct impact, $12M tax revenue, $500K charitable giving over 20 years -> /
+- Environmental benefits: 3.86M metric tons CO2 offset over 20 years -> /
+- Other projects: Apple River Solar (100 MW), Bee Hollow Solar (150 MW), Blevins Solar & Storage (270 MW solar/360 MWh storage) -> /
+- Headquarters listed as New Underwood, South Dakota -> db
+- LinkedIn URL: https://www.linkedin.com/company/geronimo-power/ -> db
+- Staff: Sidney Nuese (Senior Project Developer, joined 2016), Marta Lasch (Permitting Lead, nearly decade at company) -> /
+</details>
+
+---
+
+# Wildwood Electronics
+
+**Old description:** Aerospace and Defense contract manufacturing with a strong focus on build-to-print solutions
+
+## About
+Founded in 1983 in Madison, Alabama, Wildwood Electronics is a woman-owned small business that has specialized in high-reliability contract manufacturing and build-to-print electronics production for the aerospace and defense sectors. Over four decades of experience, the company has built a reputation for delivering complex, mission-critical hardware to the Department of Defense, NASA, and prime contractors, supporting some of the nation's most advanced defense and space programs.
+
+The company operates a 30,000-square-foot facility with floor space for multiple production areas and simultaneous workstreams, enabling it to produce hardware for programs such as the Space Launch System, Patriot, THAAD, and the International Space Station.
+
+Its customer base includes the Department of Defense, NASA, and prime contractors, with manufactured hardware deployed across systems like Avenger, Arrow, Tomahawk, TOW, Hellfire, MLRS, and LCSS.
+
+Wildwood emphasizes a commitment to quality, precision, and performance, positioning itself as a partner for advancing aerospace and defense technology where reliability is non-negotiable.
+
+## Known for
+- 30,000-square-foot facility with multiple production areas and simultaneous workstreams
+- Woman-owned small business with over four decades of experience
+- Specialized in high-reliability contract manufacturing and build-to-print electronics
+- Hardware deployed on critical programs including SLS, Patriot, THAAD, and ISS
+- Stated commitment to quality, precision, and performance for mission-critical applications
+
+## Capabilities
+- Contract manufacturing
+- Build-to-print electronics production
+- High-reliability electronics manufacturing
+
+## Industries
+- Aerospace
+- Defense
+- Space
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1983
+- **Ownership:** Woman-owned small business
+- **Headquarters:** Madison, Alabama
+
+<details><summary>Sources</summary>
+
+- Founded in 1983 -> /about
+- Woman-owned small business -> /about
+- Headquartered in Madison, Alabama -> /about, db
+- 30,000-square-foot facility with multiple production areas -> /about
+- Contract manufacturing and build-to-print electronics production -> /about
+- Customers: Department of Defense, NASA, prime contractors -> /about
+- Programs: AVENGER, SLS, ARROW, TOMAHAWK, TOW, LCPK, HELLFIRE, MLRS, PATRIOT, LCSS, THAAD, International Space Station -> /about
+- Commitment to quality, precision, performance -> /about
+- Company type: contract manufacturer -> db
+</details>
+
+---
+
+# Wildwoods Mfg. Co
+
+**Old description:** – And Each Piece Has Its Own Unique Character, Style, and Design
+
+## About
+Wildwoods Mfg. Co is based in Hayward, Wisconsin, where it crafts rustic furniture using old-world woodworking techniques. The company positions itself as a continuation of age-old craftsmanship, contrasting with mass-produced furniture.
+
+Wildwoods manufactures custom rustic furniture, including tables, chairs, beds, bookcases, cabinets, and work desks. The shop works with locally sourced hardwoods, reclaimed wood, and barnwood, employing traditional joinery alongside modern tools. A patented tabletop branding process allows logos or images to be embedded into surfaces. The company also serves commercial dining and restaurant projects with tailored furniture and cabinetry.
+
+The company serves lumber mills and businesses worldwide that source hardwoods from the region, as well as restaurant and commercial dining operators seeking custom furniture. Its cabinetry and reclaimed-wood pieces are specified for interior design projects and hospitality venues.
+
+Wildwoods emphasizes a real-time quality assurance program that tracks each piece through production, issuing a Certificate of Quality with every shipment. The process aims to eliminate rework and reduce customer inspection time by pre-certifying orders against agreed specifications.
+
+## Known for
+- Patented tabletop branding process for logos and images
+- Real-time quality metrics and data-driven continuous improvement
+- Pre-shipment Certificate of Quality for every order
+- Locally sourced hardwoods from cold-climate Wisconsin forests
+- Traditional woodworking methods combined with modern tooling
+
+## Capabilities
+- Custom rustic furniture manufacturing
+- Reclaimed/barnwood furniture fabrication
+- Commercial restaurant dining furniture
+- Cabinetry
+- Tabletop branding (patented process)
+- Quality assurance with real-time metrics
+- Pre-shipment certification and inspection
+- Custom woodworking to client specifications
+
+## Industries
+- Lumber milling and supply
+- Restaurant and commercial dining
+- Commercial furniture
+- Cabinetry
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Hayward, Wisconsin
+
+<details><summary>Sources</summary>
+
+- Hayward, Wisconsin location -> /
+- Handcrafted rustic furniture production -> /
+- Patented tabletop branding process -> /
+- Traditional woodworking methods with modern tools -> /
+- Locally sourced hardwoods from Wisconsin -> /
+- Services: Rustic Furniture, Reclaimed/Barnwood, Restaurant Dining/Commercial, Cabinetry -> /services
+- Quality assurance with real-time metrics and Certificate of Quality -> /quality
+- Seven-step quality startup process -> /quality
+- Businesses and mills source lumber from the company -> /
+- Custom furniture includes tables, chairs, cabinets, desks -> /
+- Contact email ryanhexum@msn.com -> /
+- Phone 715-934-2233 -> /
+- Address 16790 US Hwy 63, Hayward, WI 54843 -> /
+</details>
+
+---
+
+# Will Customized Products
+
+**Old description:** Customize t-shirts, apparel, and promotional products tailored to your needs.
+
+## About
+Will Customized Products operates from Milwaukee, Wisconsin, where brothers Paul and Rick Will founded the business in 1988 as Will Enterprises. The family-owned venture began as a side project to supply affordable T-shirts and promotional items to schools and community groups, with early help from friends and relatives.
+
+Today the company provides custom decoration and promotional services from an 80,000-square-foot facility staffed by more than 100 employees. Its capabilities include screen printing, embroidery, sublimation, direct-to-garment and direct-to-film printing, as well as fulfillment, kitting, patch application and brand consultation. The firm also builds and manages branded online stores for clients.
+
+The customer base spans national non‑profit organizations such as the American Cancer Society, the National Multiple Sclerosis Society and Special Olympics, along with corporations and schools across the United States.
+
+The company emphasizes low prices, fast turnaround, and a 100 % guarantee, positioning itself as the largest non‑profit supplier of custom garments in the nation. Its founding mission — service, integrity and community partnership — continues to drive the operation under current president Greg Foreman.
+
+## Known for
+- Low prices on custom printing without compromising quality
+- Super fast turnaround on orders
+- Largest non-profit supplier of custom garments in the nation
+- 100% guarantee on craftsmanship and customer care
+
+## Capabilities
+- Screen Printing
+- Embroidery
+- Sublimation
+- DTG/DTF
+- Promotional Items
+- Fulfillment
+- Kitting
+- Patches
+- Brand Consultation
+- Custom Stores
+
+## Industries
+- Non-profit organizations
+- Corporations
+- Schools
+- Community groups
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1988
+- **Employees:** 100+
+- **Ownership:** Family-owned
+- **Headquarters:** Milwaukee, Wisconsin
+
+<details><summary>Sources</summary>
+
+- Founded 1988 by Paul and Rick Will -> /about-us
+- Family-owned, family roots -> /about-us
+- 80,000 sq ft facility, 100+ employees -> /about-us
+- Services: screen printing, embroidery, sublimation, DTG/DTF, promotional items, fulfillment, kitting, patches, brand consultation -> /services
+- Industries: non-profits (American Cancer Society, National Multiple Sclerosis Society, Special Olympics), corporations, schools -> /about-us
+- Headquarters Milwaukee, Wisconsin -> db
+- Company type: custom decoration and promotional products -> homepage
+- Makes physical customized products -> homepage
+- LinkedIn URL -> db
+- Ownership tag Family-owned -> /about-us
+- Differentiators: low prices, fast turnaround, largest non-profit supplier, 100% guarantee -> homepage
+</details>
+
+---
+
+# Willow Creek Woodworks
+
+**Old description:** Whatever your style, we offer world class craftsmanship that will take it to the next level.
+
+## About
+Willow Creek Woodworks operates from Idaho Falls, Idaho, where founder Jaxon Ching established the business in 1997 after completing his service in the U.S. Navy. The veteran-owned shop began with two employees and has grown to a team of 30, including three engineers who verify structural integrity on every project.
+
+The company runs a full-service woodworks mill producing custom cabinetry, architectural millwork, and in-house metal fabrication. Its portfolio spans kitchens, baths, staircases, entry doors, handrails, and built-in bookcases, often incorporating reclaimed barnwood finished with proprietary water- and stain-resistant coatings that preserve a raw appearance.
+
+Primary clients are architects, contractors, and homeowners in the Jackson Hole region of Wyoming and eastern Idaho. Notable collaborations include projects for Carney Logan Burke Architects and the Junegrass mountain retreat, where the shop delivered floor-to-ceiling reclaimed barnwood installations, curved-ceiling bunk rooms, and staircases with integrated shelving.
+
+Ching attributes the firm's reputation to a team-based approach—he holds the vision but gives every employee a stake in project decisions—and to close coordination with design teams, often holding eight to ten face-to-face meetings per project to align construction with the homeowner's intent.
+
+## Known for
+- Veteran-founded, team-driven culture with 30 employees and three staff engineers
+- In-house metal fabrication alongside custom wood milling
+- Proprietary finish on reclaimed barnwood that resists water and stains while looking unfinished
+- Deep collaboration with architects (8–10 meetings per project) and direct homeowner access
+- Full-service capability from design through installation
+
+## Capabilities
+- Custom cabinetry
+- Architectural millwork
+- In-house metal fabrication
+- Staircase design and construction
+- Built-in bookcase installation
+- Entry door and handrail fabrication
+- Reclaimed wood processing and finishing
+- Water- and stain-resistant finish application
+- Kitchen and bath millwork
+- Structural engineering review
+
+## Industries
+- Residential construction
+- Architectural design
+- High-end custom home building
+- Kitchen and bath remodeling
+- Custom furniture and millwork
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1997
+- **Employees:** 30
+- **Ownership:** Veteran-owned
+- **Headquarters:** Idaho Falls, Idaho
+
+<details><summary>Sources</summary>
+
+- Founded in 1997 by Jaxon Ching after U.S. Navy service -> /about
+- Located in Idaho Falls, Idaho -> /about
+- Grew from 2 to 30 employees -> /about
+- Three engineers on staff for structural integrity -> /about
+- Full-service woodworks mill -> /about
+- Custom cabinetry, millwork, metal fabrication -> /about, /
+- In-house metal fabrication -> /
+- Works with Jackson Hole architects and contractors -> /about
+- Collaborated with Carney Logan Burke Architects -> /about
+- Junegrass mountain retreat project -> /
+- Uses reclaimed barnwood with proprietary water- and stain-resistant finish -> /about
+- Team-based approach with employee stake in projects -> /about
+- 8-10 meetings with architectural team per project -> /about
+- Veteran-owned -> /about
+</details>
+
+---
+
+# Win2uit Electronics
+
+**Old description:** Get faster, reliable production with U.S.-based electronics manufacturing.
+
+## About
+Win2uit Electronics operates from Louisville, Kentucky, where its facility sits within a day's drive of 65 percent of the U.S. population. The business runs as an electronic manufacturing services division under the Winston Industries umbrella and draws on more than 30 years of industry experience, though a specific founding year is not disclosed. Leadership includes plant manager Rick Smith and director of manufacturing operations Jennifer Poppell.
+
+The company provides full-turnkey EMS capabilities: printed circuit board assembly with surface-mount and through-hole placement (including 0201 components and D2Pak packages), reflow soldering, conformal coating at 25–250 µm, intelligent SMT rework, and box build. Cable and harness production uses KOMAX wire processing with crimp-and-seal insertion, supporting wire-to-wire and wire-to-board assemblies with connectors from Molex, TE, and other premium brands. Output is characterized as high-mix, low-to-mid-volume.
+
+Win2uit serves customers in aerospace and industrial automation, citing those sectors as primary applications for its custom cable assemblies and wiring harnesses. The shop also supports foodservice equipment manufacturers and works with both startups and established OEMs seeking a single-source partner for PCB assembly, testing, packaging, and supply-chain management.
+
+The firm emphasizes its domestic location as a supply-chain advantage, coupled with ISO 9001-certified quality processes and a team that has developed proprietary techniques for evaluating QFN and BGA solder joints without damaging parts. The turnkey model is positioned to let clients focus on design while Win2uit handles manufacturing.
+
+## Known for
+- Within a day's drive of 65% of the U.S. population
+- Single-source turnkey electronics manufacturer
+- Over 30 years of industry experience
+- ISO 9001 certified quality management system
+- Proprietary QFN and BGA solder-joint evaluation techniques
+
+## Capabilities
+- PCB assembly (surface mount and through-hole)
+- Conformal coating
+- Custom cable assembly and wiring harnesses
+- Box build
+- Supply chain management
+- Turnkey manufacturing
+- SMT rework
+- Reflow soldering
+- KOMAX wire processing with crimp-and-seal insertion
+- Component placement down to 0201
+- D2Pak power component assembly
+- QFN and BGA solder joint evaluation
+
+## Industries
+- Aerospace
+- Industrial automation
+- Foodservice equipment
+
+## Equipment
+- KOMAX wire processing equipment
+
+## Certifications
+- ISO 9001
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Louisville, Kentucky
+
+<details><summary>Sources</summary>
+
+- Headquartered in Louisville, Kentucky -> /
+- Within a day's drive of 65% of US population -> /
+- Over 30 years of experience -> /
+- Single-source turnkey electronics manufacturer -> /
+- ISO 9001 certified -> /
+- PCB assembly with SMT and through-hole -> /
+- Conformal coating at 25-250 µm -> /
+- Custom cable assembly and wiring harnesses -> /
+- KOMAX wire processing with crimp & seal insertion -> /
+- Connectors from Molex, TE -> /
+- High-mix, low-to-mid-volume production -> /
+- Industries: aerospace, industrial automation -> /
+- Foodservice equipment capability -> /
+- Plant manager Rick Smith -> /
+- Director of manufacturing operations Jennifer Poppell -> /
+- Proprietary QFN/BGA solder joint evaluation -> /
+- Reflow soldering expertise -> /
+- SMT rework capabilities -> /
+- Box build services -> /
+- Supply chain management -> /
+</details>
+
+---
+
+# Winchester Metals Inc.
+
+_skipped: HTTP Error 503: Service Unavailable_
+
+# Windsor Technology, Inc.
+
+**Old description:** PCB assemblies and wire harness/cable assemblies via full box-build
+
+## About
+Windsor Technology, Inc. operates from Rochester, New York. The company has been building electronics for over 40 years, though a specific founding year is not publicly disclosed. Ownership structure and founders are not stated in available sources.
+
+The firm provides printed circuit board assembly (through-hole, surface-mount, leaded and RoHS-compliant), wire harness and cable assembly (PVC, coax, multi-conductor, ribbon, complex harnesses), electro-mechanical box-build assembly, repair and refurbishment, and rework services including BGA removal and replacement. It runs automated equipment and has invested more than $1 million in recent upgrades, adding two Hanwha SM482 Plus placement machines and a Nordson Quadra Pro 3 3D X-ray system. The company handles orders from prototype through high-volume production.
+
+Customers span medical devices (handheld diagnostic equipment), transportation (rail signaling circuits), aerospace (space-qualified hardware), and high-end camera assemblies. Products made in Rochester are shipped globally.
+
+Windsor emphasizes a “one-source shop” model that consolidates PCB assembly, wiring, box build, and testing under one roof to reduce supplier coordination. It highlights its 40-plus years of experience bridging legacy and cutting-edge technology, domestic manufacturing, and continuous process improvement.
+
+## Known for
+- Made in the USA (domestic manufacturing)
+- One-source shop: PCB assembly, wire harness, box build, and testing under one roof
+- 40+ years experience adapting legacy and new technologies
+- Continuous investment in new equipment (e.g., Hanwha SM482 Plus, Nordson 3D X-ray)
+- Speed, accuracy, quality focus
+
+## Capabilities
+- Printed circuit board assembly (through-hole, surface-mount, leaded, RoHS)
+- Wire harness and cable assembly (PVC, coax, multi-conductor, ribbon, complex harnesses)
+- Electro-mechanical box-build assembly
+- Repair and refurbishment
+- Rework services (BGA removal and replacement)
+- Conformal coating
+- Testing and programming
+- Full box-build integration
+
+## Industries
+- Medical devices
+- Transportation/Rail
+- Aerospace/Space
+- Imaging/Optics (camera assemblies)
+
+## Equipment
+- Hanwha SM482 Plus placement machines (two)
+- Nordson Quadra Pro 3 3D X-ray system
+
+## Certifications
+- RoHS
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Rochester, New York
+
+<details><summary>Sources</summary>
+
+- Headquarters in Rochester, New York -> db
+- Over 40 years of experience -> / (homepage) and /about-us
+- Electronics contract manufacturer -> / (homepage)
+- Services: PCB assembly, wire harness, cable assembly, electro-mechanical assembly, repair/refurbish, rework -> / (homepage)
+- Equipment: Hanwha SM482 Plus placement machines (two), Nordson Quadra Pro 3 3D X-ray -> / (homepage news)
+- Investment over $1 million in new technology -> / (homepage news)
+- Industries: medical devices, rail/transportation, aerospace/space, camera assemblies -> /about-us
+- Certification: RoHS -> db
+- Materials: PVC, coax, multi-conductor, ribbon cable, telephone jacks -> / (homepage)
+- Volume range: prototype to high volume -> / (homepage)
+- One-source shop model -> / (homepage Why Choose Us)
+- Made in USA emphasis -> / (homepage Why Choose Us)
+- Quality policy: on-time delivery, error-free products, continuous improvement -> /about-us
+</details>
+
+---
+
+# Windsor Woodworking Co., Inc.
+
+**Old description:** Custom and Factory Cabinets, Countertops,  Installations, & More
+
+## About
+Windsor Woodworking Co., Inc. is based in Windsor, Virginia. The business is owned by Jay Williams, who operates the shop alongside his father, though the company does not publish a specific founding date.
+
+The company functions as a custom cabinet shop, manufacturing and installing cabinets and countertops for kitchens, bathrooms, and other residential spaces. Its product range includes bookcases, mantels, entertainment centers, and countertops fabricated from laminate, solid surface, granite, and quartz. The shop also produces factory-built kitchen lines.
+
+Windsor Woodworking primarily serves homeowners and residential contractors seeking custom cabinetry and countertop installation. Testimonials on the company's site reference kitchen and bathroom remodels, as well as general carpentry projects such as furniture installation and hardwood flooring.
+
+The firm emphasizes its combined industry experience of over 100 years, along with a commitment to ethically sourced materials, guaranteed satisfaction, and honest pricing. These points are presented as the core differentiators for the business.
+
+## Known for
+- Over 100 years of combined industry experience
+- High-quality, ethically sourced materials
+- Satisfaction guaranteed
+- Honest pricing
+- Custom manufacturing and installation under one roof
+
+## Capabilities
+- Custom cabinet manufacturing
+- Cabinet installation
+- Countertop fabrication (laminate, solid surface, granite, quartz)
+- Bookcase building
+- Mantel building
+- Entertainment center construction
+- Factory kitchen production
+- Carpentry services
+- Furniture installation
+- Window or door repair
+- Hardwood floor installation
+- Deck and outdoor furniture construction
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Privately owned (Jay Williams)
+- **Headquarters:** Windsor, Virginia
+
+<details><summary>Sources</summary>
+
+- Location: Windsor, Virginia -> db
+- Owner: Jay Williams -> /about
+- Business: custom cabinet shop manufacturing and installing cabinets/countertops -> /about
+- Products: kitchen/bathroom cabinetry, bookcases, mantels, entertainment centers -> /about
+- Countertop materials: laminate, solid surface, granite, quartz -> /about
+- Factory kitchens offered -> /
+- Combined experience: over 100 years -> /
+- Differentiators: ethically sourced materials, satisfaction guaranteed, honest pricing -> /
+- Contact form project types: furniture installation, window/door repair, hardwood floors, decks/outdoor furniture -> /
+- Address: 13120 Old Suffolk Rd Windsor, VA 23487 -> /
+</details>
+
+---

@@ -3,122 +3,193 @@
 **Old description:** . In other words, we keep things simple: clear pricing, clear timelines, and clear expectations. As a result, homeowners and businesses choose us for the
 
 ## About
-Phoenix Solar Panel Systems operates from Phoenix, Arizona, serving the metropolitan area and offering services nationwide through a network of installation partners. The company was founded by Steven Smith, J.D., known as "Solar Steve Esquire," after he worked at several Valley solar companies and observed what he describes as a lack of professionalism and regulation in the industry. Smith established the business to prioritize honesty, integrity, and transparency in residential solar.
+Phoenix Solar Panel Systems operates from Phoenix, Arizona, serving the metropolitan area and surrounding communities. The company was founded by Steven Smith, J.D., known as "Solar Steve Esquire," after he worked at several Valley solar companies and observed what he describes as an extreme lack of professionalism, honesty, and customer service in the industry. Smith started the business to provide a transparent alternative in a market he characterizes as having zero regulation and high turnover.
 
-The company does not perform installations directly. Instead, it helps homeowners and businesses evaluate solar options — grid-tied systems, off-grid designs, battery backup, and commercial arrays — and connects them with independent, licensed installers. Customers contract directly with the installer for the work. Phoenix Solar Panel Systems also offers home energy audits, solar water heater services, EV charger installation, attic insulation, duct sealing, and solar panel cleaning, removal, and reinstallation.
+The firm does not perform installations itself. Instead, it helps homeowners and businesses explore solar options — grid-tied, off-grid, and battery-backup systems — and connects them with independent installers. Customers contract directly with the installer performing the work. The company also coordinates related services such as home energy audits, attic insulation, duct sealing, EV charger installation, solar water heaters, solar panel cleaning, bird proofing, removal and reinstallation, and solar carport or patio cover projects. It provides educational resources including an Arizona Solar FAQ, cost guides, and a list of questions to ask solar companies.
 
-The firm serves residential homeowners and commercial property owners in Arizona, with a focus on the Phoenix metro area. It works with the state's major utilities, Arizona Public Service (APS) and Salt River Project (SRP), and guides clients through federal tax credits and Arizona-specific incentives. Commercial clients include businesses seeking to reduce operating costs through solar installations on rooftops or parking structures.
+The primary customers are residential property owners in the Phoenix area and commercial property owners seeking to reduce energy costs. The company references work with Arizona Public Service (APS) and Salt River Project (SRP) utility territories. Commercial clients include businesses looking to cut operating expenses and meet clean-energy goals. The service also supports off-grid properties requiring custom battery and backup designs.
 
-Smith states the company was started to "clean up the residential solar industry" by educating customers rather than selling to them, presenting both positives and negatives of solar ownership. The goal is long-term, mutually beneficial relationships with customers and employees, positioning the business as a consumer advocate in a market the founder characterizes as poorly regulated.
+Smith states the company was created to bring honesty, integrity, and transparency to the solar industry. The model emphasizes educating customers rather than selling, presenting both positives and negatives of solar ownership, and building long-term relationships over short-term commissions. The founder describes the business as being in the "people business, not the solar business," with a goal of cleaning up the residential solar market through fair, informed decision-making.
 
 ## Known for
-- Connects customers with independent, licensed installers rather than installing directly
-- Customers contract directly with the installer performing the work
-- Focus on education over sales — presents both positives and negatives of solar
-- Guides clients through utility requirements (APS, SRP) and incentive programs
-- Offers home energy audits and complementary efficiency services
+- Customers contract directly with the independent installer
+- Educating-not-selling consultation model
+- Present all positives and negatives of solar ownership
+- Free quote calls and educational resource library
+- Focus on long-term customer relationships over short-term commissions
 
 ## Capabilities
-- Solar consulting and system design guidance
-- Grid-tied solar system evaluation
-- Off-grid solar system design consultation
-- Commercial solar project assessment
-- Solar battery storage sizing and recommendation
+- Solar consulting and education
+- Independent installer referral and connection
+- Residential grid-tied solar system design assistance
+- Commercial solar system design assistance
+- Off-grid solar system design assistance
+- Solar battery and storage consultation
 - Home energy audits
-- Solar water heater services
+- Solar panel cleaning and maintenance coordination
+- Solar panel bird proofing coordination
+- Solar panel removal and reinstallation coordination
+- Solar carport and patio cover design assistance
 - EV charger installation coordination
-- Attic insulation and duct sealing
-- Solar panel cleaning, bird proofing, removal and reinstallation
-- Solar carport and patio cover projects
-- Utility interconnection guidance (APS, SRP)
-- Federal and Arizona solar incentive navigation
+- Attic insulation and duct sealing coordination
+- Solar water heater consultation
 
 ## Industries
 - Residential solar
 - Commercial solar
-- Renewable energy consulting
-- Home energy efficiency
-- Electrical contracting (via partner network)
+- Energy efficiency
+- Solar energy storage
+- Home energy auditing
 
 ## Company details
 - **Company Type:** Installer / service company
-- **Ownership:** Founder-owned (Steven Smith, J.D.)
+- **Ownership:** Owner-operated (Steven Smith)
 - **Headquarters:** Phoenix, Arizona
 
 <details><summary>Sources</summary>
 
-- Founder Steven Smith, J.D. ('Solar Steve Esquire') -> /about-us
-- Company connects customers with independent installers; customers contract directly with installer -> /, /about-us
-- Headquartered in Phoenix, Arizona, serves metro area and nationwide -> /, /about-us
-- Services: residential solar, off-grid, commercial, battery backup, home energy audits, solar water heaters, EV charger, insulation, duct sealing, panel cleaning/removal -> /, /services
-- Works with APS and SRP utilities -> /
-- Guides clients through federal tax credit and Arizona incentives -> /
-- No manufacturing; service/consulting model -> /, /about-us
-- Founder's stated mission: honesty, integrity, transparency; educate not sell -> /about-us
-- No explicit founding year, employee count, certifications, or equipment listed -> db
+- Company name and location -> db
+- Founder Steven Smith, J.D. -> /about-us
+- Founder background working at Valley solar companies -> /about-us
+- Mission: honesty, integrity, transparency -> /about-us
+- Business model: connect customers with independent installers -> /
+- Customers contract directly with installer -> /
+- Services: residential, commercial, off-grid, battery backup, energy audits -> /, /services
+- Utility references: APS and SRP -> /
+- Educational resources: FAQ, cost guides, questions to ask -> /
+- Related services: insulation, duct sealing, EV charger, water heaters, cleaning, bird proofing, removal/reinstall, carports -> /services
+- Target customers: homeowners and businesses in Phoenix metro -> /, /services
+- No manufacturing, no certifications, no equipment listed -> all pages
 </details>
 
 ---
 
 # Photonworks Engineering
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** Start Saving now with Hawaii's Best Energy Contractor for the last 18 Years
+
+## About
+Photonworks Engineering is based in Honolulu, Hawaii, and was founded in 2003 by Tim Johnsson. Johnsson, a recipient of the ABC 2010 Excellence in Construction Award for multi-family developments, established the company to connect people with cheaper and cleaner sources of power while preserving Hawaii’s natural beauty.
+
+The company provides end-to-end energy solutions: solar photovoltaic design and installation, battery energy storage systems, microgrid engineering, full-service electrical construction, energy efficiency retrofits, PV system monitoring and maintenance, and eco-friendly development. Photonworks handles site assessment, engineering, permitting, construction, commissioning, and long-term operations and maintenance, offering up to two years of no-charge O&M after installation. It also structures power purchase agreements with zero capital expense and zero-down financing. The firm reports serving thousands of customers across Hawaii and beyond, with a project portfolio that includes commercial, institutional, and government sites.
+
+Photonworks serves residential homeowners, commercial property owners, educational institutions, non-profits, and government agencies. Named projects include Hanalani Schools, Boys and Girls Club of Hawaii, Joint Base Pearl Harbor, Aiea Public Library, Kailua Waste Water Facility, Kahauiki Village, Hawaii Pacific University, Century West, USSF Space Fence, and the Board of Water Supply. The company works closely with Hawaiian Electric (HECO) on interconnection agreements and grid services.
+
+The mission is to exceed expectations through one-stop engineering-to-construction solutions, straightforward technical staff rather than salespeople, and a focus on energy autonomy and resilience for Hawaii’s transition to 100% renewable energy.
+
+## Known for
+- One-stop full engineering to construction solutions
+- Up to two years free operations and maintenance after installation
+- Zero-down financing and power purchase agreements with zero capital expense
+- Local Hawaii team dedicated to 100% renewable energy goals
+- Straightforward technical staff, not salespeople
+
+## Capabilities
+- Solar photovoltaic system design and installation
+- Battery energy storage system design and installation
+- Microgrid engineering and grid services
+- Full-service electrical construction
+- Energy efficiency audits and retrofits
+- PV system monitoring and maintenance
+- Site assessment and shading analysis
+- Permitting and interconnection management
+- Commissioning and project closeout
+- Operations and maintenance (O&M) services
+- Power purchase agreement (PPA) structuring
+- Eco-friendly development consulting
+
+## Industries
+- Residential
+- Commercial
+- Government / military
+- Education
+- Non-profit
+- Utility / grid services
+
+## Company details
+- **Company Type:** Installer / service company
+- **Founded:** 2003
+- **Headquarters:** Honolulu, Hawaii
+
+<details><summary>Sources</summary>
+
+- Founded 2003 by Tim Johnsson -> /about
+- Tim Johnsson founder, ABC 2010 Excellence in Construction Award -> /about
+- Paul Orem CEO, licensed journeyman electrician, 25 years experience -> /about
+- Randall Bricker COO, 28 years experience -> /about
+- Serving Hawaii over 18 years -> /about
+- Services: Solar PV, Battery Storage, Microgrids, Full Electrical Construction, Energy Efficiency, Monitoring, Eco-Friendly Development, PPAs -> / and /services
+- Zero down financing, PPAs with zero capital expense -> /
+- Up to 2 years free O&M after installation -> /services
+- Projects: Hanalani Schools, Boys and Girls Club, Joint Base Pearl Harbor, Aiea Public Library, Kailua Waste Water Facility, Kahauiki Village, Hawaii Pacific University, Century West, USSF Space Fence, Board of Water Supply -> /about
+- Thousands of customers in Hawaii and beyond -> /
+- 14 years experience with solar PV systems -> /services
+- Work with HECO on interconnection -> /services
+- Mission: highest quality, best customer experience, clients become fans -> /
+- Most residential clients referrals, commercial repeat customers -> /
+</details>
+
+---
 
 # Pickup City Inc
 
 **Old description:** We stock a large inventory for any make or model. Pick-Up City specializes in late model vehicles and we have new arrivals daily.
 
 ## About
-Pick-Up City, an auto and truck recycler, has operated from Marion County, West Virginia since 1992. The company is headquartered in Fairmont and runs a 78,000-square-foot indoor warehouse in nearby White Hall. President Grant Kelly leads the business, which began as a local salvage operation and grew into a regional parts supplier.
+Founded in 1992 in White Hall, West Virginia, Pick-Up City operates as an auto and truck recycling business under President Grant Kelly. The company serves Marion County and surrounding areas from a 78,000-square-foot indoor warehouse that stores more than 65,000 cataloged parts.
 
-The company dismantles late-model vehicles piece by piece, cleaning, testing, and cataloging each component into a computerized inventory that now exceeds 65,000 parts. Its bumper-to-bumper offering includes engines, transmissions, axles, doors, bumpers, windshields, fenders, lighting, clips, seats, and body panels. All parts are stored indoors away from the elements, and fluids such as freon, coolant, oil, gasoline, and brake fluid are recovered and recycled to meet environmental standards.
+The operation disassembles late-model vehicles piece by piece, then cleans, inspects, and tests each component before entering it into a computerized inventory system. Parts range from engines, transmissions, and axles to doors, bumpers, windshields, and lighting assemblies. All inventory is housed indoors to protect against weather, and fluids such as freon, coolant, oil, gasoline, and brake fluid are recovered and recycled in accordance with environmental standards.
 
-Pick-Up City serves automotive repair shops, collision centers, and individual vehicle owners throughout West Virginia and surrounding states, with nationwide shipping available via common carrier. Free regional delivery is offered for local customers, and the sales team provides parts lookup assistance both in person and by phone.
+Pick-Up City supplies repair shops, collision centers, fleet operators, and individual vehicle owners throughout the region and nationwide via common carrier. Free regional delivery is offered, and customers can search the inventory online or visit the warehouse for in-person assistance.
 
-The business differentiates itself through its indoor, climate-controlled warehousing, a searchable digital catalog, and warranties of 30 to 90 days on select recycled parts. Its emphasis on environmentally responsible fluid disposal and the condition of parts — described as “as good as or better than the day they arrived” — reflects the founding goal of providing a reliable alternative to traditional junkyards.
+The company emphasizes its indoor, climate-controlled storage, environmentally responsible fluid handling, and a searchable digital catalog as key differentiators. Select parts carry 30- to 90-day warranties, and the sales team provides personalized support for part identification and compatibility.
 
 ## Known for
-- Indoor warehouse with 78,000 sq ft of climate-controlled storage
-- Computerized inventory of over 65,000 parts
-- Free regional delivery and nationwide shipping
-- Environmentally safe fluid recycling and disposal
+- Over 65,000 parts in a searchable computerized inventory
+- 78,000 sq ft indoor climate-controlled warehouse
+- Free regional delivery and nationwide shipping via common carrier
 - 30- to 90-day warranties on select recycled parts
+- Environmentally safe fluid recovery and recycling (freon, coolant, oil, fuel, brake fluid)
 
 ## Capabilities
-- Vehicle dismantling
-- Parts cleaning and inspection
-- Parts testing
-- Computerized inventory management
-- Indoor warehousing
-- Regional delivery
-- Nationwide shipping
-- Fluid recycling and disposal
-- Warranty on recycled parts
+- Vehicle disassembly and parts harvesting
+- Parts cleaning, inspection, and functional testing
+- Computerized inventory management and online parts search
+- Indoor warehousing and climate-controlled storage
+- Free regional delivery
+- Nationwide shipping via common carrier
+- Online payment processing
+- Fluid recovery and recycling (freon, coolant, oil, gasoline, brake fluid)
+- Parts warranty administration (30-90 days)
 
 ## Industries
-- Automotive recycling
-- Auto parts distribution
-- Truck parts distribution
+- Automotive repair
+- Collision repair
+- Commercial truck maintenance
+- Fleet maintenance
+- Insurance salvage
+
+## Equipment
+- State-of-the-art computerized inventory system
+- 78,000 sq ft indoor warehouse facility
 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 1992
-- **Headquarters:** Fairmont, West Virginia
+- **Headquarters:** White Hall, WV
 
 <details><summary>Sources</summary>
 
-- Founded in 1992 -> /about
-- Headquarters in Fairmont, WV -> db
-- Warehouse in White Hall, WV (78,000 sq ft indoor) -> /about
+- Founded 1992 -> /about
+- President Grant Kelly, Manager Rick Rutherford, Sales Todd Rutherford, Admin Dianne Savina -> /about
 - Over 65,000 parts in computerized inventory -> /about, /
-- President Grant Kelly -> /about
+- 78,000 sq ft indoor warehouse -> /about
 - Free regional delivery and nationwide shipping -> /
-- Environmentally safe fluid recycling (freon, coolant, oil, gasoline, brake fluid) -> /about
 - 30-90 day warranties on select parts -> /
-- Parts cleaned, tested, stored indoors -> /, /about
-- Bumper-to-bumper parts list (engines, transmissions, axles, doors, bumpers, windshields, fenders, lights, clips, seats, body panels) -> /, /about
-- Serves Marion County and surrounding areas, ships nationwide -> /, /about
-- Sales team: Rick Rutherford (Manager), Todd Rutherford (Sales), Dianne Savina (Admin) -> /about
+- Fluid recovery and recycling (freon, coolant, oil, gasoline, brake fluid) -> /about
+- Parts categories: engines, transmissions, axles, doors, bumpers, windshields, fenders, lights, clips, seats, body panels, radiators, starters, wheels -> /
+- Location: 131 Middletown Road, White Hall, WV 26554 -> /
+- Serves Marion County WV and surrounding areas -> /
 </details>
 
 ---
@@ -128,53 +199,51 @@ The business differentiates itself through its indoor, climate-controlled wareho
 **Old description:** None
 
 ## About
-Piedmont Plastics operates a branch in Londonderry, New Hampshire The location originated as Plastic Supply, Inc. (PSI), a company that served the region for more than 47 years before Piedmont Plastics acquired it on September 12, 2019. PSI continues to operate in the same capacity, now as part of Piedmont's North American network of branch locations. The branch is managed by Jaime Lemos.
+The Londonderry, New Hampshire branch of Piedmont Plastics traces its roots to Plastic Supply, Inc., a local plastics distributor that served the region for more than 47 years. On September 12, 2019, Piedmont Plastics acquired PSI and integrated the operation into its North American network of branch locations. The facility is managed by Jaime Lemos.
 
-The facility functions as both a plastics distributor and a fabrication shop. It stocks a wide range of sheet materials including acrylic, polycarbonate, nylon, acetal homopolymer and copolymer, fluorocarbon, UHMW, polyethylene, polypropylene, PVC, polystyrene, high-pressure laminates, and polyurethane. In-house fabrication capabilities cover CNC routing and laser cutting, milling, drilling, turning, straight or pattern cutting, welding (hot air and solvent), bonding (solvent and silicone), edging, buffing, sanding, grinding, sandblasting, and precision machining. Equipment includes four Mori Seiki CNC vertical milling centers, a Mori Seiki AL2 CNC lathe, a Saeilo Sprint 20 CNC lathe, a Hardinge DSM59 lathe, four Bridgeport vertical mills with digital readouts, a HAAS TM2P vertical milling center, a Drypoll vacuum thermoforming machine, a Gruenberg anneal oven, and an Accu Finish diamond grinder. Assembly services encompass mechanical fastening, welding, custom wiring harness assembly, bonding, riveting, and packing and shipping.
+The branch operates as both a stocking distributor and a fabrication shop. It carries a broad line of plastic sheet, rod, and tube — including acrylic, polycarbonate, nylon, acetal homopolymer and copolymer, fluorocarbon, UHMW, polyethylene, polypropylene, PVC, polystyrene, high-pressure laminates, and polyurethane. In-house fabrication capabilities span CNC routing and laser cutting, milling, drilling, turning, welding, bonding, edging, buffing, sanding, sandblasting, and thermoforming. The shop runs four Mori Seiki CNC vertical milling centers, a Mori Seiki AL2 CNC lathe, a Saeilo Sprint 20 CNC lathe, a Hardinge DSM59 lathe, four Bridgeport CNC vertical mills, a HAAS TM2P vertical milling center, a Drypoll vacuum thermoforming machine, a Gruenberg anneal oven, and an Accu Finish diamond grinder. Assembly services include mechanical fastening, welding, custom wiring harness assembly, bonding, riveting, and packing.
 
-The branch serves customers throughout southern and central New Hampshire, with a listed service area that includes Manchester, Derry, Nashua, Salem, Merrimack, Hudson, Windham, Bedford, Amherst, Hooksett, and numerous other communities. While the company does not specify target industries in its public materials, the material portfolio and fabrication services suggest applications in sectors such as aerospace, medical, semiconductor, and general industrial manufacturing.
+The location serves customers throughout southern and central New Hampshire, with listed service areas covering Manchester, Derry, Nashua, Salem, Merrimack, Hudson, and dozens of surrounding communities. While the company does not specify target industries in its public materials, the material range and fabrication services suggest it supports manufacturers, prototypers, and maintenance operations requiring plastic components.
 
-The acquisition was intended to preserve PSI's longstanding local presence while expanding Piedmont's geographic footprint. The company emphasizes continuity of service and the addition of Piedmont's broader supply chain resources.
+The acquisition was intended to preserve PSI’s longstanding local presence while expanding Piedmont’s distribution footprint; no additional differentiators or founding mission are stated.
 
 ## Known for
-- Over 47 years of local experience as Plastic Supply, Inc.
-- Part of Piedmont Plastics' North American branch network
-- In-house CNC machining, thermoforming, and assembly under one roof
-- Custom wiring harness assembly capability
-- Service coverage across more than 30 New Hampshire communities
+- Over 47 years of continuous plastics distribution in the New Hampshire market
+- Combined distribution and CNC fabrication under one roof
+- Extensive multi-axis CNC milling and turning capacity with Mori Seiki and Bridgeport equipment
+- Custom wiring harness assembly and mechanical assembly services
+- Wide inventory of engineering plastics including acetals, fluorocarbons, and UHMW
 
 ## Capabilities
-- CNC routing
-- CNC laser cutting
-- CNC milling
-- CNC turning
-- Precision machining
-- Straight cutting
-- Pattern cutting
-- Hot air welding
-- Solvent welding
-- Solvent bonding
-- Silicone bonding
-- Diamond edging
-- Carbide edging
-- Oven buffing
-- Line buffing
+- CNC Routing
+- CNC Laser Cutting
+- CNC Milling
+- CNC Drilling
+- CNC Turning
+- Precision Machining
+- Welding (Hot Air/Solvent)
+- Bonding (Solvent/Silicone)
+- Edging
+- Buffing
 - Sanding
 - Grinding
 - Sandblasting
 - Thermoforming
 - Annealing
-- Diamond grinding
-- Mechanical fastening
-- Custom wiring harness assembly
+- Diamond Grinding
+- Mechanical Assembly
+- Custom Wiring Harness Assembly
 - Riveting
+- Packing and Shipping
+- Prototyping
+- CAD Design
 
 ## Equipment
 - HAAS TM2P Vertical Milling Center
-- Mori Seiki CNC Vertical Milling Centers (4)
+- Mori Seiki CNC Vertical Milling Center (4)
 - Mori Seiki AL2 CNC Lathe
 - Saeilo Sprint 20 CNC Lathe
-- Hardinge Lathe DSM59
+- Hardinge DSM59 Lathe
 - Bridgeport Vertical Mill CNC Type 1 Dig Read Out (4)
 - Drypoll Vacuum Thermo Forming Machine
 - Gruenberg Anneal Oven
@@ -186,14 +255,17 @@ The acquisition was intended to preserve PSI's longstanding local presence while
 
 <details><summary>Sources</summary>
 
-- Acquisition date Sept 12, 2019 -> /
-- Location Londonderry, NH -> db
-- Manager Jaime Lemos -> /
-- Materials list (acrylic, polycarbonate, etc.) -> /
-- Equipment list (Mori Seiki, HAAS, etc.) -> /
-- Fabrication services (CNC routing, milling, welding, etc.) -> /
-- Service areas (Manchester, Derry, Nashua, etc.) -> /
-- PSI history 47+ years -> /
+- Acquisition date September 12, 2019 -> /
+- Plastic Supply, Inc. operated for over 47 years prior to acquisition -> /
+- Branch location: 8 Liberty Drive, Londonderry, NH 03053 -> /
+- Manager: Jaime Lemos -> /
+- Plastic materials distributed: Acrylic, Polycarbonate, Nylon, Acetal Homopolymer, Acetal Copolymer, Fluorocarbon, UHMW, Polyethylene, Polypropylene, PVC, Polystyrene, High-Pressure Laminates, Polyurethane -> /
+- Fabrication services: Prototyping, CAD Design, CNC Router/Laser, Milling, Drilling, Turning, Cutting, Welding, Bonding, Edging, Buffing, Sanding, Sandblasting, Precision Machining, Assembly -> /
+- Equipment: HAAS TM2P Vertical Milling Center, (4) Mori Seiki CNC Vertical Milling Centers, Mori Seiki AL2 CNC Lathe, Saeilo Sprint 20 CNC Lathe, Hardinge DSM59 Lathe, (4) Bridgeport Vertical Mill CNC, Drypoll Vacuum Thermo Forming Machine, Gruenberg Anneal Oven, Accu Finish Diamond Grinder -> /
+- Assembly services: Mechanical Fastening, Welding, Custom Wiring Harness Assembly, Bonding, Riveting, Packing and Shipping -> /
+- Service areas: Manchester, Derry, Nashua, Salem, Merrimack, Hudson, and other NH communities -> /
+- Capabilities from db: Precision Machining, Assembly Services -> db
+- Products from db: CNC Router/CNC Laser, Mori Seiki CNC Vertical Milling Centers, etc. -> db
 </details>
 
 ---
@@ -203,44 +275,46 @@ The acquisition was intended to preserve PSI's longstanding local presence while
 **Old description:** Serving Maine & New Hampshire with professional equipment repair, maintenance, and OEM parts. Fast response, certified technicians, guaranteed results.
 
 ## About
-Based in Gray, Maine, with additional locations in Saco and Brewer, Pine Tree Food Equipment has served commercial kitchens across Maine and New Hampshire for over 35 years. The company operates as a licensed and insured service provider specializing in the repair, maintenance, and installation of commercial foodservice equipment.
+Pine Tree Food Equipment operates from Gray, Maine, with additional service locations in Saco and Brewer. The company has provided commercial kitchen equipment repair, maintenance, installation, and OEM parts supply across Maine and New Hampshire for over 35 years.
 
-Its core services include equipment repair, new equipment installation, planned maintenance programs, and the supply of genuine OEM parts for all major commercial kitchen brands. Technicians are certified to work on a wide range of equipment categories, from cooking and refrigeration to warewashing, HVAC, and beverage systems. The company maintains a 24/7 emergency response team to minimize downtime for its customers.
+The company’s certified technicians handle repair and installation for a broad range of foodservice equipment, including cooking, refrigeration, warewashing, HVAC, beverage, and ice machines. As an authorized service agent for numerous manufacturers, Pine Tree Food Equipment sources genuine OEM parts and offers planned maintenance programs designed to extend equipment life and prevent breakdowns. Emergency service is available 24/7, with same-day response offered for urgent calls.
 
-Pine Tree Food Equipment primarily serves restaurants, institutional kitchens, and other foodservice operations throughout Maine and New Hampshire. Its customer base includes over 1,000 businesses that rely on the company for everything from routine maintenance on walk-in coolers and combi ovens to emergency repairs on conveyor dishwashers and espresso machines.
+The customer base consists primarily of restaurants, commercial kitchens, and other foodservice operations throughout the two-state region. The company reports serving more than 1,000 businesses, ranging from independent eateries to larger institutional kitchens.
 
-The company emphasizes its guarantees as differentiators: licensed and insured technicians, a genuine OEM parts guarantee, same-day service availability, comprehensive service warranties, and structured planned maintenance programs designed to extend equipment life and prevent costly breakdowns.
+Pine Tree Food Equipment emphasizes its guarantees—licensed and insured technicians, genuine OEM parts, comprehensive service warranties, and a dedicated emergency response team—as the foundation of its service model. The firm was built on the goal of minimizing downtime for foodservice operators through rapid, reliable technical support.
 
 ## Known for
-- Licensed and insured technicians
-- Genuine OEM parts guarantee
+- 24/7 emergency repair service
 - Same-day service available
-- Comprehensive service warranties
-- 24/7 emergency response team
+- Genuine OEM parts guarantee
+- Licensed and insured technicians
+- Authorized service agent for major manufacturers
 
 ## Capabilities
-- Commercial kitchen equipment repair
+- Equipment repair
 - Equipment installation
-- Planned maintenance programs
+- Planned maintenance
 - OEM parts supply
-- 24/7 emergency repair service
-- HVAC system repair
-- Industrial machinery repair
+- 24/7 emergency repair
+- Same-day service
+- Equipment consultation
 
 ## Industries
 - Restaurants
 - Commercial kitchens
-- Foodservice operations
+- Foodservice
 
 ## Equipment
-- Combi ovens
-- Conveyor dishwashers
-- Walk-in coolers and freezers
-- Ice machines
+- Combi/Combination ovens
+- Convection ovens
+- Walk-in coolers
+- Walk-in freezers
+- Dish machines/Dishwashers
+- Coffee brewers
 - Espresso machines
-- Exhaust hoods and make-up air units
-- Griddles, fryers, and charbroilers
-- Slicers, mixers, and food processors
+- Ice machines
+- Charbroilers
+- Conveyor dishwashers
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -248,16 +322,22 @@ The company emphasizes its guarantees as differentiators: licensed and insured t
 
 <details><summary>Sources</summary>
 
+- Headquarters in Gray, Maine -> db
+- Additional locations in Saco and Brewer, Maine -> homepage
 - 35+ years experience -> homepage
 - 1000+ businesses served -> homepage
 - 24/7 emergency service -> homepage
-- Licensed and insured technicians -> homepage
-- Genuine OEM parts guarantee -> homepage
 - Same-day service available -> homepage
-- Locations in Gray, Saco, Brewer, ME -> homepage
-- Services: equipment repair, installation, planned maintenance, OEM parts supply -> /services page
-- Equipment types serviced: cooking, refrigeration, warewashing, HVAC, beverage -> /services page
-- Serves restaurants and commercial kitchens in Maine and New Hampshire -> homepage
+- Services: equipment repair, installation, planned maintenance, OEM parts supply -> homepage, /services
+- Industries served: restaurants, commercial kitchens -> homepage
+- Authorized service agent for many manufacturers -> /services
+- Genuine OEM parts guarantee -> homepage
+- Licensed and insured technicians -> homepage
+- Comprehensive service warranties -> homepage
+- Planned maintenance programs -> homepage
+- Equipment types serviced: cooking, refrigeration, warewashing, HVAC, beverage, ice machines -> /services
+- Specific equipment lines listed (combi ovens, convection ovens, walk-in coolers, etc.) -> /services
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -267,34 +347,33 @@ The company emphasizes its guarantees as differentiators: licensed and insured t
 **Old description:** Custom Embroidery, Screen Printing and Engraving You Can Rely On.
 
 ## About
-Pink Square Embroidery LLC operates from Waterbury, Connecticut, where it has served local businesses, trade contractors, and teams for over five years. The small business was founded on a passion for personalized products, though the exact founding year and founders are not publicly disclosed.
+Pink Square Embroidery LLC operates from Waterbury, Connecticut. The company describes itself as a small business with over five years of experience in custom embroidery, heat press printing, and laser engraving. No founding year or founder names are disclosed.
 
-The shop provides custom machine embroidery, screen printing, heat press printing, and laser engraving on a range of substrates including apparel, headwear, bags, drinkware, leather goods, and glassware. With a minimum order of 12 pieces and a catalog of over 300 products, the company handles both small-run corporate identity work and larger promotional campaigns.
+The shop provides custom machine embroidery, screen printing, heat press printing, and laser engraving on apparel and promotional items. Its output includes embroidered polos, jackets, hats, and patches; screen‑printed uniforms and event tees; and laser‑etched tumblers, glassware, leather coasters, pet bowls, and cutting boards. A minimum order of 12 pieces applies, and the catalog lists more than 300 available products.
 
-Customers come from construction trades needing durable workwear, corporate offices seeking branded polos and outerwear, sports teams ordering jerseys and hats, and marketing teams looking for engraved tumblers, coasters, and giveaway items. The company partners with recognized apparel brands to ensure garment quality before decoration.
+Customers range from local businesses and trade contractors to sports teams and corporate clients across Connecticut. The company highlights workwear for contractors, branded uniforms for corporate identity, and promotional giveaways for marketing campaigns.
 
-Pink Square emphasizes attention to detail, personalized service, competitive pricing, and dependable turnaround times as its differentiators, rooted in its small-business approach that treats every project with equal care.
+Pink Square Embroidery emphasizes attention to detail, personalized service, competitive pricing, and dependable turnarounds as its distinguishing factors. The small‑business model is cited as the reason for a hands‑on approach to every project, regardless of size.
 
 ## Known for
 - Minimum order of 12 pieces
 - Competitive pricing and dependable turnarounds
-- Attention to detail and personalized service from a small-business team
-- Over five years of experience in custom decoration
-- 300+ products available for customization
+- Personalized service and attention to detail
+- Partnerships with trusted apparel brands
+- Over five years of experience
 
 ## Capabilities
-- Custom machine embroidery
+- Machine embroidery
 - Screen printing
 - Heat press printing
 - Laser engraving
 - Promotional product customization
 
 ## Industries
-- Corporate branding
-- Construction and trade contractors
-- Sports teams and athletics
-- Promotional products and giveaways
-- Workwear and uniform programs
+- Trade contractors
+- Corporate clients
+- Sports teams
+- Promotional products
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -304,16 +383,16 @@ Pink Square emphasizes attention to detail, personalized service, competitive pr
 <details><summary>Sources</summary>
 
 - Location: Waterbury, CT -> /
-- Over five years of experience -> /about
-- Small business -> /about
-- Services: custom machine embroidery, heat press printing, laser engraving, screen printing -> /about, /
 - Minimum order: 12 pieces -> /
-- 300+ products available -> /about
-- 65+ 5-star reviews -> /about
-- Serves local businesses, trade contractors, teams across Connecticut -> /
-- Partners with trusted apparel brands -> /
+- Services: machine embroidery, screen printing, heat press printing, laser engraving -> /, /about
+- Years of experience: over five years -> /about
+- Products available: 300+ -> /about
+- Reviews: 65+ 5-star reviews -> /about
+- Industries served: local businesses, trade contractors, teams -> /
+- Ownership: small business -> /about
 - Competitive pricing and dependable turnarounds -> /
-- Attention to detail, personalized service -> /about
+- Personalized service and attention to detail -> /about
+- Partner with trusted apparel brands -> /
 </details>
 
 ---
@@ -323,76 +402,81 @@ Pink Square emphasizes attention to detail, personalized service, competitive pr
 **Old description:** Pittsburgh Plastics Manufacturing is a women-owned custom manufacturer of gel and foam cushioning solutions in the United States.
 
 ## About
-Pittsburgh Plastics Manufacturing operates from Butler, Pennsylvania, just north of Pittsburgh. The company was founded in 1977 and is women-owned and operated, positioning itself as one of the few U.S. women-owned plastics manufacturers.
+Pittsburgh Plastics Manufacturing was founded in 1977 by Jim Zona in Butler, Pennsylvania, just north of Pittsburgh. A Penn State graduate, Zona began by developing gel insoles—essentially "waterbeds for your feet"—and built the company into a women-owned custom manufacturer of gel and foam cushioning solutions.
 
-The firm specializes in custom gel and foam cushioning solutions, producing proprietary materials such as IsoGel®, IsoFoam®, and GELoam®. Its in-house capabilities include polymer processing, molding, welding and sealing, die cutting, custom colors, packaging and fulfillment, and CNC mold making. A staff of 50–75 professionals supports R&D with an on-site polymer scientist and CAD designer, enabling rapid prototyping and full manufacturing traceability.
+Operating from a 91,000-square-foot facility with 50–75 employees, the company formulates more than 35 proprietary polymer blends—including IsoGel®, IsoFoam®, and GELoam®—and handles mold design, CNC machining, prototyping, and full-scale production in-house. An internal polymer scientist and CAD designer support rapid turnaround, while lean practices such as KAIZEN and 5S drive efficiency.
 
-The company serves medical and healthcare, foot care, safety, industrial, and hot-and-cold therapy markets. It works with OEMs and private-label partners ranging from small businesses to large enterprises across the United States, Europe, Canada, and other countries.
+PPM serves medical and healthcare, safety, industrial, hot-and-cold therapy, and foot-care markets, supplying OEMs and private-label brands across the United States, Europe, and Canada. The facility is FDA registered, ISO 13485:2016 certified, and QRS-compliant with process validations for medical components, adhering to CGMP and TQMS standards.
 
-Pittsburgh Plastics emphasizes its library of more than 35 proprietary polymer blends, ISO 13485:2016 certification, FDA registration, QRS compliance, and lean manufacturing practices (KAIZEN, 5S) as key differentiators that ensure quality and speed from concept to production.
+The company emphasizes its U.S.-based, women-owned status and a "PPM Promise" of 100 percent precision, accuracy, and on-time delivery. Complete manufacturing traceability, pre-certified raw materials, and quality checks at every stage reinforce its differentiation in custom cushioning.
 
 ## Known for
-- 35+ proprietary polymer blends (IsoGel®, IsoFoam®, GELoam®)
-- In-house polymer scientist, CAD designer, and CNC machine for rapid prototyping
-- ISO 13485:2016 certified, FDA registered, QRS-compliant
-- Lean manufacturing (KAIZEN, 5S) with full traceability
-- Women-owned and operated U.S. manufacturer
+- Proprietary polymer library with 35+ custom formulations (IsoGel®, IsoFoam®, GELoam®)
+- In-house polymer scientist, CAD designer, and CNC machining for rapid mold-to-part turnaround
+- Women-owned and operated U.S. manufacturer with full traceability
+- ISO 13485:2016 certified, FDA registered, and QRS-compliant for medical components
+- Lean manufacturing culture (KAIZEN, 5S) driving efficiency and quality
 
 ## Capabilities
-- Polymer processing
-- Molding
-- Welding and sealing
-- Custom colors
-- Die cutting
-- Packaging and fulfillment
-- CNC mold making
-- R&D and material formulation
+- Custom gel and foam cushioning manufacturing
+- Proprietary polymer formulation (IsoGel®, IsoFoam®, GELoam®)
+- In-house mold design and CNC machining
+- Rapid prototyping
+- Production scaling
+- Finishing services
+- In-house R&D with polymer scientist and CAD designer
 - Lean manufacturing (KAIZEN, 5S)
-- Quality inspection and traceability
+- Quality control per ISO standards
+- Private label product development
+- OEM contract manufacturing
+- Medical component process validation
+- Raw material inspection and traceability
+- Dual-durometer gel production
+- Silicone gel manufacturing
+- Hydrogel manufacturing
+- Polyurethane foam manufacturing
 
 ## Industries
-- Medical / Healthcare
-- Foot Care
-- Safety
+- Medical and healthcare
+- Safety equipment
 - Industrial
-- Hot & Cold Therapy
+- Hot and cold therapy
+- Foot care
 
 ## Equipment
-- CNC machine
+- CNC machine for mold making
 
 ## Certifications
 - ISO 13485:2016
+- FDA registered
 - QRS-compliant
 - CGMP
 - TQMS
-- FDA registered
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1977
 - **Employees:** 50-75
-- **Ownership:** Woman-owned
+- **Ownership:** Women-owned
 - **Headquarters:** Butler, Pennsylvania
 
 <details><summary>Sources</summary>
 
-- Founded 1977 -> /
-- Women-owned -> /
-- Headquarters Butler, PA -> /
-- Employee count 50-75 -> /
+- Founded 1977 by Jim Zona -> /about
+- Women-owned custom manufacturer -> /
+- Headquarters in Butler, Pennsylvania -> /
+- 91,000-square-foot facility -> /about
+- 50-75 employees -> /
 - ISO 13485:2016 certified -> /
-- QRS-compliant -> /
-- CGMP, TQMS -> /
-- FDA registered -> /
-- Proprietary polymers (IsoGel, IsoFoam, GELoam) -> /
-- 35+ proprietary blends -> /
+- FDA registered facility -> /
+- QRS-compliant with process validations for medical components -> /
+- CGMP and TQMS adherence -> /
+- Proprietary blends: IsoGel®, IsoFoam®, GELoam® -> /
 - In-house polymer scientist, CAD designer, CNC machine -> /
-- Capabilities: molding, welding, die cutting, etc. -> /
-- Industries: medical, foot care, safety, industrial, hot/cold therapy -> /
-- Materials: gels, foams, hydrogels, polyurethane -> /
-- Lean manufacturing (KAIZEN, 5S) -> /
+- Lean manufacturing: KAIZEN, 5S -> /about
+- Industries: medical/healthcare, safety, industrial, hot & cold therapy, foot care -> /
 - OEM and private label services -> /
-- Export to US, Europe, Canada -> /
+- PPM Promise: 100% precise, accurate, on time -> /
 </details>
 
 ---
@@ -402,37 +486,39 @@ Pittsburgh Plastics emphasizes its library of more than 35 proprietary polymer b
 **Old description:** PHS Chiropractic continues to evolve to build the best, most comprehensive chiropractic adjusting table lines in the market today.
 
 ## About
-Pivotal Health Solutions is headquartered in Watertown, South Dakota. The founding year and ownership details are not publicly disclosed. The company operates multiple brands including PHS Chiropractic, Armedica, Custom Craftworks, Athletic Edge, PHS Medical, Rev.247, and Pivotal Printing.
+Pivotal Health Solutions is headquartered in Watertown, South Dakota. The company operates under multiple brand lines including PHS Chiropractic, Armedica, Custom Craftworks, Athletic Edge, PHS Medical, Rev.247, and Pivotal Printing. While the exact founding year is not publicly disclosed, the business has evolved to offer a comprehensive range of manufactured products for healthcare, athletic, and workspace environments.
 
-The company designs and manufactures chiropractic adjusting tables, therapy tables, athletic training room equipment, lockers, workspace products, and provides printing services for decals, banners, and signs. Its capabilities include fabrication, powder coating, and assembly through its Pivotal Fabrication & Powder Division. Specific facility size, headcount, and production volumes are not disclosed.
+The company designs and manufactures chiropractic adjusting tables, therapy tables, electric epidural positioning devices, custom athletic training room equipment, lockers, workspace furniture, and printed marketing materials such as decals, banners, and signs. Its Pivotal Fabrication & Powder Division provides in-house metal fabrication and powder coating capabilities, supporting production across its product lines. The company also lists customer service and logistics support as core capabilities.
 
-Products serve chiropractors, physical therapists, medical facilities, high schools, colleges, professional sports teams, and businesses seeking custom printing and workspace solutions. The Athletic Edge line supplies custom athletic training equipment and lockers to educational and professional athletic programs, while PHS Medical offers ergonomic therapy tables and an Electric Epidural Positioning Device.
+Pivotal Health Solutions serves chiropractors, physical therapists, athletic programs at high schools, colleges, and professional teams, medical facilities, and businesses seeking workspace solutions and custom printing. Its Armedica and Custom Craftworks tables are used in therapy and rehabilitation practices, while Athletic Edge equipment outfits training rooms. The Rev.247 line targets office and creative workspaces, and Pivotal Printing serves advertising and branding needs.
 
-The company states it aims to build the most comprehensive chiropractic adjusting table lines in the market, emphasizing quality manufacturing and customer satisfaction across its product lines. It also highlights advanced features, custom options, and ergonomic design as differentiators.
+The company states that its Armedica products are designed, manufactured, and backed with a commitment to quality and customer satisfaction. It emphasizes evolving to build the most comprehensive chiropractic adjusting table lines in the market and providing custom solutions for athletic and workspace environments.
 
 ## Known for
-- Builds the most comprehensive chiropractic adjusting table lines in the market
-- Products designed, manufactured, and backed with a commitment to quality and customer satisfaction
-- Offers custom athletic training room equipment and lockers for high schools, colleges, and pro teams
-- Provides ergonomic, durable, state-of-the-art therapy tables including Electric Epidural Positioning Device
-- Delivers custom printing for decals, banners, and signs to bring designs to life
+- Comprehensive chiropractic adjusting table lines
+- In-house fabrication and powder coating division
+- Custom athletic training room equipment and lockers
+- Electric Epidural Positioning Device (EPD) for precise patient positioning
+- Custom printing for decals, banners, and signs
 
 ## Capabilities
-- Fabrication
-- Powder coating
-- Assembly
-- Printing (decals, banners, signs)
 - Customer service
 - Logistics
+- Metal fabrication
+- Powder coating
+- Product design
+- Manufacturing
+- Assembly
+- Printing (decals, banners, signs)
 
 ## Industries
 - Chiropractic
-- Physical therapy and rehabilitation
-- Athletic training and sports equipment
-- Education (high schools, colleges)
-- Professional sports
-- Commercial printing and signage
-- Workspace solutions
+- Physical therapy
+- Athletic training
+- Sports equipment
+- Medical devices
+- Workspace furniture
+- Printing and signage
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -440,14 +526,15 @@ The company states it aims to build the most comprehensive chiropractic adjustin
 
 <details><summary>Sources</summary>
 
-- Headquartered in Watertown, South Dakota -> db
-- Operates brands PHS Chiropractic, Armedica, Custom Craftworks, Athletic Edge, PHS Medical, Rev.247, Pivotal Printing -> /
-- Manufactures chiropractic adjusting tables, therapy tables, athletic training equipment, lockers, workspace products, and printing services -> /
+- Headquarters in Watertown, South Dakota -> db
+- Operates brands PHS Chiropractic, Armedica, Custom Craftworks, Athletic Edge, PHS Medical, Rev.247, Pivotal Printing -> page '/'
+- Designs and manufactures chiropractic adjusting tables, therapy tables, athletic equipment, lockers, workspace products, printed materials -> page '/'
 - Has Pivotal Fabrication & Powder Division -> db
-- States commitment to quality and customer satisfaction -> /
-- Serves chiropractors, therapists, medical facilities, high schools, colleges, pro teams -> /
-- Offers Electric Epidural Positioning Device -> /
-- LinkedIn URL provided -> db
+- Serves chiropractors, physical therapists, athletic programs, medical facilities, businesses -> page '/'
+- States Armedica products are designed, manufactured, and backed with commitment to quality -> page '/'
+- Offers Electric Epidural Positioning Device (EPD) -> page '/'
+- Provides custom printing for decals, banners, signs -> page '/'
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -457,39 +544,54 @@ The company states it aims to build the most comprehensive chiropractic adjustin
 **Old description:** An error occurred. Please wait a moment and try checking the checkbox again.
 
 ## About
-Planeta Woodworking LLC operates from Durham, Connecticut, where it produces handcrafted furniture and home décor. The company is organized as a limited liability company, though its founding year and ownership structure are not publicly disclosed.
+Planeta Woodworking LLC operates from Durham, Connecticut, where it produces handcrafted furniture and home décor. The company runs a direct-to-consumer e-commerce store powered by Shopify and maintains a physical pickup location at 65R Johnson Lane in Durham, with store hours seven days a week.
 
-The workshop focuses on solid-wood tables, with current offerings including the Madison Round Table, the Concord Table, the Harrison Farm Table, and the Magnolia Table. Each piece is described as handcrafted and built to last generations, suggesting a reliance on traditional woodworking methods rather than automated production lines. No facility size, headcount, or annual volume figures are published.
+The product line centers on solid-wood tables, including models such as the Madison Round Table, the Concord Table, the Harrison Farm Table, and the Magnolia Table. Orders can also be placed by phone or email.
 
-Planeta Woodworking sells directly to consumers through its Shopify-powered online store and offers free local pickup at a second Durham address on Johnson Lane, with stock items typically ready in one to two business days. The business does not list any industrial or commercial clients, indicating a primarily retail customer base.
+Planeta Woodworking sells primarily to residential customers through its online storefront, offering free local pickup and a money-back guarantee. The site highlights a 100% five-star rating as a testament to customer satisfaction. The company also provides a mailing address for correspondence.
 
-The company emphasizes durability and customer satisfaction, promoting a "Love your order, or your money back!" guarantee and citing a 100% five-star rating. These claims form the core of its stated differentiation in the market.
+The business emphasizes durability and craftsmanship, promoting its pieces as "built to last generations." A satisfaction guarantee and rapid local fulfillment are presented as key differentiators in a market often dominated by mass-produced alternatives.
 
 ## Known for
 - Handcrafted furniture built to last generations
+- Money-back guarantee on every order
 - 100% five-star customer rating
-- Money-back satisfaction guarantee
 - Free local pickup with stock items ready in 1–2 business days
+- Direct-to-consumer sales via Shopify storefront
 
 ## Capabilities
 - Handcrafted furniture manufacturing
 - Woodworking
+- Finishing
+- Assembly
+- E-commerce fulfillment
+- Local pickup service
+
+## Industries
+- Residential furniture
+- Home décor
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Headquarters:** Durham, CT
+- **Headquarters:** Durham, Connecticut
 
 <details><summary>Sources</summary>
 
-- Location: Durham, CT -> /
-- Business: Handcrafted furniture and home décor -> /
-- Legal entity: Planeta Woodworking LLC -> /
-- Products: Madison Round Table, Concord Table, Harrison Farm Table, Magnolia Table -> /
-- Sales channel: Shopify online store with direct-to-consumer sales -> /
-- Pickup location: 65R Johnson Lane, Durham, CT 06422 -> /
-- Stock item lead time: 1-2 business days -> /
-- Guarantee: Money-back satisfaction guarantee -> /
-- Rating claim: 100% 5-star rating -> /
+- Company name and LLC designation -> /
+- Location: Durham, Connecticut -> /
+- Product focus: handcrafted furniture and home décor -> /
+- Specific table models: Madison Round Table, Concord Table, Harrison Farm Table, Magnolia Table -> /
+- Price range: $2,495–$3,995 -> /
+- E-commerce platform: Shopify -> /
+- Local pickup address: 65R Johnson Lane, Durham, CT 06422 -> /
+- Pickup lead time: 1–2 business days for stock items -> /
+- Store hours: Sun 10am–6pm, Mon–Fri 7am–6pm, Sat 8am–6pm -> /
+- Money-back guarantee -> /
+- 100% five-star rating claim -> /
+- Mailing address: 471 New Haven Road, Durham, CT 06422 -> /
+- Contact phone: (860)-986-1155 -> /
+- Contact email: Sales@planetawoodworking.com -> /
+- Social media presence: Facebook, Instagram -> /
 </details>
 
 ---
@@ -499,33 +601,34 @@ The company emphasizes durability and customer satisfaction, promoting a "Love y
 **Old description:** Plantible Foods was founded with the goal of producing Rubi Protein™ at scale. Rubi Protein™ is a complete protein with all nine essential amino acids, vitamin B12, a neutral taste, and is allergen-free. It is prized for its incredible functionality that solves a large range of formulation challenges.
 
 ## About
-Plantible Foods operates from Eldorado, Texas. The company was co-founded by Tony Martens and Maurits van de Ven, who began by living in trailers at a two-acre duckweed farm in San Diego during the California lockdown.
+Plantible Foods operates from Eldorado, Texas, where it produces Rubi Protein™, a proprietary ingredient derived from the aquatic plant Lemna.
 
-The company cultivates Lemna, a fast-growing aquatic plant also known as duckweed, on aqua farms and extracts Rubi Protein™, a complete protein containing all nine essential amino acids and vitamin B12. The process uses significantly less water and land than traditional protein sources, with the San Diego farm spanning two acres.
+The company grows Lemna on aqua farms that require no arable land and use a fraction of the water needed for conventional protein crops. The harvested biomass is processed to extract RuBisCO, marketed as Rubi Protein™, a complete protein containing all nine essential amino acids plus vitamin B12. The ingredient is neutral in flavor and free of major allergens.
 
-Plantible supplies Rubi Protein™ to food manufacturers for use in baked goods, plant-based meat and dairy alternatives, and sports and adult nutrition products. The ingredient is marketed as a functional replacement for eggs, butter, and chemical binders such as methylcellulose.
+Plantible sells its protein to food manufacturers formulating baked goods, plant-based meats, dairy alternatives, and sports nutrition products. In baked goods, the protein replicates the mouthfeel of butter and eggs or the elasticity of gluten; in plant-based meats it can replace methylcellulose binders while improving juiciness; in dairy alternatives it enhances texture and nutrition.
 
-The founders started Plantible to address the challenge of sustainably feeding a growing global population. They emphasize a supply chain that requires 10 times less water than soybeans, uses zero arable land, and captures 10 times more CO2 than a forest, positioning Rubi Protein™ as a scalable, allergen-free protein solution.
+The founders frame the business as a response to a broken food system, aiming to deliver sustainable nutrition at scale. They cite the crop’s efficiency — ten times more protein per acre than soy with ten times less water — and its carbon capture as core advantages that differentiate the ingredient from other plant proteins.
 
 ## Known for
-- Lemna cultivation uses 10x less water than soybeans and zero arable land
 - Rubi Protein™ provides all nine essential amino acids and vitamin B12
-- Allergen-free protein with neutral taste for clean-label formulations
-- Aqua farms capture 10x more CO2 than a healthy forest
-- Protein mimics functionality of eggs, butter, and methylcellulose
+- Allergen-free, neutral-tasting protein ingredient
+- Aqua farming uses 10x less water than soy and zero arable land
+- Lemna captures 10x more CO2 than a healthy forest
+- Replaces chemical binders like methylcellulose in plant-based meat
 
 ## Capabilities
-- Lemna (duckweed) cultivation on aqua farms
-- Rubi Protein™ extraction and purification
-- Plant-based protein ingredient manufacturing
+- Aqua farming of Lemna (duckweed)
+- RuBisCO (Rubi Protein™) extraction and purification
+- Food-grade protein ingredient manufacturing
+- Ingredient functionality testing for baked goods, meat and dairy alternatives
 
 ## Industries
 - Food and beverage
+- Baked goods
 - Plant-based meat
 - Dairy alternatives
-- Bakery
 - Sports nutrition
-- Adult nutrition
+- Alternative protein ingredients
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -533,14 +636,17 @@ The founders started Plantible to address the challenge of sustainably feeding a
 
 <details><summary>Sources</summary>
 
-- Headquarters: Eldorado, Texas -> db
-- Founders: Tony Martens and Maurits van de Ven -> /
-- Origin story: lived in trailers at two-acre duckweed farm in San Diego during California lockdown -> /
-- Product: Rubi Protein™ (complete protein, all nine essential amino acids, vitamin B12, neutral taste, allergen-free) -> /
-- Process: Growing Lemna on aqua farms, extracting Rubi Protein™ -> /
-- Sustainability claims: 10x less water than soybeans, zero arable land, 10x more CO2 capture than forest -> /
-- Applications: baked goods, plant-based meat, dairy alternatives, sports/adult nutrition -> /
-- Company type: Manufacturer (produces Rubi Protein™) -> /
+- Headquarters in Eldorado, Texas -> db
+- Co-founders Tony Martens and Maurits van de Ven -> page /
+- Produce Rubi Protein™ from Lemna -> page /
+- Aqua farm method, 10x less water than soybeans -> page /
+- Applications in baked goods, plant-based meat, dairy, sports nutrition -> page /
+- Company described as biology company unlocking power of plants -> page /
+- Rubi Protein™ contains all nine essential amino acids and vitamin B12 -> page /
+- Allergen-free, neutral taste -> page /
+- Lemna captures 10x more CO2 than forest -> page /
+- Replaces methylcellulose in plant-based meat -> page /
+- Mimics eggs, butter, gluten functionality -> page /
 </details>
 
 ---

@@ -1,0 +1,630 @@
+# Teknic, Inc.
+
+**Old description:** Brushless DC/AC servo motors and motion-control drives
+
+## About
+Teknic, Inc. is based in Victor, New York, where it designs and manufactures brushless DC and AC servo motors and motion-control drives. The company’s product portfolio centers on integrated servo systems that combine motor, encoder, drive, and controller in a single package.
+
+Teknic’s flagship ClearPath line comprises all-in-one servo motors available in over 1,000 part numbers, each integrating a brushless permanent-magnet motor, high-resolution encoder, digital servo drive, and motion controller. The company also produces the Hudson series of BLDC servo motors, Meridian integrated motion controllers and digital servo drives, Eclipse digital servo drives, ClearCore and ClearLink I/O and motion controllers, IPC intelligent DC power supplies, planetary gearboxes, motor brakes, and gearmotor solutions. Many products carry a three-year warranty, and the IPC power supplies are built in the United States.
+
+The company serves original equipment manufacturers and industrial automation customers in applications such as conveyors, packaging systems, pumps, and indexing equipment. Its motion controllers support EtherNet/IP, EtherCAT, step-and-direction, and software API interfaces, targeting machine builders who need precise, ripple-free motion across a range of torque and speed requirements.
+
+Teknic emphasizes proprietary algorithms such as g-Stop anti-resonance, RAS motion smoothing, and the Accelerated Prototyping System to reduce development time and improve machine performance. The company sells directly online with a 90-day satisfaction guarantee on select items and highlights U.S. manufacturing for its power supply line.
+
+## Known for
+- Three-year warranty on most products
+- IPC power supplies built in the USA
+- Over 1,000 ClearPath part numbers available
+- Proprietary g-Stop anti-resonance and RAS motion smoothing algorithms
+- Direct online purchasing with 90-day satisfaction guarantee on select items
+
+## Capabilities
+- Brushless DC/AC servo motor manufacturing
+- Motion control drive manufacturing
+- Integrated servo motor assembly (motor, encoder, drive, controller)
+- Digital servo drive design
+- Motion controller development (EtherNet/IP, EtherCAT, Step & Direction, Software API)
+- Power supply design for motion control (IPC)
+- Planetary gearbox manufacturing
+- Motor brake manufacturing (spring-applied power-off)
+- Gearmotor solutions
+- Online configuration and selection tools
+- Rapid prototyping and diagnostic software (Accelerated Prototyping System)
+- Anti-resonance algorithms (g-Stop)
+- Motion smoothing algorithms (RAS)
+- Quickset digital oscilloscope and move generator
+
+## Industries
+- OEM machinery
+- Conveying systems
+- Packaging machinery
+- Pump systems
+- Indexing equipment
+- Industrial automation
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Victor, New York
+
+<details><summary>Sources</summary>
+
+- Headquarters in Victor, New York -> db
+- ROHS certification -> db
+- Manufactures brushless DC/AC servo motors and motion-control drives -> db
+- ClearPath all-in-one servo motors with 1000+ part numbers -> /
+- IPC power supplies built in the USA -> /
+- 3-year warranty on many products -> /
+- Proprietary g-Stop anti-resonance and RAS motion smoothing algorithms -> /
+- Accelerated Prototyping System for development -> /
+- Direct online sales with 90-day satisfaction guarantee -> /
+- Serves OEM applications including conveyors, packaging systems, pumps, indexing -> /
+</details>
+
+---
+
+# Tel-Conn Manufacturing, Inc.
+
+**Old description:** We are one of the leading providers for USA-manufactured custom patch cords. We are able to supply a wide variety of connectors and cables for any interconnectivity needs.
+
+## About
+Tel-Conn Manufacturing, Inc. operates from Lawrenceville, Georgia, producing USA-made custom patch cords and a wide range of cable assemblies for interconnectivity needs. The company's founding year and ownership structure are not publicly disclosed.
+
+The company manufactures fiber and copper assemblies, including multi-fiber, MPO/MTP, and wiring harnesses, as well as high-voltage temporary power cables and stage-and-studio assemblies. It also provides test and analysis using CAT5/6 meters, optical loss test sets, microscopes, and interferometers; inventory management in a secure warehouse; repair and recertification of damaged assemblies; contract manufacturing for OEMs; and consulting drawn from over 100 years of combined staff experience. The facility is ISO 9001 certified.
+
+Tel-Conn serves major U.S. telecom providers, the growing studio and entertainment industry, and sectors such as ground transportation, aviation, and HVAC. It also works with original equipment manufacturers needing contract assembly of fiber optic or copper products.
+
+The company emphasizes fast turnaround on temporary power cables, lead times, hands-on customer service, and a quality system backed by ISO 9001 certification. Its staff's deep experience is positioned to help customers avoid common pitfalls in cable assembly production.
+
+## Known for
+- USA-manufactured custom patch cords
+- Fast turnaround on high-voltage temporary power cables
+- ISO 9001 certified facility
+- Over 100 years of combined cable assembly experience
+- State-of-the-art test equipment (CAT5/6 meters, optical loss test sets, microscopes, interferometers)
+- Secure warehouse for inventory management
+
+## Capabilities
+- Custom patch cord manufacturing
+- Multi-fiber assembly
+- MPO/MTP cable assembly
+- Wiring harness assembly
+- Temporary power cable assembly
+- Stage and studio cable assembly
+- Fiber optic testing and analysis
+- Copper cable testing (CAT5/6)
+- Optical loss testing
+- Fiber end-face inspection (microscopes, interferometers)
+- Inventory management and warehousing
+- Cable assembly repair and recertification
+- Contract manufacturing
+- Consulting for cable assembly design
+
+## Industries
+- Telecommunications
+- Studio and entertainment
+- Ground transportation
+- Aviation
+- HVAC
+- Original equipment manufacturing (OEM)
+
+## Equipment
+- Diagnostic CAT5/6 meters
+- Optical loss test sets
+- Microscopes
+- Interferometers
+
+## Certifications
+- ISO 9001
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Lawrenceville, Georgia
+
+<details><summary>Sources</summary>
+
+- Company name and description -> db
+- Headquarters: Lawrenceville, Georgia -> db
+- Products: custom patch cords, multi-fiber assemblies, MPO/MTP cable assemblies, wiring harnesses, temporary power cables, stage & studio assemblies -> db, /
+- Industries served: telecom providers, studio industry, ground transportation, aviation, HVAC -> /
+- Services: Test & Analysis, Inventory Management, Repair & Recertification, Contract Manufacturing, Consulting -> /services
+- Equipment: diagnostic CAT5/6 meters, optical loss test sets, microscopes, interferometers -> /services
+- Certification: ISO 9001 certified location -> /services
+- Staff experience: over 100 years combined cable assembly experience -> /services
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Telco Electronics Inc
+
+**Old description:** Your Trusted Leader for Electronics and Home Appliance Repairs in Idaho
+
+## About
+Telco Electronics Inc operates from Boise, Idaho, with an additional service presence in Yakima, Washington. The company provides factory-authorized repair services for consumer electronics and home appliances across the region.
+
+Its technicians are factory trained by major manufacturers including Samsung, LG, Electrolux, Frigidaire, GE, Haier, Midea, Sharp, Whirlpool, KitchenAid, Maytag, Magic Chef, Panasonic, Magnavox, Sylvania, and Funai. The shop handles repairs on refrigerators, washers, dryers, ranges, ovens, televisions, and microwaves, including work covered by original manufacturer warranties. The team holds EPA certification for r134a refrigerant systems and is factory trained and certified for R600a (isobutane) sealed systems using LokRing technology.
+
+Telco Electronics primarily serves residential and commercial customers requiring appliance and electronics repair, and acts as an authorized warranty service provider for the brands listed. Its client base includes homeowners, property managers, and businesses relying on kitchen and laundry equipment.
+
+The company distinguishes itself as Idaho's only Samsung Branded Engineer and a Samsung Care Certified service provider. In 2019, one of its technicians won the United States Samsung Technician Skill Competition, underscoring the depth of its factory-trained expertise.
+
+## Known for
+- Idaho's only Samsung Branded Engineer
+- 2019 U.S. Samsung Technician Skill Competition winner
+- Factory trained and certified for R600a sealed systems with LokRing
+- EPA certified for r134a sealed systems
+
+## Capabilities
+- Appliance repair (refrigerators, washers, dryers, ranges, ovens)
+- Television repair
+- Microwave repair
+- Sealed system repair (R600a/isobutane)
+- Sealed system repair (r134a)
+- LokRing installation and repair
+- Factory authorized warranty service
+- EPA certified refrigerant handling
+
+## Industries
+- Consumer electronics repair
+- Home appliance repair
+
+## Equipment
+- LokRing equipment
+
+## Certifications
+- EPA certified for r134a sealed systems
+- Factory trained and certified for R600a sealed systems with LokRing
+- Samsung Care Certified
+
+## Company details
+- **Company Type:** Installer / service company
+- **Headquarters:** Boise, Idaho
+
+<details><summary>Sources</summary>
+
+- Headquarters in Boise, Idaho -> /
+- Service presence in Yakima, Washington -> /services
+- Factory-trained repair for appliances and televisions -> /
+- Factory authorized for Samsung, LG, Electrolux, Frigidaire, GE, Haier, Midea, Sharp, Whirlpool, KitchenAid, Maytag, Magic Chef, Panasonic, Magnavox, Sylvania, Funai -> /services
+- EPA certified for r134a sealed systems -> /
+- Factory trained and certified for R600a sealed systems with LokRing -> /
+- 2019 United States Samsung Technician skill competition winner -> /
+- Idaho's Only Samsung Branded Engineer -> /
+- Samsung Care Certified -> /
+</details>
+
+---
+
+# Telongo LLC
+
+**Old description:** The TS350-MDX Hotline Telephone will automatically dial a pre-programmed
+
+## About
+Telongo LLC operates from Eagle, Idaho, where it was founded in 2010. The company began by manufacturing hotline telephones and auto dialers for the money transmitter industry, where dependable, pre-programmed hardware is essential for location rollouts.
+
+Today Telongo designs and manufactures a range of specialized telecom hardware from its Idaho facility, including hotline telephones, hotline dialers, call controllers, and DTMF modems. The engineering team also undertakes custom firmware, hardware, and ground-up development projects. The company emphasizes turnkey deployment: every unit ships factory pre-programmed with the customer's hotline number, and custom colors and branding are available to match corporate identity. Volume discounts apply for large-scale rollouts.
+
+Telongo's products serve money transmitters, hotels and hospitality venues, banks and financial institutions, elevators and building access systems, and emergency response systems. Typical deployments include kiosks, courtesy stations, hotel lobbies, and high-traffic public spaces where instant, keypad-free connection is required.
+
+The company's founding focus on turnkey reliability remains central: understanding the exact operational requirement first, then designing hardware and firmware around it. This approach eliminates field programming, guesswork, and surprise costs for customers deploying across thousands of locations.
+
+## Known for
+- Factory pre-programming: units arrive with hotline number flashed into non-volatile memory
+- Custom colors and hardware finishes to match corporate branding
+- Volume pricing for bulk orders across hundreds or thousands of locations
+- Turnkey deployment with no field programming required
+- USA-designed and supported hardware
+
+## Capabilities
+- Hotline telephone manufacturing
+- Hotline dialer manufacturing
+- Call controller manufacturing
+- DTMF modem manufacturing
+- Custom firmware development
+- Custom hardware development
+- Ground-up product development
+- Factory pre-programming
+- Custom colors and branding
+- Volume pricing
+- B2B/distributor partnership programs
+
+## Industries
+- Money transmitters
+- Hotels and hospitality
+- Banks and financial institutions
+- Elevators and building access
+- Emergency response systems
+
+## Equipment
+- TS350-MDX Hotline Telephone
+- TS351-MDX Hotline Telephone
+- LX350-MDX Hotline Auto Dialer
+- LX350-C2 Hotline Dialer
+- LX210 Push Button Dialer
+- LX320 Hook Flash Generator
+- TC100 CPC Signal Generator
+- LPD100 Priority Line Grabber
+- PC Grabber Model 322
+- PC Grabber Model 308
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2010
+- **Headquarters:** Eagle, Idaho
+
+<details><summary>Sources</summary>
+
+- Location: Eagle, Idaho -> /about
+- Founded: 2010 -> / and /about
+- Products: hotline telephones, hotline dialers, call controllers, DTMF modems -> / and /about
+- Custom firmware/hardware development -> /about
+- Factory pre-programming, custom colors, volume discounts -> /
+- Industries served: money transmitters, hotels, banks, elevators, emergency response -> /about
+- Turnkey deployment, no field programming -> /
+- USA designed & supported -> / and /about
+- Product model names -> /
+- Prototype to production volume -> / and /about
+</details>
+
+---
+
+# Tenneco Inc
+
+**Old description:** YOUR MOST TRUSTED PARTNER AND THE WORLD'S BEST MANUFACTURER AND DISTRIBUTOR IN THE TRANSPORTATION INDUSTRY.
+
+## About
+Tenneco Inc is headquartered in Marshall, Michigan, and traces its roots back over a century in the transportation industry. The company operates under the leadership of CEO Jim Voss, though the INPUT does not specify its founding year, ownership structure, or original founders.
+
+The company designs, engineers, and manufactures clean air, powertrain, and ride performance systems through four business segments: Clean Air, Powertrain, Performance Solutions, and DRiV. Its global footprint spans 169 manufacturing sites, 39 engineering and technical facilities, and 28 countries, supported by approximately 58,000 team members. The DRiV segment alone encompasses more than 30 aftermarket brands.
+
+Tenneco serves original equipment manufacturers across light vehicle, commercial truck, and off-highway vehicle markets, as well as the automotive aftermarket through its DRiV portfolio. Its technologies address emissions control, fuel economy, acoustic performance, safety, and comfort for customers worldwide.
+
+Its operating values emphasize radical candor, simplification, organizational velocity, tenacious execution, and winning. Sustainability targets include a 33 percent reduction in recordable incident rates, an 18 percent cut in energy consumption, and 75 percent waste recycling across manufacturing operations, with 90 percent of sites certified to ISO 14001.
+
+## Known for
+- 58,000 global team members across 169 manufacturing sites
+- 39 engineering and technical facilities in 28 countries
+- 90% of manufacturing sites certified to ISO 14001
+- More than 30 aftermarket brands under DRiV
+- Four integrated business segments: Clean Air, Powertrain, Performance Solutions, DRiV
+
+## Capabilities
+- Emissions control system design
+- Emissions control system engineering
+- Emissions control system manufacturing
+- Engine component design
+- Engine component engineering
+- Engine component manufacturing
+- Ride performance system design
+- Ride performance system engineering
+- Ride performance system manufacturing
+- Aftermarket parts manufacturing
+- Aftermarket parts distribution
+- Clean air solutions development
+- Powertrain solutions development
+- Performance solutions development
+
+## Industries
+- Transportation
+- Automotive OEM
+- Commercial vehicle
+- Off-highway vehicle
+- Automotive aftermarket
+
+## Certifications
+- ISO 14001 Environmental Management System
+
+## Company details
+- **Company Type:** Manufacturer
+- **Employees:** 58,000
+- **Headquarters:** Marshall, Michigan
+
+<details><summary>Sources</summary>
+
+- Headquarters in Marshall, Michigan -> db
+- 58,000 global team members -> /
+- 169 manufacturing sites -> /
+- 39 engineering and technical facilities -> /
+- 28 countries -> /
+- CEO Jim Voss -> /about-us
+- Four business segments: Clean Air, Powertrain, Performance Solutions, DRiV -> /
+- More than 30 aftermarket brands under DRiV -> /
+- Serves light vehicle, commercial truck, off-highway vehicle OEMs -> /
+- Serves automotive aftermarket -> /
+- 90% of manufacturing sites certified to ISO 14001 -> /
+- Sustainability metrics: 33% reduction in recordable incident rate, 18% reduction in energy consumption, 75% waste recycled -> /about-us
+- Company purpose: most trusted partner and best manufacturer/distributor in transportation industry -> /, /about-us
+- Values: Radical Candor, Simplify, Organizational velocity, Tenacious execution, Win -> /about-us
+</details>
+
+---
+
+# Tennessee Metal Fabricating, a Victaulic Brand
+
+**Old description:** the world’s leading manufacturer of mechanical pipe joining solutions, acquired the business assets of TMF. Victaulic is delighted to welcome the TMF employees to the Victaulic family.
+
+## About
+Tennessee Metal Fabricating, now operating as a Victaulic brand, is based in Rock Island, Tennessee. In September 2022, Victaulic, a manufacturer of mechanical pipe joining solutions, acquired the business assets of TMF and welcomed its employees into the Victaulic family. The original founding year and ownership structure of TMF are not disclosed in the available information.
+
+The facility comprises three buildings totaling 125,000 square feet. Shop equipment includes plate rollers, automatic submerged arc welding machines, manual MIG and TIG welding machines, and Victaulic roll groove equipment. The paint shop applies epoxy coatings in accordance with AWWA standards. The company fabricates pipe up to 144 inches in diameter with 3/4-inch wall thickness in carbon and stainless steel. Special testing capabilities include hydrostatic, X-ray, ultrasonic, and magnetic particle inspection. Products are manufactured to AWWA standards such as C200, C205, C207, C208, C209, C210, and C222.
+
+The company serves waterworks and infrastructure projects, producing steel water pipe and fittings for municipal and industrial piping systems. Customers include contractors and engineers specifying AWWA-compliant piping for water transmission and treatment facilities.
+
+The acquisition by Victaulic integrates TMF's fabrication expertise with Victaulic's mechanical joining technology, offering a combined solution for piping systems. The company emphasizes manufacturing quality to AWWA standards.
+
+## Known for
+- Pipe fabrication up to 144" diameter x 3/4" wall in carbon and stainless steel
+- Full-range AWWA-compliant coatings: cement mortar, liquid epoxy, polyurethane
+- In-house non-destructive testing: hydro, X-ray, ultrasonic, mag particle
+- 125,000 sq ft facility with plate rollers, submerged arc, MIG/TIG, and Victaulic roll groove machines
+- Backed by Victaulic's mechanical pipe joining technology
+
+## Capabilities
+- Plate rolling
+- Submerged arc welding
+- MIG welding
+- TIG welding
+- Roll grooving (Victaulic)
+- Hydrostatic testing
+- X-ray inspection
+- Ultrasonic testing
+- Magnetic particle inspection
+- AWWA C200 steel water pipe fabrication
+- AWWA C205 cement mortar lining and coating
+- AWWA C207 steel pipe flanges
+- AWWA C208 fabricated steel water pipe fittings
+- AWWA C209 cold-applied tape coatings
+- AWWA C210 liquid epoxy coating systems
+- AWWA C222 polyurethane coating systems
+- Epoxy coating per AWWA standards
+- Paint shop coatings per AWWA
+
+## Industries
+- Waterworks
+- Infrastructure
+- Municipal water systems
+- Industrial piping
+
+## Equipment
+- Plate rollers
+- Automatic submerged arc welding machines
+- Manual MIG welding machines
+- Manual TIG welding machines
+- Victaulic roll groove equipment
+
+## Company details
+- **Company Type:** Manufacturer
+- **Ownership:** Victaulic Brand
+- **Headquarters:** Rock Island, Tennessee
+
+<details><summary>Sources</summary>
+
+- Location: Rock Island, Tennessee -> db
+- Acquisition by Victaulic in September 2022 -> /
+- Facility size: 3 buildings, 125,000 sq ft -> /
+- Equipment: plate rollers, submerged arc welding, MIG/TIG welding, Victaulic roll groove -> /
+- Pipe sizes up to 144" diameter x 3/4" wall in carbon and stainless steel -> /
+- Testing: hydrostatic, X-ray, ultrasonic, magnetic particle -> /
+- AWWA standards: C200, C205, C207, C208, C209, C210, C222 -> /
+- Materials: carbon steel, stainless steel -> /
+- LinkedIn URL -> db
+</details>
+
+---
+
+# Tennessee Peanut Co.
+
+**Old description:** The Original 2-Pounds of traditionally roasted goodness is back - same ingredients as when we first began at local Farmer's Markets. Now available in Salty, Cajun and Raw (Good for Boiling!)
+
+## About
+Tennessee Peanut Co. was founded in 2019 by Jay Cleveland and his family in Nashville, Tennessee. The company began at local farmers markets, selling traditionally roasted in-shell peanuts, and has since grown into a family-owned operation that emphasizes wholesome, USA-grown products.
+
+The company specializes in artisan roasting of in-shell peanuts, offering three core varieties: Salty, Cajun, and Raw (suitable for boiling). Peanuts are sourced 100% from U.S. growers and roasted using the original recipes from the farmers market days. Products are packaged in 1-ounce single-serve packs, 2-pound bags, and 10-pack display boxes, and the line also includes gift boxes, candies, chocolates, and general mercantile items.
+
+Tennessee Peanut Co. serves both retail and wholesale channels, with a store locator for direct consumer sales and a dedicated wholesale program for retailers and specialty food shops. Its products appear in gift and snack categories, targeting consumers seeking traditional Southern snacks and businesses looking for American-made peanut products.
+
+The Cleveland family frames the business as a way to pass wholesome products from one family to another, highlighting intentional packaging designed to be kept rather than discarded. The brand also notes its peanuts were voted a top-five selection, though the specific contest is not detailed.
+
+## Known for
+- Original farmers-market recipes retained
+- 100% USA-grown peanuts
+- Family-owned and operated since 2019
+- Intentional packaging designed for reuse
+
+## Capabilities
+- Peanut roasting
+- In-shell peanut packaging
+- Wholesale distribution
+- Retail packaging (1oz, 2lb, display boxes)
+- Gift box assembly
+
+## Industries
+- Food and beverage
+- Snack food
+- Retail
+- Wholesale
+- Gift and specialty foods
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2019
+- **Ownership:** Family-owned
+- **Headquarters:** Nashville, Tennessee
+
+<details><summary>Sources</summary>
+
+- Founded in 2019 by Jay Cleveland and family in Nashville, TN -> /
+- Produces artisan roasted in-shell peanuts (Salty, Cajun, Raw) -> /
+- Peanuts are 100% USA-grown -> /
+- Offers wholesale and retail packaging (1oz, 2lb, display boxes) -> /
+- Family-owned business emphasizing wholesome products -> /
+- Intentional packaging design noted -> /
+- Voted top 5 (unspecified) -> /
+</details>
+
+---
+
+# Terahertz Device Corporation
+
+**Old description:** We provide mid-IR LEDs and detectors for a wide range of environmental and health gas sensing applications.
+
+## About
+Terahertz Device Corporation operates from Salt Lake City, Utah. The company’s founding year and ownership structure are not publicly disclosed.
+
+The firm develops and manufactures mid-infrared light-emitting diodes and detectors for gas sensing applications. Its proprietary QuiC SLED™ technology captures the mid-infrared fingerprints of gases such as methane, carbon dioxide, refrigerants, and volatile organic compounds. The product line includes mid-IR LEDs, gas sensing LEDs, sensor modules, semiconductor chips, custom assemblies, and licensing of its technology. Facility size, headcount, and production volumes are not specified.
+
+The company serves markets including health tracking capnography, personal air quality monitoring, automotive, oil and gas, and smart building HVAC systems. It has engaged with regulatory developments, such as EPA actions on hydrofluorocarbons, and its representatives have presented at EPA methane detection workshops. Custom solutions are offered for specific sensing needs.
+
+Terahertz Device Corporation emphasizes the advantages of its LED-based sensing approach: stability, selectivity, energy efficiency, battery operation, and cost value. The company’s slogan, “We have an LED for that,” reflects its focus on providing tailored mid-IR sources for diverse detection challenges.
+
+## Known for
+- QuiC SLED™ technology captures mid-infrared gas fingerprints
+- LED sensing advantages: stability, selectivity, efficiency, battery operation, value
+- Custom sensor solutions for specific applications
+- Licensing of mid-IR LED technology
+
+## Capabilities
+- Mid-IR LEDs
+- Gas Sensing LEDs
+- Sensor Modules
+- Semiconductor Chips
+- Custom Assemblies
+- Licensing
+
+## Industries
+- Health Tracking Capnography
+- Personal Air Quality
+- Automotive
+- Oil and Gas
+- Smart Buildings HVAC
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Salt Lake City, Utah
+
+<details><summary>Sources</summary>
+
+- Location: Salt Lake City, Utah -> db (hq_city, hq_state_label) and page '/' address
+- Provides mid-IR LEDs and detectors for gas sensing -> page '/'
+- QuiC SLED™ technology for mid-infrared gas fingerprinting -> page '/'
+- Markets: Health Tracking Capnography, Personal Air Quality, Automotive, Oil and Gas, Smart Buildings HVAC -> page '/'
+- Custom solutions available -> page '/'
+- Dr. Mark Miller presented at EPA methane detection workshop -> page '/'
+- Capabilities: Mid-IR LEDs, Gas Sensing LEDs, Sensor Modules, Semiconductor Chips, Custom Assemblies, Licensing -> db capabilities
+- Contact email: sales@thzdc.com -> page '/'
+</details>
+
+---
+
+# Teta Active Apparel
+
+**Old description:** Active Apparel is the premium source for your embroidery, promotional and custom printing needs at the most competitive price!
+
+## About
+Active Apparel, LLC was founded in 1996 in Wolcott, Connecticut. The company began as a manufacturer of outerwear and has since expanded into embroidery, promotional products, and custom printing services.
+
+The company manufactures and embellishes apparel, offering embroidery, screen printing, and other decoration services. It also provides fulfillment options to ship finished goods directly to end customers. Over its history, Active Apparel has produced outerwear for major sportswear brands including Starter Sportswear, Reebok International, Rockport, and Converse.
+
+Active Apparel serves the sportswear, promotional products, and corporate branding markets. Its customer base includes brands seeking decorated outerwear, organizations running fundraiser stores, and teams ordering varsity jackets. The company also operates private online stores for varsity jackets and fundraising campaigns.
+
+Active Apparel emphasizes its more than 30 years of experience decorating outerwear and promotional items, positioning itself as a go-to source for premium promotional business needs at competitive prices. The company highlights its ability to manage fulfillment and private store programs as key differentiators.
+
+## Known for
+- Over 30 years of experience decorating outerwear and promotional items
+- Manufactured for major sportswear brands (Starter, Reebok, Rockport, Converse)
+- Offers embroidery, custom printing, and promotional product sourcing
+- Provides fulfillment services shipping directly to customers
+- Operates private stores for varsity jackets and fundraiser programs
+
+## Capabilities
+- Embroidery
+- Custom printing
+- Outerwear manufacturing
+- Apparel embellishment
+- Fulfillment services
+- Private store management
+- Promotional product sourcing
+
+## Industries
+- Sportswear
+- Promotional products
+- Corporate branding
+- Fundraising
+- Team apparel
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 1996
+- **Headquarters:** Wolcott, Connecticut
+
+<details><summary>Sources</summary>
+
+- Founded 1996 -> db
+- Headquarters Wolcott, Connecticut -> db
+- Manufacturing outerwear for 30+ years -> /
+- Clients include Starter, Reebok, Rockport, Converse -> /
+- Offers embroidery, promotional, custom printing -> /
+- Provides fulfillment options -> /
+- Private stores for varsity jackets and fundraisers -> /
+</details>
+
+---
+
+# Texas Cut & Sew
+
+**Old description:** Texas Cut & Sew offers years of industry expertise, innovative technology, and CNC  equipment to deliver premium products and specialized goods in the US.
+
+## About
+Texas Cut & Sew operates from Dallas, Texas. The company was founded in 2020, emerging during the peak of the COVID-19 pandemic to meet demand for domestic manufacturing excellence.
+
+The shop provides CNC cutting and CNC sewing services, supported by CAD software, and handles product development, prototyping, and full-scale manufacturing. Automation is used to mitigate labor shortages and improve material yield, reducing waste and increasing margins. The company also guides clients through product building steps to bring ideas to market with manufacturing efficiency.
+
+Its customer base spans aerospace, automotive, marine, medical, military, pet, and outdoor sectors. The company has worked with S&P 500 firms, Toyota, Advanced Fabric Technologies, and numerous entrepreneurs bringing new products to market.
+
+Texas Cut & Sew emphasizes domestic production, accepts NDAs, and focuses on delivering precision and efficiency through automated CNC processes. It emerged to fill a gap in U.S.-based manufacturing during a period of supply chain disruption.
+
+## Known for
+- Automation to combat labor shortages and improve material yield
+- NDAs accepted and honored for product development
+- Domestic manufacturing with a focus on precision and waste reduction
+- Experience with S&P 500 companies, Toyota, and Advanced Fabric Technologies
+
+## Capabilities
+- CNC cutting
+- CNC sewing
+- CAD software
+- Product development
+- Prototyping
+- Manufacturing
+- Automation integration
+
+## Industries
+- aerospace
+- automotive
+- marine
+- medical
+- military
+- pet
+- outdoor
+
+## Equipment
+- CNC cutting equipment
+- CNC sewing equipment
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 2020
+- **Headquarters:** Dallas, Texas
+
+<details><summary>Sources</summary>
+
+- Founded in 2020 -> /
+- Headquartered in Dallas, Texas -> db
+- Offers CNC cutting, CNC sewing, CAD software, product development, prototyping, manufacturing -> /
+- Serves aerospace, automotive, marine, medical, military, pet, outdoor industries -> /
+- Worked with S&P 500 companies, Toyota, Advanced Fabric Technologies -> /
+- Uses automation to combat labor shortage and increase material yields -> /
+- Accepts NDAs for product development -> /
+</details>
+
+---

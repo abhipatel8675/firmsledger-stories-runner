@@ -3,29 +3,32 @@
 **Old description:** service for all your packaging and product fulfillment needs.
 
 ## About
-Precision Packaging Services, Inc. operates from Garner, North Carolina, with a facility in nearby Raleigh. The company provides outsourced packaging, assembly, and fulfillment services to clients across the region.
+Precision Packaging Services, Inc. operates from its headquarters in Garner, North Carolina, with a facility in nearby Raleigh. The company provides outsourced packaging, assembly, and fulfillment services to clients across various sectors, functioning as a contract service provider for product handling and assembly needs.
 
-Its core offerings include packaging services, integrated mechanical assembly, high-quality electronic assembly, product assembly, kitting, and fulfillment. The company also manages logistics and warehousing through strategic partners from its Raleigh facility, and lists used equipment among its available services. The operation emphasizes a flexible workforce and adaptable processes to match client requirements, with capabilities for labeling and barcode production to customer specifications.
+The firm offers a range of contract services including product packaging, kitting, labeling and barcode labeling, integrated mechanical assembly, and high-quality electronic assembly. It also provides logistics and warehousing through strategic partners, and sells used equipment. The flexible workforce is structured to adapt processes to each client’s requirements, allowing the company to handle both small and large-scale projects.
 
-The business serves customers needing contract packaging, electronic and mechanical assembly, and supply-chain support such as labeling, barcoding, and warehousing. While specific industry sectors are not detailed in public materials, the service suite targets manufacturers and distributors requiring turnkey assembly and fulfillment, including those needing integrated mechanical and electronic assembly.
+Customers include businesses needing end-to-end product fulfillment, from assembly through packaging and distribution. The company serves clients requiring both mechanical and electronic assembly, as well as those seeking labeling and kitting solutions. Its services are used by organizations that outsource their packaging and assembly operations to a single provider.
+
+This client-focused approach is stated as the company’s primary goal, guiding its service delivery across packaging, assembly, and fulfillment.
 
 ## Known for
 - Flexible workforce and processes tailored to client needs
 - Strategic partnerships for logistics and warehousing services
-- Facility in Raleigh, NC supporting assembly and fulfillment
-- Label and barcode production to exact customer specifications
+- Integrated mechanical and electronic assembly capabilities
+- In-house labeling and barcode labeling to customer specifications
 
 ## Capabilities
-- Packaging Services
-- Integrated Mechanical Assembly
-- High Quality Electronic Assembly
-- Product Assembly
+- Packaging services
+- Product assembly
 - Kitting
 - Fulfillment
-- Logistics & Warehousing
-- Used Equipment Sales
 - Labeling
-- Barcode Label Production
+- Barcode labeling
+- Integrated mechanical assembly
+- Electronic assembly
+- Logistics
+- Warehousing
+- Used equipment sales
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -33,13 +36,14 @@ The business serves customers needing contract packaging, electronic and mechani
 
 <details><summary>Sources</summary>
 
-- Headquarters in Garner, NC -> db
-- Facility in Raleigh, NC -> /
-- Company name Precision Packaging Services, Inc. -> /
-- Services: packaging, assembly (mechanical/electronic), kitting, fulfillment, logistics, warehousing, used equipment -> /
-- Goal: adapt flexible workforce, processes & services to best serve client needs -> /
-- Label and barcode production to customer specifications -> /
-- Contact address: 1000 Garner Business Park Dr Suite 140, Garner, NC 27529 -> /
+- Company name: Precision Packaging Services, Inc. -> page '/' contact section
+- Headquarters: Garner, NC -> db hq_city, hq_state_label and page '/' contact
+- Facility in Raleigh, NC -> page '/' LOGISTICS section
+- Services: packaging, product fulfillment, assembly (mechanical and electronic), kitting, labeling, barcode labeling, logistics, warehousing, used equipment -> page '/' and products
+- Goal: adapt flexible workforce, processes & services to best serve clients needs -> page '/' PACKAGING SERVICES
+- Strategic partners for logistics -> page '/' LOGISTICS
+- Address: 1000 Garner Business Park Dr Suite 140 Garner, NC 27529 -> page '/' CONTACT US
+- Phone: 919-362-9884 -> page '/' CONTACT US
 </details>
 
 ---
@@ -49,18 +53,18 @@ The business serves customers needing contract packaging, electronic and mechani
 **Old description:** Proudly American-Made, Delivering Excellence in Injection Molding for Over 40 Years.
 
 ## About
-Precision Plastic Products operates from Portland, Connecticut, where it has delivered injection molding services for over 40 years. The company specializes in precision plastic injection molds and molded parts for critical industries.
+Precision Plastic Products Inc operates from Portland, Connecticut. The company has provided injection molding services for over 40 years, though a specific founding year is not publicly disclosed. Ownership structure and founder names have not been shared in available sources.
 
-The 30,000-square-foot facility houses a fully equipped toolroom with CNC machining, 3D design, and EDM capabilities, enabling in-house mold design, fabrication, and maintenance. The company focuses on molding tough engineered materials such as PEEK and AMODEL, providing custom plastic injection molding from prototype through production.
+The company specializes in custom plastic injection molding and runs a 30,000-square-foot facility that houses a full in-house toolroom. Capabilities include mold design, fabrication, and maintenance, supported by CNC machining, 3D design, and EDM equipment. This integrated setup allows Precision Plastic Products to manage the entire production process internally, from tooling to finished parts.
 
 Its customer base spans medical, military, aerospace, lighting, satellite hardware, and DNA sequencing equipment sectors. Examples include high-precision components for life-saving medical devices, durable parts for defense applications, lightweight solutions for aviation and space, custom components for high-performance lighting systems, precision parts for advanced communication satellites, and complex molds for DNA sequencing research tools.
 
-Precision Plastic Products emphasizes its expertise in specialty molding of difficult materials, an in-house toolroom that controls the entire mold lifecycle, cutting-edge equipment for precision and efficiency, and rigorous quality standards that ensure each part meets or exceeds requirements.
+Precision Plastic Products emphasizes expertise in molding difficult engineered materials such as PEEK and AMODEL, a capability it cites as a key differentiator. The company also highlights its in-house toolroom, cutting-edge technology, and rigorous quality standards as factors that set it apart, aiming to exceed customer expectations in quality, performance, and innovation.
 
 ## Known for
 - Expertise in molding tough engineered materials like PEEK and AMODEL
-- In-house toolroom with full mold design, fabrication, and maintenance
-- Advanced equipment including CNC machining, 3D design, and EDM
+- Full in-house toolroom for mold design, fabrication, and maintenance
+- 30,000-square-foot facility with CNC machining, 3D design, and EDM capabilities
 - Rigorous quality standards ensuring parts meet or exceed requirements
 
 ## Capabilities
@@ -70,7 +74,7 @@ Precision Plastic Products emphasizes its expertise in specialty molding of diff
 - Mold maintenance
 - CNC machining
 - 3D design
-- EDM (electrical discharge machining)
+- EDM (Electrical Discharge Machining)
 - Specialty molding of engineered materials (PEEK, AMODEL)
 
 ## Industries
@@ -78,13 +82,13 @@ Precision Plastic Products emphasizes its expertise in specialty molding of diff
 - Military
 - Aerospace
 - Lighting
-- Satellite Hardware
-- DNA Sequencing Equipment
+- Satellite hardware
+- DNA sequencing equipment
 
 ## Equipment
-- CNC machining
-- 3D design
-- EDM
+- CNC machining centers
+- EDM machines
+- 3D design software
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -92,16 +96,15 @@ Precision Plastic Products emphasizes its expertise in specialty molding of diff
 
 <details><summary>Sources</summary>
 
-- Company name: Precision Plastic Products Inc -> db
 - Headquarters: Portland, Connecticut -> db
-- Website: https://www.pppinc.org/ -> db
-- Description: Proudly American-Made, Delivering Excellence in Injection Molding for Over 40 Years -> db
-- Facility size: 30,000-square-foot -> /
+- Over 40 years in injection molding -> db
+- 30,000-square-foot facility -> /
 - In-house toolroom with CNC machining, 3D design, EDM -> /
 - Materials: PEEK, AMODEL -> /
-- Industries served: Medical, Military, Aerospace, Lighting, Satellite Hardware, DNA Sequencing Equipment -> /
-- Capabilities: Custom plastic injection molding, mold design, fabrication, maintenance -> /
-- Differentiators: Expertise in specialty molding, in-house toolroom, cutting-edge technology, commitment to quality -> /
+- Industries served: medical, military, aerospace, lighting, satellite hardware, DNA sequencing equipment -> /
+- Capabilities: custom plastic injection molding, mold design, fabrication, maintenance -> /, db
+- Mission: provide precision-engineered plastic solutions -> /
+- Differentiators: expertise in specialty molding, in-house toolroom, cutting-edge technology, commitment to quality -> /
 </details>
 
 ---
@@ -111,35 +114,36 @@ Precision Plastic Products emphasizes its expertise in specialty molding of diff
 **Old description:** Precision Woodworking is a family company that was established by a husband and wife team in 2003.  David and Jill Einerson take
 
 ## About
-Precision Woodworking Inc. was founded in 2003 by husband-and-wife team David and Jill Einerson in Lindon, Utah. The family-owned business began in a small residential garage, taking on projects for friends and family before word-of-mouth referrals fueled steady growth.
+Precision Woodworking Inc. operates from Lindon, Utah, in the heart of Utah Valley. The company was founded in 2003 by David and Jill Einerson, a husband-and-wife team who started the business in a residential garage, building cabinets for friends and family. What began as a small family venture has since grown into a full-scale cabinet shop equipped with modern machinery and a team of dedicated craftsmen.
 
-Today the company operates a larger shop equipped with modern woodworking machinery and a crew of dedicated craftsmen. It specializes in custom cabinetry for kitchens, bathrooms, home offices, laundry rooms, and mudrooms, handling everything from design through final installation.
+The shop specializes in custom cabinetry for residential spaces, producing kitchen cabinets, bathroom vanities, office and entertainment centers, laundry room storage, and mudroom built-ins. Each piece is crafted in-house, from design through fabrication, using woodworking equipment that the company describes as top-of-the-line. The operation serves homeowners and contractors throughout the region, though specific production volumes and facility dimensions are not publicly disclosed.
 
-The firm serves residential customers throughout Utah Valley, delivering built-to-order cabinets for new construction and remodel projects. Typical jobs include full kitchen suites, bathroom vanities, office built-ins, and organizational systems for laundry and entryway spaces.
+Precision Woodworking's customer base consists primarily of families and residential builders in Utah Valley seeking tailored cabinetry for new construction and remodel projects. The company cites its attention to quality craftsmanship, innovative design, functional layouts, and responsive customer service as the factors that distinguish it from other cabinet shops in the area.
 
-The Einersons attribute their reputation to attention to quality craftsmanship, innovative design and functionality, and a commitment to customer service that they say distinguishes the shop from other cabinet makers in the region.
+The Einersons attribute the company's growth to word-of-mouth referrals driven by exceptional products and consistent service. The business remains family-owned, with the founders still active in daily operations, emphasizing a personal approach to each project.
 
 ## Known for
-- Quality craftsmanship
-- Innovative design and functionality
+- Family-owned since 2003
+- Custom cabinets built for family homes
+- Quality craftsmanship and innovative design
 - Superb customer service
-- Top-of-the-line equipment
-- Dedicated craftsmen
+- Word-of-mouth reputation in Utah Valley
 
 ## Capabilities
-- Custom cabinet manufacturing
+- Custom cabinetry
+- Kitchen cabinets
+- Bathroom vanities
+- Office/entertainment cabinets
+- Laundry room cabinets
+- Mudroom built-ins
 - Cabinet design
-- Kitchen cabinetry
-- Bathroom cabinetry
-- Office cabinetry
-- Laundry room cabinetry
-- Mudroom cabinetry
-- Woodworking
+- Woodworking fabrication
 
 ## Industries
-- Residential cabinetry
-- Kitchen and bath cabinetry
+- Residential construction
 - Home remodeling
+- Custom cabinetry
+- Architectural millwork
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -149,12 +153,12 @@ The Einersons attribute their reputation to attention to quality craftsmanship, 
 
 <details><summary>Sources</summary>
 
-- Founded in 2003 by David and Jill Einerson -> /
-- Family-owned business -> /
-- Started in a residential garage -> /
-- Now operates a larger shop with top-of-the-line equipment -> /
-- Produces custom cabinets for kitchens, bathrooms, offices, laundry rooms, mudrooms -> /
-- Serves residential customers in Utah Valley -> /
+- Founded 2003 by David and Jill Einerson -> /
+- Family-owned company -> /
+- Started in residential garage -> /
+- Now larger shop with top-of-the-line equipment and craftsmen -> /
+- Produces cabinets for kitchen, bathroom, office, laundry, mudroom -> /
+- Located in Lindon, Utah (Utah Valley) -> /
 - Differentiators: quality craftsmanship, innovative design, customer service -> /
 </details>
 
@@ -165,37 +169,42 @@ The Einersons attribute their reputation to attention to quality craftsmanship, 
 **Old description:** University of Wisconsin-Madison Badgers "Bucky" Mascot Premier 3D Welded
 
 ## About
-Metal Art operates from Eldridge, Iowa, where it produces custom metal artwork ranging from collegiate logos and military badges to fire pits and decorative signs. The company does not disclose its founding year or ownership structure, though it emphasizes domestic production with a "Made In America" label and partners with the veteran-support organization Metal4Valor.
+Metal Art operates from Eldridge, Iowa, where it produces custom metal artwork and signage. The company's founding year and ownership structure are not publicly disclosed.
 
-The shop fabricates three-dimensional welded metal pieces, including mascot sculptures, fire pits, badges, medallions, and monogrammed signs. Products on offer feature licenses from universities such as Wisconsin, Iowa State, and Nebraska, as well as branding for Anheuser-Busch, World of Outlaws, and Shelby Cobra. Custom orders typically ship in three to four weeks, and the company cites over 40 five-star reviews on Google and Facebook.
+The shop fabricates a range of metal products including three-dimensional welded mascots, logos, fire pits, badges, medallions, and monogrammed signs. Processes involve cutting, welding, and finishing of metal sheet and plate. Facility size, headcount, and annual volume are not published.
 
-Customers include individual buyers seeking personalized decor, law-enforcement and fire-service units ordering presentation badges, military squadrons purchasing unit coins, and corporate clients needing branded merchandise. The Fraternal Order of Police, city fire departments, and collegiate athletic programs appear among the referenced clients.
+Customers span law‑enforcement agencies (Iowa State Patrol), military units (squadron recognition pieces), collegiate athletics (Iowa Hawkeyes, Wisconsin Badgers, Nebraska Cornhuskers), corporate brands (Anheuser‑Busch, World of Outlaws, Shelby Cobra), fire departments (City of Charm Avon Park), and fraternal organizations (Chicago Fraternal Order of Police). The company also partners with Metal 4 Valor, a veteran‑support nonprofit.
 
-Metal Art highlights its American-made manufacturing, responsive customer service, and fast turnaround as distinguishing factors. The business also directs a portion of its activity toward veteran causes through its Metal4Valor affiliation.
+Metal Art emphasizes domestic production with a “Made In America” claim and cites a 3‑ to 4‑week lead time for custom orders. Testimonials highlight responsive communication and fast turnaround.
 
 ## Known for
-- "Made In America" manufacturing
+- Made In America domestic production
+- Partnership with Metal 4 Valor supporting veterans
+- Custom 3D welded metal art
 - 3-4 week lead time on custom orders
-- Veteran support through Metal4Valor partnership
 - 40+ five-star customer reviews
 
 ## Capabilities
-- 3D welding
 - Custom metal fabrication
-- Sign making
-- Fire pit fabrication
-- Badge production
-- Medallion production
+- 3D welding
+- Metal cutting
+- Metal finishing
+- Custom signage production
+- Logo fabrication
+- Fire pit manufacturing
+- Badge and medallion production
+- Monogram creation
 
 ## Industries
-- Collegiate sports merchandise
-- Law enforcement recognition
-- Fire service recognition
-- Military unit recognition
-- Corporate branding and promotional products
-- Automotive enthusiast market
-- Motorsports merchandise
-- Beverage branding
+- Law enforcement
+- Military
+- Collegiate athletics
+- Corporate branding
+- Fire service
+- Fraternal organizations
+- Automotive aftermarket
+- Motorsports
+- Beverage industry
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -203,16 +212,17 @@ Metal Art highlights its American-made manufacturing, responsive customer servic
 
 <details><summary>Sources</summary>
 
-- Location: Eldridge, Iowa -> db
-- Address: 1018 E Iowa St Eldridge, IA 52748 -> /
-- Products: custom metal art (signs, fire pits, badges, medallions, monograms) -> /
-- Lead time: 3-4 weeks for custom products -> /
-- Made In America claim -> /
-- Metal4Valor partnership -> /
-- 40+ 5-star Google/Facebook reviews -> /
-- Customer examples: Fraternal Order of Police, fire departments, military squadrons, collegiate athletic programs, corporate brands -> /
-- Contact email: info@qcpremier.com -> /
-- Phone: (563)345-9500 -> /
+- Location: Eldridge, Iowa -> db (hq_city, hq_state_label) and page '/' address
+- Products: custom metal art, signs, logos, fire pits, badges, medallions, monograms -> page '/'
+- Lead time: 3-4 weeks for custom products -> page '/'
+- Partnership with Metal 4 Valor -> page '/'
+- Made In America claim -> page '/'
+- Customer examples: law enforcement, military, collegiate sports, corporate brands, fire departments, fraternal organizations -> page '/'
+- Contact info: address, phone, email -> page '/'
+- Social media icons: Facebook, Instagram, YouTube, TikTok -> page '/'
+- 40+ 5-star reviews -> page '/'
+- Testimonials from Robert Patmore, Scott Wilcox, Elaina Mason -> page '/'
+- Company type: manufacturer inferred from custom production and lead time -> page '/'
 </details>
 
 ---
@@ -222,69 +232,72 @@ Metal Art highlights its American-made manufacturing, responsive customer servic
 **Old description:** Designed for Business - Engineered for Flexibility - Focused on Customer Satisfaction
 
 ## About
-Plastics operates from Omaha, Nebraska, where President Ted Sondgeroth leads the company. The business focuses on business-to-business injection molding services, offering flexible, adaptable, and scalable solutions for customers ranging from those with no molding experience to large companies with their own in-house molding operations.
+Plastics operates from Omaha, Nebraska, where it was founded in 1983 by the owners of Herman’s Engraving, a local tool and die shop that built injection molds for agriculture, housing, and automotive markets. The company was acquired in 2018 by Ted Sondgeroth, who serves as president and has since invested in personnel and capital to expand its national reach.
 
-The company’s core competency is injection molding, part design, and tooling, supported by an in-house engineering team. Services span custom molding, insert molding, tight-tolerance and difficult-to-mold parts, product development, prototyping, and secondary operations including assembly and packaging. The plant runs 24/7, and the firm also provides warehousing, vendor-managed inventory, just-in-time support, order fulfillment, and drop shipping.
+The shop specializes in custom injection molding, offering insert molding, tight-tolerance work, short runs, and difficult-to-mold parts. Its in-house engineering team supports product development from prototyping and design through tooling and material selection, with a focus on engineered resins for metal-to-plastic conversions. Secondary operations include assembly, packaging, warehousing, vendor-managed inventory, and just-in-time delivery.
 
-Plastics serves a broad range of industries, including automotive, agricultural, aviation, construction and home improvement, energy, medical, transportation, utilities, sports and recreation, toys and learning products, and health care. Customers are typically OEMs and other businesses seeking custom molded components.
+serves a broad range of B2B customers across automotive, agricultural, aviation, construction, energy, medical, transportation, utilities, sports and recreation, toys and learning products, and health care. It works with companies that have no molding experience as well as large firms seeking flexible capacity or overflow production.
 
-The company emphasizes direct access to decision-makers: President Ted Sondgeroth personally evaluates customer needs, aiming to eliminate lengthy quote cycles and bureaucratic handoffs. This approach, combined with in-house engineering and 24/7 production, is presented as the primary differentiator.
+The company says it differentiates itself by taking on “tough” jobs that other molders avoid, emphasizing direct access to decision-makers—Sondgeroth personally evaluates each inquiry—and maintaining ISO 9001:2015 certification to ensure consistent quality.
 
 ## Known for
-- Direct access to President Ted Sondgeroth for quotes and evaluations
-- 24/7 plant operation
-- In-house engineering team for design, tooling, and prototyping
-- Flexible, scalable molding services from short runs to high volume
-- Value-added services: assembly, warehousing, VMI, JIT, drop shipping
+- Direct access to President Ted Sondgeroth for project evaluation
+- ISO 9001:2015 certified quality management system
+- Flexible capacity for short runs, insert molding, and difficult-to-mold parts
+- Warehousing, VMI, and JIT support with drop-ship fulfillment
+- Engineered resin expertise for metal-to-plastic conversions
 
 ## Capabilities
-- Injection molding
-- Insert molding
-- Tight tolerance molding
-- Difficult part molding
-- Product development
+- Injection Molding
+- Insert Molding
 - Prototyping
-- Part design
+- Product Design
 - Tooling
-- Secondary operations
+- Secondary Operations
 - Assembly
-- Packaging
-- Engineered resin selection
-- Metal-to-plastic conversion
 - Warehousing
-- Vendor managed inventory (VMI)
-- Just-in-time (JIT) support
-- Order fulfillment
-- Drop shipping
+- Vendor Managed Inventory (VMI)
+- Just-in-Time (JIT) Support
+- Order Fulfillment
+- Drop Shipping
+- Engineered Resin Selection
+- Metal-to-Plastic Conversion
+- Part Design
+- Sourcing
 
 ## Industries
 - Automotive
 - Agricultural
 - Aviation
-- Construction & home improvement
+- Construction & Home Improvement
 - Energy
 - Medical
 - Transportation
 - Utilities
-- Sports & recreation
-- Toys and learning products
-- Health care
+- Sports & Recreation
+- Toys & Learning Products
+- Health Care
+
+## Certifications
+- ISO 9001:2015
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1983
+- **Ownership:** Privately held
 - **Headquarters:** Omaha, Nebraska
 
 <details><summary>Sources</summary>
 
-- Headquarters: Omaha, Nebraska -> /
-- President: Ted Sondgeroth -> /
-- Core competency: injection molding, part design, tooling -> /
-- Services: injection molding, insert molding, tight tolerance, difficult parts, product development, prototyping, secondary operations, assembly, packaging, engineered resin selection, metal-to-plastic conversion, warehousing, VMI, JIT, order fulfillment, drop shipping -> /
-- Industries served: automotive, agricultural, aviation, construction & home improvement, energy, medical, transportation, utilities, sports & recreation, toys and learning products, health care -> /
-- Plant runs 24/7 -> /
-- Direct access to president for quotes -> /
-- Company type: contract manufacturer / job shop -> db
-- Makes products: yes -> db
+- Founded in 1983 by owners of Herman's Engraving -> /about
+- Acquired by Ted Sondgeroth in 2018 -> /about
+- ISO 9001:2015 certified -> /about
+- Headquartered in Omaha, Nebraska -> /
+- Industries served: automotive, agricultural, aviation, construction, energy, medical, transportation, utilities, sports & recreation, toys, health care -> /
+- Processes: injection molding, insert molding, prototyping, product design, tooling, secondary operations, assembly, warehousing, VMI, JIT, order fulfillment, drop shipping, engineered resins -> /
+- President Ted Sondgeroth personally evaluates customer needs -> /
+- Specializes in tough jobs, short runs, tight tolerance, difficult parts -> /
+- Built on service, responsiveness, molding tough jobs -> /about
 </details>
 
 ---
@@ -294,54 +307,58 @@ The company emphasizes direct access to decision-makers: President Ted Sondgerot
 **Old description:** We think outside of the box to get your product into the perfect packaging.
 
 ## About
-Founded three decades ago in Christiansburg, Virginia, by Craig Chrisman and his wife, Prestar Packaging was named for their three children—Taylor, Preston, and Parker—and remains a family-owned small business. The company operates from its original Virginia location, producing all packaging on-site in the United States.
+Prestar Packaging operates from Christiansburg, Virginia, where Craig Chrisman and his wife founded the company three decades ago, naming it after their children Taylor, Preston, and Parker. The business remains family-owned and emphasizes domestic production, with all packaging manufactured on-site in the United States.
 
-Prestar specializes in custom rigid set-up boxes, the sturdy, non-folding boxes used for board games, chocolates, and premium retail products. Its capabilities span design consultation, artwork preparation, and a range of finishes including specialty papers, printing, and foil stamping. A dedicated division, Creative Carding, holds patents for innovative gift card packaging. The facility handles both short runs and high-volume orders with no minimum or maximum quantity requirements.
+The company specializes in rigid set-up boxes for retail packaging, offering design, printing, foil stamping, and a range of paper and finish options. Its broad-range facility handles both small-quantity and large-run projects without order minimums or maximums. A dedicated division, Creative Carding, holds patents for gift card packaging solutions.
 
-The company serves more than 500 clients across diverse sectors. Notable customers include cosmetics and fragrance brands such as Estée Lauder, as well as local confectioners and spas. Prestar works with both national brands and small businesses, tailoring packaging to each product’s branding and functional needs.
+Prestar serves over 500 clients across diverse industries, including cosmetics and perfume brands such as Estée Lauder, confectionery makers, spas, and the gift-card market. The team collaborates on artwork and structural design to match each product’s branding and functional requirements.
 
-Prestar differentiates itself through its family-owned structure, domestic manufacturing, and a track record of patented, award-winning designs. Its Creative Carding gift card boxes earned the Virginia Manufacturing Cup and were named the “Coolest Thing Made in Virginia.” The team emphasizes collaborative problem‑solving, transparent quoting, and responsive service throughout the project lifecycle.
+The company highlights its family-owned structure, U.S.-based manufacturing, and award-winning track record—including the Virginia Manufacturing Cup for its Creative Carding line—as key differentiators. It also stresses responsive communication, transparent quoting, and a willingness to tackle complex design challenges.
 
 ## Known for
+- Family-owned small business with all production on-site in the USA
 - No order minimums or maximums
-- All manufacturing performed on-site in Christiansburg, Virginia
-- Patented gift card packaging designs through Creative Carding division
-- Winner of Virginia Manufacturing Cup / Coolest Thing Made in Virginia
-- Family-owned and operated since founding
+- Award-winning design (Virginia Manufacturing Cup, Coolest Thing Made in Virginia)
+- Patented gift card packaging through Creative Carding division
+- Responsive, collaborative team offering artwork and finish recommendations
 
 ## Capabilities
 - Rigid set-up box manufacturing
 - Custom packaging design
-- Artwork and design support
-- Finish selection (papers, prints, foil stamping)
-- Small-run and large-run production
+- Printing
+- Foil stamping
+- Finishing (papers, coatings, specialty finishes)
 - Gift card packaging design and manufacturing
-- Patented packaging solutions
+- Artwork assistance
+- Prototyping
+- Small and large run production
 
 ## Industries
 - Cosmetics
-- Fragrance/Perfume
-- Confectionery/Candy
-- Spas/Personal care
+- Perfume
+- Confectionery
+- Spas
+- Gift card
 - Retail packaging
-- Gift card packaging
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Family-owned, Small business
+- **Ownership:** Family-owned small business
 - **Headquarters:** Christiansburg, Virginia
 
 <details><summary>Sources</summary>
 
-- Founded three decades ago by Craig Chrisman and his wife in Christiansburg, Virginia -> /about-us
-- Family-owned small business -> /about-us, /
-- Manufactures rigid set-up boxes on-site in USA -> /
+- Location: Christiansburg, Virginia -> /about-us
+- Founders: Craig Chrisman and wife -> /about-us
+- Family-owned -> /about-us and /
 - No order minimums or maximums -> /
-- Serves over 500 clients including Estée Lauder, perfume, candy, spas -> /about-us
-- Patented gift card packaging via Creative Carding division -> /about-us
-- Winner of Virginia Manufacturing Cup / Coolest Thing Made in Virginia -> /
-- Offers custom design, artwork, finishes, foil-stamping -> /
-- Broad-range facility capable of small and large runs -> /about-us, /
+- Award-winning (Virginia Manufacturing Cup) -> /
+- Patented gift card packaging -> /about-us
+- Clients: Estée Lauder, candy companies, spas -> /about-us
+- Processes: rigid set-up boxes, printing, foil stamping -> /
+- Creative Carding division -> /
+- Made in USA -> /
+- Broad-range facility -> /about-us
 </details>
 
 ---
@@ -351,46 +368,50 @@ Prestar differentiates itself through its family-owned structure, domestic manuf
 **Old description:** Presto Packaging & Foam specializes in custom wood crates, custom pallets, panel processing (OSB, plywood, greyboard), routering capabilities & foam.
 
 ## About
-Presto Packaging & Foam operates from Owatonna, Minnesota, where it runs a family-owned packaging and manufacturing business. The company's founding year and original founders are not disclosed, but it identifies as a local, family-owned operation serving the region from its facility at 670 24th Avenue Northwest. The business markets itself with the tagline "Changing your packaging worries into packing solutions."
+Presto Packaging & Foam Inc operates from Owatonna, Minnesota, as a family-owned business. The company's founding year is not publicly disclosed, and the names of its founders are not stated in available sources.
 
-The shop produces custom wood crates and pallets, processes panel materials such as oriented strand board, plywood, and greyboard, and provides routering and foam fabrication services. It also offers packaging design support and vendor-managed inventory programs. The company notes that it works well with complex designs where specifications matter. Receiving hours are 7:00 AM to 3:00 PM, Monday through Friday, and appointments can be scheduled by phone. No facility size, headcount, or production volumes are published.
+The company manufactures custom wood crates and pallets, processes panel materials such as oriented strand board (OSB), plywood, and greyboard, and provides routering and foam fabrication services. It also offers packaging design and manufacturing services, though facility size, headcount, and production volumes are not specified.
 
-The company does not list specific industries or named customers; it describes its clientele broadly as partners who value design specifications, on-time delivery, and quality products at competitive prices. Presto emphasizes affordable pricing, quick turnaround, and a partnership approach, positioning its family-owned structure and customer-service focus as its primary differentiators.
+Presto serves customers requiring custom packaging solutions across various sectors, but specific industries or client examples are not identified in the company's public materials.
+
+The business emphasizes affordable pricing, quick turnaround times, and a partnership-oriented approach, highlighting customer service, on-time delivery, and competitive pricing as core differentiators.
 
 ## Known for
 - Affordable pricing
 - Quick turnaround time
-- Local and family-owned business
-- Customer service and on-time delivery focus
-- Vendor-managed inventory available
+- Local family-owned business
+- Customer service and on-time delivery
+- Partnership-oriented approach
 
 ## Capabilities
-- Custom wood crate manufacturing
-- Custom pallet manufacturing
+- Custom wood crates
+- Custom pallets
 - Panel processing (OSB, plywood, greyboard)
 - Routering
 - Foam fabrication
-- Packaging design service
-- Vendor managed inventory
+- Packaging design
+- Packaging manufacturing
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Ownership:** Family-owned
 - **Headquarters:** Owatonna, Minnesota
 
 <details><summary>Sources</summary>
 
-- Location: Owatonna, MN -> db
-- Address: 670 24th Ave. NW, Owatonna, MN 55060 -> /
+- Headquarters in Owatonna, Minnesota -> db
 - Family-owned business -> /
-- Services: custom wood crates, custom pallets, panel processing (OSB, plywood, greyboard), routering, foam -> /
-- Packaging design service -> /
-- Vendor managed inventory -> /
-- Tagline: Changing your packaging worries into packing solutions -> /
-- Receiving hours: 7:00 AM - 3:00 PM Mon-Fri -> /
-- Phone for appointments -> /
-- Emphasis on affordable pricing, quick turnaround, customer service, on-time delivery, partnership -> /
-- LinkedIn URL -> db
+- Family-owned business -> /about
+- Specializes in custom wood crates, custom pallets, panel processing (OSB, plywood, greyboard), routering capabilities & foam -> /
+- Offers packaging design service -> db
+- Offers packaging and manufacturing services -> db
+- Emphasizes affordable pricing, quick turnaround time, local family-owned business -> /
+- Emphasizes affordable pricing, quick turnaround time, local family-owned business -> /about
+- Highlights customer service, on-time delivery, quality products at competitive price -> /
+- Partnership-oriented approach -> /
+- Receiving hours Monday-Friday 7:00AM-3:00PM -> /
+- Receiving hours Monday-Friday 7:00AM-3:00PM -> /about
+- LinkedIn profile -> db
 </details>
 
 ---
@@ -400,60 +421,65 @@ The company does not list specific industries or named customers; it describes i
 **Old description:** Hahn Automotive has 9 full-service warehouse and 28 pick-up warehouses that distribute auto parts to our retail locations throughout the Midwest, New England and the Eastern Seaboard. Our warehouses:
 
 ## About
-Hahn Automotive, headquartered in Stratford, Connecticut, has operated as an automotive aftermarket supplier for over six decades. The company, known as Hahn Automotive Warehouse, Inc., began as a regional parts distributor and expanded across the Midwest, New England, and the Eastern Seaboard.
+Headquartered in Stratford, Connecticut, Hahn Automotive has operated as an automotive aftermarket distributor for more than six decades. The company traces its roots to a wholesale parts business that grew into a multi-state network serving the Midwest, New England, and the Eastern Seaboard.
 
-The company manages a network of 30 to 40 full-service and pick-up warehouses, along with more than 100 retail auto parts stores operating under brands such as United Consolidated Industries (UCI), Carparts, Prime Automotive Parts, and RAAC Warehouse. Its facilities stock millions of components—hard parts, accessories, supplies, chemicals, and tools—from over 200 national brands, and the organization provides exporting capabilities for import-export needs.
+Hahn Automotive runs a network of 30 to 40 warehouses — including nine full-service facilities and two dozen pick-up locations — along with more than 100 retail stores operating under brands such as United Consolidated Industries (UCI), Carparts, Prime Automotive Parts, and RAAC Warehouse. The combined inventory spans millions of parts from over 200 national brands, covering hard parts, accessories, supplies, chemicals, and tools for foreign and domestic vehicles.
 
-Hahn Automotive serves independent auto part stores, retail chains, and direct consumers throughout its geographic footprint. Its warehouse locations span states including New York, Maryland, Virginia, North Carolina, Ohio, Indiana, New Hampshire, Connecticut, New Jersey, and Rhode Island, enabling same-market delivery to professional installers and do-it-yourself customers alike.
+The company supplies independent auto parts stores, regional chains, and direct consumers across the Midwest, Northeast, and Eastern U.S. Its customer base includes over 500 part stores, with warehouse locations in states such as New York, New Jersey, Connecticut, Maryland, Virginia, North Carolina, Ohio, Indiana, New Hampshire, and Rhode Island.
 
-The company's stated mission is to be the automotive aftermarket supplier of choice by delivering exemplary service and value through a well-trained, empowered staff. It emphasizes innovation, teamwork, and rapid adaptation to changing market conditions as the cornerstones of its long-term customer relationships.
+Hahn Automotive states its mission is to be the automotive aftermarket supplier of choice by providing exemplary service and value through a well-trained, empowered staff. The company emphasizes innovation, teamwork, and rapid adaptation to changing market conditions as the cornerstones of its long-term relationships with customers.
 
 ## Known for
-- Over 60 years as an automotive aftermarket supplier
-- 30–40 warehouse locations across the Midwest, New England, and Eastern Seaboard
-- More than 100 retail auto parts stores under UCI, Carparts, Prime, and RAAC brands
-- Inventory of 200+ national brands covering hard parts, accessories, chemicals, and tools
-- Exporting capabilities for import-export requirements
+- Over 40 warehouses and more than 100 auto parts stores
+- Millions of parts from over 200 top-quality industry brands
+- Exporting capabilities for import-export needs
+- Direct supply to part stores and consumers
+- More than 60 years of experience
 
 ## Capabilities
-- Auto parts distribution
-- Warehouse management
-- Export services
-- Retail supply chain
+- Warehousing and distribution
+- Export/import services
+- Direct-to-store delivery
+- Direct-to-consumer sales
+- Retail store operations
 - Inventory management
 - Hard parts distribution
 - Accessories distribution
+- Supplies distribution
 - Chemicals distribution
 - Tools distribution
-- Multi-brand inventory management
-- Retail store operations
-- Same-market delivery
 
 ## Industries
 - Automotive aftermarket
 - Auto parts wholesale
 - Auto parts retail
-- Automotive distribution
+- Hard parts
+- Accessories
+- Supplies
+- Chemicals
+- Tools
 
 ## Company details
 - **Company Type:** Distributor / reseller
-- **Founded:** Over 60 years ago
 - **Headquarters:** Stratford, Connecticut
 
 <details><summary>Sources</summary>
 
-- Headquarters in Stratford, Connecticut -> db
-- Over 60 years in business -> /about-us
-- 9 full-service warehouses and 28 pick-up warehouses -> /
-- 30+ warehouse locations (homepage) / 40 warehouses (about page) -> /, /about-us
-- 100+ auto parts stores -> /about-us
+- Headquartered in Stratford, Connecticut -> db
+- Operated for more than six decades -> /about-us
+- Network of 30 to 40 warehouses (9 full-service + 28 pick-up) -> /
+- Over 40 warehouses -> /about-us
+- More than 100 retail stores -> /about-us
 - Brands: UCI, Carparts, Prime Automotive Parts, RAAC Warehouse -> /
-- Over 200 national brands -> /
-- Product categories: hard parts, accessories, supplies, chemicals, tools -> /, /about-us
-- Geographic coverage: Midwest, New England, Eastern Seaboard -> /
-- Warehouse locations listed across NY, MD, VA, NC, OH, IN, NH, CT, NJ, RI -> /
-- Mission statement: automotive aftermarket supplier of choice, exemplary service, innovation, teamwork -> /about-us
-- Exporting capabilities mentioned -> /
+- Millions of parts from over 200 national brands -> /
+- Supplies independent auto parts stores, regional chains, direct consumers -> /, /about-us
+- Over 500 part stores -> products array
+- Warehouse locations in multiple states -> /
+- Mission: automotive aftermarket supplier of choice -> /about-us
+- Exemplary service and value, well-trained staff -> /about-us
+- Innovation, teamwork, rapid adaptation -> /about-us
+- Exporting capabilities -> capabilities array
+- Direct supply to part stores and consumers -> capabilities array
 </details>
 
 ---
@@ -463,26 +489,28 @@ The company's stated mission is to be the automotive aftermarket supplier of cho
 **Old description:** Prime Source Foods is the Northeast’s premier independent food distributor providing proteins, produce, dairy, disposables, non-foods, grocery and more.
 
 ## About
-Prime Source Foods operates from its headquarters in Londonderry, New Hampshire, with additional distribution facilities in East Windsor, Connecticut, and a cross-dock in Vassalboro, Maine. The company has been independently owned for more than 60 years, establishing itself as a center-of-the-plate food distributor across New England and eastern New York.
+Prime Source Foods operates from its headquarters in Londonderry, New Hampshire, with additional distribution facilities in East Windsor, Connecticut, and a cross-dock in Vassalboro, Maine. The independently owned company has more than 60 years of history as a foodservice distributor serving New England and eastern New York. No founding year or founder names are disclosed in public materials.
 
-The business provides a full line of proteins, produce, dairy, disposables, non-foods, and grocery items to over 3,000 customers. It also runs a dedicated Prime Cutting Room that custom cuts, packages, and weighs meats to exact specifications. An e-commerce app and online ordering portal allow customers to browse thousands of products and place orders from any device.
+The company supplies a full line of center-of-the-plate products including proteins, produce, dairy, disposables, non-foods, and grocery items. Its Prime Cutting Room provides custom cutting, packaging, and weighing of meats to customer specifications. Prime Source Foods serves over 3,000 customers through a network of sales representatives living throughout the service area, and offers an e-commerce app for mobile and desktop ordering.
 
-Its customer base spans the foodservice sector, including restaurants, institutional kitchens, and other operators throughout the six New England states and eastern New York. Sales representatives live and work within the service area to maintain close contact with accounts.
+Customers are primarily foodservice operators across New England and eastern New York, including restaurants, institutional kitchens, and hospitality venues. The distributor emphasizes all-natural and local product options alongside national brands.
 
-The company emphasizes consistency in service, quality, and loyalty, guided by a mission to deliver cost-competitive center-of-the-plate products with flexible distribution. Its stated values highlight trust, fairness, respect, honesty, and teamwork as the foundation of its relationships.
+Prime Source Foods states its mission is to meet customer needs with cost-competitive products and flexible, efficient distribution. Its vision targets becoming New England's most valued provider of center-of-the-plate products through superior sourcing, product knowledge, and service options. Core values cited are trust, fairness, respect, honesty, and teamwork.
 
 ## Known for
-- Largest independently-owned center-of-the-plate food distributor in New England and eastern New York
-- Prime Cutting Room offering custom cut, packaged, and weighed meats to exact specifications
-- E-Commerce app for mobile and desktop ordering across thousands of SKUs
-- Distribution network with facilities in Londonderry (NH), East Windsor (CT), and a cross-dock in Vassalboro (ME)
-- Over 3,000 active customer accounts
+- Largest independent foodservice distributor in New England and eastern New York
+- Custom meat cutting, packaging, and weighing to exact specifications via Prime Cutting Room
+- Distribution facilities in Londonderry, NH; East Windsor, CT; and cross-dock in Vassalboro, ME
+- E-commerce app for mobile and desktop ordering
+- Over 3,000 customers served
 
 ## Capabilities
 - Foodservice distribution
 - Custom meat cutting and packaging
-- E-commerce ordering platform
-- Multi-state delivery (New England, eastern New York)
+- Center-of-the-plate product sourcing
+- E-commerce ordering
+- Multi-state distribution network
+- Sales representation
 
 ## Industries
 - Foodservice
@@ -497,13 +525,14 @@ The company emphasizes consistency in service, quality, and loyalty, guided by a
 - Headquarters in Londonderry, NH -> /about
 - Distribution facilities in East Windsor, CT and cross-dock in Vassalboro, ME -> /about
 - Over 60 years of history -> /about
-- Independently-owned -> /about
+- Independently owned -> /about
 - Over 3,000 customers -> /about
 - Prime Cutting Room for custom cut, packaged, weighed meats -> /
-- E-Commerce app for ordering -> /
+- Full line of proteins, produce, dairy, disposables, non-foods, grocery -> /
 - Service area: all New England and eastern New York -> /about
-- Mission, vision, values -> /about
-- Product categories: proteins, produce, dairy, disposables, non-foods, grocery -> /
+- Sales representatives throughout service area -> /about
+- E-commerce app for ordering -> /
+- Mission, vision, values statements -> /about
 </details>
 
 ---
@@ -513,18 +542,19 @@ The company emphasizes consistency in service, quality, and loyalty, guided by a
 **Old description:** et’s talk today about what kind of metalwork is needed for your project.
 
 ## About
-Primitive Precision Metalcraft operates from Minneapolis, Minnesota, where founder Hans Early-Nelson established the shop in 2007. Early-Nelson’s path to metalworking began with a boat-building upbringing, a blacksmithing and furniture-making apprenticeship in Germany, and a welding and machining diploma from Dunwoody Institute of Technology. After working at a stainless-steel fabrication firm, he launched the company to blend old-world craftsmanship with contemporary design. Liz Parent, who holds an art and design degree from the University of Minnesota and spent a decade as a jewelry maker, joined as chief operating officer in 2020, turning a creative partnership into a full-time operation.
+Primitive Precision Metalcraft operates from Minneapolis, Minnesota. The company was founded in 2007 by Hans Early-Nelson, whose path to metalwork began with a boat-building upbringing, a blacksmithing and furniture-making apprenticeship in Germany, a welding and machining diploma from Dunwoody Institute of Technology, and an internship with a local jeweler. In 2020, Liz Parent, a University of Minnesota art and design graduate with a decade of handmade jewelry experience, joined as chief operating officer. The couple, who also raise two children, run the business as a family-owned shop.
 
-The shop specializes in architectural metal fabrication, producing landscape and garden structures, pergolas, countertops, shelving, hardware, functional housewares, feature stairs, handrails, wall coverings, edge details, and kick rails. Capabilities span welding, machining, blacksmithing, forging, and custom fabrication, executed by a small team of skilled fabricators. Facility size and annual volume are not disclosed.
+The shop focuses on architectural metal fabrication, producing landscape and garden structures, pergolas, countertops, shelving, hardware, functional housewares, feature stairs, handrails, wall coverings, edge details, and kick rails. A team of fabricators handles custom projects that range from residential handrails and vent hoods to larger structural installations. Facility size and headcount are not disclosed.
 
-The company serves architects, designers, contractors, and homeowners across residential, commercial, and landscape projects in the Twin Cities region. Past work includes custom-forged wedding rings, vent hoods, and handrails, reflecting a client base that ranges from individual homeowners to design professionals.
+Primitive Precision serves homeowners, designers, architects, and builders in the Twin Cities area. Past work includes custom-forged wedding rings, handrails, vent hoods, and architectural installations for both residential and commercial clients.
 
-Early-Nelson founded Primitive Precision to create custom metalwork that matches old-world quality with modern innovative design. The firm emphasizes detailed architectural metalwork and high-quality solutions delivered by a highly talented fabrication team.
+The company says it sets itself apart by matching old-world quality with modern innovative design, drawing on Hans’s mastery of joinery, blacksmithing, jewelry, and machining to create detailed, high-quality metalwork.
 
 ## Known for
-- Custom metalwork blending old-world quality with modern design
-- Detailed architectural metal fabrication
-- Highly skilled in-house fabrication team
+- Old-world craftsmanship combined with modern design
+- Custom architectural metalwork from residential to structural scale
+- Highly talented team of fabricators
+- Founder’s background in boat-building, blacksmithing, jewelry, and machining
 
 ## Capabilities
 - Architectural metal fabrication
@@ -532,31 +562,36 @@ Early-Nelson founded Primitive Precision to create custom metalwork that matches
 - Machining
 - Blacksmithing
 - Forging
-- Custom metal fabrication
+- Custom metal design
 - Structural fabrication
-- Decorative metalwork
 
 ## Industries
-- Architectural metal fabrication
-- Residential metalwork
-- Commercial metalwork
-- Landscape structures
+- Architecture
+- Construction
+- Residential
+- Commercial
+- Landscape design
+- Interior design
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2007
+- **Ownership:** Family-owned
 - **Headquarters:** Minneapolis, Minnesota
 
 <details><summary>Sources</summary>
 
 - Founded in 2007 by Hans Early-Nelson -> /about
-- Located at 4430 Lyndale Ave N, Minneapolis, MN 55412 -> /, /about
+- Located in Minneapolis, MN -> /
+- Hans Early-Nelson background: boat-building, blacksmithing apprenticeship in Germany, welding/machining diploma from Dunwoody, jeweler internship -> /about
+- Liz Parent joined in 2020, art and design degree, decade of handmade jewelry -> /about
+- Family-owned couple with two children -> /about
 - Architectural metal fabrication -> /
-- Projects include landscape structures, countertops, shelving, stairs, handrails, wall coverings -> /
-- Hans Early-Nelson background: boat-building, blacksmithing apprenticeship in Germany, welding diploma from Dunwoody Institute of Technology -> /about
-- Liz Parent joined in 2020 as COO, art and design degree from University of Minnesota -> /about
-- Company focuses on detailed architectural metalwork with talented team -> /about
-- Custom metalwork blending old-world quality with modern design -> /about
+- Projects: landscape/garden/pergola structures, countertops, shelving, hardware, functional housewares, feature stairs, handrails, wall coverings, edge details, kick rails -> /
+- Team of fabricators -> /about
+- Old-world quality with modern innovative design -> /about
+- Serves homeowners, designers, architects, builders in Twin Cities -> /about
+- Past work includes custom-forged wedding rings, handrails, vent hoods, architectural installations -> /about
 </details>
 
 ---

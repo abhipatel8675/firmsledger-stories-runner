@@ -518,29 +518,31 @@ Montana Steel Industries emphasizes knowledge, accuracy, personable service, and
 **Old description:** Motors & servomotors as part of a broader aerospace/defense actuation portfolio
 
 ## About
-Moog Inc. was founded in July 1951 in East Aurora, New York, by Bill Moog, Art Moog, and Lou Geyer. The trio pooled $3,000 to start Moog Valve in a dirt-floored airplane hangar. The company has since grown into a global motion control enterprise.
+Moog Inc. was founded in July 1951 by Bill Moog, Art Moog, and Lou Geyer, who pooled $3,000 to open Moog Valve in a dirt-floored airplane hangar in East Aurora, New York. The company has since grown from that modest beginning into a global enterprise headquartered in the East Aurora/Elma area of New York state.
 
-Today, Moog designs and manufactures advanced motion control products, including electric, hydraulic, and electro-hydrostatic actuation, control electronics, and system software. The company integrates precision motion control systems for applications requiring precise control of velocity, force, acceleration, and fluid flow. Its portfolio spans flight control systems, critical control products, and high-performance industrial motion solutions.
+Today, Moog designs and manufactures advanced motion control products for aerospace, defense, industrial, and medical applications. Its portfolio spans all forms of actuation technology—electric, hydraulic, and electro-hydrostatic—along with sophisticated control electronics and system software. The company operates as a integrator of precision motion control systems across four business segments: Military Aircraft, Commercial Aircraft, Space and Defense, and Industrial.
 
-Moog serves four primary business segments: Military Aircraft, Commercial Aircraft, Space and Defense, and Industrial. Its products are used in military and commercial aircraft, rotorcraft, business jets, space vehicles, defense systems, and industrial machinery. The company also supplies medical technology applications.
+Moog serves customers in military and commercial aviation, space and defense programs, and industrial machinery markets. Concrete examples include flight control systems for military aircraft and rotorcraft, critical control products for commercial jets and business jets, motion and flow control solutions for space and defense platforms, and high-performance motion control products for next-generation industrial machines.
 
-Founded on a vision to empower people and solve tough problems through trust and innovation, Moog emphasizes a collaborative approach to customers' most difficult motion control challenges. The company seeks long-term partnerships and maintains a global presence with local customer support.
+The company traces its differentiation to a founding culture of persistence and creativity, where the word "can't" was not accepted. Moog emphasizes a collaborative approach to solving difficult motion control problems, seeks long-term partnerships, and maintains a global footprint with local customer support. Its stated values—trust, communication, and shared success—underpin its engineering and business practices.
 
 ## Known for
-- World leader in flight control systems for military and commercial aircraft
-- Premier motion and flow control solutions for space and defense
-- High-performance motion control products for industrial applications
-- Collaborative approach to solving difficult motion control problems
+- Collaborative problem-solving for difficult motion control challenges
+- Electric, hydraulic, and electro-hydrostatic actuation solutions
+- Long-term partnership model with customers
 - Global organization with local customer support
+- Culture of trust, open communication, and shared success
 
 ## Capabilities
-- Motion control system design
-- Actuation manufacturing (electric, hydraulic, electro-hydrostatic)
-- Control electronics manufacturing
+- Motion control product design and manufacturing
+- Actuation technology development
+- Control electronics design
 - System software development
-- Precision motion control integration
-- Flight control system manufacturing
-- Critical control product manufacturing
+- Precision motion control system integration
+- Flight control systems
+- Critical control products
+- Motion and flow control solutions
+- Electric, hydraulic, and electro-hydrostatic actuation
 
 ## Industries
 - Aerospace
@@ -559,18 +561,12 @@ Founded on a vision to empower people and solve tough problems through trust and
 
 <details><summary>Sources</summary>
 
-- Founded in July 1951 by Bill Moog, Art Moog, and Lou Geyer -> /about-us
-- Started in a dirt-floored airplane hangar in East Aurora, New York -> /about-us
-- Headquartered in East Aurora, New York -> db
-- Designs and manufactures motion control products including actuation, control electronics, and system software -> /about-us
-- Offers electric, hydraulic, and electro-hydrostatic actuation solutions -> /about-us
-- Integrates precision motion control systems -> /about-us
-- Serves Military Aircraft, Commercial Aircraft, Space and Defense, and Industrial segments -> /about-us
-- Products used in military and commercial aircraft, rotorcraft, business jets, space vehicles, defense systems, industrial machinery, and medical technology -> / and /about-us
-- Founded with a vision to empower people and solve tough problems through trust and innovation -> /
-- Emphasizes collaborative approach and long-term partnerships -> /about-us
-- Global organization with local customer support -> /about-us
-- 75th anniversary marked in 2026 -> /
+- Founded in July 1951 by Bill Moog, Art Moog, and Lou Geyer with $3,000 in a dirt-floored airplane hangar in East Aurora, NY -> /about-us
+- Designs and manufactures advanced motion control products for aerospace, defense, industrial, and medical applications -> /about-us
+- Portfolio includes electric, hydraulic, and electro-hydrostatic actuation, control electronics, and system software -> /about-us
+- Business segments: Military Aircraft, Commercial Aircraft, Space and Defense, Industrial -> /about-us
+- Collaborative approach to solving difficult motion control problems; seeks long-term partnerships; global with local support -> /about-us
+- 75th anniversary marked in 2026; record Q3 2026 results; new Advanced Integrated Manufacturing Facility announced -> /
 </details>
 
 ---

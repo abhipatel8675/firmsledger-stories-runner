@@ -3,63 +3,67 @@
 **Old description:** Our service technicians are fully equipped with the tooling required for your on-site repairs.
 
 ## About
-Production Equipment Services, LLC is based in Hartford, Wisconsin. Justman’s hands-on experience and ability to adapt to new technologies grew the operation into a small, cohesive team that now handles a wide range of manufacturing equipment challenges.
+Production Equipment Services, LLC operates from Hartford, Wisconsin. Justman remains the owner, a small, cohesive team of skilled technicians.
 
-The firm provides on-site and in-house machine repair, preventative maintenance, and upgrade services for industrial production equipment. Its capabilities span mechanical work such as metal stamping, fabrication, bearing replacement, and press alignments, as well as electrical and controls expertise including PLC and HMI retrofits, VFD and servo drive commissioning, and network connectivity. Technicians also perform equipment assessments, light-curtain validation, stop-time monitoring, and machine guarding installations. The shop supports rapid-response breakdown calls and offers preventative programs that cover gib adjustments, oil changes, firmware backups, and maintenance staff development.
+The company provides on-site and in-house repair, upgrade, and maintenance services for industrial production equipment. Its capabilities span mechanical and electrical troubleshooting, machine tool alignment, press inspections, and preventative maintenance such as gib adjustments and lubrication system work. The shop also offers controls upgrades and retrofits, including PLC and HMI programming, VFD and servo drive commissioning, and network connectivity. In-house machining supports fabrication of guards and replacement parts, while machine guarding services cover risk assessments, light curtain installation, and control-reliable system design.
 
-Production Equipment Services serves industrial manufacturers across sectors that rely on heavy machinery. The company’s experience includes overhauling envelope folding machines for the packaging industry and performing precision alignments on nuclear turbines for power generation. Its customer base also encompasses metal stamping and fabrication operations that require machine tool support, alignment, and controls modernization.
+Customers come from general manufacturing, metal stamping, metal fabrication, and specialized sectors such as nuclear power. The company cites experience overhauling envelope folding machines and aligning nuclear turbines as examples of its range. It serves any industrial operation that relies on presses, machine tools, or automated production lines.
 
-The business emphasizes a vast vendor network that allows it to source parts and expertise efficiently, keeping projects economical. Justman highlights the team’s diverse, high-level education and skill set as a differentiator, enabling the company to tackle unusual repair scenarios from portable machining to complex control system design.
+Justman emphasizes a vast vendor network that enables efficient and economical project execution, along with rapid response times and flexible scheduling. The business model was built on decades of hands-on repair experience and long-standing customer and vendor relationships.
 
 ## Known for
-- On-site repair technicians fully equipped with tooling
-- Vast vendor base for efficient, economical solutions
-- Rapid response and flexible scheduling for breakdowns
-- Staff with diverse, high-level education and industrial skill
-- Experience ranging from envelope folding machines to nuclear turbine alignments
+- Vast vendor network for efficient, economical project execution
+- Rapid response and flexible scheduling
+- On-site repair with fully equipped technicians
+- In-house machining for guard fabrication and replacement parts
+- Decades of hands-on machine repair experience
 
 ## Capabilities
-- Machine repair
-- Metal stamping equipment repair
-- Metal fabrication equipment repair
-- Machine tool support and alignments
-- Breakdown service / rapid response
+- Machine repair (metal stamping, metal fabrication, machine tool support and alignments)
+- Breakdown service
 - In-house machining
 - On-site support
 - Controls upgrade/retrofit (PLC, HMI, sensors, safety)
 - VFD and servo drive installation and commissioning
 - Network connectivity and equipment monitoring
 - Equipment assessment and inspections
+- Stop time monitoring and calibration
+- Tonnage monitoring and calibration
+- Light curtain validation
+- Machine alignment
+- Mechanical clearance checks to OEM standards
+- Complete press inspections
 - Mechanical and electrical troubleshooting
 - Mechanical and electrical design
-- Preventative maintenance
-- Machine guarding
-- Mechanical upgrade/retrofit
+- Preventative maintenance (gib adjustments, oil and filter changes, validation of machine alignments, backup and update control firmware and software, development of maintenance staff and programs)
+- Machine guarding (fabricate and install fixed guarding, light curtain installation, design and installation of control reliable systems, alternative presence sensing devices, risk assessment, stop time evaluation)
+- Mechanical upgrade/retrofit (bearing evaluation and replacement, lubrication systems)
 
 ## Industries
-- Packaging machinery
-- Nuclear power generation
+- Manufacturing
 - Industrial manufacturing
+- Nuclear power
+- Metal stamping
+- Metal fabrication
 
 ## Company details
 - **Company Type:** Installer / service company
+- **Ownership:** Owner: Keith Justman
 - **Headquarters:** Hartford, Wisconsin
 
 <details><summary>Sources</summary>
 
+- Company name: Production Equipment Services, LLC -> db
 - Headquarters: Hartford, Wisconsin -> db
-- Founded in early 1990s by Keith Justman -> /about-us
-- Owner Keith Justman learned machine repair trade early 1990s -> /about-us
-- Small cohesive staff -> /about-us
-- Business model driven by vast vendor base -> /about-us
-- Services: machine repair, metal stamping, metal fabrication, machine tool support, breakdown service, in-house machining, on-site support, controls upgrade/retrofit, VFD/servo drive, network connectivity, equipment assessment, inspections, troubleshooting, design, preventative maintenance, machine guarding, mechanical upgrade/retrofit -> /services
-- On-site technicians fully equipped with tooling -> /
-- Professionally qualified staff with diverse high-level education and skill -> /
-- Experience with envelope folding machines and nuclear turbines -> /about-us
-- Industries served: packaging machinery, nuclear power, industrial manufacturing -> /about-us
+- Owner: Keith Justman -> /about-us
+- Founded: early 1990s (Keith Justman learned trade) -> /about-us
+- Services: machine repair, controls upgrade, equipment assessment, troubleshooting, design, preventative maintenance, machine guarding, mechanical upgrade -> /services
+- In-house machining capability -> /services
+- On-site support with fully equipped technicians -> /
+- Industries served: manufacturing, metal stamping, metal fabrication, nuclear -> /about-us, /services
+- Business model: vast vendor base for efficient/economical execution -> /about-us
 - Rapid response and flexible schedules -> /services
-- Preventative maintenance includes gib adjustments, oil changes, firmware backup -> /services
-- Machine guarding includes fixed guarding, light curtains, risk assessment -> /services
+- Staff: small, cohesive, skilled team -> /about-us
 </details>
 
 ---
@@ -69,51 +73,47 @@ The business emphasizes a vast vendor network that allows it to source parts and
 **Old description:** Professional Metal Fabricators specializes in industrial sheet metal
 
 ## About
-Professional Metal Fabricators (PMF) operates from Jefferson City, Missouri, serving industrial clients across Mid-Missouri and surrounding states. The company emphasizes over 15 years of certified welding expertise in SMAW, GMAW, GTAW, and FCAW processes, backed by more than 120 years of combined experience in fabrication, layout, and equipment installation among its team.
+Professional Metal Fabricators (PMF) operates from Jefferson City, Missouri, serving industrial clients across the Midwest. The company does not disclose its founding year or ownership structure, but emphasizes a workforce with over 15 years of certified welding expertise and more than 120 years of combined experience in fabrication, layout, and equipment installation.
 
-PMF specializes in industrial sheet metal fabrication, working with materials ranging from 20-gauge to 1-3/4-inch thick black iron, stainless steel, and aluminum. Its services span design, construction, and construction management for industrial facilities, including welding, layout, and equipment installation. The shop maintains certified welding inspectors and is licensed and insured.
+PMF specializes in industrial sheet metal fabrication, working with materials ranging from 20-gauge to 1-3/4-inch thick black iron, stainless steel, and aluminum. Its certified welders are qualified in SMAW, GMAW, GTAW, and FCAW processes, supported by certified welding inspectors. The shop provides design, construction, and construction management services, including fabrication of kitchen hoods, ductwork, air handlers, dust collection systems, platforms, handrails, spouting, chutes, transitions, bin clusters, mixers, ovens, bucket elevators, paddle drag systems, grease duct, insulated panels, airlock systems, and chainvey systems. The company also performs equipment setting, demolition, and installation.
 
-The company serves a range of industries including sanitary facilities, feed mill facilities, quarries and mines, bulk material handling facilities, production facilities, and local farms. Project examples cited include kitchen hoods, ductwork, air handlers, dust collection systems, platforms, handrails, spouting, chutes, bin clusters, mixers, ovens, bucket elevators, paddle drag systems, grease ducts, insulated panels, airlock systems, and chainvey systems.
+The company serves a range of industrial sectors, including sanitary facilities, feed mill facilities, quarries and mines, bulk material handling facilities, production facilities, and local farms. Projects extend throughout Missouri and surrounding states.
 
-PMF’s operating philosophy is captured in its statement: “If you take care of your customers and employees, and do top quality work in a timely manner then the rest will fall into place.” The firm highlights its certified welding inspectors, licensed and insured status, and broad material capabilities as differentiators.
+PMF cites a guiding principle: "If you take care of your customers and employees, and do top quality work in a timely manner then the rest will fall into place." The firm highlights its certified welding inspectors, licensing, and insurance as markers of reliability.
 
 ## Known for
-- Certified welding inspectors on staff
+- Certified welders qualified in SMAW, GMAW, GTAW, and FCAW
+- Certified Welding Inspectors on staff
+- Over 120 years of combined experience in fabrication, layout, and equipment installation
 - Licensed and insured
-- Expertise in SMAW, GMAW, GTAW, and FCAW welding processes
-- Works with materials from 20 gauge to 1-3/4 inch thick (black iron, stainless steel, aluminum)
-- Provides design, construction, and construction management for industrial facilities
+- Serves Missouri and surrounding states
 
 ## Capabilities
-- Sheet metal fabrication
+- Industrial sheet metal fabrication
 - Welding (SMAW, GMAW, GTAW, FCAW)
-- Layout and fabrication
+- Fabricating and layout
 - Equipment installation
-- Design
-- Construction
-- Construction management
-- Kitchen hood fabrication
+- Design and construction management
+- Dust collection system fabrication
 - Ductwork fabrication
-- Air handler fabrication
-- Dust collection systems
 - Platform and handrail fabrication
 - Spouting and chute fabrication
-- Transition fabrication
 - Bin cluster fabrication
-- Mixer fabrication
-- Oven fabrication
+- Mixer and oven fabrication
 - Bucket elevator fabrication
 - Paddle drag system fabrication
 - Grease duct fabrication
-- Equipment setting
-- Demolition
 - Insulated panel installation
 - Airlock system fabrication
+- Chainvey system fabrication
+- Demolition
+- Equipment setting
 
 ## Industries
 - Sanitary facilities
 - Feed mill facilities
-- Quarries and mines
+- Quarries
+- Mines
 - Bulk material handling facilities
 - Production facilities
 - Local farms
@@ -125,119 +125,201 @@ PMF’s operating philosophy is captured in its statement: “If you take care o
 
 <details><summary>Sources</summary>
 
-- Headquarters in Jefferson City, Missouri -> /
-- Over 15 years of certified welders in SMAW, GMAW, GTAW, FCAW -> /
-- 120+ years combined experience in fabricating, layout, and equipment installation -> /
-- Specializes in industrial sheet metal, works with 20ga to 1-3/4" black iron, stainless, aluminum -> /
+- Location: Jefferson City, MO -> db
+- Specializes in industrial sheet metal -> /
+- Works with 20ga-1-3/4" Black iron, Stainless, Aluminum -> /
+- Certified welders in SMAW, GMAW, GTAW, FCAW -> /
+- 120+ years combined experience in fabricating, layout, equipment installation -> /
 - Certified Welding Inspectors, Licensed and Insured -> /
-- Serves sanitary facilities, feed mill facilities, quarries and mines, bulk material handling facilities, production facilities, local farms -> /
-- Engaged in design, construction, and construction management for industrial facilities throughout Missouri and surrounding states -> /services
-- Provides kitchen hoods, duct work, air handlers, dust collection, platforms, handrails, spouting, chutes, transitions, bin clusters, mixers, ovens, bucket elevators, paddle drag systems, grease duct, setting equipment, demolition, insulated panels, airlock systems, chainvey systems -> /services
-- Operating philosophy: 'If you take care of your customers and employees, and do top quality work in a timely manner then the rest will fall into place.' -> /
+- Industries served: sanitary facilities, feed mill facilities, quarries and mines, bulk material handling facilities, production facilities, local farms -> /
+- Design, construction, construction management for industrial facilities -> /services
+- Specific products: Kitchen Hoods, Duct Work, Air Handlers, Dust Collection, Platforms, Handrails, Spouting, Chutes, Transitions, Bin Clusters, Mixers, Ovens, Bucket Elevators, Paddle Drag Systems, Grease Duct, Setting Equipment, Demolition, Insulated Panels, Airlock Systems, Chainvey Systems -> /services
+- Quote about customer care -> /, /services
 </details>
 
 ---
 
 # Professional Processor Food Equipment
 
-_skipped: 'NoneType' object has no attribute 'group'_
-
-# Progressive Packaging Inc
-
-**Old description:** Providing foam packaging solutions to The Midwest and beyond.
+**Old description:** HOVER OVER THE MENU BUTTON AT THE UPPER LEFT YOU CAN GO TO ANY PAGE IN ONE CLICK!
 
 ## About
-Progressive Packaging Inc. operates from Footville, Wisconsin, where it has provided foam packaging solutions to the Midwest for over 20 years. The company was established to serve regional businesses with fabricated foam products, though a specific founding year and founder names are not publicly disclosed.
+Professional Processor Food Equipment is based in New Ulm, Texas, and was founded in 1920. The company has operated for over a century as a supplier of food processing equipment.
 
-The company specializes in CNC profiling of expanded polystyrene (EPS), die cutting, and water jet cutting of foam materials. Its capabilities include custom protective and thermal packaging, point-of-purchase display fabrication, and signage production. In-house services cover package design, sampling, and testing, allowing the team to move from concept to finished product under one roof.
+The company distributes a broad range of equipment for meat, vegetable, and dough processing, including hydraulic sausage stuffers, commercial vacuum sealers, electric meat grinders, bowl choppers, and related parts and accessories. It serves both commercial and residential customers through an online catalog and phone sales.
 
-Progressive Packaging primarily serves the pharmaceutical and medical industries, supplying packaging for pharmaceutical packs and other medical applications. Its customer base also includes broader industrial and retail clients throughout the Midwest who require protective foam solutions and custom display items.
+Its customers span meat processing plants, restaurants, concession stands, and home users. The product lineup covers everything from manual meat grinders and sausage makers to tortilla presses, smokers, and commercial kitchen supplies.
 
-The company emphasizes a customer-first culture, stating that it listens to client needs and responds with tailored services and competitive pricing. Its fabrication methods are designed to quickly design, manufacture, and ship packaging solutions, helping customers meet tight deadlines.
+Professional Processor emphasizes its 90 years of industry experience, a large inventory that allows quick selection, and a focus on service, convenience, and affordability for buyers of all sizes.
 
 ## Known for
-- Customer-first culture with tailored packaging solutions
-- In-house package design, sampling, and testing
-- Rapid design-to-shipment turnaround
-- Competitive pricing on custom foam fabrication
+- 90 years of industry experience
+- Wide inventory covering meat, vegetable, and dough processing equipment
+- Service for both commercial and residential customers
+- Direct access to equipment and parts via online catalog and phone
 
 ## Capabilities
-- CNC profiling
-- Die cutting
-- Water jet cutting
-- Package design
-- Sampling and testing
-- Foam fabrication
-- Point-of-purchase display fabrication
-- Signage fabrication
-- Protective packaging manufacturing
-- Thermal packaging manufacturing
+- Meat Processing Equipment
+- Vegetable Processing Equipment
+- Dough Processing Equipment
+- Deer Processing Equipment
+- Hydraulic Sausage Stuffers
+- Commercial Vacuum Sealers
+- Electric Meat Grinders
 
 ## Industries
-- Pharmaceutical packaging
-- Medical packaging
+- Meat processing
+- Vegetable processing
+- Dough processing
+- Restaurant
+- Concessions
+- Residential food preparation
+
+## Equipment
+- Hydraulic Sausage Stuffers
+- Commercial Vacuum Sealers
+- Electric Meat Grinders
+- Manual Meat Grinders
+- Buffalo Choppers
+- Bowl Choppers
+- Meat Slicers
+- Vacuum Chamber Sealers
+- Vacuum Tumblers
+- Bowl Mixers
+- Meat Mixers
+- Patty Makers
+- Tortilla Press
+- Smokers
+- Fryers
+- Olive Press
+- Meatball Machines
+- Dumpling Maker Machine
+- Potato Processing Equipment
+- Pizza Dough Press
 
 ## Company details
-- **Company Type:** Manufacturer
-- **Headquarters:** Footville, Wisconsin
+- **Company Type:** Distributor / reseller
+- **Founded:** 1920
+- **Headquarters:** New Ulm, Texas
 
 <details><summary>Sources</summary>
 
-- Footville, Wisconsin location -> db and /
-- Over 20 years serving Midwest -> /about
-- CNC profiled EPS, die cut, water jet cut foam -> /
-- Package design, sampling, testing -> /
-- Pharmaceutical and medical industry applications -> db (industries_served)
-- Customer-first culture -> /about
-- Competitive pricing -> /
-- Point-of-purchase displays and signage -> /
-- Quick design, manufacture, ship -> /
+- Founded in 1920 -> db
+- Headquarters in New Ulm, Texas -> db
+- Capabilities: Meat Processing Equipment, Vegetable Processing Equipment, Dough Processing Equipment, Deer Processing Equipment, Hydraulic Sausage Stuffers, Commercial Vacuum Sealers, Electric Meat Grinders -> db
+- Product categories and equipment listed on homepage -> /
+- Company describes itself as having 90 years industry experience and a huge variety of products -> /
+- Spanish language page link -> /
 </details>
 
 ---
 
+# Progressive Packaging Inc
+
+_skipped: HTTP Error 503: Service Unavailable_
+
 # Prysmian North America
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** Prysmian to Accelerate Data Center Growth in Digital Solutions
+
+## About
+Prysmian North America is headquartered in Lexington, South Carolina, and operates as the North American arm of the global Prysmian Group. The company maintains more than 50 facilities across the United States and employs approximately 9,000 people.
+
+The company manufactures wire, cable, and fiber‑optic products for transmission, power‑grid, digital‑solutions, and electrification markets. Its portfolio includes high‑voltage transmission cables, submarine telecom cables, industrial fiber‑optic cable, and connectivity components for data centers. Recent expansions — a $100 million project in Jackson, TN, an $80 million project in Lexington, SC, and a more than $1 billion project in Claremont, NC — are adding domestic fiber and optical‑cable capacity. The company invests roughly $20 million annually in R&D and reports €9 billion in sales.
+
+Prysmian serves utilities, telecom operators, data‑center builders, and industrial customers. Notable projects include supplying ELYSIS® low‑carbon aluminum cables for an Amazon data center and providing network solutions for rural broadband and industrial fiber applications. The “Made Right Here” initiative underscores a focus on U.S.‑based production across its 50‑plus locations.
+
+The company says its differentiation comes from a broad, industry‑brand portfolio, the Encore Wire partnership that expands building‑wire and distribution capabilities, and a commitment to low‑carbon materials such as ELYSIS® aluminum. Its scale and domestic footprint are positioned to support the energy transition and growing digital‑infrastructure demand.
+
+## Known for
+- "Made Right Here" U.S. manufacturing commitment across 50+ facilities
+- $20 million annual R&D investment
+- Encore Wire partnership expanding building‑wire portfolio
+- First electrical cables using ELYSIS® low‑carbon aluminum
+- Domestic fiber‑optic cable capacity expansions totaling over $1 billion
+
+## Capabilities
+- Fiber optic cable manufacturing
+- Optical cable manufacturing
+- Wire and cable manufacturing
+- High-voltage transmission cable production
+- Submarine telecom cable production
+- Industrial fiber optic cable production
+- Connectivity component manufacturing
+- Research and development
+- Digital solutions integration
+- Low-carbon aluminum cable production (ELYSIS®)
+
+## Industries
+- Transmission
+- Power Grid
+- Digital Solutions
+- Electrification
+- Submarine Telecom
+- Data Centers
+- Telecommunications
+- Network Solutions for Industries
+
+## Company details
+- **Company Type:** Manufacturer
+- **Employees:** 9,000
+- **Headquarters:** Lexington, South Carolina
+
+<details><summary>Sources</summary>
+
+- Headquarters in Lexington, South Carolina -> db, /
+- Approximately 9,000 employees in North America -> db, /
+- More than 50 facilities across North America -> /
+- Markets served: Transmission, Power Grid, Digital Solutions, Electrification -> /
+- $20 million invested in R&D annually -> /
+- €9 billion in sales -> /
+- $100 million expansion in Jackson, TN creating 100 jobs -> /
+- $80 million expansion in Lexington, SC expanding fiber and optical cable capacity -> /
+- More than $1 billion expansion in Claremont, NC expanding fiber and optical cable capacity -> /
+- Partnership with Encore Wire -> /
+- ELYSIS® low-carbon aluminum cables for Amazon Data Center -> /
+- Made Right Here initiative emphasizing U.S. manufacturing -> /
+- Submarine Telecom mentioned as industry served -> industries_served
+- Network Solutions for Industries mentioned -> industries_served
+</details>
+
+---
 
 # Pulmuone Nasoya Foods USA
 
 **Old description:** Learn the basics in minutes, step-by-step prep tips, a quick guide to every tofu style, bite-size health perks and short how-to videos that make cooking easy.
 
 ## About
-Nasoya, now operating as Pulmuone Nasoya Foods USA, traces its roots to 1978 when its founders began producing tofu in a converted barn in Leominster, Massachusetts. In 2004, the brand was acquired by South Korea’s Pulmuone Foods, a global leader in plant-based foods, and the combined entity has since expanded its U.S. footprint. Today the company is headquartered in Ayer, Massachusetts, where a new facility slated to open in 2025 is expected to become the world’s largest tofu production line.
+Nasoya traces its roots to 1978, when its founders began producing tofu in a converted barn in Leominster, Massachusetts. In 2004 the brand was acquired by Pulmuone Foods, a South Korean food conglomerate, and today operates from a headquarters in Ayer, Massachusetts.
 
-The company manufactures a range of plant-based products, including multiple tofu varieties (silken, firm, extra-firm, super-firm), Asian-inspired items such as noodles, dumplings, and wonton wraps, and ready-to-eat meals under the Plantspired label. Its operations emphasize organic, non-GMO soybeans sourced from local growers, and the facility incorporates sustainable practices such as tray-free packaging, brine recycling, and wastewater treatment that processes 34.6 million gallons annually. Historical data notes a 1987 facility capable of producing more than 60,000 pounds of tofu per week.
+The company manufactures a range of tofu products — silken, firm, extra-firm, and super-firm — along with Asian-inspired items such as noodles, dumplings, and wonton wraps, and a line of ready-to-eat plant-based meals under the Plantspired brand. A 1987 facility expansion pushed output to more than 60,000 pounds of tofu per week, and a new Ayer plant slated for 2025 is described as the world’s largest tofu production line. Nasoya reports annual sustainability metrics that include recycling 80 tons of cardboard, treating 34.6 million gallons of wastewater, and reusing 3.4 million pounds of soy byproduct.
 
-Nasoya’s products are distributed through more than 25,000 retail locations nationwide, primarily in grocery produce sections, serving both mainstream and natural-food retailers. The brand also engages foodservice and culinary channels through partnerships with institutions like the Culinary Institute of America.
+Nasoya’s products are sold in more than 25,000 retail grocery locations nationwide, serving the plant-based protein, organic food, and Asian-inspired food categories. The brand also partners with culinary institutions such as the Culinary Institute of America to support student scholarships and innovation challenges.
 
-The company states that its differentiation lies in a commitment to organic sourcing, environmental stewardship, and making plant-based eating accessible. Its mission centers on delivering wholesome, convenient foods that fit diverse lifestyles while reducing resource use—citing tofu’s 85% lower water footprint compared to beef.
+The company emphasizes organic, non-GMO soybeans sourced from local farmers, tray-free packaging, and closed-loop water and waste systems as key differentiators. Its stated mission is to make wholesome, plant-based eating accessible for every lifestyle through sustainable practices and flavor innovation.
 
 ## Known for
 - Organic, non-GMO soybeans sourced from local farmers
-- Recycles 80 tons of cardboard annually
-- Treats 34.6 million gallons of wastewater each year
-- Reuses 3.4 million pounds of soy byproduct annually
-- Introducing tray-free tofu packaging (2024)
-- Planning world’s largest tofu production line in Ayer, MA (2025)
+- Tray-free tofu packaging
+- Brine recycling and wastewater treatment (34.6M gallons annually)
+- World's largest tofu production line (planned 2025)
+- Tofu U educational platform for plant-based protein
 
 ## Capabilities
-- Tofu production (silken, firm, extra-firm, super-firm)
-- Plant-based meal manufacturing (Plantspired line)
-- Noodle production
-- Dumpling and wonton wrap production
-- Ready-to-eat meal assembly
+- Tofu manufacturing (silken, firm, extra-firm, super-firm)
+- Plant-based meal production (Plantspired line)
+- Asian-inspired food manufacturing (noodles, dumplings, wonton wraps)
 - Sustainable packaging (tray-free)
-- Brine recycling
-- Wastewater treatment
+- Wastewater treatment and brine recycling
+- Cardboard recycling
 - Soy byproduct reuse
-- Organic ingredient sourcing
 
 ## Industries
-- Food and beverage manufacturing
-- Plant-based protein
+- Plant-based foods
+- Tofu manufacturing
+- Asian-inspired foods
+- Organic foods
 - Retail grocery
-- Natural and organic foods
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -250,12 +332,17 @@ The company states that its differentiation lies in a commitment to organic sour
 - Founded 1978 in Leominster, MA -> /about-us
 - Acquired by Pulmuone Foods in 2004 -> /about-us
 - Headquarters in Ayer, MA -> db
-- Produces >60,000 lbs tofu/week (1987) -> /about-us
-- Products in 25,000+ stores nationwide -> /
+- 1987 facility producing >60,000 lbs tofu/week -> /about-us
+- 2025 new Ayer facility world's largest tofu production line -> /about-us
+- Sustainability metrics: 80 tons cardboard recycled, 34.6M gallons wastewater treated, 3.4M lbs soy reused annually -> /about-us
 - Organic, non-GMO soybeans from local farmers -> /about-us
-- Sustainability: recycles 80 tons cardboard, treats 34.6M gallons wastewater, reuses 3.4M lbs soy annually -> /about-us
+- Tofu U launched 2013 -> /about-us
+- Plantspired line launched 2019 -> /about-us
 - Tray-free packaging introduced 2024 -> /about-us
-- World's largest tofu production line planned 2025 in Ayer, MA -> /about-us
+- Brine recycling and sustainable energy practices -> /about-us
+- 25,000+ stores nationwide -> /
+- Product lines: silken, firm, extra-firm, super-firm -> /
+- Asian-inspired products: noodles, dumplings, wonton wraps -> /about-us
 - LinkedIn URL -> db
 </details>
 
@@ -263,48 +350,138 @@ The company states that its differentiation lies in a commitment to organic sour
 
 # Pure Country Custom Embroidery & Printing
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** Online ordering for your school gear is coming SOON. Whether you are a player or spectator, let us help you support your team on in style!
+
+## About
+Pure Country Inc. began in 1993 in the back of a family farm shop near Menoken, North Dakota. The founders started with screen printing, then added embroidery equipment in 1995 while operating from an office suite on Memorial Highway in Bismarck. After consolidating both operations in a rented Bismarck facility, the company purchased its current building in 2003, where it remains a family-owned business.
+
+Today the shop provides embroidery, silk screening, vinyl lettering and decals, and a range of promotional and decorative products. All decoration processes run under one roof, supported by an in-house graphic design team that assists clients with artwork. The facility houses a modern embroidery department and what the company describes as state-of-the-art screen printing equipment, though specific machine models are not disclosed.
+
+Customers include schools and sports teams ordering spirit wear, corporations from Fortune 500 firms to local small businesses needing branded apparel, and individuals seeking custom boat letters or vehicle decals. The company stocks and decorates garments from suppliers such as Carhartt, SanMar, Augusta Sportswear, and Otto Caps, among others.
+
+Pure Country emphasizes personal service, describing its staff as knowledgeable and friendly and pledging to ensure 100 percent satisfaction on every order.
+
+## Known for
+- Family-owned and operated since 1993
+- Embroidery, screen printing, and vinyl graphics all in one facility
+- In-house graphic design assistance included
+- Authorized decorator for major apparel brands (Carhartt, SanMar, Augusta Sportswear, etc.)
+- Over 16 years of experience cited as Bismarck/Mandan’s embroidery leader
+
+## Capabilities
+- Embroidery
+- Silk Screening
+- Vinyl Letters/Decals
+- Promotional & Decorative Products
+- Graphic Design
+
+## Industries
+- Education (schools)
+- Sports teams
+- Corporate
+- Small business
+- Promotional products
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Founded:** 1993
+- **Ownership:** Family-owned
+- **Headquarters:** Bismarck, ND
+
+<details><summary>Sources</summary>
+
+- Founded 1993 in family farm shop near Menoken, ND -> /about
+- Added embroidery equipment 1995 -> /about
+- Consolidated operations in Bismarck, purchased building at 218 West Bowen Ave in 2003 -> /about
+- Services: embroidery, silk screening, vinyl letters/decals, promotional & decorative products -> /services
+- In-house graphic design assistance -> /services
+- State-of-the-art screen printing equipment claimed -> /
+- Serves schools, sports teams, Fortune 500 companies, small businesses -> /services
+- Suppliers: Carhartt, SanMar, Augusta Sportswear, Otto Caps, etc. -> /
+- Family-owned implied by 'family farm shop' -> /about
+- Over 16 years experience, Bismarck/Mandan embroidery leader claimed -> db
+- Commitment to customer satisfaction, 100% satisfaction pledge -> /services
+</details>
+
+---
 
 # Purelight Power
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** Over 1000 customers trust Purelight power & let us know every day - with an overage rating of 4.9 stars on Google. Thank you!
+
+## About
+Purelight Power is a residential solar installation company headquartered in Lexington, Kentucky. The firm serves homeowners in Oregon, Iowa, Montana, and Minnesota, offering a full-service process from consultation through permitting and installation.
+
+The company manages each project through a four-step workflow: an initial consultation to assess energy needs, a design phase using 3D modeling to optimize panel placement, handling of engineering and permitting, and final installation by local crews. After commissioning, customers receive access to web-enabled monitoring to track system performance. Purelight Power reports having completed installations for over 1,000 customers.
+
+Its customer base consists of homeowners seeking to reduce electricity costs and gain energy independence. The company operates in multiple states, with noted activity in Oregon, Iowa, Montana, and Minnesota, and markets its services directly to residential property owners.
+
+Purelight Power emphasizes transparency and simplicity, promoting a no-hidden-fee policy and a low-pressure sales approach. It backs installations with a 25-year performance guarantee, a power production guarantee, and a 10-year workmanship warranty, and states that it uses only industry-rated panels and equipment suited to local climates.
+
+## Known for
+- 25-year performance guarantee
+- Power production guarantee
+- 10-year workmanship warranty
+- No hidden fees or high-pressure sales
+- Local installer network
+
+## Capabilities
+- Solar panel installation
+- System design and 3D modeling
+- Permitting and inspection management
+- Post-installation monitoring
+- Financing facilitation
+
+## Industries
+- Residential solar installation
+- Renewable energy services
+
+## Company details
+- **Company Type:** Installer / service company
+- **Headquarters:** Lexington, Kentucky
+
+<details><summary>Sources</summary>
+
+- Headquarters in Lexington, Kentucky -> /
+- Residential solar installation service -> /
+- Four-step process: consultation, design, permitting, installation -> /
+- Over 1,000 customers served -> /
+- 25-year performance guarantee, power production guarantee, 10-year workmanship warranty -> /
+- Operates in Oregon, Iowa, Montana, Minnesota -> /
+</details>
+
+---
 
 # Purposeful Design
 
 **Old description:** Commercial Furniture, Wood Tops, OEM Component Parts, or Residential Goods.
 
 ## About
-Purposeful Design operates a wood and metal manufacturing facility in Indianapolis, Indiana. Established as a Christian ministry, the organization provides employment and job training to men transitioning from homelessness, addiction, and incarceration. The ministry was founded to rebuild lives through the dignity of work, though a specific founding year is not publicly disclosed.
+Purposeful Design operates a wood and metal manufacturing facility in Indianapolis, Indiana. Founded as a Christian ministry, the organization welcomes men from homeless missions who are seeking a better life, offering them employment and a structured path toward self-sufficiency. The ministry’s model combines job creation with wrap-around support in discipleship, community, mentorship, housing, and transportation.
 
-The company produces solid wood furniture including tables, desks, benches, and other commercial pieces, as well as wood tops such as tabletops, countertops, shelving, and stair treads. It also supplies OEM component parts and offers surface refinishing services. All production occurs in a combined wood and metal shop that supports both custom commercial projects and residential orders.
+The company produces solid wood furniture for commercial and residential markets, including tables, desks, benches, and custom wood tops such as tabletops, countertops, shelving, and stair treads. It also supplies OEM component parts and provides refinishing services. All manufacturing is performed in-house using woodworking and metalworking processes, with an emphasis on industry-standard timing and quality.
 
-Customers include businesses seeking commercial furniture for offices and hospitality, residential buyers, and OEMs needing component parts. The organization’s “Proven Process” and “Product and Design Guide” support collaborative projects from concept through delivery. Its job-training program, called Advance!, integrates workforce development with production.
+Customers include commercial furniture buyers, residential clients, and OEM manufacturers seeking component parts. The product line spans commercial furniture projects, residential goods, and wood-top solutions for interior and architectural applications. Sales of these products generate the revenue that sustains the ministry’s life-rebuilding programs.
 
-Purposeful Design distinguishes itself by using a job-creation and revenue-generation model: sales of the furniture made by program participants fund the wrap-around support services—discipleship, community, mentorship, housing, and transportation—that help employees achieve self-sufficiency. This marketplace approach is described as bringing “marketplace rigor and leverage” to life change.
+Purposeful Design distinguishes itself by applying marketplace rigor to a social mission: every purchase directly funds the wrap-around services that help employees overcome addiction, homelessness, and incarceration. The organization describes its approach as bringing 'marketplace rigor and leverage to bear through a job creation and revenue generation model.'
 
 ## Known for
-- Job-creation and revenue-generation model funding life-rebuilding programs
-- Wood and metal manufacturing facility employing men from homeless missions
-- Wrap-around support including discipleship, community, mentorship, housing, transportation
-- Commercial furniture, wood tops, OEM component parts, and residential goods under one roof
-- Proven process for quality manufacturing and collaborative product design
+- Revenue from furniture sales funds wrap-around support for employees
+- Wrap-around support includes discipleship, community, mentorship, housing, transportation
+- Marketplace rigor applied to job creation for men from homeless missions
+- Wood and metal manufacturing facility
+- Industry-standard timing and quality
 
 ## Capabilities
-- Solid wood furniture manufacturing
-- Wood top fabrication (tabletops, countertops, shelving, stair treads)
-- Surface refinishing
-- OEM component part production
-- Metal fabrication
-- Job training and workforce development (Advance! program)
-- Product design and engineering support
-- Custom commercial furniture production
-- Residential furniture manufacturing
-
-## Industries
-- Commercial furniture
-- Residential furniture
-- OEM manufacturing
-- Wood products
+- Woodworking
+- Metalworking
+- Furniture assembly
+- Refinishing
+- OEM component manufacturing
+- Job training
+- Custom wood tops (tabletops, countertops, shelving, stair treads)
+- Commercial furniture production
+- Residential furniture production
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -313,19 +490,13 @@ Purposeful Design distinguishes itself by using a job-creation and revenue-gener
 
 <details><summary>Sources</summary>
 
-- Headquarters: Indianapolis, Indiana -> db
-- Christian ministry model -> /about
+- Indianapolis, Indiana headquarters -> db
+- Christian ministry focused on rebuilding lives through employment -> /about
 - Wood and metal manufacturing facility -> /about
 - Products: commercial furniture, wood tops, OEM component parts, residential goods -> /
-- Job training program (Advance!) -> /about
-- Wrap-around support services -> /about
-- Marketplace rigor and revenue generation model -> /about
-- Solid wood furniture manufacturer -> /
-- OEM supply capability -> /
-- Refinishing surfaces -> /
-- Proven process and Product and Design Guide -> /
-- Materials: wood and metal -> /about
-- Industries served: commercial furniture, residential, OEM -> /
+- Wrap-around support includes discipleship, community, mentorship, housing, transportation -> /about
+- Revenue from furniture sales funds life-rebuilding programs -> /about
+- Industry-standard timing and quality -> /
 - LinkedIn URL -> db
 </details>
 
@@ -336,49 +507,57 @@ Purposeful Design distinguishes itself by using a job-creation and revenue-gener
 **Old description:** We offer a variety of flexible packaging materials, which will secure and protect your products during transit while also keeping the cost of shipping low and require less space to store.
 
 ## About
-Pyramid Packaging, Inc. is based in Northbrook, Illinois. The company was incorporated in December 1968 by James S. Ploen, a U.S. Army veteran who envisioned a family-owned business that could supply packaging machinery, materials, and service expertise from a single source. Ploen’s background included door-to-door encyclopedia sales in Alaska, and he launched the venture with key supplier partnerships from Automated Packaging Systems (Autobag) and American Packaging Machinery (AMPAK).
+Pyramid Packaging, Inc. is based in Northbrook, Illinois, and was incorporated in December 1968 by James S. Ploen, a U.S. Army veteran. Ploen set out to build a family-owned company that could supply packaging machinery, materials, and service expertise from a single location, starting with key supplier relationships with Automated Packaging Systems (Autobag) and American Packaging Machinery (AMPAK).
 
-Today the company provides flexible packaging materials such as gusseted poly bags for bulk and irregular products, and it represents manufacturers of packaging equipment. Its service portfolio includes packaging line layout engineering, factory-trained technician repairs and preventative maintenance, equipment training, rental and lease programs, on-site demonstrations, flexible packaging inventory management, and custom packaging design with artwork development. A brand‑new showroom hosts equipment demonstrations.
+The company distributes flexible packaging materials such as gusseted bags and poly films, and represents equipment lines for automated bagging and packaging. Its service portfolio includes packaging line layout engineering, equipment repair and preventative maintenance performed by factory-trained technicians, inventory management for flexible packaging supplies, custom packaging design, equipment training, rental and lease programs, and on-site equipment demonstrations in a dedicated showroom.
 
-Pyramid Packaging serves manufacturers and e‑commerce fulfillment operations that need to package products for shipment. The company’s own materials note that virtually every producer packages goods for sale, and that the growth of e‑commerce has increased demand for parcel‑level shipping solutions.
+Pyramid serves manufacturers, e-commerce shippers, and other businesses that need to protect products during transit while reducing shipping costs and storage space. Its materials and equipment are used for bulk and irregular items, parcel shipping, and high-volume packaging operations.
 
-The founder’s original vision – to build a strong family company “brick by brick” that combines machinery, materials, and service under one roof – remains the stated differentiator, emphasizing personal customer connections and long‑term supplier relationships.
+The firm emphasizes its veteran-founded, family-owned heritage and the ability to provide on-site technical support, inventory management, and design consultation as key differentiators.
 
 ## Known for
-- Factory-trained technicians perform on-site equipment repairs
-- Packaging engineers provide line layout and machine selection guidance
-- Flexible packaging inventory management for any volume
-- Custom packaging design including material selection and artwork
-- Equipment rental and lease options for short-term projects
+- Factory-trained technicians provide on-site equipment repair and preventative maintenance
+- Flexible packaging inventory management regardless of order size
+- Packaging line layout engineering and machine selection consulting
+- On-site equipment demonstrations in a dedicated showroom
+- Represents leading manufacturers including Autobag and AMPAK
 
 ## Capabilities
-- Packaging Line Layout Services
-- Packaging Equipment Repair Services
-- Packaging Equipment Preventative Services
-- Flexible Packaging Inventory Management Services
-- Flexible Packaging Design Services
-- Packaging Equipment Training
-- Packaging Equipment Rental & Lease Options
-- On-Site Packaging Equipment Demonstrations
+- Packaging line layout services
+- Packaging equipment repair services
+- Packaging equipment preventative maintenance
+- Flexible packaging inventory management
+- Flexible packaging design services
+- Packaging equipment training
+- Packaging equipment rental and lease options
+- On-site packaging equipment demonstrations
+
+## Industries
+- Packaging
+- E-commerce
+- Shipping
+
+## Equipment
+- Automated Packaging Systems (Autobag)
+- American Packaging Machinery (AMPAK)
 
 ## Company details
 - **Company Type:** Distributor / reseller
 - **Founded:** 1968
-- **Ownership:** Veteran-owned, Family-owned
+- **Ownership:** Family-owned, Veteran-owned
 - **Headquarters:** Northbrook, Illinois
 
 <details><summary>Sources</summary>
 
-- Headquarters: Northbrook, Illinois -> db
-- Founded: December 1968 -> /
-- Founder: James S. Ploen, U.S. Army veteran -> /
-- Ownership: Family-owned, veteran-owned -> /
-- Initial supplier partners: Automated Packaging Systems (Autobag) and American Packaging Machinery (AMPAK) -> /
-- Offers flexible packaging materials (gusseted poly bags) -> /
-- Represents leading packaging equipment manufacturers -> /
-- Services: packaging line layout, equipment repair, preventative maintenance, training, rental/lease, on-site demos, inventory management, design -> /services
-- Showroom for equipment demonstrations -> /
-- Serves manufacturers and e-commerce fulfillment -> /
+- Founded December 1968 -> /
+- Founder James S. Ploen, U.S. Army veteran -> /
+- Family-owned company -> /
+- Headquarters Northbrook, IL -> /
+- Capabilities: packaging line layout, equipment repair, preventative maintenance, inventory management, design services -> /services
+- Additional services: equipment training, rental/lease, on-site demonstrations -> /services
+- Supplier partners: Automated Packaging Systems (Autobag), American Packaging Machinery (AMPAK) -> /
+- Products: flexible packaging materials, gusseted bags -> /
+- Blog mentions e-commerce shipping trends -> /
 </details>
 
 ---
