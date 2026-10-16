@@ -57,60 +57,7 @@ The company differentiates itself through a simple, transparent process from con
 
 # Somers Furniture LLC
 
-**Old description:** Welcome to Somers Furniture, home of the finest, custom-built, luxury outdoor furniture in Las Vegas – and the Western United States.
-
-## About
-Somers Furniture LLC operates from a 4,500‑square‑foot warehouse, showroom and manufacturing facility in Las Vegas, Nevada. The business was founded in 1989 by Debbi Somers as Somers Convention Furniture Rental Inc. and transitioned to luxury outdoor furniture manufacturing. In 2021, leadership passed to Maria A. Contreras, who serves as president and continues the company’s focus on American‑made, handcrafted pieces.
-
-The company designs, manufactures and customizes high‑end outdoor furniture. Its Las Vegas facility produces over 670 base products with millions of configuration options, and the team of seven experts handles custom design, space planning, manufacturing, and a rental division that serves one‑of‑a‑kind events across Southern Nevada. All pieces are built in‑house using domestic materials.
-
-Clients span commercial and residential sectors. Commercial accounts include MAXEX/CVS, Cedarwood Development, Geenen Dekock Properties, W.M. Grace Companies, and architecture firms such as Klai Juba Wald Architecture + Interiors. Interior designers, landscape architects, and event planners also source custom and rental furniture for hotels, offices, private residences, and special events.
-
-Somers Furniture emphasizes a service‑first approach, citing strict adherence to quality, perfection in design, and a personal touch that distinguishes it from larger corporations. The company highlights its American‑made pedigree, handcrafted production in Las Vegas, and the ability to deliver tailored solutions on schedule as core differentiators.
-
-## Known for
-- American‑made luxury outdoor furniture handcrafted in Las Vegas
-- 670+ base products with millions of customization options
-- Full‑service design, manufacturing, space planning, and rental
-- Dedicated delivery and installation crews
-- Personal, service‑oriented client experience
-
-## Capabilities
-- Custom furniture design
-- Furniture manufacturing
-- Space planning
-- Furniture rental for events
-- Delivery and installation
-- Product customization and modification
-
-## Industries
-- Commercial real estate
-- Residential
-- Interior design
-- Landscape architecture
-- Event and hospitality
-
-## Company details
-- **Company Type:** Manufacturer
-- **Founded:** 1989
-- **Employees:** 7
-- **Headquarters:** Las Vegas, Nevada
-
-<details><summary>Sources</summary>
-
-- Founded 1989 by Debbi Somers -> /about-us
-- Maria Contreras became president in 2021 -> /about-us
-- Facility: 4,500 sq ft warehouse, showroom, manufacturing in Las Vegas -> /about-us
-- Team of 7 experts -> /about-us
-- 670+ American‑made products with millions of customization options -> /about-us
-- 2,500+ custom pieces delivered -> /about-us
-- Services: custom furniture, manufacturing, design, space planning, rental -> / and /about-us
-- Commercial clients: MAXEX/CVS, Cedarwood Development, Geenen Dekock Properties, W.M. Grace Companies, Klai Juba Wald Architecture + Interiors -> / and /about-us
-- Residential and interior designer/landscape designer clientele -> /
-- Emphasis on service, quality, perfection in design -> / and /about-us
-</details>
-
----
+_skipped: The read operation timed out_
 
 # Sonoran Stitch Factory
 
@@ -178,71 +125,7 @@ _skipped: not enough facts_
 
 # Sota RV Solar
 
-**Old description:** We design, sell and install Offgrid & RV solar systems around your needs and budget.
-
-## About
-Sota Solar operates from Nowthen, Minnesota, a northern suburb of the Twin Cities. What began as a personal project turned into a side business helping friends add solar to their own rigs, and the operation was formalized under the SotaSolar.com domain in 2019. By 2020 the founders committed to solar full time, and in winter 2023 they established a permanent shop in Nowthen to house the growing team.
-
-The business designs, sells, and installs custom off-grid and RV solar systems built around Victron Energy inverters, chargers, and monitoring gear, along with lithium iron phosphate (LiFePO4) batteries. Services include system estimation, consultation, and full installation for travel trailers, fifth wheels, Class A motorhomes, Airstreams, and, as of 2026, marine vessels. The shop also stocks Victron MultiPlus and Quattro inverter/chargers, Cerbo GX monitors, and battery balancers, and provides ongoing service and support for the systems it commissions.
-
-Customers range from weekend campers to full-time live-aboards who need reliable power without generator noise or campground hookups. The company has installed systems on everything from compact travel trailers to large motorcoaches and now extends the same design-and-install approach to boats. Each build follows a stated philosophy: safe, serviceable, easy to use, and clean enough to be proud of.
-
-The founders say the company was started to give people who leave the grid behind a knowledgeable local partner—expert guidance before the sale, proper integration of panels, batteries, and inverters, and responsive support afterward. That dealer-installer model, combined with a focus on clean, serviceable workmanship, is presented as the core differentiator.
-
-## Known for
-- "Safe. Serviceable. Easy to use. And clean enough to be proud of." build philosophy
-- Local Victron Energy dealer providing expert pre-sale guidance and post-sale support
-- Custom system design tailored to each RV's specific space and power needs
-- Full integration of panels, batteries, inverters, and monitoring for maximum performance
-- Ongoing service and support for the life of the system
-
-## Capabilities
-- Solar system design
-- Solar system installation
-- Off-grid solar system design
-- RV solar system installation
-- Marine solar & battery system installation
-- System estimation & consultation
-- Victron Energy product sales & configuration
-- Lithium LiFePO4 battery sales & installation
-- Cerbo GX monitoring system setup
-- Battery balancing & management
-- Electrical system integration
-- Custom battery bank assembly
-
-## Industries
-- Recreational vehicles (RV)
-- Marine
-- Off-grid residential
-- Golf cart / light electric vehicle
-
-## Equipment
-- Victron Energy MultiPlus inverter/charger
-- Victron Energy Quattro inverter/charger
-- Victron Energy Cerbo GX monitoring system
-- Victron Energy Battery Balancer
-- Lithium LiFePO4 battery banks
-
-## Company details
-- **Company Type:** Installer / service company
-- **Founded:** 2017
-- **Headquarters:** Nowthen, Minnesota
-
-<details><summary>Sources</summary>
-
-- Founded 2017 -> /about-us
-- Headquarters Nowthen, Minnesota -> db, /about-us
-- Victron Energy dealer & installer -> /
-- Lithium LiFePO4 battery sales & installation -> /
-- RV types served: travel trailers, 5th wheels, Class As, Airstreams -> /
-- Marine services launched 2026 -> /about-us
-- Shop established in Nowthen winter 2023 -> /about-us
-- Build philosophy: safe, serviceable, easy to use, clean -> /
-- Services: design, estimation, consultation, installation -> /
-- Victron MultiPlus, Quattro, Cerbo GX, Battery Balancer equipment -> /
-</details>
-
----
+_skipped: The read operation timed out_
 
 # Souhrada Manufacturing Inc
 
@@ -255,7 +138,7 @@ The company specializes in interior trim components for the heavy-truck market, 
 
 Primary customers are heavy-truck OEMs and tier suppliers seeking interior trim assemblies, but the shop also serves agricultural, luggage, apparel, and industrial-cover markets. The company emphasizes design collaboration, prototyping, material sourcing, and full order fulfillment from a single site.
 
-Its stated mission stresses on-time delivery, a safe workplace, and long-term employee retention.
+Its mission stresses high-quality, competitively priced products delivered on time, backed by a safe, rewarding workplace and long-term employee retention.
 
 ## Known for
 - Family-owned, U.S.-based manufacturing with over 26 years of experience
@@ -337,80 +220,7 @@ Its stated mission stresses on-time delivery, a safe workplace, and long-term em
 
 # Source One Supply
 
-**Old description:** Deliveries to all of Prescott quad-city area, the Verde Valley, Sedona, Jerome, Camp Verde, Ashfork, Williams, Seligman, Flagstaff, Kirkland and Skull Valley.
-
-## About
-Source One Supply is a locally owned and operated distributor of commercial restaurant equipment and supplies based in Prescott, Arizona. The company serves the Prescott quad‑city area, the Verde Valley, Sedona, Jerome, Camp Verde, Ashfork, Williams, Seligman, Flagstaff, Kirkland and Skull Valley with local delivery, and also ships nationwide.
-
-The business carries new and used equipment ranging from ovens, ranges, fryers and hood systems to refrigerators, back‑bar coolers, bar supplies, pizza equipment, booths, chairs, tables and bar stools, along with kitchen utensils, sinks and parts. In addition to hardware, it stocks a full line of disposable and janitorial products such as roll towels and toilet paper. Source One Supply also provides ordering assistance, custom commercial‑kitchen installation, and equipment delivery and installation for restaurants, cafes, bars and other food‑service operations.
-
-Its customer base includes restaurants, hotels, retail and grocery stores, manufacturers, churches and professional offices throughout northern Arizona and beyond.
-
-The company emphasizes a one‑stop‑shop model with no membership required, fast local delivery, and access to dozens of brands and thousands of products to meet varied food‑service needs.
-
-## Known for
-- Local and fast delivery across northern Arizona
-- Open to the public with no membership required
-- Custom commercial kitchen installation and equipment setup
-- Access to dozens of brands and thousands of SKUs
-- Equipment delivery and installation services
-
-## Capabilities
-- Commercial restaurant equipment supply (new and used)
-- Disposable and janitorial product supply
-- Custom commercial kitchen installation
-- Equipment delivery and installation
-- Ordering assistance and product sourcing
-- Cafeteria and food service installation
-
-## Industries
-- Restaurants
-- Hotels
-- Retail stores
-- Grocery stores
-- Manufacturers
-- Churches
-- Professional offices
-- Cafeterias and food service
-
-## Equipment
-- Ovens
-- Ranges
-- Fryers
-- Hood systems
-- Refrigerators
-- Back bar coolers
-- Bar supplies
-- Pizza equipment
-- Booths
-- Chairs
-- Tables
-- Bar stools
-- Kitchen sinks
-- Kitchen utensils and parts
-
-## Company details
-- **Company Type:** Distributor / reseller
-- **Ownership:** Locally owned and operated
-- **Headquarters:** Prescott, Arizona
-
-<details><summary>Sources</summary>
-
-- Company name: Source One Supply -> db
-- Headquarters: Prescott, Arizona -> db
-- Locally owned and operated -> page "/"
-- Serves Prescott quad-city area, Verde Valley, Sedona, Jerome, Camp Verde, Ashfork, Williams, Seligman, Flagstaff, Kirkland, Skull Valley -> page "/"
-- Offers new and used commercial restaurant equipment (ovens, ranges, fryers, hood systems, refrigerators, back bar coolers, bar supplies, pizza equipment, booths, chairs, tables, bar stools, kitchen utensils, sinks, parts) -> page "/"
-- Carries disposable and janitorial products (roll towels, toilet paper, paper supplies) -> page "/"
-- Provides ordering assistance, custom commercial kitchen installation, equipment delivery and installation -> page "/services"
-- Serves restaurants, hotels, retail and grocery stores, manufacturers, churches, professional offices -> page "/"
-- Open to the public, no membership needed -> page "/"
-- Local and fast deliveries for paper & disposable products -> page "/services"
-- Access to dozens of brands and thousands of products -> page "/"
-- Strives to be a one-stop shop for commercial restaurant equipment -> page "/"
-</details>
-
----
+_skipped: Remote end closed connection without response_
 
 # South Central Polymers Inc.
 
@@ -460,75 +270,27 @@ SCP Polymers emphasizes its in-house tooling capabilities as a means to shorten 
 
 # South Dakota Manufacturing and Technology Solutions
 
-**Old description:** Cut costs by increasing your capacity and developing a continuous improvement culture.
-
-## About
-South Dakota Manufacturing & Technology Solutions operates from two locations in South Dakota: a Lake Area Tech site in Watertown and a Southeast Tech site in Sioux Falls. The organization's founding year and ownership structure are not publicly disclosed. It was established to help local manufacturers improve productivity through lean practices.
-
-The organization provides lean training, consulting, workshops, and events aimed at reducing waste, cutting costs, growing revenue, developing workforce, and optimizing automation. Its business advisors work with clients to implement continuous improvement practices. No facility size or headcount is published.
-
-The group serves South Dakota manufacturers across various sectors. Documented engagements include Trail-Eze (productivity and culture improvement), Muth Electric (nearly $200,000 in savings), Masaba (14% revenue increase), and ESI (real-time defect detection integration).
-
-The stated mission is "Providing solutions to help South Dakota manufacturers prosper and grow." The organization emphasizes a hands-on approach, offering free consultations and e-books to cultivate lean culture.
-
-## Known for
-- Free initial consultation
-- Lean training and consulting services
-- Hands-on workshops and events
-- Measurable results documented in success stories
-- Business advisors with manufacturing expertise
-
-## Capabilities
-- Lean training
-- Lean consulting
-- Continuous improvement implementation
-- Waste reduction
-- Cost reduction
-- Workforce development
-- Automation optimization
-- Workshops
-- Events
-- Free consultation
-
-## Industries
-- Manufacturing
-
-## Company details
-- **Company Type:** Installer / service company
-- **Headquarters:** Sioux Falls, South Dakota
-
-<details><summary>Sources</summary>
-
-- Locations in Watertown and Sioux Falls, SD -> /
-- Mission statement -> /about
-- Services: Lean training, consulting, workshops, events -> /
-- Success stories: Trail-Eze, Muth Electric, Masaba, ESI -> /
-- Free consultation offer -> /
-- Headquarters in Sioux Falls, SD -> db
-- LinkedIn URL -> db
-</details>
-
----
+_skipped: The read operation timed out_
 
 # South Fork Industries-Maiden
 
 **Old description:** South Fork Industries is able to have consistent quality and meet color expectations by utilizing our lab which specializes in Color Matching.
 
 ## About
-South Fork Industries operates in Maiden, North Carolina, where it has provided commission dyeing and finishing services since 1988. Founded that year, the company has specialized in textile wet processing for over three decades.
+South Fork Industries operates in Maiden, North Carolina, where it began production in 1988 as a commission dyeing and finishing operation. The company has run continuously for over three decades, building a reputation for quality work and integrity in the textile processing sector.
 
-The facility runs 14 dye machines, including pressure jets and soft-flow units, with load capacities from 150 to 1,700 pounds. A centralized computer system controls the dye machines and links to an automated dye and chemical mixing room. For finishing, the plant operates two shrinkage-control belt dryers, 24 tumble dryers, four Fabcon compactors, a Krantz eight-bay tenter frame with a 74-inch maximum width, and a Fabcon open-width compactor. Services cover tubular and open-width fabrics, with napping and tip shearing available.
+The facility houses 14 dye machines, including pressure jets and soft-flow units, with load capacities ranging from 150 to 1,700 pounds. A centralized computer system controls the dye machines and links to an automated dye and chemical mixing room for precise adjustments. Finishing capabilities cover both tubular and open-width formats: two shrinkage-control belt dryers, 24 tumble dryers, four Fabcon compactors, and tubular napping for tubular goods; a Krantz eight-bay tenter frame with a 74-inch maximum width, a Fabcon open-width compactor, open-width napping, and tip shearing for open-width fabrics.
 
-South Fork serves textile mills, apparel brands, and fabric converters that require consistent color and shrinkage performance. Its on-site laboratory uses Datacolor color management solutions for shade matching and conducts AATCC-standard tests for shrinkage, width, yield, stretch and recovery, torque, crocking, wash fastness, burst strength, and wicking.
+South Fork serves textile mills, apparel brands, and fabric converters that require commission dyeing and finishing, though the company does not publicly list specific customers or industry verticals beyond the general textile market.
 
-The company emphasizes quality work and integrity, backed by computerized process control and a dedicated color-matching lab to meet customer color expectations reliably.
+The company differentiates itself through an on-site laboratory that specializes in color matching using Datacolor Color Management Solutions, and it conducts a full suite of physical tests—shrinkage, width, yield, stretch and recovery, torque, crocking, wash fastness, burst, and wicking—all performed to AATCC test methods.
 
 ## Known for
-- Centralized computer-controlled dyeing with automated chemical mixing
-- On-site color matching lab using Datacolor solutions
-- AATCC-conformant quality testing for shrinkage, width, stretch, and more
-- Capacity for 150–1,700 lb dye loads
-- Integrated shrinkage control via Fabcon compactors and Krantz tenter frame
+- On-site color matching lab with Datacolor Color Management Solutions
+- Comprehensive AATCC-compliant physical testing (shrinkage, width, yield, stretch, torque, crocking, wash, burst, wicking)
+- 14 dye machines with centralized computer control and automated chemical mixing
+- Krantz 8-bay tenter frame up to 74 inches for open-width finishing
+- Fabcon compactors for shrinkage control on tubular and open-width fabrics
 
 ## Capabilities
 - Commission dyeing
@@ -543,8 +305,6 @@ The company emphasizes quality work and integrity, backed by computerized proces
 - Tip shearing
 - Color matching
 - Quality testing (AATCC methods)
-- Automated dye/chemical mixing
-- Computerized dye machine control
 
 ## Equipment
 - 14 dye machines (pressure jets and soft flow)
@@ -553,7 +313,7 @@ The company emphasizes quality work and integrity, backed by computerized proces
 - Two shrinkage control belt dryers
 - 24 tumble dryers
 - Four Fabcon compactors
-- Krantz 8 bay tenter frame (74" max width)
+- Krantz 8-bay tenter frame (74" max width)
 - Fabcon open width compactor
 - Datacolor Color Management Solutions
 
@@ -564,24 +324,15 @@ The company emphasizes quality work and integrity, backed by computerized proces
 
 <details><summary>Sources</summary>
 
-- Founded in 1988 -> /
+- Founded 1988, commission dyeing and finishing -> /
 - Located in Maiden, North Carolina -> db
-- Commission dyeing and finishing services -> /
-- 14 dye machines (pressure jets and soft flow) -> /
-- Load sizes 150-1700 lbs -> /
+- 14 dye machines (pressure jets and soft flow), load sizes 150-1700 lbs -> /
 - Centralized computer controls dye machines and communicates with dye/chemical mixing room -> /
-- Two shrinkage control belt dryers -> /
-- 24 tumble dryers -> /
-- Four Fabcon compactors -> /
-- Krantz 8 bay tenter frame, max width 74" -> /
-- Fabcon open width compactor -> /
-- Tubular napping -> /
-- Open width napping and tip shearing -> /
-- On-site lab specializes in Color Matching -> /quality
-- Datacolor Color Management Solutions for shade matching -> /quality
-- Quality tests: shrinkage, width, yield, stretch and recovery, torque, wet and dry crock, 2A wash test, burst, wicking -> /quality
-- Tests conform to AATCC test methods -> /quality
-- Known as industry leader in quality work and integrity -> /
+- Two shrinkage control belt dryers, 24 tumble dryers, four Fabcon compactors, tubular napping -> /
+- Krantz 8 bay tenter frame max width 74 inches, Fabcon open width compactor, open width napping, tip shearing -> /
+- On-site lab specializes in color matching using Datacolor Color Management Solutions -> /quality
+- Lab performs quality tests: shrinkage, width, yield, stretch and recovery, torque, wet and dry crock, 2A wash test, burst, wicking per AATCC methods -> /quality
+- Company type: commission dyeing and finishing (contract manufacturer) -> /
 </details>
 
 ---

@@ -1,67 +1,6 @@
 # Rival Technologies, LLC
 
-**Old description:** Founded on 30+ years of expertise in textile fabrication, sourcing and product design, Rival Technologies exists to streamline complex development cycles and deliver exceptional results, globally.
-
-## About
-Rival Technologies, LLC is headquartered in Phoenix, Arizona. The company was founded on over three decades of expertise in textile fabrication, sourcing, and product design, aiming to streamline complex development cycles and deliver exceptional results globally. While a specific founding year is not disclosed, the business traces its roots to 30-plus years of industry experience. Gerry Van Wagner serves as CEO.
-
-The company provides high-quality sewn products and comprehensive textile fabrication services. Its core processes include cut-and-sew manufacturing, thermoforming of hard-shell components, strap fabrication, anti-migration and silicone engineering, and supply of performance fabrics. Rival operates facilities in the United States, Vietnam, and China, enabling scalable, cost-effective production. The team is described as lean and capable, supporting rapid prototyping and an engineering-led phase-gate methodology that manages product development from concept through commercialization.
-
-Rival serves sectors such as healthcare, safety, military, and law enforcement, with a particular focus on medical and orthopedic soft goods. Its customers include U.S. brands and global manufacturers that require durable, mission-critical sewn and thermoformed products. The company emphasizes long-term partnerships and supply-chain reliability for clients in critical markets.
-
-Rival differentiates itself through its U.S.-based headquarters, which provides real-time communication and fast decision-making, combined with global manufacturing reach. Its in-house design and development capabilities, on-site prototyping, strategic sourcing, and deep supplier relationships are intended to reduce risk, accelerate speed to market, and ensure quality outcomes. The company was built to move fast, think smart, and go global without losing sight of detail.
-
-## Known for
-- U.S. headquarters for real-time communication and fast decision-making
-- Global facilities in the U.S., Vietnam, and China for scalable, cost-effective production
-- In-house design and development with on-site prototyping to accelerate speed to market
-- Engineering-led phase-gate process that rigorously manages product development
-- Lean, capable team focused on responsiveness and supply-chain reliability
-
-## Capabilities
-- Cut & Sew
-- Thermoforming
-- Strap Fabrication
-- Anti-Migration & Silicone Engineering
-- Performance Materials Supply
-- Engineering Phase-Gate Process
-- Rapid Prototyping
-- Strategic Sourcing
-- Supplier Relationship Management
-- End-to-End Project Service
-
-## Industries
-- Medical & Orthopedic Soft Goods
-- Healthcare
-- Safety
-- Military
-- Law Enforcement
-
-## Company details
-- **Company Type:** Manufacturer
-- **Headquarters:** Phoenix, Arizona
-
-<details><summary>Sources</summary>
-
-- Headquarters in Phoenix, Arizona -> db
-- CEO Gerry Van Wagner -> /about
-- Founded on 30+ years expertise in textile fabrication, sourcing, product design -> description (db)
-- Services: Cut & Sew, Thermoforming, Strap Fabrication, Anti-Migration & Silicone, Performance Materials -> /services
-- Global facilities in US, Vietnam, China -> /about and /
-- Engineering Phase-Gate Process -> /about
-- On-site Prototyping -> /about
-- Strategic Sourcing -> /about
-- Global Supplier Relationships -> /about
-- Lean, capable team -> /services
-- Industries: healthcare, safety, military, law enforcement, medical & orthopedic soft goods -> /services and industries_served (db)
-- Mid- to high-volume custom sewing -> products (db)
-- U.S. HQ for fast communication -> /about
-- In-house Design and Development -> /about
-- World-class Engineering Phase-Gate Process -> /about
-- 30+ Years Experience in textiles, supplier relationship building, product development -> /about
-</details>
-
----
+_skipped: Remote end closed connection without response_
 
 # River Valley Woodworks
 
@@ -133,20 +72,20 @@ River Valley Woodworks was founded on the premise that old barns and trees shoul
 **Old description:** None
 
 ## About
-Riverpoint Medical originated in Portland, Oregon, as a family-run business focused on surgical sutures for the medical and animal markets. The company does not disclose its founding year, but its history describes a trajectory from a small suture supplier to a vertically integrated medical device manufacturer with a new production facility in Costa Rica.
+Riverpoint Medical originated in Portland, Oregon, as a small family-run business. The company began with a portfolio of surgical sutures for medical and animal markets before expanding into broader medical device design, development, and manufacturing.
 
-Today the company designs, develops, and manufactures implantable textiles and fibers, including orthopedic implants, high-strength fiber solutions, cordless LED surgical headlights, and brachytherapy devices for oncology. Its in-house capabilities span custom braiding, precision needle fabrication, suture material expertise, product concept development, regulatory support, prototyping, testing, validation, finished device assembly, packaging, sterilization, and private labeling. The firm emphasizes a vertically integrated model that covers design, manufacturing, and branding under one roof.
+The company designs, develops, and manufactures implantable textiles and fibers, including surgical sutures, orthopedic and sports medicine implants, high-strength fiber solutions, cordless LED surgical headlights, and brachytherapy products for oncology. Its vertically integrated capabilities cover custom braiding, precision needle design and fabrication, suture material expertise, product concept development, regulatory services, prototyping, testing, validation, finished device assembly and packaging, sterilization, private labeling, and packaging design. A new manufacturing facility in Costa Rica supplements its Portland operations.
 
-Riverpoint serves the orthopedic, veterinary, dental, sports medicine, and oncology markets, working with medical device companies that need end-to-end product realization. Customers range from startups seeking prototyping and regulatory guidance to established firms requiring volume production and private-label packaging.
+Riverpoint serves the orthopedic, veterinary, dental, and oncology markets, providing components and finished devices for surgical sutures, implants, fiber-based solutions, and brachytherapy products. Customers include medical device companies seeking design, development, manufacturing, and branding support.
 
-The company cites its quality system—compliant with FDA Quality System Regulations and ISO 13485—as a core differentiator, along with a mission to rapidly innovate high-quality devices that improve patient outcomes. A dedicated marketing team provides packaging design and branding support to accelerate time to market.
+Riverpoint emphasizes rapid innovation and high-touch quality control, with multiphase checks at each manufacturing stage compliant with FDA Quality System Regulations and ISO 13485. The company positions itself as a start-to-finish partner, offering private labeling, packaging design, and marketing support to accelerate customers' time to market.
 
 ## Known for
-- Vertically integrated design, manufacturing, and branding capabilities
-- FDA QSR and ISO 13485 certified quality system
-- Private labeling and packaging design services
+- Vertically integrated design, development, and manufacturing
+- High-touch quality control with multiphase checks
+- Compliance with FDA QSR and ISO 13485
+- Private labeling, packaging design, and marketing support
 - Manufacturing facility in Costa Rica
-- Family-owned heritage with personalized customer service
 
 ## Capabilities
 - Custom braiding
@@ -154,8 +93,7 @@ The company cites its quality system—compliant with FDA Quality System Regulat
 - Suture material expertise
 - Product concept development
 - Regulatory services
-- Prototyping
-- Testing and validation
+- Prototyping, testing, and validation
 - Finished medical device assembly and packaging
 - Sterilization
 - Private labeling
@@ -173,8 +111,8 @@ The company cites its quality system—compliant with FDA Quality System Regulat
 - Sports medicine
 
 ## Certifications
-- United States FDA Quality System Regulations
-- ISO 13485 Quality Systems Standard
+- ISO 13485
+- FDA Quality System Regulations
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -183,21 +121,16 @@ The company cites its quality system—compliant with FDA Quality System Regulat
 
 <details><summary>Sources</summary>
 
-- Company name Riverpoint Medical -> db
-- Website http://www.rpmed.com/ -> db
-- Headquarters Portland, Oregon -> db
-- Founded as family-run business in Portland, Oregon -> /about
-- Started with surgical sutures for medical and animal markets -> /about
-- Offers orthopedic implants, high-strength fiber solutions, cordless LED surgical headlights, brachytherapy products -> /about
-- Provides design, development, manufacturing, regulatory services, prototyping, assembly, packaging, sterilization, private labeling, marketing support -> /capabilities
-- Capabilities include custom braiding, precision needle design, suture material expertise -> /capabilities
-- Industries served: Orthopedic, Veterinary, Dental, Oncology, Sports medicine -> /, /about
-- Quality system compliant with FDA Quality System Regulations and ISO 13485 -> /about
+- Headquarters in Portland, Oregon -> db
+- Family-run business origin -> /about
+- Designs, develops, and manufactures implantable textiles and fibers -> /
+- Product portfolio includes surgical sutures, orthopedic implants, high-strength fiber solutions, cordless LED surgical headlights, brachytherapy products -> /about
+- Capabilities: custom braiding, precision needle design, suture material expertise, product concept development, regulatory services, prototyping, testing, validation, finished device assembly, packaging, sterilization, private labeling, packaging design, marketing support -> /capabilities
 - New manufacturing facility in Costa Rica -> /
-- Mission to rapidly innovate high-quality medical devices to improve patient outcomes -> /about
-- Vertically integrated capabilities covering design, manufacturing, branding -> /capabilities
-- Private labeling and packaging design services -> /about
-- Family-owned ownership -> /about
+- Serves orthopedic, veterinary, dental, oncology, sports medicine markets -> / and /about
+- Quality compliance: FDA Quality System Regulations and ISO 13485 -> /about
+- Mission: Build superior solutions and rapidly innovate high-quality medical devices to improve patient outcomes -> /about
+- Offers private labeling, packaging design, marketing support -> /about and /capabilities
 </details>
 
 ---
@@ -207,26 +140,27 @@ The company cites its quality system—compliant with FDA Quality System Regulat
 **Old description:** Riverside specializes in the custom fabrication and installation architectural metal products.
 
 ## About
-Riverside Sheet Metal & Contracting operates from Medford, Massachusetts, where it has been providing custom architectural metal fabrication for over three decades. The company’s ownership structure and founding individuals are not publicly disclosed, but its longevity in the region reflects a deep base of experience in the trade.
+Riverside Sheet Metal & Contracting, Inc. operates from a facility on Reardon Road in Medford, Massachusetts. The company has over three decades of experience in custom architectural sheet metal fabrication, with a focus on copper and zinc work. Ownership details and founder names are not publicly disclosed.
 
-The shop fabricates a wide range of architectural metal products, including standing-seam metal roofing, copper and aluminum gutters and downspouts, chimney caps, cupolas, finials, flashing, and interior items such as copper, stainless steel, and zinc counter tops, backsplashes, and hood vents. In-house capabilities cover cutting, bending (with brakes and shears rated for 13-foot-2-inch lengths), forming, welding, soldering, plasma cutting, and panel curving. The company also fields installation crews that handle roofing, gutter, and accessory mounting on site.
+The shop fabricates and installs a wide range of architectural metal products, including standing-seam metal roofing, copper gutters and downspouts, chimney caps, cupolas, finials, flashing, counter tops, backsplashes, and hood vents. Processes cover custom fabrication, welding, soldering, plasma cutting, shearing, bending (with brakes and shears handling up to 13 feet 2 inches), forming, shaping, and panel curving. The company notes that its in-house fabrication capability allows it to control costs and quality on installation projects.
 
-Riverside serves the roofing and construction industries, supplying both contractors and homeowners. Its portfolio spans residential projects — custom gutters, chimney shrouds, and kitchen counter tops — as well as commercial work for restaurants and coffee shops that specify copper bar tops, zinc island tops, and outdoor counter tops. The firm also provides roofing supply and related sheet metal products to trade customers.
+Riverside serves the roofing and construction industries, supplying both contractors and homeowners. Its portfolio includes residential projects such as copper counter tops for kitchens and coffee shops, restaurant bar tops, and outdoor counter tops, as well as commercial roofing and gutter systems. The firm also provides roofing supply and installation services for shingle, slate, tile, and rubber membrane systems.
 
-The company emphasizes that fabricating the products it installs allows it to control costs and quality, a point highlighted in its own messaging. Membership in the North East Roofing Contractors Association and the National Roofing Contractors Association, along with Massachusetts licensing (HIC #159489, CSL #CS40485), underscores its commitment to industry standards.
+The company emphasizes craftsmanship and long-term customer relationships, stating that the same care is taken on large production runs as on single custom parts. Membership in the North East Roofing Contractors Association and the National Roofing Contractors Association, along with Massachusetts licensing (HIC #159489, CSL #CS40485), underscores its commitment to industry standards.
 
 ## Known for
-- In-house fabrication and installation under one roof
-- Brakes and shears with 13' 2" bending capacity
+- In-house fabrication and installation under one roof reduces cost and lead time
+- Over three decades of experience in architectural sheet metal
+- Copper and zinc specialists with brakes and shears capacity up to 13' 2"
 - Member of North East Roofing Contractors Association and National Roofing Contractors Association
 - Fully licensed and insured in Massachusetts (HIC #159489, CSL #CS40485)
 
 ## Capabilities
 - Custom architectural sheet metal fabrication
-- Chimney cap fabrication
-- Copper gutter and downspout fabrication
+- Chimney cap and shroud fabrication and installation
+- Copper gutter and downspout fabrication and installation
 - Copper pan fabrication
-- Counter top fabrication (copper, stainless steel, zinc)
+- Counter top fabrication
 - Cupola fabrication
 - Custom gutter fabrication
 - Drip edge fabrication
@@ -235,25 +169,24 @@ The company emphasizes that fabricating the products it installs allows it to co
 - Flashing metal fabrication
 - Gutter installation
 - Hood vent fabrication
-- Metal bending (up to 13' 2")
+- Metal bending
 - Metal forming
-- Metal roofing fabrication
 - Metal roofing installation
+- Metal roofing fabrication
+- Metal shaping
 - Metal panel curving
 - Plasma cutting
 - Roofing supply
+- Rubber membrane installation
 - Shearing
-- Sheet metal supply
-- Skylight fabrication
-- Soldering
 - Welding
 
 ## Industries
-- Roofing industry
-- Construction industry
+- Roofing
+- Construction
 
 ## Equipment
-- Brakes and shears (13' 2" capacity)
+- Brakes and shears (up to 13' 2" capacity)
 
 ## Certifications
 - MA HIC REG. #159489
@@ -263,136 +196,91 @@ The company emphasizes that fabricating the products it installs allows it to co
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Headquarters:** Medford, MA
+- **Headquarters:** Medford, Massachusetts
 
 <details><summary>Sources</summary>
 
-- Location: Medford, MA -> db
+- Location: Medford, MA -> /
 - Over three decades of experience -> /about
 - Custom architectural sheet metal fabrication -> /
-- Products: metal roofing, gutters, counter tops, chimney caps, cupolas, finials, flashing -> /
-- Brakes and shears capable of bending metals up to 13' 2" -> /
-- Installation services for roofing, gutters, accessories -> /about
-- Serves roofing industry and construction industry -> /about
-- Materials: copper, zinc, aluminum, steel, stainless steel -> /
-- Licenses: MA HIC REG. #159489, MA CSL #CS40485 -> /about
-- Memberships: North East Roofing Contractors Association, National Roofing Contractors Association -> /about
-- In-house fabrication and installation integration -> /about
-- Worldwide shipping -> /
-- LinkedIn URL -> db
+- Brakes and shears up to 13' 2" -> /
+- Member of North East Roofing Contractors Association & National Roofing Contractors Association -> /about
+- MA HIC REG. #159489, MA CSL #CS40485 -> /about
+- Materials: copper, zinc, aluminum, stainless steel -> /
+- Industries: roofing, construction -> /about
+- Shipped to all US states and worldwide -> /
+- Fabrication and installation under one roof -> /about
+- Copper and zinc specialists -> /
+- Services: welding, soldering, plasma cutting, etc. -> /services
 </details>
 
 ---
 
 # Riverson Foods, Inc.
 
-**Old description:** At Riverson Foods, we are dedicated to delicious.  That is all we do. We make delicious and fun foods your whole family will crave. Well, we are also dedicated to making those
-
-## About
-Riverson Foods, Inc. operates from City of Industry, California The business was established by a team of food professionals who have been creating Asian food products since 1985, though the exact incorporation date of Riverson Foods itself is not disclosed.
-
-The company manufactures dumplings and other Asian food items in a state-of-the-art facility where each piece is steamed and then individually quick frozen (IQF) to lock in freshness and nutrition. The process uses never-been-frozen meats and locally sourced vegetables, with no added preservatives, to achieve a homemade texture and flavor that the company claims rivals traditional preparations.
-
-Riverson Foods serves both retail consumers and business-to-business customers, offering products that are ready to heat and serve in minutes. The company’s website includes a dedicated B2B section, indicating distribution through food service, wholesale, or retail partners, though specific industry segments are not detailed.
-
-The brand differentiates itself by emphasizing all-natural, pronounceable ingredients and a commitment to never using preservatives, positioning its dumplings as a convenient yet wholesome alternative to homemade versions. This focus on clean-label formulation is presented as the core reason the company was started.
-
-## Known for
-- All-natural ingredients with no preservatives
-- Individually quick frozen (IQF) to lock in freshness
-- Never-been-frozen meats and locally sourced vegetables
-- Homemade-quality dumplings produced in a state-of-the-art facility
-- Clean-label formulation for health-conscious consumers
-
-## Capabilities
-- Dumpling manufacturing
-- Asian food product development
-- Steaming
-- Individually quick frozen (IQF)
-- All-natural ingredient formulation
-- Food quality assurance
-
-## Company details
-- **Company Type:** Manufacturer
-- **Headquarters:** City of Industry, California
-
-<details><summary>Sources</summary>
-
-- Location: City of Industry, California -> db
-- Team experience creating Asian food products since 1985 -> /about-us
-- Manufacturing facility uses steaming and individually quick frozen (IQF) process -> /about-us
-- Products made with never-been-frozen meats and locally sourced vegetables -> /about-us
-- No preservatives, all-natural ingredients -> /about-us and /
-- B2B sales channel indicated on website -> /
-- Products individually quick frozen for freshness -> / and /about-us
-</details>
-
----
+_skipped: Remote end closed connection without response_
 
 # Robco Steel Fabricators
 
 **Old description:** Established in 1985, Robco has been providing quality work specializing in residential, commercial, and industrial projects.
 
 ## About
-Robco Steel Fabricators is based in Wells River, Vermont. Founded in 1985 by brothers Bill and Bob Rowden, the company originated from their family’s multi‑generational dairy operation, Rowden’s Dairy. Recognizing a local need for construction and maintenance of feed mills, they converted the dairy business into a steel fabrication shop, naming it Robco as an abbreviation of Rowden Bros. Corp.
+Robco Steel Fabricators operates from Wells River, Vermont, where it was founded in 1985 by brothers Bill and Bob Rowden. The business grew out of Rowden’s Dairy, a multi-generational family dairy operation, when the brothers recognized a local need for construction and maintenance of feed mills. They rebranded the dairy as Robco Steel Fabricators, the name drawn from Rowden Bros. Corp.
 
-Today Robco provides steel and miscellaneous metal fabrication, structural steel fabrication, CNC plasma cutting, welding, handrails and stairs, equipment and truck repair, and custom attachments. The shop also performs on‑site welding and installation. Through sister companies Rowden Crane & Rigging and New England Millwrights, Robco extends its offering to include crane and rigging services, trucking, and millwright work, creating a single source for design, fabrication, and installation.
+The company provides steel and miscellaneous metal fabrication, structural steel fabrication and installation, CNC plasma cutting, handrail and stair systems, equipment and truck repair, custom attachments, and on-site welding and installation. Through sister companies Rowden Crane & Rigging and New England Millwrights, Robco also offers trucking, rigging, and millwright services, creating a single source for design, fabrication, and installation. The shop serves customers within a 100-mile radius of Wells River.
 
-The company serves residential, commercial, and industrial customers across northern New England. Projects range from farm feed‑mill construction to commercial handrail systems and industrial structural steel. Robco delivers within a 100‑mile radius of Wells River.
+Robco works across residential, commercial, and industrial construction, with early roots in agricultural feed-mill projects. Its adherence to OSHA regulations on the shop floor and at job sites, plus ADA compliance for applicable projects, enables it to take on both public and private sector work.
 
-Robco emphasizes compliance with OSHA regulations at its shop and on job sites, and follows ADA guidelines for applicable projects. The founders’ original goal — providing a local, service‑oriented fabrication and installation resource — remains the guiding principle.
+The firm was started to fill a gap in local feed-mill support, and it differentiates itself by combining fabrication with installation and sister-company logistics under one roof, while maintaining regulatory compliance that broadens its project eligibility.
 
 ## Known for
-- One-stop shop for design, fabrication, and installation via sister companies Rowden Crane & Rigging and New England Millwrights
-- OSHA compliance maintained at the shop and on all installation sites
-- ADA compliance followed for projects that require it
-- Delivery within a 100‑mile radius of Wells River, VT
+- One-stop shop for design, fabrication, and installation through sister companies Rowden Crane & Rigging and New England Millwrights
+- OSHA compliance at shop and onsite
+- ADA compliance for residential and commercial projects
+- Delivery within 100-mile radius of Wells River, VT
 
 ## Capabilities
 - Steel Fabrication
-- Steel and Miscellaneous Metal Fabrication
 - Structural Steel Fabrication
+- Miscellaneous Metal Fabrication
 - CNC Plasma Cutting
-- Welding & Fabrication
-- Handrails & Stairs
+- Handrail and Stair Fabrication
 - Equipment and Truck Repair
-- Attachments
-- On-Site Welding and Installations
-- Trucking
-- Rigging
-- Crane & Rigging
-- Millwright Services
+- Attachment Fabrication
+- On-Site Welding and Installation
+- Trucking (via Rowden Crane & Rigging)
+- Rigging (via Rowden Crane & Rigging)
+- Millwright Services (via New England Millwrights)
 
 ## Industries
-- Residential construction
-- Commercial construction
-- Industrial construction
-- Agricultural (feed mills)
+- Residential
+- Commercial
+- Industrial
+- Feed Mill Construction
 
 ## Equipment
-- CNC plasma cutting machine
+- CNC Plasma Cutter
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 1985
-- **Ownership:** Founded by brothers Bill and Bob Rowden
 - **Headquarters:** Wells River, Vermont
 
 <details><summary>Sources</summary>
 
 - Founded in 1985 -> /about
-- Located in Wells River, Vermont -> /
+- Headquarters in Wells River, Vermont -> db
 - Founders Bill and Bob Rowden -> /about
-- Originated from Rowden’s Dairy -> /about
-- Name abbreviation of Rowden Bros. Corp. -> /about
-- Sister companies: Rowden Crane & Rigging and New England Millwrights -> /about
-- Services: steel fabrication, structural steel, CNC plasma cutting, welding, handrails, equipment repair, attachments, on-site installation -> /services
-- Trucking and rigging capabilities through sister company -> /services
-- Delivery within 100-mile radius -> /services
+- Origin as Rowden's Dairy -> /about
+- Sister companies Rowden Crane & Rigging and New England Millwrights -> /about
 - OSHA compliance at shop and onsite -> /about
-- ADA compliance for specific projects -> /about
-- Serves residential, commercial, industrial projects -> /
-- Feed mill construction and maintenance -> /about
+- ADA compliance for residential and commercial projects -> /about
+- Services: Steel Fabrication, Structural Steel Fabrication, Miscellaneous Metal Fabrication, CNC Plasma Cutting, Handrails & Stairs, Equipment and Truck Repair, Attachments, On-Site Welding and Installations -> /services
+- Delivery within 100-mile radius of Wells River -> /services
+- Trucking and Rigging capabilities via sister company -> db
+- CNC Plasma Cutting as product -> db
+- Residential, commercial, industrial projects -> /
+- One-stop shop for design, fabrication, installation -> /about
 </details>
 
 ---
@@ -402,20 +290,20 @@ Robco emphasizes compliance with OSHA regulations at its shop and on job sites, 
 **Old description:** Professional Furniture Upholstery Solutions for Homes and Businesses in Arizona
 
 ## About
-Roberto's Sofa Factory operates from Phoenix, Arizona, where it has served the Arizona Valley for decades. The business began in a garage when Roberto, an immigrant from Mexico, founded a small family-owned upholstery shop driven by a passion for craftsmanship. Today, the company remains family-owned and operated, with Roberto's sons, brother, and grandchildren working alongside each other in the shop.
+Roberto's Sofa Factory operates from Phoenix, Arizona, where it was founded by Roberto, an immigrant from Mexico who started the business in a garage. The company remains family-owned and operated, with multiple generations—including Roberto's sons, brother, and grandchildren—now working in the shop.
 
-The shop provides a full range of upholstery services, including custom cushion design and creation, sofa and couch reupholstery, chair and recliner upholstery, sectional reupholstery, frame repair and reinforcement, spring replacement, leather upholstery and repair, mid-century modern and antique furniture restoration, pattern matching, foam cutting and replacement, stitching and seam repair, zipper repair, and decorative trims such as piping, tufting, and nailheads. The team also handles commercial projects for hotels, restaurants, and offices, and offers weather‑resistant fabrics for outdoor furniture. Work follows a four‑step process: consultation and design planning, furniture preparation, upholstery and detailing, and final inspection with delivery or pickup.
+The shop provides a full range of furniture upholstery services: custom cushion design and creation, sofa and couch reupholstery, chair and recliner upholstery, sectional reupholstery, frame repair and reinforcement, spring replacement, leather upholstery and repair, mid-century modern and antique furniture restoration, pattern matching, foam cutting and replacement, cushion refilling, stitching and seam repair, zipper repair, and decorative trims. They also handle commercial projects such as hotel, restaurant, and office furniture, including weather-resistant options for outdoor pieces. The process moves through consultation, furniture preparation, upholstery and detailing, and final inspection before delivery.
 
-Clients range from residential homeowners seeking to restore a favorite piece to businesses in the hospitality and corporate sectors needing contract‑grade upholstery. The company serves all of Arizona, with recent projects spanning private homes, restaurants, offices, and hotels.
+Customers span residential homeowners and commercial clients across Arizona, including restaurants, offices, and hotels. The company serves the hospitality sector with hotel furniture upholstery and works with interior designers and business owners needing durable, custom-fitted pieces.
 
-Roberto's Sofa Factory distinguishes itself by educating customers at every stage, emphasizing transparency about timelines, costs, and materials. The family legacy centers on treating each piece as if it were their own and each customer like family, a philosophy that has generated word‑of‑mouth referrals and repeat business over decades.
+The company emphasizes client education at every step, transparent pricing, and a legacy of craftsmanship passed down through generations. They position their differentiator as combining traditional techniques with modern materials while treating each piece as if it were their own.
 
 ## Known for
-- Educates clients about every step of the upholstery process
-- Family‑operated with pride, honesty, and attention to detail
-- Treats every piece like its own and every customer like family
-- Four‑step process from consultation through final inspection
-- Offers weather‑resistant fabrics for outdoor furniture
+- Client education throughout the upholstery process
+- Family-operated with multi-generational craftsmanship
+- Honest service and transparent pricing
+- Custom solutions for residential and commercial projects
+- Weather-resistant fabric options for outdoor furniture
 
 ## Capabilities
 - Custom cushion design and creation
@@ -437,32 +325,34 @@ Roberto's Sofa Factory distinguishes itself by educating customers at every stag
 - Commercial upholstery for restaurants and offices
 - Outdoor furniture upholstery with weather-resistant fabrics
 - Consultation and design planning
-- Furniture preparation and inspection
-- Upholstery and detailing
+- Furniture preparation and frame inspection
+- Upholstery application and detailing
 - Final inspection and delivery
 
 ## Industries
 - Residential
+- Commercial
 - Hospitality
-- Commercial offices
-- Restaurants
-- Hotels
+- Office furniture
+- Antique furniture restoration
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Ownership:** Family-owned
 - **Headquarters:** Phoenix, Arizona
 
 <details><summary>Sources</summary>
 
-- Location: Phoenix, Arizona -> /
-- Family-owned, founded by Roberto from Mexico -> /about-us
-- Services list -> /
-- Process steps -> /
-- Industries served: residential, commercial, hospitality -> /
-- Differentiators: education, family values, transparency -> /
-- Materials: fabric, leather, foam, weather-resistant fabrics, decorative trims, nailheads -> /
-- Headquarters address: 3410 W Flower St, Phoenix, AZ 85017 -> /about-us
+- Family-owned, founded by Roberto in a garage -> /about-us
+- Location: Phoenix, AZ -> /about-us
+- Services: custom cushion design, reupholstery, frame repair, leather, antique restoration -> /
+- Commercial clients: restaurants, offices, hotels -> /
+- Process: consultation, preparation, upholstery, inspection -> /
+- Differentiators: client education, family legacy, honest service -> /about-us
+- Materials: fabric, leather, foam, weather-resistant fabrics, decorative trims -> /
+- Industries: residential, commercial, hospitality -> /
+- No founding year explicitly stated -> /about-us
+- No employee count stated -> /about-us
 </details>
 
 ---
@@ -569,63 +459,7 @@ The company differentiates itself through cross-market experience that it says y
 
 # Rochford Supply
 
-**Old description:** Engineered specialty textiles and fabrication materials trusted by professionals for more than 50 years.
-
-## About
-Rochford Supply operates from Brooklyn Park, Minnesota, where it has served manufacturers, fabricators, and commercial professionals for over 50 years. The company traces its roots to a focus on engineered specialty textiles for demanding environments, though the exact founding year and ownership structure are not publicly disclosed.
-
-The company manufactures a range of branded product lines including eTek® Outdoor Textiles, Modality® Vinyls, ExtremeGrip® Adhesives, AquaTop® Marine fabrics, PowerSnap® Tools and Fasteners, CushionCraft® Foam & Upholstery, and Rochford® Essentials. These cover marine vinyl, outdoor performance fabrics, industrial adhesives, foam, webbing, hardware, thread, and zipper systems. Rochford emphasizes a design-to-delivery model, producing and stocking its own materials to enable same-day shipping on many items.
-
-Rochford’s materials are used in marine, transportation, outdoor recreation, industrial, RV and automotive, motor sports, and commercial upholstery applications. Its customer base includes OEM manufacturers, custom fabricators, and commercial upholstery shops that require technical specification support and reliable inventory availability.
-
-The company differentiates itself through manufacturer-backed brands, in-house technical experts who help customers select the right material, and a same-day shipping commitment for stocked products. Its “design to delivery” approach means it controls production and stands behind the performance of its textiles, adhesives, and hardware in real-world conditions.
-
-## Known for
-- Manufacturer-backed brands with proven performance
-- Technical experts assist with material specification
-- Same-day shipping on stocked items
-- Over 50 years of engineering expertise
-- Design-to-delivery manufacturing control
-
-## Capabilities
-- Engineered specialty textile manufacturing
-- Vinyl fabric manufacturing (including marine and contract vinyl)
-- Adhesive formulation and manufacturing
-- Foam fabrication (upholstery and marine)
-- Fastener and hardware manufacturing (snaps, grommets, zippers)
-- Webbing and binding production
-- Thread and bobbin manufacturing
-- Custom fabrication services
-- Same-day shipping for stocked inventory
-- Technical material specification support
-
-## Industries
-- Marine
-- Transportation
-- Outdoor recreation
-- Industrial
-- Upholstery
-- Commercial fabrication
-- RV and automotive
-- Motor sports
-
-## Company details
-- **Company Type:** Manufacturer
-- **Headquarters:** Brooklyn Park, Minnesota
-
-<details><summary>Sources</summary>
-
-- Headquarters: Brooklyn Park, Minnesota -> db
-- Over 50 years in business -> /
-- Manufactures branded product lines (eTek, Modality, ExtremeGrip, AquaTop, PowerSnap, CushionCraft, Rochford Essentials) -> /
-- Design-to-delivery model with same-day shipping for stocked items -> /
-- Industries served: marine, transportation, outdoor recreation, industrial, RV/automotive, motor sports, commercial upholstery -> /
-- Customer types: manufacturers, fabricators, commercial professionals -> /
-- Technical experts help specify materials -> /
-- Materials: polyester, vinyl, nylon, foam, adhesives, thread, webbing, hardware -> /
-</details>
-
----
+_skipped: The read operation timed out_
 
 # RockAuto, LLC
 

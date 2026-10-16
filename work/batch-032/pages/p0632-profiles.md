@@ -171,61 +171,7 @@ The business emphasizes direct, end-to-end control: every project is custom with
 
 # SchoolHouse Woodworking
 
-**Old description:** We carefully blend period-accurate details with modern convenience, preserving original elements like exposed beams and handcrafted cabinetry.
-
-## About
-SchoolHouse Woodworking operates from Chester Springs, Pennsylvania, where founder Jeff Devlin established the business after a lifelong passion for carpentry that began at age 15. Devlin’s television career on DIY’s Stone House Revival brought wider attention to his focus on historic renovation, but the company remains a deliberately small operation built on personal involvement rather than scale.
-
-The shop specializes in historic restorations, custom cabinetry, furniture making, and kitchen and bath renovations. Work includes period-correct joinery, random-width floorboard installation, fireplace restoration, and the integration of modern appliances within historically accurate cabinetry. Every project is handled directly by Devlin, from initial consultation through on-site execution, with no large crew or subcontracting layers.
-
-Clients are primarily owners of historic homes and properties in southeastern Pennsylvania, including landmark buildings such as the 1735 Drovers Inn, a historic tavern and inn that the company helped restore. The work also extends to hospitality venues seeking period-authentic interiors.
-
-Devlin states that the company was founded on a philosophy of “doing right by the house and the client,” emphasizing complete honesty, a hands-on presence at every stage, and a refusal to take shortcuts. The goal is to leave a legacy of craftsmanship that honors the original structure while meeting modern needs.
-
-## Known for
-- Deliberately small, owner-operated model with no large team
-- Owner on-site for every project from consultation to completion
-- Commitment to period-accurate details blended with modern convenience
-- No shortcuts; complete honesty throughout the process
-- Specialization in historic structures such as the 1735 Drovers Inn
-
-## Capabilities
-- Historic restoration
-- Custom cabinetry
-- Furniture making
-- Kitchen renovation
-- Bath renovation
-- Period-correct joinery
-- Random-width floorboard installation
-- Fireplace restoration
-- Appliance integration within period cabinetry
-- Custom woodwork
-- Hardware sourcing from local blacksmith
-
-## Industries
-- Historic preservation
-- Residential renovation
-- Hospitality renovation
-
-## Company details
-- **Company Type:** Manufacturer
-- **Headquarters:** Chester Springs, Pennsylvania
-
-<details><summary>Sources</summary>
-
-- Company name and location from database
-- Founder Jeff Devlin and company origin story from /about
-- 30+ years of master craftsmanship claim from homepage and /about
-- Services: Historic Restorations, Custom Cabinetry, Furniture, Kitchen and Bath Renovations from homepage
-- Address: 368 Exton Square Parkway, Exton, PA 19341 from homepage and /about
-- Philosophy: personalized touch, hands-on approach, honesty, no shortcuts from /about
-- Small company by design from /about
-- Period-correct construction, joinery, random width floorboards, fireplace restoration, appliance integration from homepage
-- Historic 1735 Drovers Inn project example from homepage
-- Hardware by local blacksmith from homepage
-</details>
-
----
+_skipped: Remote end closed connection without response_
 
 # ScienceofSpeed
 
@@ -274,66 +220,7 @@ No explicit founding year, ownership structure, or mission statement is provided
 
 # Sciens Christian Cable Division
 
-**Old description:** As a leading provider of life safety, security and communication systems, we are dedicated to protecting your assets and providing peace of mind.
-
-## About
-Sciens Christian Cable Division operates from Haslet, Texas, where the Christian Cable Group was established to serve North and Central Texas, the Gulf Coast region, and central and south-central Oklahoma. The division specializes in life safety, security, and communication systems for commercial and residential properties.
-
-The division delivers turnkey services that encompass fire alarm and sprinkler systems, security and access control, CCTV, audio-visual, data and sound communication, and emergency responder communication enhancement systems (ERCES/BDA). It also provides ongoing monitoring and maintenance. With a workforce of approximately 2,000 employees, the company handles projects ranging from new construction to retrofits and upgrades across its service territory.
-
-Its customer base includes developers, institutions, and general contractors in multifamily housing, high-rise residential, student housing, senior living communities, and light commercial properties. The division holds Texas licenses ACR-3219 and B15328, reflecting compliance with state regulations for fire protection and security work.
-
-Christian Cable Group emphasizes accountability and compliance in its procurement and contracting approach, positioning itself as a subcontracting partner for developers and institutions. The company highlights its strong partnerships with general contractors and 24/7 availability as key differentiators in the region.
-
-## Known for
-- Turnkey integration of fire alarm, sprinkler, security, cabling, and monitoring systems
-- Strong partnerships with general contractors and developers
-- Unique procurement and contracting advantages for developers and institutions
-- 24/7 service availability
-- Texas state licenses ACR-3219 and B15328
-
-## Capabilities
-- Fire alarm system design and installation
-- Fire sprinkler system installation
-- Security system integration
-- Access control installation
-- CCTV installation
-- Audio-visual system installation
-- Data and sound communication cabling
-- Emergency responder communication enhancement systems (ERCES/BDA)
-- System monitoring and maintenance
-- Life safety system inspection and testing
-
-## Industries
-- Multifamily housing
-- High-rise residential
-- Student housing
-- Senior living communities
-- Light commercial properties
-
-## Certifications
-- Texas License ACR-3219
-- Texas License B15328
-
-## Company details
-- **Company Type:** Installer / service company
-- **Employees:** 2000
-- **Headquarters:** Haslet, Texas
-
-<details><summary>Sources</summary>
-
-- Headquarters in Haslet, TX -> /
-- Founded in Haslet, TX (no year) -> /
-- Services: fire alarms, sprinklers, security, cabling, monitoring -> /
-- Industries: multifamily housing, high-rise residential, student housing, senior living, light commercial -> /
-- Licenses ACR-3219, B15328 -> /
-- Employee count 2000 -> db
-- 24/7 availability -> /
-- Turnkey services and accountability focus -> /
-- Partnerships with general contractors and developers -> /
-</details>
-
----
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Score Components
 
@@ -458,7 +345,7 @@ The company differentiates itself through its connected food system, emphasizing
 
 # Seal-Tite Plastic Packaging Co
 
-_skipped: not enough facts_
+_skipped: The read operation timed out_
 
 # Seaside Casual Furniture
 

@@ -3,49 +3,49 @@
 **Old description:** Mon–Thu 10am–6pm · Fri 12–6pm · Walk-ins welcome at 1105 S 12th St
 
 ## About
-Raeed & Sons opened its doors in May 2013 at 1105 South 12th Street in Bismarck, North Dakota. The shop is family‑owned and operated by Raeed Douri, who brought over thirty years of electronics experience to the venture. He started the business with a simple mission: give every broken device a fair shot and treat every customer like family.
+Raeed & Sons operates from a storefront at 1105 South 12th Street in Bismarck, North Dakota. The family-owned shop opened in May 2013 when Raeed Douri, a technician with over thirty years of electronics experience, started the business to give broken devices a fair shot and treat customers like family.
 
-The shop provides component‑level repair for a wide range of electronics. Services include screen, battery, and charge‑port replacement on smartphones and tablets; hardware upgrades, custom builds, virus removal, and full diagnostics on Windows and Mac computers; and board‑level work on engine control units, transmission modules, power supplies, and industrial PCBs — covering capacitor replacement, IC reflow, and trace repair. Free diagnostics are standard, and most repairs are completed in under an hour. The operation runs as a walk‑in service center with no appointment needed.
+The shop repairs a wide range of electronics: smartphones (iPhone, Samsung, Pixel), tablets (iPad, Galaxy Tab, Surface), laptops (MacBook, ThinkPad, Dell, HP), desktop computers (Windows and Mac), automotive engine control units and body modules, and industrial printed circuit boards. Services include screen and battery replacement, charge-port repair, water-damage recovery, hardware upgrades, custom PC builds, virus removal, full diagnostics, component-level ECU rebuilds, and PCB repairs such as capacitor replacement, IC reflow, and trace repair. Free diagnostics are offered on every device, and most repairs are completed in under an hour.
 
-Customers span individual consumers with damaged phones or laptops, automotive shops needing ECU or module repair, and industrial clients with faulty control boards or power supplies. The shop’s expertise in component‑level fixes often saves customers the cost of full unit replacement, a value highlighted by automotive and industrial referrals.
+Customers include individual consumers with damaged phones or laptops, automotive owners needing ECU module repairs, and industrial clients with faulty control boards or power supplies. The shop serves walk-in traffic without appointments and has built a local reputation reflected in a 100% recommendation rate on Facebook and an A+ Better Business Bureau rating.
 
-Raeed & Sons emphasizes personal attention, transparent pricing, and a no‑pressure approach. The company cites its A+ Better Business Bureau rating, 100% recommendation rate on Facebook, and a track record of thousands of repairs as evidence of its commitment to sending every customer home happier than they arrived.
+Douri founded the business on the principle of providing the attention and service one would expect from a friend, aiming to send every customer home happier than they arrived.
 
 ## Known for
 - Free diagnostics on every device
 - Most repairs completed in under an hour
-- Walk‑ins welcome with no appointment needed
-- Component‑level repair on ECUs and circuit boards
-- Family‑owned with 30+ years of technician experience
+- Walk-ins welcome with no appointment needed
+- Family-owned with 30+ years of technician experience
+- A+ BBB accredited and 100% recommended on Facebook
 
 ## Capabilities
 - Smartphone screen replacement
 - Smartphone battery replacement
 - Charge port repair
 - Water damage repair
-- Tablet and iPad screen repair
+- Tablet screen replacement
 - Laptop screen replacement
 - Keyboard replacement
 - SSD upgrades
 - Data recovery
-- Custom PC builds
 - Virus removal
-- Full system diagnostics
-- ECU component‑level rebuild
-- Transmission module repair
-- Body control module repair
+- Custom PC builds
+- Hardware upgrades
+- Full diagnostics
+- ECU component-level rebuild
 - Blown driver replacement
-- Capacitor replacement
+- PCB capacitor replacement
 - IC reflow
 - Trace repair
-- Power supply repair
-- Industrial PCB repair
+- Free diagnostics
 
 ## Industries
-- Consumer electronics repair
-- Automotive electronics repair
-- Industrial electronics repair
-- Computer repair
+- Consumer electronics
+- Automotive electronics
+- Industrial electronics
+
+## Certifications
+- BBB A+ Accredited
 
 ## Company details
 - **Company Type:** Installer / service company
@@ -55,17 +55,16 @@ Raeed & Sons emphasizes personal attention, transparent pricing, and a no‑pres
 
 <details><summary>Sources</summary>
 
-- Founded 2013 -> db
-- Headquarters Bismarck, ND -> db
-- Family-owned -> page '/'
-- Owner Raeed Douri with 30+ years experience -> page '/'
-- Free diagnostics -> page '/'
-- Most repairs under an hour -> page '/'
-- Walk-ins welcome, no appointment -> page '/'
-- Services: smartphones, tablets, laptops, PCs, ECUs, electronic boards -> page '/'
-- Component-level repair: blown drivers, capacitor replacement, IC reflow, trace repair -> page '/'
-- A+ BBB accredited, 100% Facebook recommendation -> page '/'
-- Industries served inferred from device categories -> page '/'
+- Location: 1105 S 12th St, Bismarck, ND -> /
+- Founded: May 2013 -> /
+- Owner: Raeed Douri, 30+ years experience -> /
+- Ownership: Family-owned -> /
+- Services: smartphone, tablet, laptop, desktop, ECU, PCB repair -> /
+- Specific repairs: screen, battery, charge port, water damage, hardware upgrades, custom builds, virus removal, diagnostics, ECU component-level, PCB capacitor/IC reflow/trace -> /
+- Free diagnostics, most repairs under an hour -> /
+- Walk-ins welcome, no appointment -> /
+- BBB A+ accredited, 100% Facebook recommendation -> /
+- Industries served: consumer, automotive, industrial electronics -> /
 </details>
 
 ---
@@ -134,7 +133,7 @@ Rainier Woodworking Co operates from Tacoma, Washington, where it has served the
 
 The shop manufactures a full line of cabinetry, offering custom design services that translate client visions into finished pieces. Production includes woodworking, finishing, and assembly, with a proprietary project-tracking app (RW CabTracker) available on the Apple App Store to keep customers informed throughout the process.
 
-Rainier’s cabinetry is distributed exclusively through professional designers and established kitchen and bath dealers along the West Coast. This channel-focused approach means the company works closely with design professionals and showroom partners rather than selling direct to end users.
+Primary customers include independent kitchen and bath designers and dealerships that specify Rainier products for residential projects. The company also works directly with design professionals to develop custom pieces.
 
 The business stresses fair pricing and adherence to client budgets and timelines, positioning its locally made, wood-centric products as a durable alternative to mass-market options. A stated commitment to tree stewardship underpins the material selection and build quality.
 
@@ -183,7 +182,7 @@ The company manufactures a full line of sensors and vehicle parts under the RAMC
 
 Ramco serves distributors and retailers across the automotive aftermarket, with a growing focus on original equipment and original equipment service channels. Its customer base spans the United States, Latin America, Europe, and the Middle East, supported by express international shipping to over 50 countries.
 
-The company emphasizes honesty, quality guaranteed, reliability, and timeliness in order delivery as core values.
+The company emphasizes honesty, quality, reliability, and timely delivery. Its mission is to be the independent supplier to the automotive aftermarket by providing high-quality products, competitive pricing, and strong customer service while operating in an environmentally responsible manner.
 
 ## Known for
 - Independent manufacturer and distributor of automotive sensors and electronic parts
@@ -589,8 +588,6 @@ Real Wood Furniture operates from Chantilly, Virginia, serving the Washington, D
 The business supplies factory-finished, finished-to-order, and unfinished furniture across categories that span living room, bedroom, dining room, entertainment, home office, wall units, library, home theater, and youth collections. It works in pine, maple, oak, cherry, alder, reclaimed lumber, and parawood, and offers styles such as Shaker, modern, contemporary, traditional, mission, Amish, and barn wood. Both standard and build-to-order configurations are available, with an emphasis on real-wood construction and no particle board.
 
 Customers include homeowners and small businesses throughout the Metro DC region looking for solid-wood furnishings. The company positions its offering as a value proposition for those seeking durable, customizable pieces without composite materials.
-
-Real Wood Furniture highlights its material transparency — no particle board — and the flexibility of finished-to-order and unfinished options as key differentiators, allowing buyers to match specific aesthetics or apply their own finishes.
 
 ## Known for
 - Real wood construction with no particle board

@@ -5,7 +5,7 @@
 ## About
 Rockland Foodservice operates from a store in Rockland, Maine. The business has existed in one form or another since the 1980s, originally as Rockland Wholesale in a building now occupied by J.Edward Knight Insurance, and later next door where CarQuest Auto Parts stands. It is part of a family-owned group that also included Shore Save, a former grocery located where a Rite Aid now stands, and the company has served the Rockland community for decades.
 
-The company functions as a foodservice distributor and retailer, stocking a wide variety of food and beverage items for immediate pickup or curbside collection. It taps into a network of local and out-of-state distributors to source specialty products, typically fulfilling such requests within a few days. The facility also handles bulk and big-pack orders for events such as weddings, parties, and boat trips, with customers able to place orders a week in advance for staged pickup.
+The company runs a foodservice store just outside downtown Rockland, offering a wide variety of foodservice and drink items for takeaway. It sources from numerous local and out-of-state distributors and can procure specialty items usually within a few days. The operation handles bulk and party orders, allowing customers to place advance orders a week early for weddings, parties, or boat trips, with items set aside for pickup. Curbside service is also available.
 
 Primary customers include local restaurants, hotels, and individual consumers planning large gatherings. The business positions itself between national broadline distributors and conventional retail chains, aiming to serve both commercial foodservice operators and retail shoppers in the mid-coast Maine region.
 
@@ -109,51 +109,48 @@ The founders’ philosophy centers on letting the wood itself guide the design�
 **Old description:** For the best experience on our site, be sure to turn on Javascript in your browser.
 
 ## About
-Rockler Woodworking and Hardware operates a retail location at 4901 N May Avenue in Oklahoma City, Oklahoma. The store is part of the national Rockler chain, which specializes in woodworking tools, hardware, and supplies.
+Rockler Woodworking and Hardware operates a retail location in Oklahoma City, Oklahoma, serving the local woodworking community as part of a national chain. The store is situated on North May Avenue and maintains regular hours six days a week.
 
-The Oklahoma City store stocks a wide assortment of Rockler-branded clamps, jigs, glue accessories, and finishing products, alongside brands such as Festool, Blum, and Grass. It provides woodworking classes and workshops for all skill levels, supplying tools and materials for participants. The store also hosts community events, including tool swaps and vendor demonstrations.
+The store stocks a range of woodworking tools, hardware, and supplies, including Rockler-branded clamps, assembly squares, push blocks, glue application kits, dust collection components, and finishing products. It also carries brands such as Festool, Blum, Grass, SawStop, EZ Wood Tools, and Sorby. The location provides woodworking classes and workshops for all skill levels, supplying tools and materials for participants. Community events such as the Clamp Into Spring Event & Tool Swap feature free demonstrations, a tool swap, and specialty wood vendors.
 
-Customers range from hobbyists and DIY enthusiasts to professional woodworkers and cabinetmakers. The store’s expanded drawer slide selection and exclusive Rockler products cater to cabinet and furniture makers, while classes attract beginners and experienced makers alike.
+The store serves hobbyist woodworkers, professional cabinetmakers, woodturners, and the broader maker community in central Oklahoma. Customers include individuals seeking tools for home shops, as well as attendees of hands-on classes and community events.
 
-The location differentiates itself through hands-on education, community-focused events, and an expanded in-store selection of premium brands like Festool abrasives and track saws, aiming to be a local hub for woodworkers.
+The company emphasizes hands-on education and community engagement, offering classes with all tools and materials provided, and hosting free demo events with local vendors. The location also carries exclusive Rockler-branded items and an expanded selection of drawer slides and finishing products.
 
 ## Known for
-- Woodworking classes and workshops for all skill levels
-- Community events including tool swaps and live vendor demos
-- Exclusive Rockler-branded clamps, jigs, and accessories
-- Expanded selection of Blum and Grass undermount drawer slides
-- Festool abrasives and track saws available in every store
+- Free woodworking demos and community tool swap events
+- On-site woodworking classes with tools and supplies provided
+- Exclusive Rockler-branded products
+- Full Festool abrasives and track saw range in-store
+- Expanded drawer slide selection from Blum and Grass
 
 ## Capabilities
 - Retail sales of woodworking tools and hardware
-- Woodworking classes and workshops
-- Community event hosting (tool swaps, vendor demos)
+- Woodworking education and workshops
+- Community tool swap events
 - Product demonstrations
-- Product list saving and order tracking
 
 ## Industries
 - Woodworking
+- Woodturning
 - Cabinetmaking
-- Furniture making
-- DIY home improvement
-- Hobbyist crafts
+- Maker/DIY
 
 ## Company details
 - **Company Type:** Retailer
-- **Headquarters:** Oklahoma City, Oklahoma
+- **Headquarters:** Oklahoma City, OK
 
 <details><summary>Sources</summary>
 
+- Location: Oklahoma City, OK -> db
 - Store address: 4901 N May Avenue, Ste 200, Oklahoma City, OK 73112 -> /
-- Store phone: (405) 639-3111 -> /
-- Store hours: Mon-Fri 9am-7pm, Sat 9am-6pm, Sun 11am-4pm -> /
+- Store hours: Mon-Fri 9-7, Sat 9-6, Sun 11-4 -> /
 - Offers woodworking classes and workshops for all levels -> /
-- Hosts Clamp Into Spring Event & Tool Swap with vendor demos -> /
-- Carries Rockler-branded clamps, squares, push blocks, glue kits -> /
-- Carries Festool abrasives and track saws -> /
-- Carries Blum and Grass full-extension undermount drawer slides -> /
+- Hosts Clamp Into Spring Event & Tool Swap with free demos, tool swap, specialty wood vendors -> /
+- Sells Rockler-branded products (clamps, assembly squares, push blocks, glue kits, dust collection, finishing) -> /
+- Carries Festool, Blum, Grass, SawStop, EZ Wood Tools, Sorby brands -> /
 - Hiring with competitive salary and benefits -> /
-- Email list sign-up for store promotions -> /
+- Website: rockler.com retail store page -> db
 </details>
 
 ---
@@ -354,7 +351,7 @@ Rohrer differentiates itself through its ezCombo® program, which promises speed
 **Old description:** At Rowan Company, we understand that furniture is an investment and the buying process can often be overwhelming.
 
 ## About
-Rowan Company Furniture operates a showroom and interior design studio in Greenville, South Carolina. The business was founded in 2003 by its current owner, who describes a vision centered on differentiation, fair pricing, and customer care. Over the years the store has evolved while maintaining that original ethos.
+Rowan Company Furniture operates a showroom in Greenville, South Carolina.
 
 The company curates a selection of home furnishings from established brands such as Taylor King, Lee Industries, Sarreid, Uttermost, Visual Comfort, and Woodbridge Furniture, alongside vintage and antique pieces sourced globally. In addition to retail sales, the firm provides interior design services ranging from single-room accessorizing to whole-house projects, supported by a team of designers. The showroom is open Monday through Saturday, with hours posted online.
 
@@ -463,7 +460,7 @@ Royal Automation & Controls emphasizes a dedicated industrial sales team, quick 
 **Old description:** Founded by George Roeske, Rubicon Automotive Group is a dream that started as a college business plan in 2004 and then became a reality in the summer of 2018.
 
 ## About
-Rubicon Automotive Group is based in Grants Pass, Oregon. The company was founded by George Roeske and became a reality in the summer of 2018, after the concept originated as a college business plan in 2004. Roeske brought twenty-eight years of experience in the auto recycling industry to the venture, leaving employment to establish his own business.
+Rubicon Automotive Group operates from Grants Pass, Oregon.
 
 The company operates as a distributor of quality recycled auto parts, stocking thousands of OEM wheels, truck beds, gates, and powertrain accessories. It purchases repairable OEM wheels from sellers and manages inventory across its own online store, eBay, and the Car-Part network. Orders are typically processed and shipped within one business day, with an emphasis on delivering the correct part on the first attempt.
 

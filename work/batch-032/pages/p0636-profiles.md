@@ -57,147 +57,46 @@ Sina Manufacturing serves clients seeking custom-decorated apparel and fully cus
 
 # Sinclair North America
 
-**Old description:** �Y��l6s�V���rT����r��ju���?������������ߤ����4��:8�I�q�tP�殄F����Np*�xMPA��
-
-## About
-Sinclair North America operates from New York, New York, as the U.S. arm of a global medical aesthetics company active in more than 55 countries. The business focuses on the development and supply of injectable treatments, threads, and energy-based devices for aesthetic medicine, positioning itself at the intersection of science and clinical practice.
-
-Its product portfolio centers on two main categories: injectables and threads, and energy-based devices (EBDs). Beyond hardware, the company runs Sinclair College for professional education, maintains the Sinclair Portal for digital access, and provides electronic instructions for use (eIFU) to support clinical workflows. These digital and educational services complement the physical product lines and aim to standardize treatment protocols across markets.
-
-The company serves medical aesthetics practitioners, clinics, and healthcare providers worldwide. Its devices and injectables are used in aesthetic procedures across international markets, with regulatory approvals varying by country. The organization notes that approved claims and product availability differ by market, reflecting the regulated nature of medical aesthetics.
-
-Sinclair states its corporate purpose as “healthy aging,” a positioning that guides product development and branding. The organization emphasizes precision, personalization, and performance as core principles behind its technology and service offerings. This framework is intended to differentiate its approach in a competitive global landscape.
-
-## Known for
-- Global presence in 55+ countries
-- Corporate purpose: Healthy aging
-- Sinclair College for professional education
-- Sinclair Portal and eIFU digital tools
-- Precision, Personalization, Performance framework
-
-## Capabilities
-- Injectable manufacturing
-- Thread manufacturing
-- Energy-based device manufacturing
-- Medical aesthetics product development
-- Professional education (Sinclair College)
-- Digital portal services (Sinclair Portal)
-- Electronic instructions for use (eIFU)
-- Regulatory compliance management
-
-## Industries
-- Medical aesthetics
-- Healthcare
-- Medical devices
-- Aesthetic medicine
-
-## Company details
-- **Company Type:** Manufacturer
-- **Headquarters:** New York, New York
-
-<details><summary>Sources</summary>
-
-- Global medical aesthetics company in 55+ countries -> /
-- HQ in New York, New York -> db
-- Products: injectables, threads, energy-based devices -> /
-- Sinclair College, Sinclair Portal, eIFU -> /
-- Corporate purpose: healthy aging -> /
-- Tagline: Precision, Personalization, Performance -> /
-- Serves medical aesthetics practitioners, clinics, healthcare providers -> /
-- Regulatory approvals vary by market -> /
-- English language support -> /
-</details>
-
----
+_skipped: Remote end closed connection without response_
 
 # Sioux Valley Energy
 
-**Old description:** Starting January 1, 2027, residential and general service members will be billed on three components instead of two.
-
-## About
-Sioux Valley Energy operates as an electric cooperative headquartered in Colman, South Dakota. While a founding year is not publicly stated, the cooperative structure indicates member ownership rather than investor ownership.
-
-The cooperative delivers electric distribution service to residential and general service members, maintaining service centers in Brandon, Pipestone, and Hartford. With 110 employees, it manages metering, outage response, and member services including start/stop/transfer requests. Beginning January 1, 2027, billing will shift to a three-component structure reflecting energy consumption, basic service costs, and peak demand within each billing cycle.
-
-Primary customers are residential members and general service accounts within the cooperative's service territory, which includes Pipestone County and surrounding areas. The cooperative also engages in community initiatives such as Operation Round Up grants awarded to local organizations and educational events like Brats & Kilowatts sessions to explain rate changes.
-
-The cooperative model directs margins back to members through capital credits and community investment rather than external shareholders.
-
-## Known for
-- Member-owned cooperative governance
-- Three-component rate design separating energy, service, and demand charges
-- Operation Round Up community grant program
-- Local service centers in Brandon, Pipestone, and Hartford
-
-## Capabilities
-- Electric distribution service
-- Meter reading and management
-- Outage detection and restoration
-- Service start/stop/transfer
-- Demand charge billing
-- Energy services consultation
-- Community grant administration
-- Member education programs
-
-## Industries
-- Residential electric service
-- General commercial electric service
-- Rural electric cooperative
-
-## Company details
-- **Company Type:** Installer / service company
-- **Employees:** 110
-- **Ownership:** Cooperative (member-owned)
-- **Headquarters:** Colman, South Dakota
-
-<details><summary>Sources</summary>
-
-- Headquartered in Colman, South Dakota -> db
-- 110 employees -> db
-- 30,813 meters served -> /
-- 6,273 miles of distribution line -> /
-- 4.9 member density per mile of line -> /
-- Service centers in Brandon, Pipestone, Hartford -> /
-- Three-component billing effective January 1, 2027 -> /
-- Operation Round Up grants to area organizations -> /
-- Brats & Kilowatts member education events -> /
-- LinkedIn profile -> db
-</details>
-
----
+_skipped: Remote end closed connection without response_
 
 # Siwek Lumber & Millwork Corp - NE MPLS
 
 **Old description:** We know doors better than anyone and are your complete headquarters for all your exterior door needs!
 
 ## About
-Siwek Lumber & Millwork Corp has operated from its Northeast Minneapolis location since 1933. The family-owned lumberyard was established as a neighborhood supplier of building materials and has remained under family stewardship for nine decades.
+Siwek Lumber & Millwork Corp has operated in northeast Minneapolis, Minnesota since 1933. The family-owned lumberyard began as a local supplier of building materials and has remained under family ownership for generations.
 
-The company stocks a full line of construction lumber, redwood, and cedar for decking, fencing, and garden beds, and serves as a complete headquarters for exterior doors including Andersen storm doors. It also carries Milwaukee power tools, GRK fasteners, and related accessories from a single NE facility. Headcount and facility square footage are not publicly disclosed.
+The company stocks a full line of construction lumber, redwood (including Heart Construction grade), and cedar for outdoor projects such as decks, fences, and garden beds. It also serves as a distributor for exterior doors (including Andersen storm doors), Milwaukee power tools and accessories, and GRK fasteners. The yard offers custom cutting of lumber to size and runs a recycling program that diverted 153.55 tons of scrap building materials in 2019, achieving a 75.25% diversion rate.
 
-Customers include residential contractors, remodelers, and homeowners throughout the Twin Cities metro. The yard supplies materials for projects ranging from new construction to backyard decks, and has supported community builds such as Boy Scout Troop 9060 in Woodbury, which used donated lumber for campfire benches.
+Siwek serves contractors, builders, and homeowners across the Twin Cities metro area. Its customer base includes residential construction projects, decking and fencing specialists, and community organizations; for example, the company donated lumber and cutting services to Boy Scout Troop 9060 in Woodbury for an Eagle Scout project.
 
-Siwek emphasizes its local roots and environmental stewardship. In 2019 the company received a Hennepin County Business Recycling Grant and reports that 75.25 percent of its scrap building materials — 153.55 tons — have been diverted from landfill, with aggregate, alternative daily cover, metals, and mixed woods among the recycled streams.
+The business emphasizes its local roots and community commitment, stating it believes in supporting organizations that make a difference. Its recycling initiative, supported by a Hennepin County grant, reflects a focus on sustainability alongside its role as a neighborhood building-materials headquarters.
 
 ## Known for
 - Family-owned and operated since 1933
-- Full-line exterior door supplier including Andersen storm doors
-- Recycling program diverting over 75 percent of scrap building materials
-- Authorized distributor for Milwaukee Tool, GRK Fasteners, and Andersen Windows
-- Community-focused with documented material donations to local organizations
+- Recycles 75% of scrap building materials (153.55 tons in 2019)
+- Offers custom cutting of lumber to size
+- Stocks exterior doors, construction lumber, redwood, cedar, and decking materials
+- Distributes Milwaukee tools, Andersen doors, and GRK fasteners
 
 ## Capabilities
-- Building materials distribution
-- Exterior door supply and consultation
-- Lumber yard operations
-- Power tool and fastener retail
-- Contractor and homeowner sales
+- Custom lumber cutting
+- Building materials recycling
+- Building materials distribution (lumber, doors, decking)
+- Power tool and accessory distribution
+- Fastener distribution
 
 ## Industries
-- Residential construction
-- Remodeling and renovation
-- Decking and fencing construction
-- General contracting
+- Construction
+- Residential building
+- Decking
+- Fencing
+- Landscaping
+- Community organizations
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -208,13 +107,13 @@ Siwek emphasizes its local roots and environmental stewardship. In 2019 the comp
 <details><summary>Sources</summary>
 
 - Founded 1933 -> /
-- Family-owned lumberyard -> /about-us
-- Location: 2536 Marshall St NE, Minneapolis, MN 55418 -> /
-- Products: exterior doors, construction lumber, redwood, cedar fencing/decking -> /
-- Brands carried: Andersen storm doors, Milwaukee tools, GRK fasteners -> /
-- Hennepin County Business Recycling Grant 2019 -> /about-us
-- Recycled 153.55 tons, 75.25% of scrap materials -> /about-us
+- Family-owned -> /about-us
+- Location: Minneapolis, MN -> /
+- Products: exterior doors, construction lumber, redwood, cedar, fencing, decking -> /
+- Distributes Milwaukee tools, Andersen doors, GRK fasteners -> /
+- Recycling program: 153.55 tons recycled in 2019, 75.25% diversion -> /about-us
 - Community partnership with Boy Scout Troop 9060 -> /about-us
+- Custom cutting service mentioned -> /about-us
 </details>
 
 ---
@@ -338,7 +237,7 @@ SkyWater Technology is headquartered in Bloomington, Minnesota. The company was 
 
 The company provides semiconductor foundry services including wafer manufacturing, advanced packaging, and technology development across three U.S. facilities. Its flagship Bloomington fab offers 91,000 square feet of Class 10 cleanroom space with 200 mm equipment supporting 90 nm and larger geometries. The Kissimmee, Florida facility adds 36,000 square feet of Class 1,000 and 10,000 cleanroom space with 200/300 mm equipment for advanced packaging and heterogeneous integration. The Austin, Texas fab (acquired in 2025) provides 114,000 square feet of Class 1 cleanroom, 30,000 square feet of probe and test area, and 200 mm equipment capable of 65 nm geometries. SkyWater’s process portfolio spans CMOS, MEMS, photonics, superconducting devices, rad-hard technologies, and read-out integrated circuits (ROICs).
 
-SkyWater serves customers in quantum computing, automotive, aerospace and defense, high-performance computing and AI, industrial, and biomedical markets. Its customer base includes fabless semiconductor companies, integrated device manufacturers (IDMs), original equipment manufacturers (OEMs), startups, government agencies, and research organizations. Notable partnerships include collaboration with IonQ on quantum processors and the ThermaView™ product line for advanced ROICs used in aerospace, defense, automotive, and industrial applications.
+The foundry serves fabless companies, integrated device manufacturers, OEMs, startups, government agencies, and research organizations across quantum computing, automotive, aerospace and defense, high-performance computing and AI, industrial, and biomedical markets. Its DMEA-accredited supplier status qualifies it for radiation-hardened and other mission-critical programs.
 
 SkyWater differentiates itself through a collaborative foundry model branded as Technology-as-a-Service (TaaS), which aims to accelerate the path from concept to production. The company emphasizes secure, domestic manufacturing to support resilient supply chains and national technology leadership, and it holds DMEA accreditation as a supplier for defense applications.
 
@@ -382,9 +281,6 @@ SkyWater differentiates itself through a collaborative foundry model branded as 
 - Class 1,000 cleanroom
 - Class 10,000 cleanroom
 - Probe and test equipment
-
-## Certifications
-- AS 9100
 
 ## Company details
 - **Company Type:** Manufacturer

@@ -3,50 +3,50 @@
 **Old description:** We provide high quality & high efficiency solar energy products.
 
 ## About
-Runergy Alabama operates a solar panel assembly plant in Huntsville, Alabama, established in 2023 when its parent company Runergy USA Inc expanded U.S. manufacturing. The facility is the first of its kind in Alabama to produce N‑type solar panels. Ownership details are not publicly disclosed, but the business is a subsidiary of Runergy USA Inc, which is part of a global photovoltaic group.
+Runergy Alabama operates a solar module manufacturing plant in Huntsville, Alabama. The facility was established in 2023 when Runergy USA Inc expanded its North American operations, building the state’s first solar panel production facility of its kind dedicated to N-type panel assembly. The company is a subsidiary of Runergy USA Inc, which traces its roots to global photovoltaic technology leadership and research partnerships with institutions such as Fraunhofer-ISE and the University of New South Wales.
 
-The company manufactures high‑efficiency solar modules, offering both N‑type and P‑type panels. Its Huntsville plant assembles modules using advanced cell technology, and the firm also develops and installs solar power projects for large‑scale and distributed installations nationwide. Production capacity and headcount figures have not been released.
+The plant produces high-efficiency solar modules using both N-type and P-type solar cells. N-type panels are highlighted for superior low-light performance, maximizing energy output during cloudy conditions and at dawn and dusk. Beyond module manufacturing, Runergy Alabama offers solar project development and installation services, drawing on the parent company’s global experience in large-scale and distributed solar installations.
 
-Runergy Alabama serves the solar energy and photovoltaic industries, targeting utility‑scale developers, commercial and industrial project owners, and residential installers. Its global project experience includes partnerships with research institutes such as Fraunhofer‑ISE and the University of New South Wales.
+The company serves the solar energy, photovoltaic, and renewable energy sectors. Its customer base includes developers of utility-scale solar farms, commercial and industrial rooftop projects, and distributed generation installations across the United States. Runergy’s global project development expertise positions it to support a range of project sizes and configurations.
 
-The company emphasizes innovation driven by partnerships with research institutes, and its N‑type panels are marketed for superior low‑light performance. The corporate ethos highlights humility, practicality, honesty, generosity, and gratitude as guiding principles for delivering reliable, high‑efficiency solar solutions.
+Runergy Alabama differentiates itself through its first-in-state N-type manufacturing capability, research partnerships with Fraunhofer-ISE and the University of New South Wales, and a stated mission to drive innovation toward carbon neutrality. The facility is described as state-of-the-art, emphasizing meticulous process management and high-efficiency solar solutions.
 
 ## Known for
-- First solar panel production facility in Alabama producing N‑type panels
-- Partnerships with Fraunhofer‑ISE and University of New South Wales
-- N‑type panels with superior low‑light performance
-- High‑efficiency solar modules (N‑type and P‑type)
-- Solar project development and installation capability
+- First solar panel production facility in Alabama producing N-type panels
+- Partnerships with Fraunhofer-ISE and University of New South Wales
+- N-type panels with superior low-light performance
+- Global leader in solar energy innovation
+- State-of-the-art solar module manufacturing facility
 
 ## Capabilities
 - Solar module manufacturing
 - Solar panel assembly
 - Solar project development
-- Solar power project installation
-- High-efficiency solar cell production
+- Solar installation
+- N-type solar cell production
+- P-type solar cell production
 
 ## Industries
 - Solar energy
 - Photovoltaic
 - Renewable energy
+- Solar power project development
 
 ## Company details
 - **Company Type:** Manufacturer
 - **Founded:** 2023
-- **Ownership:** Subsidiary of Runergy USA Inc
 - **Headquarters:** Huntsville, Alabama
 
 <details><summary>Sources</summary>
 
-- Huntsville, Alabama location -> db
+- Huntsville, Alabama headquarters -> db
 - Founded in 2023 -> /about
-- First solar panel production facility in Alabama producing N-type panels -> /about
-- Manufactures N-type and P-type solar panels -> /
+- First solar panel production facility in Alabama producing N-type panels -> /about, /
+- Manufactures high-efficiency solar modules (N-type and P-type) -> /, /about
+- Solar project development and installation capabilities -> /about
 - Partnerships with Fraunhofer-ISE and University of New South Wales -> /about
-- Solar project development and installation capability -> /about
 - Global leader in solar energy innovation -> /
-- Corporate ethos: humility, practicality, honesty, generosity, gratitude -> /
-- Headquarters also in City of Industry, CA and West Covina, CA -> /
+- LinkedIn URL -> db
 </details>
 
 ---
@@ -92,8 +92,7 @@ The company distinguishes itself through a willingness to source custom-made pie
 - Custom orders available -> /
 - Store address: 9304 4th St NW -> /
 - Store hours listed -> /
-- Products: furniture, blankets, pillows, incense -> /
-- Southwestern decor focus -> /
+- Phone:  -> /
 </details>
 
 ---
@@ -155,7 +154,7 @@ The company offers end‑to‑end clinical trial supply services: sourcing of co
 
 RxSource serves pharmaceutical and biotechnology sponsors running clinical trials worldwide. Concrete examples include sourcing comparator drugs, co‑medications, rescue medications and ancillary supplies, as well as providing labelling, kitting, and distribution for trial materials across multiple temperature ranges.
 
-The company states its differentiating purpose is a "patient‑first" philosophy, aiming to improve the lives of 10 million patients in ten years. It emphasizes industry‑timelines, flexible capacity planning, an experienced team, and a quality‑first approach that goes beyond regulatory minimums.
+The company states that its patient-first mission—aiming to improve the lives of 10 million patients in 10 years—drives its culture. It differentiates itself through timelines, flexible capacity planning, an experienced team, and a quality-first approach that goes beyond regulatory requirements.
 
 ## Known for
 - Industry-leading timelines for clinical trial supply projects

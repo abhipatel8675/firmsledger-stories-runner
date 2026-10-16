@@ -63,88 +63,7 @@ Sapphire Systems differentiates itself through its patented EFG growth technolog
 
 # Sasquatch Water Company, LLC
 
-**Old description:** Providing Central Oregon with safe, clean 12 step Reverse Osmosis filtered and Alkaline drinking water at an affordable price.
-
-## About
-Sasquatch Water Company, LLC operates from Redmond, Oregon, delivering purified alkaline drinking water and bagged ice to customers throughout Central Oregon. The company also designs and builds the Diamond Skid, an industrial-grade reverse osmosis system sold in domestic and international markets.
-
-The core service is a 12-step reverse osmosis filtration process that employs more than 50 individual filters to produce alkaline water with a pH of 8.8. The process includes pre-filtration down to 20 microns, carbon filtration, a 5-micron pre-filter, a high-pressure stainless steel RO pump, a .0002-micron membrane, UV sterilization, and optional ozone treatment. Water is stored in FDA-approved tanks and repressurized for consistent delivery. In addition to water, the company produces two styles of bagged ice: Cristal Clear half-dome and nugget ice. On the equipment side, the Diamond Skid line features a powder-coated steel frame, prewired electrical panel, stainless steel booster pump, and components that carry NSF, FDA, UL, or ETL approvals. Models share a common footprint of 90″L × 30″W × 74″H and can be customized with feed pumps, TDS meters, water softeners, and chemical injection.
-
-Residential and commercial customers in Central Oregon subscribe to 24/7 water delivery, while the Diamond Skid systems serve domestic and international buyers needing turnkey water purification for bottling, vending, or industrial processes. The company does not disclose specific client names or industry verticals beyond the general markets it addresses.
-
-Sasquatch Water emphasizes purity and affordability, citing independent lab certification of its water and a filtration train designed to remove 99.9% of impurities from source, plumbing, and municipal lines. The Diamond Skid was developed to answer the call for pure, quality, consumable drinking water in varied feed-water conditions, with recovery rates up to 60% and salt rejection of 90–98%.
-
-## Known for
-- 12-step reverse osmosis filtration with 50+ individual filters
-- 24/7 water delivery service across Central Oregon
-- Independent lab certified water purity
-- Two proprietary bagged ice formats (Cristal Clear half-dome, Nugget ice)
-- Diamond Skid industrial RO systems with NSF/FDA/UL/ETL approved components
-
-## Capabilities
-- 12-step reverse osmosis filtration
-- Alkaline water production (pH 8.8)
-- Bagged ice manufacturing (Cristal Clear half-dome, Nugget ice)
-- Industrial reverse osmosis system manufacturing (Diamond Skid)
-- Water delivery service (24/7)
-- Pre-filtration (20 micron AG, 5 micron)
-- Carbon filtration (chlorine, chloramine, solvents, lead removal)
-- High-pressure RO pump (160 psi)
-- Reverse osmosis membrane (.0002 micron)
-- UV sterilization (99.9% bacteria elimination)
-- Ozone treatment (optional)
-- Post carbon filtration (coconut shell carbon block)
-- Repressure system (12 GPM)
-- Storage in FDA-approved tanks
-- Customizable feed water treatment (feed pump, water softener, chemical injection)
-- TDS monitoring
-- Hour metering
-
-## Industries
-- Residential and commercial water delivery
-- Industrial water purification equipment
-
-## Equipment
-- Diamond Skid reverse osmosis system
-- AG Pre-Filtration (20 micron)
-- Carbon Filtration
-- 5 Micron Pre-Filter
-- R.O. Pump (stainless steel, 160 psi)
-- Reverse Osmosis Membrane (.0002 micron)
-- FDA-approved storage tanks
-- Repressure System (12 GPM)
-- Pressure Tank (32-gallon)
-- Post Carbon Filtration (coconut shell carbon block)
-- Ultraviolet Sterilizer
-- Ozone generator (optional)
-- Feed pump
-- TDS meter
-- Hour meter
-- Water softener
-
-## Certifications
-- NSF/FDA/UL/ETL approved components
-- Independent lab certified purity
-
-## Company details
-- **Company Type:** Manufacturer
-- **Headquarters:** Redmond, Oregon
-
-<details><summary>Sources</summary>
-
-- Location: Redmond, OR -> db
-- 12-step RO filtration with 50+ filters -> /
-- Alkaline water pH 8.8 -> /
-- Bagged ice: Cristal Clear half-dome and Nugget ice -> /
-- Diamond Skid industrial RO system -> /services
-- Diamond Skid components NSF/FDA/UL/ETL approved -> /services
-- 24/7 water delivery -> /
-- Independent lab certified purity -> /
-- Diamond Skid specifications (recovery up to 60%, salt rejection 90-98%) -> /services
-- Headquarters address 1737 SW Odem Medo Redmond OR 97756 -> /
-</details>
-
----
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Saturn Electronics Corporation
 
@@ -279,53 +198,54 @@ SauceWorks differentiates itself by emphasizing industrial-grade standards in a 
 **Old description:** "Sauder's is simply an unexpected treasure, located in small town Roanoke. Great staff, great prices, great customer service. What more can you ask for? Check them out!"
 
 ## About
-Sauder Furniture and Design Studio operates from a 20,000-square-foot showroom in Roanoke, Illinois, a small town in the central part of the state. The business traces its roots to 1907, when Grandpa Sauder opened the original store, and it has remained family-owned ever since. Today the company is led by fifth-generation owner Wade Sauder, who serves as president and customer relations associate, and fourth-generation co-owner Jeff Sauder, who oversees customer relations and flooring installation.
+Sauder Furniture and Design Studio operates from a 20,000-square-foot location in Roanoke, Illinois. The business traces its roots to 1907 when Grandpa Sauder founded the company, and it has remained family-owned across five generations. Current leadership includes fifth-generation owner Wade Sauder, who serves as president and customer relations associate, and fourth-generation co-owner Jeff Sauder, who oversees flooring installation and customer relations.
 
-The store functions as a full-service furniture retailer and design studio. Its product assortment includes sofas, loveseats, chairs, recliners, sectionals, bedroom sets, mattresses, and dining-room pieces, along with a flooring selection covering carpet, hardwood, luxury vinyl plank, and tile. Beyond sales, the staff provides interior design consulting, measure-and-install services, and a professional installation team that handles everything from flooring to window treatments. Home decor, candles, and fashion accessories round out the offering.
+The company functions as a full-service furniture store and design studio, offering in-stock furniture across six showrooms — including sofas, loveseats, chairs, recliners, sectionals, bedroom sets, mattresses, and dining collections. Beyond furniture, Sauder’s carries flooring lines such as carpet, hardwood, luxury vinyl plank, and tile, and provides measure-and-install services for both flooring and window treatments. An in-house design team consults with clients on space planning and product selection, while a professional installation crew handles delivery and setup.
 
-The customer base is primarily residential, drawing from Roanoke and the surrounding Central Illinois region, with a broader reach across the Midwest. The company emphasizes its role as a community fixture, serving neighbors and friends through a team that includes in-house designers, delivery and installation crews, and customer relations specialists.
+Sauder’s primarily serves residential customers throughout Central Illinois and the broader Midwest. Homeowners work with design consultants like Mary Lou Littlejohn to furnish and remodel living spaces, while the installation team coordinates projects from flooring to window coverings. The store also stocks home decor, candles, and fashion accessories, catering to walk-in shoppers and design clients alike.
 
-The Sauder family positions the business on a tradition of personal service that spans generations. Wade Sauder describes great customer service not just as a tradition but as a way of life, while Jeff Sauder highlights trust, relationships, and making every customer feel like part of the family. That heritage, combined with a full-service model under one roof, is presented as the core differentiator.
+The company emphasizes its family-owned heritage and community focus as differentiators. Leadership describes great customer service as a tradition and a way of life, and the staff — many of whom are local residents — take pride in serving neighbors and friends. The combination of a large showroom, integrated design services, and professional installation under one roof is presented as a full-service experience that sets Sauder’s apart from typical furniture retailers.
 
 ## Known for
-- Family-owned and operated for five generations
-- 20,000 sq ft full-service furniture store and design studio
-- In-house interior designers and professional installation team
-- Measure-and-install services for flooring and window treatments
-- Broad product range including furniture, flooring, home decor, and accessories
+- Family-owned since 1907
+- 20,000 sq ft full-service store and design studio
+- In-house design consultants and professional installation team
+- Six showrooms featuring furniture, flooring, and home decor
+- Measure and install services for carpet, hardwood, LVP, and tile
 
 ## Capabilities
-- Retail furniture sales
+- Interior design consultation
+- Furniture retail
 - Flooring sales and installation
-- Interior design consulting
-- Delivery and set-up
+- Window treatment installation
+- Delivery and setup
 - Measure and install services
-- Home decor and accessories retail
 
 ## Industries
-- Residential furniture retail
-- Flooring retail and installation
-- Home decor retail
-- Interior design services
+- Residential
+- Home furnishings
+- Interior design
+- Flooring
 
 ## Company details
 - **Company Type:** Retailer
 - **Founded:** 1907
 - **Ownership:** Family-owned
-- **Headquarters:** Roanoke, Illinois
+- **Headquarters:** Roanoke, IL
 
 <details><summary>Sources</summary>
 
 - Founded in 1907 by Grandpa Sauder -> /about-us
-- Family-owned business, now fifth generation (Wade Sauder) and fourth generation (Jeff Sauder) -> /about-us
-- Located in Roanoke, Illinois, 20,000 sq ft full-service furniture store and design studio -> /about-us
-- Offers furniture categories: sofas, loveseats, chairs, recliners, sectionals, bedroom, mattresses, dining -> /
-- Offers flooring: carpet, hardwood, LVP, tile -> /
-- Provides measure and install services, delivery and set-up, interior design consulting -> /about-us, /
-- Team includes in-house designers, delivery, installation, customer relations specialists -> /about-us
-- Serves residential customers in Illinois and Midwest, Central Illinois area -> /about-us
-- Emphasizes family tradition of customer service, trust, relationships -> /about-us
-- Social media handles: Instagram and Facebook @ShopSauderFurniture -> /
+- Family-owned business across five generations -> /about-us
+- Headquartered in Roanoke, IL -> /about-us, /
+- 20,000 sq ft full-service furniture store and design studio -> /about-us
+- Six showrooms with in-stock furniture -> /
+- Flooring offerings: carpet, hardwood, LVP, tile -> /
+- Measure and install services for flooring and window treatments -> /, /about-us
+- In-house design consultants and professional installation team -> /about-us
+- Serves residential customers in Central Illinois and Midwest -> /about-us
+- Wade Sauder (5th generation) President and Customer Relations Associate -> /about-us
+- Jeff Sauder (4th generation) Co-owner and Customer Relations Associate -> /about-us
 </details>
 
 ---

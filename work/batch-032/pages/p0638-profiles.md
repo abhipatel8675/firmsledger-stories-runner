@@ -170,11 +170,12 @@ The company states its goal is to help clients save money on electricity, which 
 - Hattiesburg, MS location -> db
 - Ryan Ladner, General Manager, USM graduate -> /about
 - Services: residential, commercial, agricultural, government solar installation -> /
-- Service areas: Jackson, Hattiesburg, McComb, Laurel, Magee, MS -> /
-- Team described as small, close-knit group of Mississippians -> /about
-- Goal: help clients save money on electric bills -> /
-- USDA Grant assistance mentioned in navigation -> /
-- Testimonials from local customers -> /
+- Service area: Jackson, Magee, McComb, Hattiesburg, Laurel, MS -> /
+- General Manager Ryan Ladner, USM graduate, advocate for Mississippi solar -> /about
+- Company describes itself as small, close-knit team valuing honesty and hard work -> /about
+- Mission: help clients save money on electric bills -> /
+- Testimonials from Dave Kinnewack, Greg Hottsteiter, Reed and Carol Whitehead, Casey Pickler -> /
+- Phone and hours: , Mon-Fri 7am-5pm -> /
 </details>
 
 ---
@@ -190,13 +191,11 @@ The company provides solar panel installation using REC Alpha Pure and Q.Peak pa
 
 Solar Wave serves residential homeowners across Colorado’s Front Range, with completed projects in Evergreen, University Park, Saddle Rock, Littleton, Arvada, and Golden. Customer stories feature homeowners such as Thomas Boh and Houston Moore. The company also assists with financing options including ownership with discounted equipment, a Lightreach power purchase agreement, and a Propel prepaid lease that applies federal incentives upfront.
 
-Solar Wave distinguishes itself as a local, owner-operated installer rather than a national door-knocking operation, emphasizing transparent line-by-line pricing, 100% online quotes without high-pressure sales, and the combination of equipment at negotiated prices.
-
 ## Known for
-- 100% online quote with no high-pressure sales
-- Transparent pricing line by line
-- 25-year equipment and workmanship warranties
-- In-house licensed installation teams
+- 100% online quote — no high-pressure sales
+- Transparent pricing, line by line
+- 25-year equipment & workmanship warranties
+- In-house licensed install teams
 
 ## Capabilities
 - Solar panel installation
@@ -251,13 +250,14 @@ The company provides turnkey solar installations, including battery storage usin
 
 Customers range from homeowners adding panels to existing arrays to businesses seeking energy independence. Reviews cite projects such as adding eight panels with a Tesla Powerwall, replacing inverters on older systems, and resolving bird‑netting issues. The company services both new installations and legacy systems across its Arizona territory.
 
-SolarOne differentiates itself with a performance guarantee that compensates customers for any shortfall in promised energy production.
+The firm emphasizes prompt, responsive service from a dedicated local team rather than subcontractors.
 
 ## Known for
 - Performance guarantee compensating for undelivered power
 - Direct distributor pricing with no middle‑man markups
 - Over 20 years of engineering and installation experience
 - Tesla Certified Installer for Powerwall battery systems
+- Over 20 years of combined experience among licensed installers and engineers
 
 ## Capabilities
 - Photovoltaic system design and installation
@@ -309,75 +309,7 @@ SolarOne differentiates itself with a performance guarantee that compensates cus
 
 # SolarPowerVA
 
-**Old description:** Solar Panel and EV Charging Installation, Maintenance, and Repair - VA, WV, MD
-
-## About
-SolarPowerVA operates from The Plains, Virginia, as a locally owned and operated installer and service provider for solar energy and electric-vehicle charging systems. The company is licensed to work across Virginia, West Virginia, and Maryland, and partners with Vesta Home Energy to deliver turnkey projects for residential and commercial customers.
-
-Its core services span solar panel installation, EV charging station installation (certified for Tesla and Enphase equipment), home smart panel upgrades, solar maintenance and monitoring, smart energy system repairs, and backup power alternatives including Generac-certified generators, batteries, and inverters. SolarPowerVA performs all installations and maintenance in-house without subcontracting, and manages the full permitting process—utility applications, HOA approvals, and local permits—for each project.
-
-The company serves homeowners and businesses throughout the three-state region, including rural areas where grid reliability is a concern. Customers range from individual residences seeking energy independence and lower utility bills to commercial properties adding EV charging infrastructure and backup power.
-
-SolarPowerVA emphasizes its local presence as a differentiator, positioning itself against out-of-state contractors by offering in-house crews, direct manufacturer certifications, US-made products with warranties, and a single point of contact from design through post-installation service.
-
-## Known for
-- In-house installations and maintenance with no subcontracting
-- Full permit and application management (utility, HOA, local)
-- Manufacturer certifications for Tesla, Enphase, and Generac equipment
-- Licensed in Virginia, West Virginia, and Maryland
-- US-made products with top-tier warranties
-
-## Capabilities
-- Solar panel installation
-- EV charging station installation
-- Home smart panel installation
-- Solar panel maintenance & monitoring
-- Smart energy system repairs
-- Backup power system installation (generators, batteries, inverters)
-- Permit and application management
-
-## Industries
-- Renewable energy
-- Solar energy
-- Electric vehicle charging infrastructure
-- Residential energy services
-- Commercial energy services
-- Backup power systems
-
-## Equipment
-- Tesla EV chargers
-- Enphase energy systems
-- Generac generators
-- Smart panels
-- Battery storage systems
-- Inverters
-
-## Certifications
-- Generac certified
-- Tesla certified
-- Enphase certified
-
-## Company details
-- **Company Type:** Installer / service company
-- **Ownership:** Locally owned and operated
-- **Headquarters:** The Plains, Virginia
-
-<details><summary>Sources</summary>
-
-- Location: The Plains, Virginia -> db
-- Licensed in VA, WV, MD -> /
-- Locally owned and operated -> /
-- Partners with Vesta Home Energy -> /
-- Services: solar panel installation, EV charging installation, smart panels, maintenance, repairs, backup power -> /
-- In-house installations, no subcontracting -> /
-- Handles permits, utility applications, HOA applications -> /
-- Certified with Tesla, Enphase, Generac -> /
-- US-made products, top warranties -> /
-- Serves residential and commercial customers in three-state region -> /
-- Staff names Louis, Paul, Joseph from reviews -> /
-</details>
-
----
+_skipped: The read operation timed out_
 
 # Solara Solar
 
@@ -491,15 +423,14 @@ Solera Energy positions its differentiation on delivering a complete energy ecos
 <details><summary>Sources</summary>
 
 - Headquarters in Springfield, Missouri -> db
-- Service areas across Missouri, Arkansas, Kansas, Illinois -> db
-- Integrated energy ecosystem with solar, backup power, structural protection -> /
-- Custom design and installation process (Qualify, Design, Install, Support) -> /
-- Industries served: Architects, Auto Dealerships, Healthcare, Hotels & Hospitality, Manufacturing Centers, Retail & Office, School & Nonprofit -> /
-- Proprietary ONE Gutter Guard™ system -> /
-- PWRcell by Generac battery storage and Generac generator backup -> /
-- Residential, commercial, industrial, utility scale services -> /
-- System monitoring and proactive support -> /
-- Design department creates custom blueprints -> /
+- Service areas across Missouri, Arkansas, Kansas, Illinois -> homepage
+- Industries served: Architects, Auto Dealerships, Healthcare, Hotels & Hospitality, Manufacturing Centers, Retail & Office, School & Nonprofit, Agricultural -> homepage
+- Process: Qualify, Design, Install, Support -> homepage
+- Integrated energy ecosystem combining solar, backup power, structural protection -> homepage
+- ONE Gutter Guard™ system for structural protection -> homepage
+- Generac PWRcell battery and backup generator options -> homepage
+- Address: 1725 N Packer Rd, Springfield, MO 65803 -> homepage
+- Phone:  -> homepage
 </details>
 
 ---

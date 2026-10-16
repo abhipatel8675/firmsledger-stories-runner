@@ -160,9 +160,7 @@ It also promotes a “Quality, Customer-Driven, Agile” approach and notes that
 
 ## Known for
 - ISO 9001:2015 certified quality management
-- Made in USA manufacturing
-- Drawing and extrusion of insulated copper wire
-- Quality, Customer-Driven, Agile operating philosophy
+- Domestic manufacturing (Made in USA)
 
 ## Capabilities
 - Drawing and extrusion of insulated copper wire
@@ -322,8 +320,8 @@ The company differentiates itself through original artwork, hand screen printing
 - Products: 100% cotton tees, 50/50 blend hoodies, onesies, hats, accessories -> /
 - Country-themed designs (tractors, outhouses, cows, etc.) -> /
 - Free shipping on all orders -> /
-- Contact: Steve, steve@livincountryusa.com, 2034053015 -> /
-- Customer testimonials from Instagram and X -> /
+- Contact: ,  -> /
+- Customer testimonials referencing responsible sourcing and service -> /
 </details>
 
 ---
@@ -364,108 +362,11 @@ The company has not published a statement about its competitive differentiators 
 
 # Shadows Custom Apparel & Promotional Products
 
-**Old description:** We earn your trust through communication, quality results, and always doing the right thing.
-
-## About
-Shadows Custom Apparel & Promotional Products operates from Boise, Idaho. The company is led by CEO Mike Intravia and VP of Sales & Branding Laurie Intravia, supported by a team that includes operations, marketing, sales, and graphic design staff.
-
-The shop specializes in custom embroidery, screen printing, and branded promotional products, handling projects from initial concept through finished goods. Its facility houses equipment for both embroidery and screen printing, and a staff of approximately ten — including operations, marketing, sales, and graphic design — manages design, production, and account coordination.
-
-Clients range from local businesses such as Dennis Dillon Powersports and community events like the Greek Food Festival of Boise to national brands seeking branded merchandise. The company serves organizations looking for custom apparel and promotional items for teams, customers, and communities, emphasizing a collaborative process from concept to delivery.
-
-The company positions itself on a balance of capacity and personal attention, summarizing its approach as 'big enough to handle your order... and small enough to care about every detail,' with an emphasis on communication, quality results, and always doing the right thing.
-
-## Known for
-- Big enough to handle your order, small enough to care about every detail
-- Expert staff and state-of-the-art facility
-- Communication, quality results, and always doing the right thing
-- Concept-to-finished-goods workflow
-
-## Capabilities
-- Custom embroidery
-- Custom screen printing
-- Apparel decoration
-- Promotional products
-- Graphic design
-- Branded merchandise development
-
-## Industries
-- Local business
-- National brands
-- Event and festival
-- Corporate branding
-- Powersports
-
-## Company details
-- **Company Type:** Manufacturer
-- **Employees:** 10
-- **Headquarters:** Boise, Idaho
-
-<details><summary>Sources</summary>
-
-- Location: Boise, Idaho -> db
-- Leadership team names and roles -> /about-us
-- Team size of 10 from listed staff -> /about-us
-- Services: custom embroidery, screen printing, promotional products -> / (homepage title)
-- Client examples: Dennis Dillon Powersports, Greek Food Festival of Boise -> / (homepage testimonials)
-- Differentiator tagline: 'big enough to handle your order... small enough to care about every detail' -> / (homepage)
-- Company description: 'We earn your trust through communication, quality results, and always doing the right thing' -> db and / (homepage)
-- LinkedIn URL -> db
-</details>
-
----
+_skipped: Remote end closed connection without response_
 
 # Shenandoah Planing Mill
 
-**Old description:** SPM specializes in Countertops, Stair Parts, Exterior Features, Custom Glue-ups, and innovative woodworking solutions.
-
-## About
-Shenandoah Planing Mill was founded in 2017 by father-and-daughter team John and Amanda in Charles Town, West Virginia, with the goal of reviving a traditional planing mill in the state's Eastern Panhandle. The family-owned business has since assembled a team of industry professionals dedicated to working with Appalachian hardwoods.
-
-The mill produces a range of custom wood products including countertops, stair parts, exterior features, and glue-up panels, while also supplying hardwood and softwood lumber, hardwood plywood, architectural mouldings, flooring, and siding. In-house capabilities cover custom moulding production—with thousands of feet of hardwood trim stocked for quick pickup or delivery—as well as kiln drying, planing, sawing, and glue-up services performed on the company's production equipment.
-
-Customers span residential and commercial construction, cabinetry, furniture making, and architectural millwork. Testimonials reference projects such as high-end bars, cabinetry, home trim, and custom beds, indicating a client base of contractors, woodworkers, and individual homeowners.
-
-The company emphasizes preserving woodworking craftsmanship by training new craftspeople on traditional techniques alongside modern methods, and it highlights responsible sourcing of West Virginia hardwoods as a core differentiator. Its stated mission centers on building lasting partnerships through innovative ideas, quality, and service.
-
-## Known for
-- In-house custom moulding production with thousands of feet of hardwood trim stocked for quick pickup or delivery
-- Custom kiln drying, planing, sawing, and glue-up services
-- Focus on Appalachian hardwoods with responsible sourcing and harvesting practices
-- Training next-generation craftspeople using traditional techniques and modern equipment
-
-## Capabilities
-- Custom wood parts (countertops, stair parts, exterior features, glue-ups)
-- Hardwood lumber supply
-- Kiln drying
-- Hardwood plywood supply
-- Architectural moulding production
-- Saw milling
-- Hardwood flooring supply
-- Siding supply
-- Planing
-- Sawing
-- Custom glue-ups
-
-## Company details
-- **Company Type:** Manufacturer
-- **Founded:** 2017
-- **Ownership:** Family-owned
-- **Headquarters:** Charles Town, West Virginia
-
-<details><summary>Sources</summary>
-
-- Founded in 2017 by John and Amanda -> /about
-- Headquarters in Charles Town, West Virginia -> db
-- Produces custom mouldings in-house and stocks hardwood trim for quick pickup/delivery -> /
-- Offers custom kiln drying, planing, sawing, and glue-up services -> /
-- Specializes in countertops, stair parts, exterior features, custom glue-ups -> /
-- Focus on Appalachian hardwoods and responsible sourcing -> /about
-- Trains next-generation craftspeople using traditional and modern techniques -> /about
-- Customer testimonials from Jeremie D., North Mountain Timber Craft, Doug S. -> /
-</details>
-
----
+_skipped: Remote end closed connection without response_
 
 # Sheridan Sheet Metal Co.
 
@@ -481,10 +382,9 @@ Sheridan serves residential and commercial contractors, as well as homeowners an
 The company differentiates itself through experienced installation crews familiar with its product line, tailored project plans rather than one-size-fits-all solutions, and a deep local presence spanning more than 75 years.
 
 ## Known for
-- Experienced installation teams with deep product knowledge
-- Tailored project plans instead of one-size-fits-all solutions
-- More than 75 years of continuous service in the Twin Cities
-- Inventory of 2,000 specialized metal and copper roofing and gutter products
+- Experienced installation teams that solve on-site challenges
+- Tailored project plans for each unique structure
+- Over 75 years of continuous service in the Twin Cities
 - Five-year warranty on residential labor and materials
 
 ## Capabilities

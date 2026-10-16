@@ -55,7 +55,7 @@ STS Cable Services positions itself on transparency, safety compliance, and cust
 **Old description:** Our entire line of Off-Road products will upgrade every one of the elements of your ride: speed, power, and style.
 
 ## About
-STV Motorsports operates from a facility in Las Vegas, Nevada. The company does business as STV Motorsports, LLC, though the founding year and ownership structure are not publicly disclosed on its website.
+STV Motorsports operates from a facility in Las Vegas, Nevada. The business is organized as a limited liability company, though the founding year and founders' names are not disclosed in public materials.
 
 The business stocks and sells a broad catalog of off-road parts and accessories — rocker switches, LED light bars, fog lights, racing harnesses, switch dash panels, mounting brackets, and UTV-specific tools — covering cars, trucks, UTVs, ATVs, boats, scooters, motorcycles, snowmobiles, and sand rails. In addition to reselling established brands, the shop runs a CNC fabrication department that builds custom plasma cutting tables, as noted by a racing team that commissioned one for its own shop.
 
@@ -169,9 +169,9 @@ The company emphasizes thoughtful ingredient selection, careful craftsmanship, a
 ## About
 SXTH Element Engineering is based in Spartanburg, South Carolina. The company began in a garage with a small team focused on designing performance parts for Toyota vehicles.
 
-The company designs and manufactures a range of performance parts including cold-air intakes, blow-off valves, turbo inlet pipes, catch cans, recovery points, winch trays, front-mount intercoolers, and ECU calibration kits. Products are designed in-house and tested on-road, with components such as 304 stainless steel CNC-machined flanges.
+The company designs and manufactures performance aftermarket parts primarily for Toyota platforms (Tacoma, Tundra, 4Runner, Land Cruiser, GR Corolla) as well as Ford Bronco and Hyundai/Kia models (K5 GT, Sonata N-Line, Elantra N). Product lines include cold-air intakes (branded CPLT), off-road trail pipes, blow-off valves, turbo inlet pipes, front-mount intercoolers, recovery points, bed MOLLE panels, and ECU calibration kits. Parts are designed in-house, CNC-machined from 304 stainless steel with thick flanges, and validated through on-road and track testing.
 
-SXTH Element serves the automotive aftermarket, targeting enthusiasts and off-road drivers. Its product line focuses on late-model Toyota trucks and SUVs—including the 2024+ Tacoma, 2025+ 4Runner, 2022+ Tundra, and 2024+ Land Cruiser—as well as Hyundai and Kia performance models such as the K5 GT, Sonata N-Line, and Elantra N. Parts are sold directly through the company’s website with free shipping on orders over $499.
+SXTH serves the automotive aftermarket, focusing on off-road and performance enthusiasts. The site also lists a 'Dealers of Cali Raised LED' filter, suggesting a dealer network for complementary lighting products, but SXTH’s primary channel appears direct-to-consumer via its web store.
 
 The company emphasizes intentional design, in-house engineering, and real-world testing, positioning its parts as purpose-built for both track and trail use. It highlights a garage-origin ethos, a small-team approach, and a commitment to zero shortcuts in development.
 
@@ -275,88 +275,50 @@ The company differentiates itself through its commitment to chemical-free, natur
 
 # Saco Manufacturing & Woodworking
 
-**Old description:** Originally founded as a manufacturer of wooden water pumps, our company has been an ongoing wood manufacturer for more than 130 years.
-
-## About
-Saco Manufacturing & Woodworking has operated in Saco, Maine since 1872. The business began as a maker of wooden water pumps and has remained a continuous wood manufacturer for over 130 years. Ownership details and founder names are not publicly disclosed.
-
-The company focuses on custom wood turning, producing both large and small turnings. It offers individualized solutions such as matching missing turned elements, modifying designs to meet new requirements, and producing parts from customer drawings. The shop does not publish facility dimensions, employee counts, or annual volume figures.
-
-The firm serves customers requiring custom wood turnings, though specific industry sectors are not identified in its available materials. Its work likely supports restoration, architectural millwork, and specialty component fabrication, but no concrete customer examples are provided.
-
-The company distinguishes itself through its individualized approach, stating it can match missing turned elements, adjust designs to new needs, and bring customer drawings to life. This flexibility, backed by more than a century of wood manufacturing experience, is presented as its core value proposition.
-
-## Known for
-- Over 130 years of continuous wood manufacturing
-- Custom wood turning for large and small components
-- Ability to match missing turned elements from existing parts
-- Design adjustment and modification services
-- Production from customer drawings
-
-## Capabilities
-- Wood Turning
-- Large Turnings
-- Small Turnings
-- Custom wood turning
-- Design modification
-- Reverse engineering of turned parts
-
-## Company details
-- **Company Type:** Manufacturer
-- **Founded:** 1872
-- **Headquarters:** Saco, Maine
-
-<details><summary>Sources</summary>
-
-- Founded in 1872 -> db
-- Headquartered in Saco, Maine -> db
-- Originally manufactured wooden water pumps -> db
-- Specializes in wood turning (large and small turnings) -> db
-- Offers individualized solutions: match missing turned elements, adjust designs, make drawings come to life -> /
-- Over 130 years of wood manufacturing experience -> db
-</details>
-
----
+_skipped: The read operation timed out_
 
 # Sacred Steel Az
 
 **Old description:** To be the leading provider of innovative and precise metal fabrication solutions in Arizona.
 
 ## About
-Sacred Steel AZ operates from Tempe, Arizona, and has accumulated over a decade of experience in custom metal fabrication. The company provides licensed, bonded, and insured welding services throughout the state.
+Sacred Steel AZ operates from Tempe, Arizona. The company was founded by Gabe Castle and has accumulated over a decade of experience in metal fabrication, though a specific founding year is not published. Ownership details such as family, veteran, or woman-owned status are not disclosed.
 
-The shop specializes in precision cutting, welding, and fabrication, offering services that include on-site structural welding, pipe welding and installation, aluminum welding, emergency welding repairs, and custom welding. It handles both residential and commercial projects, producing items such as gates, railings, furniture, water features, planter boxes, and industrial equipment. The company emphasizes competitive pricing and free quotes for all projects.
+The shop provides precision metal fabrication including cutting, welding, and assembly. Core services cover structural welding, pipe welding and installation, aluminum welding, emergency welding repairs, and custom welding. They produce custom builds such as gates, railings, furniture, doors, windows, fencing, water features, planter boxes, shade structures, and industrial equipment. No facility size, headcount, or annual volume figures are disclosed.
 
-Sacred Steel AZ serves homeowners, contractors, architects, and landscapers across Arizona. Past projects include backyard privacy structures, master suite renovations, front yard steel edging and planters, pool-code-compliant gates, and custom shade structures. The company works across residential, commercial, industrial, and landscaping sectors.
+Customers span residential, commercial, industrial, landscaping, and architectural sectors. The company serves homeowners, contractors, architects, and landscape designers; for example, it fabricated a backyard privacy addition for a homeowner, a custom slider door for a master suite renovation, steel edging and planters for a front yard redesign by Dig It Design, custom shade structures, and a gate modified to meet city pool regulations.
 
-The company states that its differentiation lies in its certified and insured workmanship, on-site service capability, and a focus on quality, customer service, and attention to detail. It aims to transform client ideas into durable, aesthetically pleasing metal creations.
+Sacred Steel AZ states its vision is to be Arizona’s provider of innovative and precise metal fabrication solutions, with a mission to bring ideas to life through high-quality, custom metal creations that last. It differentiates itself with licensed, bonded, and insured welding services, free quotes, competitive pricing, on-site service across Arizona, and a focus on quality workmanship and attention to detail.
 
 ## Known for
 - Licensed, bonded, and insured welding services
 - Free quotes for all projects
 - On-site welding services across Arizona
-- Certified and insured workmanship
-- Decade of fabrication experience
+- Emergency welding repairs available
+- Custom fabrication for residential, commercial, and industrial projects
 
 ## Capabilities
 - Precision metal fabrication
-- On-site structural welding
-- Pipe welding and installation
+- Precision cutting
+- Structural welding
+- Pipe welding
 - Aluminum welding
-- Emergency welding repairs
 - Custom welding
+- On-site welding
+- Emergency welding repairs
+- Custom metal fabrication
 - Residential fabrication
 - Commercial fabrication
 - Industrial fabrication
+- Architectural welding
 - Landscaping fabrication
-- Custom design and fabrication (gates, railings, furniture, water features, planter boxes, entry doors, windows, fencing)
 
 ## Industries
 - Residential construction
 - Commercial construction
-- Industrial fabrication
+- Industrial manufacturing
 - Landscaping
-- Architectural metalwork
+- Architecture
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -364,16 +326,19 @@ The company states that its differentiation lies in its certified and insured wo
 
 <details><summary>Sources</summary>
 
-- Headquarters in Tempe, AZ 85288 -> /
-- Over a decade of experience -> /
-- Licensed, bonded and insured welding services -> /
-- Services: precision metal fabrication, on-site structural welding, pipe welding & installation, aluminum welding, emergency welding repairs, custom welding -> /
-- Serves residential, commercial, industrial, and landscaping sectors -> /
-- Offers free quotes -> /
-- Provides on-site services across Arizona -> /
-- Certified and insured workmanship -> /
-- Company prioritizes quality, customer service, and attention to detail -> /
-- Testimonials reference Gabe Castle as lead fabricator -> /
+- Location: Tempe, AZ 85288 -> /
+- Founder: Gabe Castle -> /
+- Services: precision cutting, welding, fabrication -> /
+- Licensed, bonded, insured -> /
+- Free quotes -> /
+- On-site welding across Arizona -> /
+- Custom fabrication for residential, commercial, industrial -> /
+- Materials: steel, aluminum -> /
+- Industries: residential, commercial, industrial, landscaping, architectural -> /
+- Vision/Mission statements -> /
+- Decade of expertise -> /
+- Testimonial examples (backyard privacy, slider door, front yard edging, shade structures, gate modification) -> /
+- Company name, city, state -> db
 </details>
 
 ---
@@ -383,43 +348,34 @@ The company states that its differentiation lies in its certified and insured wo
 **Old description:** We specialize in custom cable assemblies, wire harnesses, and electromechanical assemblies. With decades of industry experience, we can produce cable and wire harness assemblies for simple
 
 ## About
-Salt Lake Cable & Harness, Inc. operates from North Salt Lake, Utah. The company has been active in contract manufacturing for over 30 years, though a specific founding year is not publicly disclosed. Ownership details and founder names have not been shared in the available materials.
+Based in North Salt Lake, Utah, Salt Lake Cable & Harness, Inc. has operated for over 30 years as a contract manufacturer of custom cable assemblies, wire harnesses, and electromechanical assemblies. The company serves customers from prototype through production with a focus on make-to-print builds.
 
-The company produces custom cable assemblies, wire harnesses, and electromechanical assemblies, including box builds, injection-molded parts, potting, and wire cut-strip-pin services. It runs automated inserting systems, cutting machines, stripping equipment, and crimping presses, and handles volumes from small complex runs to high simple volumes, with a focus on low-to-medium volume, high-mix production. Engineering development builds are offered before full production.
+Its capabilities span cable and wire harness assembly, electromechanical box builds, prototyping, potting, injection molding, wire cutting/stripping/pinning, and electrical assembly. The shop uses automated inserting systems, cutting machines, stripping equipment, and crimping presses, and handles production volumes ranging from small complex runs to high simple volumes. Engineering development builds are offered before full production.
 
-Customers span medical, aerospace, military/defense, automotive, industrial, and telecommunications sectors. In medical, the firm builds cables for diagnostic systems and equipment used worldwide. For aerospace and defense, it serves Department of Defense subcontractors with AS9100D and ITAR-compliant assemblies, including Spec 3 IPC builds. Automotive work includes OBDII cable molds and switch harnesses, while industrial projects range from high-end coffee machines to control systems.
+The company serves medical, aerospace, military/defense, automotive, industrial, and telecommunications markets. Medical work includes cable assemblies for diagnostic systems and medical equipment. Aerospace and defense customers include Department of Defense subcontractors, with the firm holding AS9100D certification and ITAR registration. Automotive projects range from OBDII cable molds to complex wire harnesses, while industrial applications cover equipment such as high-end coffee machines and industrial controls.
 
-Salt Lake Cable emphasizes a culture of quality backed by ISO 9001:2015 and AS9100D certification, ITAR registration, and employee training to IPC/WHMA-A-620 standards. The company cites superior quality, customer service, and on-time delivery as core value drivers, and offers a 100% product guarantee.
+Salt Lake Cable emphasizes a culture of quality, with ISO 9001:2015 and AS9100D certification, ITAR registration, and production staff trained to IPC/WHMA-A-620 standards. The company cites on-time delivery, customer service, and a 100% product guarantee as core differentiators.
 
 ## Known for
-- AS9100D and ISO 9001:2015 certified quality system
+- AS9100D and ISO 9001:2015 certified quality management system
 - ITAR registered for defense work
-- Spec 3 IPC/WHMA-A-620 build capability
-- Low-to-medium volume, high-mix production focus
-- 100% product guarantee with in-house testing
+- Production staff trained to IPC/WHMA-A-620 requirements
+- Prototyping services for startups with limited engineering resources
+- Full-service electromechanical box builds including cable installation
 
 ## Capabilities
-- Cable assemblies
-- Wire harness assemblies
-- Electromechanical box builds
-- Prototyping services
+- Cable assembly
+- Wire harness assembly
+- Electromechanical box build
+- Prototyping
 - Potting
 - Injection molding
-- Wire cut, strip, and pin
-- Electrical assemblies
+- Wire cutting, stripping, and pinning
+- Electrical assembly
 - Testing and quality assurance
 - Engineering development builds
-- RoHS-compatible wiring
-- UL-compliant wiring
-- Lead-free wiring
-- High-speed data cables
-- Complex harnesses
-- Simple jumpers
-- Power cables
-- Automated inserting
-- Crimping
-- Stripping
-- Cutting
+- Harness board assembly
+- Sub-assembly build
 
 ## Industries
 - Medical
@@ -428,12 +384,11 @@ Salt Lake Cable emphasizes a culture of quality backed by ISO 9001:2015 and AS91
 - Automotive
 - Industrial
 - Telecommunications
-- Space
 
 ## Equipment
 - Automated inserting systems
 - Cutting machines
-- Stripping machines
+- Stripping equipment
 - Crimping presses
 - High-precision wire-cutting machines
 
@@ -449,20 +404,20 @@ Salt Lake Cable emphasizes a culture of quality backed by ISO 9001:2015 and AS91
 <details><summary>Sources</summary>
 
 - Headquarters: North Salt Lake, Utah -> db
-- Over 30 years in contract manufacturing -> /
-- Custom cable assemblies, wire harnesses, electromechanical assemblies -> /
-- Capabilities: box builds, injection molding, potting, wire cut/strip/pin -> /capabilities
+- Over 30 years in business -> /
+- Contract manufacturer of cable assemblies, wire harnesses, electromechanical assemblies -> /
+- Capabilities: cable assembly, wire harness, box build, prototyping, potting, injection molding, wire cut/strip/pin, electrical assembly -> /capabilities
 - Equipment: automated inserting systems, cutting machines, stripping, crimping presses, high-precision wire-cutting machines -> /capabilities
-- Volume: small complex runs to high simple volumes; low-to-medium volume, high mix -> /capabilities, /
-- Industries: Medical, Aerospace, Military/Defense, Automotive, Industrial, Telecommunications, Space -> /, /capabilities, /quality
-- Certifications: ISO 9001:2015, AS9100D, ITAR registered -> /quality, db
-- Employee training: IPC/WHMA-A-620 -> /quality
-- Quality culture: Total Quality Management, 100% guarantee -> /quality, /capabilities
-- Medical: diagnostic systems and equipment worldwide -> /
-- Aerospace/Defense: DoD subcontractors, Spec 3 IPC builds -> /
-- Automotive: OBDII cable molds, switch harnesses -> /
-- Industrial: coffee machines, control systems -> /
-- Materials: wire, cable, tubing, connectors, epoxy, silicone -> /capabilities
+- Volume range: small complex runs to high simple volumes -> /capabilities
+- Industries served: Medical, Aerospace, Military/Defense, Automotive, Industrial -> /
+- Telecommunications mentioned as application -> /capabilities
+- Certifications: ISO 9001:2015, AS9100D, ITAR registered -> /quality
+- Staff trained to IPC/WHMA-A-620 -> /quality
+- Quality culture, on-time delivery, 100% guarantee -> /quality, /capabilities
+- Medical: diagnostic systems, medical equipment -> /
+- Aerospace/Defense: DoD subcontractors, AS9100D, ITAR -> /
+- Automotive: OBDII cables, complex harnesses -> /
+- Industrial: coffee machines, industrial controls -> /
 </details>
 
 ---

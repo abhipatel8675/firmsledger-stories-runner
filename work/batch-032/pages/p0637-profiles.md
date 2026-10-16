@@ -94,14 +94,14 @@ Smooth Athletics emphasizes quality workmanship, timely delivery, extreme accura
 
 <details><summary>Sources</summary>
 
-- Headquarters city and state: Waynesboro, Virginia -> db
-- Address: 100 Pelham Drive, Waynesboro, VA 22980 -> /
-- Phone: 540-885-6760 -> /
-- Services: embroidery, screen printing, logo design, promotional products -> /
-- Additional services: digitizing, athletic uniforms, team and corporate stores -> /
-- Differentiators: quality workmanship, timely delivery, extreme accuracy, expert guidance, welcoming environment, up-to-date technology, trend awareness -> /about
-- Customer examples: sports league jersey orders, corporate repeat orders -> /about
-- Company description: 'A Virginia Embroidery Company' -> /
+- Headquarters in Waynesboro, Virginia -> db
+- Services: embroidery, screen printing, logo design, promotional products -> page '/'
+- Additional services: digitizing, athletic uniforms, team and corporate stores -> page '/'
+- Address: 100 Pelham Drive, Waynesboro, VA 22980 -> page '/'
+- Phone:  -> page '/'
+- Differentiators: quality workmanship, timely delivery, extreme accuracy, expert guidance, welcoming environment, up-to-date technology, trend awareness -> page '/about'
+- Customer testimonials referencing sports leagues and corporate clients -> page '/' and '/about'
+- Company description: 'A Virginia Embroidery Company' -> page '/'
 </details>
 
 ---
@@ -157,52 +157,7 @@ Smyth Metal Works states that its business model focuses on acquiring and servin
 
 # Snake River Butcher Supply
 
-**Old description:** Snake River Butcher Supply partners with industry leaders to deliver quality equipment for every stage of the
-
-## About
-Snake River Butcher Supply operates from Boise, Idaho, positioning itself as the Pacific Northwest's partner for butcher supplies and meat processing equipment. The company does not disclose its founding year or ownership structure, nor does it name its founders publicly.
-
-The business distributes equipment and consumables across every stage of the butchering process—harvest, cooling, processing, further processing, packaging, storage, and retail. Its product catalog includes seasonings, knives, grinder plates, poly bags, and band saw blades. The company also maintains a technical support team to service the equipment it sells.
-
-Its customers span meat processors, butcher shops, and food production facilities that require equipment for slaughter, cutting, curing, smoking, packaging, and merchandising. The company serves operations of various sizes, from harvest through to retail display.
-
-Snake River Butcher Supply differentiates itself by actively vetting supply sources for long-term value and consistent quality, partnering with manufacturers that design equipment for low total cost of ownership, and providing in-house technician support for the machinery it distributes.
-
-## Known for
-- Partners with premium manufacturers for equipment with low total cost of ownership
-- In-house technicians available for equipment support
-- Actively vets supply sources for long-term value and consistent quality
-- Covers all seven stages of the butchering process
-- Online procurement for supplies and equipment
-
-## Capabilities
-- Butcher equipment distribution
-- Meat processing supply distribution
-- Equipment technical support
-- Online ordering
-
-## Industries
-- Meat processing
-- Butchering
-- Food processing
-- Retail meat sales
-
-## Company details
-- **Company Type:** Distributor / reseller
-- **Headquarters:** Boise, Idaho
-
-<details><summary>Sources</summary>
-
-- Headquarters: Boise, Idaho -> db
-- Partners with industry leaders for equipment across all butchering stages -> page /
-- Sells seasonings, knives, grinder plates, poly bags, band saw blades -> page /
-- Has technicians available to support operations -> page /
-- Actively recruits supply sources for long-term value and consistent quality -> page /
-- Partners with premium manufacturers for low total cost of ownership -> page /
-- Offers online shop for supplies and equipment -> page /
-</details>
-
----
+_skipped: The read operation timed out_
 
 # Snowline Packaging Solutions
 
@@ -279,36 +234,35 @@ Snowline positions itself as an integrated partner rather than a transactional s
 **Old description:** Unleash outstanding performance and capabilities with our range of powerful engines. Engineered to meet the demands of any task, providing the strength and resilience needed to take on everyday.
 
 ## About
-Soeby Motor Company operates as a Ford dealership in Walhalla, North Dakota, serving the surrounding communities of Grafton, Devils Lake, and Grand Forks. The business retails new and pre‑owned Ford cars, crossovers, SUVs, and trucks, including the F‑150 and Super Duty lines.
+Soeby Motor Company operates as a Ford dealership in Walhalla, North Dakota, serving the surrounding communities of Grafton, Devils Lake, and Grand Forks. The business sells new and pre-owned Ford vehicles and provides factory-authorized service and parts through its on-site service center.
 
-The dealership’s service department employs factory‑trained technicians who perform repairs, scheduled maintenance, and parts installation using Motorcraft components. Those parts carry a two‑year, unlimited‑mileage warranty that includes labor coverage. The facility also arranges financing and lease agreements for vehicle purchases.
+The dealership maintains a sales inventory of Ford cars, crossovers, SUVs, and trucks, including models such as the F-150, Explorer, Mustang, and Bronco. Its service department performs maintenance and repairs using Motorcraft parts backed by a two-year, unlimited-mileage warranty that includes labor. The parts department stocks Motorcraft components for both retail and wholesale customers, and the dealership offers online service scheduling and current service specials.
 
-Customers include retail buyers as well as Ford employees and retirees who qualify for dedicated service discounts. The company participates in the Ford Rewards program, allowing members to earn 10 points per dollar spent on eligible service and redeem points for future visits.
+Customers include retail buyers seeking new or certified pre-owned vehicles, as well as commercial fleet operators requiring Ford vehicles and scheduled maintenance. The dealership also provides lease specials and financing options through Ford Credit.
 
-Soeby Motor Company emphasizes certified Ford parts and technician training as its primary differentiators, aiming to keep Ford vehicles performing optimally through factory‑backed service standards.
+Soeby Motor Company emphasizes that its technicians meet Ford’s highest service standards, and it promotes certified parts and factory-trained expertise as key differentiators. The company participates in the Ford Rewards program, allowing customers to earn and redeem points on eligible service purchases.
 
 ## Known for
-- Factory-trained technicians meeting Ford service standards
+- Ford-certified technicians meeting factory service standards
 - Motorcraft parts warranty: two years, unlimited mileage, includes labor
+- Online service scheduling and current service specials
 - Ford Rewards program: earn 10 points per $1 on eligible service
-- Service discounts for Ford employees and retirees
-- Certified pre-owned vehicle inventory
+- Competitive lease specials on new Ford vehicles
 
 ## Capabilities
-- Automotive repair
-- Automotive maintenance
-- Parts installation
 - New vehicle sales
 - Used vehicle sales
 - Certified pre-owned vehicle sales
-- Financing
-- Leasing
-- Service scheduling
-- Ford Rewards program administration
+- Vehicle leasing
+- Automotive maintenance and repair
+- Motorcraft parts distribution
+- Factory-authorized warranty service
+- Online service appointment scheduling
+- Ford Rewards loyalty program
 
 ## Industries
-- Automotive retail
-- Automotive service
+- Automotive dealership
+- Automotive repair
 
 ## Company details
 - **Company Type:** Retailer
@@ -316,63 +270,23 @@ Soeby Motor Company emphasizes certified Ford parts and technician training as i
 
 <details><summary>Sources</summary>
 
-- Location: Walhalla, North Dakota -> db
-- Ford dealership selling new and used vehicles -> /
-- Service department with factory-trained technicians -> /
-- Motorcraft parts warranty: two years unlimited mileage including labor -> /
-- Ford Rewards program: 10 points per $1 on eligible service -> /
-- Service discounts for Ford employees and retirees -> /
-- Certified pre-owned vehicles available -> /
-- Address: 12th St & Central Box 7, Walhalla, ND 58282 -> /
-- Sales hours: Monday-Friday 8:00AM-5:30PM, Saturday 8:00AM-12:00PM -> /
+- Location: Walhalla, ND -> db
+- Business type: Ford dealership -> /
+- Services: new/used vehicle sales, service, parts -> /
+- Motorcraft parts warranty: 2 years unlimited mileage includes labor -> /
+- Ford certified technicians -> /
+- Online service scheduling -> /
+- Ford Rewards program -> /
+- Lease specials -> /
+- Serves surrounding communities Grafton, Devils Lake, Grand Forks -> /
+- Certified pre-owned vehicles -> /
 </details>
 
 ---
 
 # Sofas & Chairs
 
-**Old description:** Still family owned after 30 years, we take pride in providing every customer with a unique custom experience they will remember for years to come!
-
-## About
-Sofas & Chairs operates from Lafayette, Louisiana, where it has remained family-owned for three decades. The business was founded on a commitment to delivering a unique custom experience, though the exact founding year and founders' names are not publicly disclosed.
-
-The company offers a broad selection of upholstered, wood, and leather furniture, all tailored to individual lifestyles. An in-house design team guides clients through the customization process, from initial concept and house-plan coordination to final delivery and installation. The service emphasizes a hands-on, craft-oriented approach rather than volume production.
-
-While the company does not list specific industrial sectors, its offerings target residential customers and design professionals seeking personalized furnishings. The design team works directly with homeowners and, by implication, with architects or builders involved in house-plan coordination.
-
-Sofas & Chairs distinguishes itself through its family-owned heritage, an in-house design team that manages projects from concept to delivery, and a stated focus on timeless style, custom comfort, and uncompromised craftsmanship.
-
-## Known for
-- Family-owned for 30 years
-- In-house design team managing projects from concept to delivery
-- Custom furniture tailored to individual lifestyles
-- Coordination from house plans through delivery day
-
-## Capabilities
-- Custom furniture design
-- Upholstery
-- Wood furniture
-- Leather furniture
-- Interior design consultation
-- Project coordination and delivery
-
-## Company details
-- **Company Type:** Retailer
-- **Ownership:** Family-owned
-- **Headquarters:** Lafayette, Louisiana
-
-<details><summary>Sources</summary>
-
-- Family-owned for 30 years -> /
-- Located in Lafayette, Louisiana -> db
-- Offers upholstered, wood, and leather furniture -> /
-- In-house design team -> /
-- Custom design experience tailored to lifestyle -> /
-- Coordinates from house plans to delivery -> /
-- Emphasizes timeless style, custom comfort, craftsmanship -> /
-</details>
-
----
+_skipped: The read operation timed out_
 
 # Soft Goods
 
@@ -538,20 +452,15 @@ Solair distinguishes itself by managing the entire project lifecycle—from init
 
 <details><summary>Sources</summary>
 
-- headquarters in Selbyville, DE -> db
-- additional office in Ocean City, MD -> /
-- service area: Delaware, Maryland, New Jersey, Pennsylvania -> /
-- provides solar integration services -> /
-- serves commercial, agricultural, government, residential sectors -> /
-- uses REC black-on-black modules and Enphase microinverters -> /
-- offers 25-year warranty on major components -> /
-- full-time in-house installers -> /
-- grant administration for USDA REAP and state grants -> /
-- projects completed on time and on budget -> /
-- real-time system monitoring -> /
-- assists with agricultural preservation easements -> /
-- supports government RFPs, design-build, PPAs -> /
-- partners with wholesalers and manufacturers -> /
+- Headquarters in Selbyville, DE and Ocean City, MD -> /
+- Solar integration services for commercial, agricultural, government, residential -> /
+- Full-time in-house installers -> /
+- Uses REC modules and Enphase micro-inverters -> /
+- 25-year warranty on major components -> /
+- Grant administration for USDA REAP and state incentives -> /
+- Financing partnerships with local lenders -> /
+- Service area: DE, MD, NJ, PA -> /
+- Contact info: ,  -> /
 </details>
 
 ---

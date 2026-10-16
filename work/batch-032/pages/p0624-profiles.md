@@ -3,37 +3,35 @@
 **Old description:** 25 years of expertise, exclusive metal profiles, in‑house fabrication, and job‑site‑ready systems, all with industry‑leading turnaround.
 
 ## About
-Retro Custom Metals operates from Salt Lake City, Utah. The company was founded in 2011 on the belief that exceptional metalwork begins with exceptional craftsmanship. No founders are named in the available sources, and ownership structure is not disclosed.
+Retro Custom Metals operates from Salt Lake City, Utah. The company was founded in 2011. Ownership details are not disclosed. It began when the founders recognized growing demand for metal roofing, siding, and custom architectural metalwork, prompting them to purchase equipment and build a fabrication facility.
 
-The shop runs a dedicated fabrication facility producing custom metal roofing, siding, and architectural metalwork. Capabilities include custom flashing, job-site-ready panels, and exclusive metal profiles developed in-house. The company describes its capacity as scalable, though specific facility size, headcount, or annual volumes are not published.
+The shop provides full in-house fabrication of custom metal products, including metal roofing systems, siding, and architectural metalwork. It runs a dedicated fabrication facility capable of producing commercial-grade components and job-site-ready panels. No specific facility size, headcount, or annual volume figures are published.
 
-Primary customers are contractors across the region who rely on the shop for precision-crafted metal fabrication. The business also supports its own installation projects, covering both exterior and interior metal applications.
+The primary customers are contractors throughout the region who rely on the company for precision-crafted metal fabrication. The business serves the metal roofing, metal siding, and architectural metalwork segments of the construction industry.
 
-Leadership says the venture started after seeing growing demand for metal roofing and architectural metalwork, prompting investment in equipment and processes to deliver dependable, precision-crafted products. The team emphasizes skill, consistency, and a dedication to quality that never wavers.
+The company states that exceptional metalwork starts with exceptional craftsmanship, emphasizing precision, creativity, and attention to detail. It highlights exclusive metal profiles, in-house fabrication, job-site-ready systems, and turnaround as its distinguishing factors.
 
 ## Known for
-- Exclusive metal profiles developed in-house
-- Job-site-ready panel systems
-- Scalable production capacity
-- In-house fabrication from raw material to finished product
+- Exclusive metal profiles
+- In-house fabrication
+- Job-site-ready systems
+- Industry-leading turnaround
 
 ## Capabilities
 - Custom metal fabrication
 - Metal roofing fabrication
 - Metal siding fabrication
 - Architectural metalwork
-- Custom flashing
-- Job-site ready panel fabrication
-- Exclusive metal profile fabrication
+- Commercial-grade fabrication
+- Custom fabrication for unique details
 
 ## Industries
-- Construction
-- Roofing
-- Siding
+- Metal roofing
+- Metal siding
 - Architectural metalwork
 
 ## Company details
-- **Company Type:** Manufacturer
+- **Company Type:** Contract manufacturer / job shop
 - **Founded:** 2011
 - **Headquarters:** Salt Lake City, Utah
 
@@ -41,14 +39,16 @@ Leadership says the venture started after seeing growing demand for metal roofin
 
 - Founded in 2011 -> /about
 - Headquarters in Salt Lake City, Utah -> db
-- Custom metal fabrication facility -> /about
+- In-house fabrication facility built to meet demand for metal roofing, siding, and architectural metalwork -> /about
 - Serves contractors throughout the region -> /about
 - Produces metal roofing, siding, and custom architectural metalwork -> /about
-- Offers exclusive metal profiles -> /
-- Provides in-house fabrication -> /
-- Delivers job-site-ready systems -> /
-- 25 years of expertise claimed -> /
-- Scalable production capacity -> db
+- Exclusive metal profiles -> /
+- Job-site-ready systems -> /
+- Industry-leading turnaround -> /
+- Full fabrication -> /
+- Commercial-grade fabrication -> /
+- Custom fabrication for unique details -> /
+- Utah-made -> /
 </details>
 
 ---
@@ -58,33 +58,30 @@ Leadership says the venture started after seeing growing demand for metal roofin
 **Old description:** from the peripheral arteries in patients with occlusive atherosclerotic disease.
 
 ## About
-Rex Medical is headquartered in Conshohocken, Pennsylvania. The company specializes in the development, manufacturing, and marketing of innovative, minimally invasive medical devices. It targets the cardiovascular, venous access, endosurgery, and oncology markets with products designed to address unmet clinical needs.
+Rex Medical is headquartered in Conshohocken, Pennsylvania. The company was established to develop, manufacture, and market minimally invasive medical devices, though its founding year and ownership structure are not publicly disclosed.
 
-The REVOLUTION™ Peripheral Atherectomy System is Rex Medical's flagship device, intended to treat occlusive atherosclerotic disease in peripheral arteries by breaking apart and removing plaque. The company manages the entire product lifecycle in-house, from design and development through manufacturing and commercialization.
+The company focuses on the development, manufacturing, and commercialization of innovative medical devices for cardiovascular, venous access, endosurgery, and oncology applications. Its product portfolio includes the REVOLUTION™ Peripheral Atherectomy System, designed to treat occlusive atherosclerotic disease in peripheral arteries. Rex Medical operates under an ISO 13485 certified quality management system, but specific facility size, employee count, and production volumes are not disclosed.
 
-Rex Medical serves hospitals, clinics, and medical device distributors across the cardiovascular, venous access, endosurgery, and oncology sectors. Its devices are used in minimally invasive procedures that aim to improve patient outcomes and deliver high-quality care.
+Rex Medical serves healthcare providers and medical device markets in cardiovascular, venous access, endosurgery, and oncology. Its devices address unmet clinical needs in peripheral vascular disease, venous access procedures, endoscopic surgery, and oncology interventions. Customers include hospitals, clinics, and specialty practices seeking minimally invasive solutions.
 
-The company maintains ISO 13485 certification for its quality management system and states that its mission is to improve patient outcomes through innovation in technology. Rex Medical emphasizes addressing unmet clinical needs with minimally invasive solutions.
+The company states its mission is to improve patient outcomes through innovation in technology, targeting unmet clinical needs to deliver high-quality care. Its differentiation rests on a specialized portfolio of minimally invasive devices and a quality system certified to ISO 13485.
 
 ## Known for
-- ISO 13485 certified quality management system
-- Full in-house product lifecycle from development to commercialization
-- Focus on minimally invasive cardiovascular and oncology devices
+- ISO 13485 certified quality system
+- Minimally invasive medical devices for unmet clinical needs
 - REVOLUTION™ Peripheral Atherectomy System for peripheral artery disease
-- Mission to improve patient outcomes through technological innovation
+- Focus on cardiovascular, venous access, endosurgery, and oncology applications
 
 ## Capabilities
 - Medical device development
 - Medical device manufacturing
 - ISO 13485 quality management
-- Product commercialization
 
 ## Industries
 - Cardiovascular
 - Venous access
 - Endosurgery
 - Oncology
-- Medical devices
 
 ## Certifications
 - ISO 13485
@@ -96,11 +93,11 @@ The company maintains ISO 13485 certification for its quality management system 
 <details><summary>Sources</summary>
 
 - Headquarters in Conshohocken, Pennsylvania -> db
-- ISO 13485 certified -> page /
-- Develops, manufactures, and markets minimally invasive medical devices -> page /
-- Markets: cardiovascular, venous access, endosurgery, oncology -> page /
-- Product: REVOLUTION™ Peripheral Atherectomy System -> page /
-- Mission: Improving patient outcomes through innovation in technology -> page /
+- ISO 13485 certified -> db
+- Develops, manufactures, and markets minimally invasive medical devices -> /
+- Serves cardiovascular, venous access, endosurgery, and oncology markets -> /
+- Offers REVOLUTION™ Peripheral Atherectomy System -> /
+- Mission to improve patient outcomes through innovation -> /
 </details>
 
 ---
@@ -224,34 +221,28 @@ The company’s federal inspection status is its primary differentiator, grantin
 **Old description:** T-Shirts, Sweatshirts, Polos, Hats, Bags & More. 100+ Brands Available.
 
 ## About
-Rhody Tees operates from Cranston, Rhode Island, where founder J.C. Castellanos established the business after accumulating more than 25 years of experience in the graphic industry. The company remains independently owned, though no specific ownership designation such as veteran- or woman-owned is publicly claimed.
+Rhody Tees operates from Cranston, Rhode Island, where founder J.C. Castellanos established the business after accumulating more than 25 years in the graphic industry. The company remains independently owned, though specific ownership designations such as veteran- or woman-owned are not publicly disclosed.
 
-The shop provides screen printing, direct-to-film (DTF) transfers, and embroidery for apparel including t-shirts, sweatshirts, polos, hats, and bags, sourcing blanks from over 100 brands. It also runs a large-format printing operation producing signs, banners, yard signs, decals, and see-through vinyl, plus a promotional-products line covering business cards, flyers, and mugs. No facility size, headcount, or annual volume figures are disclosed.
+The shop provides custom decoration services including screen printing, direct-to-film (DTF) transfers, and embroidery on a catalog of over 100 apparel brands spanning t-shirts, sweatshirts, polos, hats, and bags. It also runs a large-format printing operation producing signs, banners, yard signs, decals, and see-through vinyl, alongside promotional items such as business cards, flyers, and mugs. No facility size, headcount, or annual volume figures are published.
 
-Customers range from small businesses and sports teams to event organizers. Testimonials cite a pet-sitting service, an inflatable-rental company, and individual families needing quick turnaround on custom shirts. The company positions itself as a local partner for any group needing branded wear or marketing materials.
+Clients range from small businesses and local organizations to event planners; testimonials cite a pet-sitting service and an inflatable-rental company as repeat customers. The company positions itself as a partner for marketing and branding needs across various sectors, though it does not list targeted industries explicitly.
 
-Castellanos states the business was built on close collaboration, unique design, high-quality prints, and reliable on-time delivery, with the philosophy that helping clients grow drives the company's own growth.
+Castellanos states that the business was built on close collaboration, custom design assistance, proof communication, and a commitment to on-time, accurate delivery. The firm emphasizes that its growth is tied to helping customers grow their own brands.
 
 ## Known for
-- Close collaboration with customers on design and proofing
-- High-quality prints with on-time delivery guarantee
-- Over 25 years of graphic-industry experience
-- Access to 100+ apparel brands for blank goods
-- In-house screen printing, DTF, embroidery, and large-format capabilities
+- Over 25 years of graphic industry experience
+- 100+ apparel brands available for decoration
+- Custom design assistance with proof review and fast communication
+- Commitment to on-time and accurate order fulfillment
 
 ## Capabilities
 - Screen printing
 - Direct-to-film (DTF) printing
 - Embroidery
-- Large format printing (signs, banners, decals, vinyl)
-- Promotional product printing (business cards, flyers, mugs)
-- Custom design services
-
-## Industries
-- Promotional products
-- Apparel decoration
-- Marketing materials
-- Signage
+- Large format printing
+- Sign and banner production
+- Decal and vinyl graphics
+- Promotional product printing
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -259,13 +250,14 @@ Castellanos states the business was built on close collaboration, unique design,
 
 <details><summary>Sources</summary>
 
-- Location: Cranston, Rhode Island -> db
+- Headquarters: Cranston, Rhode Island -> db
 - Founder: J.C. Castellanos -> /about-us
-- Over 25 years of experience in graphic industry -> /about-us
-- Services: screen printing, DTF, embroidery, large format printing, promotional products -> /
-- 100+ brands available -> /
-- Customer examples: All Ears Pet Sitting, My Son's Inflatables, individual families -> /
-- Company philosophy: close collaboration, unique design, high-quality prints, on-time delivery -> /about-us
+- Experience: more than 25 years in graphic industry -> /about-us
+- Services: Screen printing, DTF, embroidery -> / and /about-us
+- Services: Large format printing (signs, banners, yard signs, decals, see-through vinyl) -> /
+- Services: Promotional & marketing products (business cards, flyers, mugs) -> /
+- Brands: 100+ brands available -> /
+- Customer examples: All Ears Pet Sitting, My Son's Inflatables -> /
 </details>
 
 ---
@@ -275,30 +267,29 @@ Castellanos states the business was built on close collaboration, unique design,
 **Old description:** We build custom furniture, cabinets and decor for your home or cabin. You dream it, we can build it.
 
 ## About
-Riedel Rustic and Log Furniture LLC operates from Park Rapids, Minnesota, where it runs a retail store and workshop at 1220 1st Street East. The company specializes in handcrafted wood products for residential and cabin settings.
+Riedel Rustic and Log Furniture LLC operates from Park Rapids, Minnesota, where it runs a custom woodworking shop and retail store. The company's founding year and ownership structure are not publicly disclosed.
 
-The shop produces custom cabinets, furniture pieces, benches, and chainsaw-carved sculptures and signs. A team of woodworkers and chainsaw artists handles each project from design through finishing, working with a range of wood species and finishes to match customer specifications.
+The shop produces custom cabinets, furniture, chainsaw carvings, signs, benches, and other decor items for residential and cabin settings. Its woodworkers and chainsaw artists craft pieces to order, offering a range of wood species, styles, and finishes. The facility includes a showroom open Monday through Saturday, but the company does not publish facility size, headcount, or production volumes.
 
-Customers include homeowners and cabin owners seeking one-of-a-kind furnishings and decorative pieces. The company serves the local Park Rapids area and ships finished goods to clients elsewhere, though specific industries beyond residential are not identified.
+Customers include homeowners and cabin owners seeking personalized furnishings and decorative pieces. The company serves the residential and recreational property markets, with examples such as custom kitchen cabinets, one-of-a-kind furniture, wildlife sculptures, and rustic signage.
 
-The business emphasizes a collaborative approach, inviting clients to bring ideas that the craftspeople then translate into functional art. Its storefront allows visitors to view completed works and discuss projects in person during weekday and Saturday hours.
+The business emphasizes a collaborative design process, inviting clients to bring ideas that the team translates into functional art. No specific founding mission or competitive differentiator beyond custom craftsmanship is stated in available materials.
 
 ## Known for
-- Custom handcrafted cabinets and furniture built to client specifications
-- Chainsaw-carved sculptures and custom signs produced on-site
-- Physical showroom in Park Rapids, MN for in-person consultation
-- Team includes both fine woodworkers and chainsaw artists
+- Custom cabinets tailored to client specifications with choice of wood species and finishes
+- Chainsaw carvings and custom signs created as decorative centerpieces
+- Physical showroom in Park Rapids for in-person viewing and consultation
 
 ## Capabilities
 - Custom cabinet making
-- Custom furniture building
+- Custom furniture making
 - Chainsaw carving
 - Custom sign making
-- Custom bench building
+- Custom bench making
 
 ## Industries
-- Residential furniture
-- Cabin and cottage furnishings
+- Residential
+- Cabin/Cottage
 - Home decor
 
 ## Company details
@@ -307,12 +298,10 @@ The business emphasizes a collaborative approach, inviting clients to bring idea
 
 <details><summary>Sources</summary>
 
-- Park Rapids, Minnesota location -> /
-- Custom furniture, cabinets, decor -> /
-- Chainsaw carvings, signs, benches -> /
-- Store at 1220 1st St E, Park Rapids, MN 56470 -> /
-- Hours Mon-Sat 8am-5pm -> /
-- Team of woodworkers and chainsaw artists -> /
+- Location and store address -> /
+- Product offerings (cabinets, furniture, chainsaw carvings, signs, benches) -> /
+- Target customers (homeowners, cabin owners) -> /
+- Showroom hours and in-person experience -> /
 </details>
 
 ---
@@ -461,51 +450,4 @@ The company emphasizes its years of experience combined with first-class equipme
 
 # Rising Sun Solar Outfitters
 
-**Old description:** Designing and installing RV and off-grid solar systems based on your goals and budget
-
-## About
-Rising Sun Solar Outfitters operates from Avon, Indiana. The family-owned business traces its roots to the founders' purchase of their first RV, which sparked a passion for renewable energy that grew into a full-time venture. The family now lives the lifestyle they serve — camping in a solar-powered fifth wheel and powering their own home off-grid.
-
-The company designs and installs custom solar systems for recreational vehicles and off-grid properties. Services include system design, installation, consultations, and detailed quotes. Each project is tailored to the customer's specific goals and budget, with an emphasis on safety and reliability. No facility size, headcount, or production volumes are disclosed.
-
-Primary customers are RV owners seeking mobile power freedom, owners of remote cabins or off-grid homes, and homeowners looking to reduce utility dependence. The company serves the RV/mobile market, off-grid residential sector, and broader renewable energy space, with concrete examples including Harvest Hosts and Boondockers Welcome overnight stays, cabin generator replacement, and whole-home off-grid conversions.
-
-The business was born from firsthand experience: the founders wanted to run appliances silently while boondocking, keep food cold without generator noise, and maximize time away from hookups. That personal need drives their approach — they build systems they would trust for their own family's comfort and independence.
-
-## Known for
-- Customized systems based on customer goals and budget
-- Personal off-grid living experience (family RV and home)
-- Focus on safe and reliable system design
-- Mobile service for RV installations
-
-## Capabilities
-- RV Solar Installation
-- Off-Grid Solar Systems
-- Solar System Design
-- Consultations
-- Quotes/Estimates
-
-## Industries
-- RV/Mobile
-- Off-Grid Residential
-- Renewable Energy
-- Cabin Power
-- Home Energy Independence
-
-## Company details
-- **Company Type:** Installer / service company
-- **Ownership:** Family-owned
-- **Headquarters:** Avon, Indiana
-
-<details><summary>Sources</summary>
-
-- Location: Avon, Indiana -> db
-- Family-owned, started with first RV purchase -> /about-us
-- Family camps in solar-powered fifth wheel, home is off-grid -> /about-us
-- Services: RV solar installation, off-grid solar systems, solar system design, consultations, quotes -> db, /
-- Target markets: RV owners, off-grid property owners, homeowners seeking energy independence -> /
-- Customization based on goals and budget, emphasis on safety and reliability -> /
-- Examples: Harvest Hosts, Boondockers Welcome, cabin generator replacement -> /
-</details>
-
----
+_skipped: HTTP Error 503: Service Unavailable_

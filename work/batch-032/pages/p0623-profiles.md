@@ -70,65 +70,57 @@ The founders state their mission is to connect families with real, local meat wh
 **Old description:** Renmar DME is proud to be New Hampshire's leading provider of Durable Medical Equipment, empowering individuals with diverse healthcare needs through top-notch mobility solutions.
 
 ## About
-Renmar DME Inc. operates from Bow, New Hampshire. The business traces its roots to Renmar Health Care Products, founded by Mark Reynolds, who led the company for more than 20 years before retiring in January 2019. That month, Alison Theriault and Jonathan Bergin acquired the business and renamed it Renmar DME Inc. Both came from a global medical-device manufacturing background, bringing process-oriented experience to the operation.
+Renmar DME Inc. operates from Bow, New Hampshire. The business traces its roots back more than 27 years when Mark Reynolds founded Renmar Health Care Products; he retired in January 2019 after the company for over two decades. In January 2019, Alison Theriault and Jonathan Bergin acquired the business and renamed it Renmar DME Inc. Both came from a large global manufacturing company where they specialized in producing components for medical devices, bringing that operational experience to the DME sector.
 
-The company sells and rents a broad range of durable medical equipment, including manual and power wheelchairs, power scooters, hospital beds, lift recliners, patient lifts, and bathroom safety products. All rental items are offered in standard and bariatric sizes, with next-business-day delivery available. Certified staff provide on-site wheelchair seating assessments, complex rehab technology analysis, and training on devices such as tilt-and-recline power chairs and specialty cushions. Technicians also perform equipment repairs, cleaning, and sanitization at the customer’s home or facility.
+The company sells and rents a broad range of durable medical equipment, including manual and power wheelchairs, complex rehab power wheelchairs with tilt and recline, power-assist wheelchairs, scooters, hospital beds (fully electric and low-bed options), bath safety products, patient lifts, lift recliners, and specialty cushions. It also provides equipment repair and wheelchair cleaning services, professional seating assessments, and free wheelchair evaluations at its facility or the client's home. All rental items are offered in standard and bariatric sizes, with next-business-day delivery available. Certified staff handle complex rehab technology selection and training.
 
-Renmar serves individual patients, caregivers, and healthcare facilities throughout New Hampshire and the surrounding region. Its client base includes people needing mobility assistance, post-surgical support, or long-term care solutions. Concrete examples from the company’s lineup include Broda and Accora wheelchairs, Accora floor beds, and the Go Go Elite Traveler power scooter (an FDA Class II medical device).
+Renmar serves individuals with diverse healthcare needs, caregivers, and healthcare facilities across New Hampshire and the surrounding region. Its customer base includes those requiring mobility solutions, post-surgical recovery aids, bariatric equipment, and complex rehab technology. The company works with clients needing manual and power wheelchair seating assessments, hospital bed setups, and home accessibility modifications such as stair lifts.
 
-The owners emphasize service as their differentiator, citing free assessments, on-site repairs, and a focus on bariatric availability as unique factors. Theriault and Bergin have applied their manufacturing-sector expertise to refine internal processes and the patient experience since taking over.
+Renmar emphasizes service as its primary differentiator, stating that service is why customers choose and recommend the firm. It highlights the availability of bariatric sizes across all rental products as a unique offering, along with on-site repairs, detailed cleaning and sanitization, and certified expertise in complex rehab equipment.
 
 ## Known for
-- Rental equipment available in both standard and bariatric sizes
-- Next-business-day delivery on rental items
-- Free wheelchair seating assessments at the facility or in the home
-- Certified complex rehab technology analysis and training
-- On-site equipment repairs and cleaning/sanitization
+- All rental products available in standard and bariatric sizes
+- Next business day delivery for rental equipment
+- Free wheelchair assessments at facility or home
+- Certified staff for complex rehab technology assessment and training
+- On-site equipment repairs and cleaning services
 
 ## Capabilities
-- Equipment sales
-- Equipment rentals
-- Equipment repairs
+- Durable medical equipment sales
+- Durable medical equipment rental
+- Equipment repair
 - Wheelchair cleaning and sanitization
-- Wheelchair seating assessment
-- Complex rehab technology assessment
-- Complex rehab technology training
+- Professional seating assessment
+- Complex rehab technology assessment and training
 - Delivery and setup
-- Patient lift installation
-- Stair lift installation
-- Bariatric equipment options
+- Bariatric equipment provision
 
 ## Industries
 - Durable Medical Equipment
-- Complex Rehab Technology
+- Healthcare
 - Mobility Equipment
-
-## Equipment
-- Go Go Elite Traveler Power Scooters
-- Broda wheelchairs
-- Accora wheelchairs
-- Accora floor beds
+- Rehabilitation
+- Home Healthcare
 
 ## Company details
 - **Company Type:** Distributor / reseller
-- **Ownership:** Privately held
+- **Ownership:** Privately owned (purchased by Alison Theriault and Jonathan Bergin in 2019)
 - **Headquarters:** Bow, New Hampshire
 
 <details><summary>Sources</summary>
 
-- Headquarters in Bow, New Hampshire -> db
-- Founded as Renmar Health Care Products by Mark Reynolds -> /about-us
-- Acquired by Alison Theriault and Jonathan Bergin in January 2019 -> /about-us
-- Offers sales and rentals of wheelchairs, scooters, hospital beds, lift recliners, patient lifts, bathroom safety products -> /
-- Rental products available in standard and bariatric sizes -> /
-- Next business day delivery available for rentals -> /
-- Free wheelchair assessment at facility or home -> /
-- Certified individuals for complex rehab technology analysis and training -> /
-- On-site equipment repairs and cleaning/sanitization -> /
-- Serves individuals, caregivers, and healthcare facilities in New Hampshire region -> /
-- Carries Broda and Accora wheelchairs, Accora floor beds, Go Go Elite Traveler Power Scooters -> /
-- Emphasizes service, free assessments, on-site repairs, bariatric availability as differentiators -> /
-- Founders have background in medical device manufacturing -> /about-us
+- Location: Bow, New Hampshire -> db
+- Founder Mark Reynolds, retired Jan 2019 -> /about-us
+- Acquired by Alison Theriault and Jonathan Bergin Jan 2019 -> /about-us
+- Previous experience in medical device component manufacturing -> /about-us
+- Products: wheelchairs, scooters, hospital beds, bath safety, lifts, lift recliners, cushions -> /
+- Services: repairs, cleaning, assessments, free evaluations -> /
+- Bariatric sizes on all rental products -> /
+- Next business day delivery for rentals -> /
+- Certified staff for complex rehab -> /
+- Industries: healthcare, DME, mobility, rehab, home healthcare -> /, /about-us
+- Service emphasis and customer recommendation claim -> /
+- Company type: distributor/reseller (sources from manufacturers) -> /
 </details>
 
 ---
@@ -138,25 +130,26 @@ The owners emphasize service as their differentiator, citing free assessments, o
 **Old description:** All of our capabilities are designed to simplify supply chains and reduce risk
 
 ## About
-Rennscot MFG operates from Woburn, Massachusetts, providing metal additive manufacturing and advanced machining services. The company does not disclose its founding year or ownership structure in its public materials.
+Rennscot MFG is based in Woburn, Massachusetts. The company has not disclosed its founding year, ownership structure, or the names of its founders in public materials.
 
-The facility houses 15 advanced CNC machines, nine fully automated systems, and eight advanced 3D printers within 42,000 square feet of total operating space, including a dedicated 8,000-square-foot additive manufacturing lab. The company lists additive manufacturing, advanced CNC machining, quality CMM inspection, machining of additively manufactured parts, project engineering, and precision assembly among its core services. Seventy-one percent of its engineering personnel hold degrees.
+The manufacturer provides metal additive manufacturing and advanced CNC machining, complemented by CMM inspection, machining of additively manufactured parts, project engineering, and precision assembly. Its 42,000-square-foot operation includes 15 advanced CNC machines, nine fully automated systems, and eight advanced 3D printers, with a dedicated 8,000-square-foot additive manufacturing lab. The company notes that 71 percent of its engineers hold degrees, and the automated systems are designed to integrate additive and subtractive workflows.
 
-Rennscot targets aerospace, defense, and critical programs, offering an integrated approach intended to simplify supply chains and reduce risk for customers in those sectors.
+Rennscot targets aerospace, defense, and other critical programs that require high-reliability components and supply-chain certainty, positioning itself as a partner for mission-critical applications.
 
-The company emphasizes that its capabilities are designed to simplify supply chains and reduce risk, a philosophy that underpins its combined additive and subtractive manufacturing model.
+According to the company, all capabilities are designed to simplify supply chains and reduce risk for customers in demanding applications.
 
 ## Known for
 - Capabilities designed to simplify supply chains and reduce risk
-- 71% degreed engineers
-- 42,000 sq ft facility with 8,000 sq ft additive manufacturing lab
+- Focus on aerospace, defense, and critical programs
+- 71% of engineering staff hold degrees
+- 42,000 sq ft facility with dedicated 8,000 sq ft additive manufacturing lab
 - 15 advanced CNC machines, 9 fully automated systems, 8 advanced 3D printers
 
 ## Capabilities
-- Metal 3D printing
+- Metal additive manufacturing
 - Advanced CNC machining
-- Quality CMM inspection
-- Machining of AM parts
+- CMM inspection
+- Machining of additively manufactured parts
 - Project engineering
 - Precision assembly
 
@@ -166,9 +159,9 @@ The company emphasizes that its capabilities are designed to simplify supply cha
 - Critical programs
 
 ## Equipment
-- Advanced CNC machines
-- Fully automated systems
-- Advanced 3D printers
+- Advanced CNC machines (15)
+- Fully automated systems (9)
+- Advanced 3D printers (8)
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -177,15 +170,16 @@ The company emphasizes that its capabilities are designed to simplify supply cha
 <details><summary>Sources</summary>
 
 - Headquarters: Woburn, Massachusetts -> db
-- 15 advanced CNC machines -> page:/
-- 9 fully automated systems -> page:/
-- 8 advanced 3D printers -> page:/
-- 42,000 sq ft total operating space -> page:/
-- 8,000 sq ft additive manufacturing lab -> page:/
-- 71% degreed engineers -> page:/
-- Capabilities: additive manufacturing, advanced CNC machining, quality CMM inspection, machining of AM parts, project engineering, precision assembly -> page:/
-- Industries: aerospace, defense, critical programs -> page:/
-- Company statement: capabilities designed to simplify supply chains and reduce risk -> page:/
+- 15 advanced CNC machines -> page "/"
+- 9 fully automated systems -> page "/"
+- 8 advanced 3D printers -> page "/"
+- 42,000 sq ft total operating space -> page "/"
+- 8,000 sq ft additive manufacturing lab -> page "/"
+- 71% degreed engineers -> page "/"
+- Capabilities: metal additive manufacturing, advanced CNC machining, CMM inspection, machining of AM parts, project engineering, precision assembly -> page "/"
+- Industries: aerospace, defense, critical programs -> page "/"
+- Company statement: capabilities designed to simplify supply chains and reduce risk -> page "/"
+- Company statement: built for aerospace, defense, and critical programs -> page "/"
 </details>
 
 ---
@@ -195,33 +189,32 @@ The company emphasizes that its capabilities are designed to simplify supply cha
 **Old description:** Make power an asset, not a hurdle, to your medical device with the fastest and most patient-friendly wireless power and charging for bioelectronics.
 
 ## About
-Resonant Link Medical was founded in 2017 in Burlington, Vermont, by Aaron Stein, who serves as chief technology officer. The company emerged from Stein's postdoctoral research at Dartmouth College, where he pioneered advances in resonant coils and power electronics that enabled new levels of efficiency and range for wireless power transfer.
+Resonant Link Medical is based in Burlington, Vermont, and was co-founded in 2017 by Aaron Stein, who serves as chief technology officer. Stein’s postdoctoral work at Dartmouth College on resonant coils and high-efficiency power electronics laid the technical foundation for the company’s wireless power platform. The venture was launched to eliminate the power and data bottlenecks that constrain next-generation implantable medical devices.
 
-The company develops the Aurion WPT™ wireless power and data platform, which uses inductive coupling to recharge or continuously power implantable medical devices through the skin without transcutaneous leads. Its product platforms include Eterni™ for millimeter-scale implants (up to 500 mW continuous power), Vivigo™ Fast Charger (20-minute recharge over a large range), and Cardessa™ High Power Platform (10–15 W driveline-free power). Resonant Link also provides feasibility studies and regulatory-ready testing and integration services. To date, the team has designed wireless power solutions for more than 50 implantable device types.
+The company develops the Aurion WPT™ platform, a wireless power and data system that uses inductive transfer to recharge or continuously power implants through the skin without transcutaneous leads. Its product lineup includes Eterni™ for tiny implants (up to 500 mW continuous power for millimeter-scale devices), Vivigo™ Fast Charger (20-minute recharging over a large range), and Cardessa™ High Power Platform (10–15 W of driveline-free power for circulatory assist and other high-draw applications). Resonant Link also provides feasibility studies, regulatory-ready design integration, and traceable verification testing. To date, the platform has been used in the design of more than 50 implantable device types.
 
-Customers span neuromodulation, cardiac rhythm management, sensing and diagnostics, circulatory assist, cranial and brain-computer interfaces, sleep apnea, implantable drug delivery, urinary and gastrointestinal, and smart orthopedics. Partners include Paradromics, which used the technology to maintain power through thick tissue layers for a brain-computer interface, and Resonetics, which collaborated on next-generation bioelectronic devices. One brain-computer interface company reached human studies within 15 months of development start.
+Customers span neuromodulation, cardiac rhythm management, sensing and diagnostics, circulatory assist, cranial and brain-computer interfaces, sleep apnea, implantable drug delivery, urinary and gastrointestinal, and smart orthopedics. Notable collaborations include work with Paradromics on a brain-computer interface system, Opto Biosystems on neurological disorder therapies, Lura Health on preventative care, and Resonetics on bioelectronic devices. In one case, the company helped a BCI developer reach human-study approval within 15 months of starting development.
 
-Resonant Link says its mission is to enable smaller, smarter, and longer-lasting implants that help people get well and stay well. The company emphasizes that its platform delivers 10× faster charging than conventional wireless at double the range, allows implants as small as 3 mm, and maintains uninterrupted power and data transfer during patient movement—all while reducing development risk through regulatory-ready processes.
+Resonant Link positions its technology as the fastest and most patient-friendly wireless charging for bioelectronics, citing 10× faster charging over twice the range of conventional systems. The platform enables implants as small as 3 mm, maintains power transfer during patient movement, and supports deeper implantation sites. The firm emphasizes that its regulatory-ready processes and testing infrastructure reduce development risk and accelerate time to market for medical device manufacturers.
 
 ## Known for
-- 10× faster wireless charging than conventional methods at double the range
-- 20-minute recharge capability for implantable devices
-- Implants as small as 3 mm enabled by Eterni™ platform
-- Uninterrupted power and data transfer during patient movement
-- Regulatory-ready processes that helped a BCI company reach human studies in 15 months
+- 10x faster wireless charging over double the range of conventional systems
+- 20-minute recharge for implantable devices
+- Implants as small as 3 mm enabled
+- Continuous power and data transfer during patient movement
+- Regulatory-ready design and testing processes
 
 ## Capabilities
-- Inductive wireless power transfer
+- Wireless power transfer (inductive)
 - Wireless data transfer
-- Feasibility studies
-- Regulatory-ready processes and testing
-- Traceable design integration
+- Implantable device power platform development
+- Feasibility studies for medical devices
+- Regulatory-ready design and testing
+- Wearable charging accessory design
 - High-frequency magnetics design
 - Power electronics design
-- Thermal management
+- Thermal management for implants
 - Electromagnetic simulation and modeling
-- RF systems engineering
-- Implantable device platform development (Eterni™, Vivigo™, Cardessa™)
 
 ## Industries
 - Neuromodulation
@@ -241,22 +234,21 @@ Resonant Link says its mission is to enable smaller, smarter, and longer-lasting
 
 <details><summary>Sources</summary>
 
-- Founded in 2017 by Aaron Stein -> /about-us
-- Headquarters in Burlington, Vermont -> db
-- Aurion WPT™ wireless power and data platform -> /
-- Product platforms: Eterni™, Vivigo™, Cardessa™ -> /
-- 50+ implantable device types designed -> /
-- 10x faster charging over double range -> /
-- 20-minute wireless charging -> /
-- Implants as small as 3 mm -> /
-- Uninterrupted power/data during movement -> /
-- 15 months to human studies for BCI company -> /about-us
-- 40% pacemaker size reduction -> /about-us
-- Industries served: Neuromodulation, Cardiac Rhythm Management, etc. -> /
-- Partners: Paradromics, Opto Biosystems, Resonetics, Lura Health -> /
-- Leadership: Omari Bouknight (CEO), Aaron Stein (CTO) -> /about-us
-- Regulatory-ready processes and testing -> /about-us
-- Feasibility studies offered -> /
+- Founded 2017 -> /about-us
+- Headquarters Burlington, Vermont -> db
+- Industries served -> /
+- Product platforms Eterni, Vivigo, Cardessa -> /
+- Aurion WPT technology description -> /
+- Leadership team -> /about-us
+- 15 months to human studies -> /about-us
+- 40% smaller pacemaker -> /about-us
+- 50+ implantable device types -> /
+- 10x faster charging -> /
+- 20-minute charging -> /
+- Implants as small as 3mm -> /
+- Uninterrupted power during movement -> /
+- Regulatory-ready processes -> /about-us
+- Collaborations with Paradromics, Opto Biosystems, Lura Health, Resonetics -> / and /about-us
 - LinkedIn URL -> db
 </details>
 
@@ -366,11 +358,12 @@ The firm cites its 100-plus years of collective industry knowledge and a staff o
 <details><summary>Sources</summary>
 
 - Headquarters: Providence, Rhode Island -> db
-- Business type: Restaurant equipment and supply store -> page:/
-- Claimed 100+ years industry knowledge -> page:/
-- Services: Equipment quotes, financing, Kitchen Campus -> page:/
-- Contact hours: Mon-Fri 8am-5pm EST -> page:/
-- Industries served: Food service, restaurant -> page:/
+- Business type: Restaurant equipment and supply store -> /
+- Phone numbers: , ,  -> /
+- Email:  -> /
+- Hours: Mon-Fri 8am-5pm EST -> /
+- Services: Financing, Kitchen Campus, expert staff -> /
+- Claim: 100+ years industry knowledge -> /
 </details>
 
 ---
@@ -429,35 +422,31 @@ The business promotes a value proposition built on competitive pricing, personal
 **Old description:** Migali 72″ – 30 Pans, Big Top Sandwich Prep Table. Call For Price!
 
 ## About
-Restaurant Equipment by Pro-Load operates from a facility Suite R in Beltsville, Maryland. The company does not publish its founding year or ownership structure on its public-facing pages.
+Restaurant Equipment by Pro-Load operates from a facility in Beltsville, Maryland. The company does not disclose its founding year or ownership structure, and no founders are named in public materials.
 
-The business stocks and sells a broad range of commercial kitchen equipment. Its catalog spans commercial refrigeration — including reach-in refrigerators and freezers, under-counter units, sandwich and pizza prep tables, chef bases, back-bar refrigerators, and display cases — as well as cooking equipment such as ranges, fryers, griddles, hot plates, broilers, stock pot stoves, mixers, and slicers. The offering also covers ice machines (undercounter and modular), dishwashers, stainless-steel work tables and sinks, scientific refrigeration, used equipment, and replacement parts. Brands carried include Migali, noted in product listings for sandwich prep tables.
+The business functions as a distributor of commercial restaurant equipment, offering a broad catalog that spans commercial refrigeration (including reach-ins, under-counters, sandwich and pizza prep tables, chef bases, back-bar units, and display cases), commercial cooking equipment (ranges, fryers, griddles, broilers, mixers, slicers, and hot food tables), ice machines, dishwashers, stainless-steel work tables, equipment stands, sinks, scientific apparatus, used equipment, and replacement parts. No facility size, headcount, or annual volume figures are published.
 
-Customers are primarily food-service operators: restaurants, cafeterias, catering companies, and institutional kitchens that need refrigeration, cooking, and sanitation equipment. The company also serves buyers looking for used or refurbished units and spare parts for maintenance.
+Its customer base comprises foodservice operators such as restaurants, institutional kitchens, and hospitality venues, though specific client names are not provided. The product lineup includes brands such as Migali, noted in a featured sandwich prep table.
 
-The company has not publicly stated a specific founding mission or differentiator beyond its product breadth and online storefront.
-
-## Known for
-- Broad catalog across refrigeration, cooking, ice, warewashing, and stainless categories
-- Carries both new and used equipment plus replacement parts
-- Online storefront with Shopify-powered ordering
-- Physical warehouse and showroom in Beltsville, MD
+The company has not published a stated mission or point of differentiation beyond the breadth of its inventory.
 
 ## Capabilities
-- Commercial equipment distribution
+- Commercial refrigeration equipment distribution
+- Commercial cooking equipment distribution
+- Ice machine distribution
+- Dishwasher distribution
+- Stainless steel equipment distribution
+- Scientific equipment distribution
+- Used equipment sales
 - Replacement parts supply
-- Used equipment resale
-- Product specification support
 
 ## Industries
-- Food service
 - Restaurant
-- Commercial kitchen
+- Foodservice
 - Hospitality
-- Institutional food service
 
 ## Equipment
-- Migali sandwich prep tables
+- Migali 72-inch 30-pan Big Top sandwich prep table
 
 ## Company details
 - **Company Type:** Distributor / reseller
@@ -465,11 +454,13 @@ The company has not publicly stated a specific founding mission or differentiato
 
 <details><summary>Sources</summary>
 
-- Headquarters address 10800 Hanna Street, Suite R, Beltsville, MD 20705 -> /
+- Headquarters in Beltsville, MD -> db
+- Address 10800 Hanna Street Suite R, Beltsville MD 20705 -> /
 - Phone 301-595-0000 -> /
 - Product categories: commercial refrigeration, cooking, ice machines, dishwashers, stainless steel, scientific, used equipment, parts -> /
-- Brand Migali mentioned for sandwich prep tables -> db
-- Copyright 2026 Pro Load Restaurant Equipment Powered by Shopify -> /
+- Carries Migali brand equipment -> db
+- Website powered by Shopify -> /
+- Copyright 2026 Pro Load Restaurant Equipment -> /
 </details>
 
 ---
@@ -479,52 +470,47 @@ The company has not publicly stated a specific founding mission or differentiato
 **Old description:** Sales, service and restoration of classic European sports cars.
 
 ## About
-Restoration & Performance Motorcars operates from a red barn on Monkton Road in Vergennes, Vermont. The business traces its roots to 1986 when Peter Markowski, a Vermont native who had spent two decades restoring a Ferrari Barchetta to its original specification, built the shop to turn his passion for classic European sports cars into a full-time venture. Markowski, the oldest of eight children from a dairy farm, had previously worked in construction, banking, and heavy-truck sales before founding the company.
+Restoration & Performance Motorcars (RPM) is located in Vergennes, Vermont, in the Champlain Valley. The shop was founded in 1986 by Peter Markowski, who built the original red barn facility after a career in construction, banking, and heavy-truck sales. Markowski’s passion for classic European sports cars began in his teens when he acquired a Ferrari Barchetta and spent two decades restoring it to original condition. The business remained family-owned for nearly four decades until September 2024, when Markowski sold it to four longtime employees—Nate Barcomb, Rolf Humburg, Keith Carnevale, and Jennifer Valz—while staying on as part of the team.
 
-The shop provides restoration, sales, and maintenance services for classic European sports cars, with a focus on Ferrari and Porsche models. Over the years the original barn has been expanded several times to accommodate the work, which ranges from mechanical overhauls and bodywork to full concours-level restorations. The company also brokers and sells collector-grade vehicles.
+RPM specializes in the restoration, maintenance, and sale of classic European sports cars, with a focus on Ferrari and Porsche models. The shop provides full-service restoration, mechanical repair, and pre-purchase inspections, operating from a facility that has undergone several expansions since 1986. The team handles everything from engine rebuilds and bodywork to electrical systems and interior refinishing, serving both private collectors and enthusiasts.
 
-Its customers are primarily private collectors and enthusiasts seeking expert care for Ferrari and Porsche automobiles. The team has handled vehicles such as the Ferrari Barchetta that launched Markowski's career, along with numerous other models from both marques. The business serves the broader classic-car market through its sales and service operations.
+The company serves collectors and owners of classic European sports cars, particularly Ferrari and Porsche. Customers include private individuals seeking restoration of vintage vehicles, buyers looking for authenticated classic cars, and owners needing specialized maintenance. RPM’s reputation draws clients from across the region and beyond for its expertise in originality and craftsmanship.
 
-The company emphasizes craftsmanship and originality as its guiding principles, a standard Markowski established during his early restoration work. After nearly four decades of family ownership, the business was sold in September 2024 to four longtime employees—Nate Barcomb, Rolf Humburg, Keith Carnevale, and Jennifer Valz—who continue the operation with Markowski remaining involved.
+The business was born from Markowski’s personal dedication to preserving automotive history; his early experience restoring the Barchetta taught him the value of originality and the network of parts specialists. RPM emphasizes adherence to factory specifications and originality, a principle that continues under the new employee ownership.
 
 ## Known for
-- Highest standards of craftsmanship and originality
-- Family-owned for nearly four decades
-- Specialization in Ferrari and Porsche
-- Red barn shop with multiple expansions
-- Employee-owned since September 2024
+- Specializes in Ferrari and Porsche restoration and sales
+- Employee-owned since 2024 with founder still involved
+- Nearly four decades of operation in the Champlain Valley
+- Focus on originality and factory-correct craftsmanship
 
 ## Capabilities
 - Classic European sports car restoration
 - Classic European sports car sales
-- Classic European sports car maintenance and service
+- Classic European sports car maintenance
 - Ferrari restoration and service
 - Porsche restoration and service
 
 ## Industries
 - Classic European sports car restoration
-- Ferrari restoration and service
-- Porsche restoration and service
-- Classic car sales
+- Specialty car sales
+- Automotive service
 
 ## Company details
 - **Company Type:** Installer / service company
 - **Founded:** 1986
-- **Ownership:** Family-owned, Employee-owned
+- **Ownership:** Family-owned (sold to employees in 2024)
 - **Headquarters:** Vergennes, VT
 
 <details><summary>Sources</summary>
 
-- Location: Vergennes, VT -> db
-- Founding year: 1986 -> /about
-- Founder: Peter Markowski -> /about
-- Ownership: family-owned -> /about
-- Ownership: employee-owned since 2024 -> /about
-- Specialization: Ferrari and Porsche -> /about
-- Facility: red barn shop with expansions -> /about
-- Services: restoration, sales, maintenance -> /
-- Customer focus: classic European sports car collectors -> /about
-- Differentiator: craftsmanship and originality -> /about
+- Founded in 1986 by Peter Markowski -> /about
+- Family-owned restoration shop in Vergennes, Vermont -> /about, /
+- Specializes in Ferrari and Porsche -> /about, /
+- Sold to employees Nate Barcomb, Rolf Humburg, Keith Carnevale, Jennifer Valz in September 2024 -> /about
+- Located at 462 Monkton Road, Vergennes, VT 05491 -> /, /about
+- Offers restoration, sales, maintenance, and service -> /
+- Operates in Champlain Valley of Vermont -> /
 </details>
 
 ---
@@ -534,57 +520,55 @@ The company emphasizes craftsmanship and originality as its guiding principles, 
 **Old description:** We help our customers find the best Electronic Manufacturing Equipment for their production needs in New England.
 
 ## About
-Based in Framingham, Massachusetts, Restronics New England operates as a manufacturers' representative firm led by Managing Partner Hunter Adams, who brings 35 years of industry experience. The company serves the six-state New England territory — Massachusetts, Rhode Island, Connecticut, New Hampshire, Vermont, and Maine — from its Framingham headquarters.
+Restronics New England operates from Framingham, Massachusetts, serving the six-state New England region as a manufacturers' representative firm. The company is led by Managing Partner Hunter Adams, who brings 35 years of industry experience, alongside Manufacturers' Representative Scott O'Donnell. While the firm's founding year is not publicly disclosed, it presents itself as a national manufacturers' representative organization with a consultative approach to OEM sales representation.
 
-Restronics New England represents manufacturers of electronic manufacturing equipment and supplies, with a focus on PCB and medical device production. Beyond representation, the firm provides complimentary, mobile consulting services including ESD facility assessments, workstation ESD evaluations, and assembly line consultations for both surface-mount and through-hole processes. Sales engineers work on-site at customer facilities to evaluate processes, recommend efficiency improvements, and support capital-investment payback analysis.
+The firm does not manufacture products but represents manufacturers of electronic manufacturing equipment and supplies. Its core services include ESD assessments, workstation ESD assessments, and assembly line consultations for surface-mount and through-hole processes. All consulting services are provided at no charge to customers, with the team traveling to client facilities throughout Massachusetts, Rhode Island, Connecticut, New Hampshire, Vermont, and Maine. Restronics also manages distribution channel relationships and provides end-customer activity reporting for its manufacturer partners.
 
-The company's customer base spans electronic manufacturers, medical device producers, and PCB assemblers throughout New England. Restronics manages distribution channel relationships for its manufacturer principals and provides end-customer activity reporting. Its team, which includes Manufacturers' Representative Scott O'Donnell, leverages long-standing industry relationships to connect OEMs with equipment and supply solutions.
+Restronics serves original equipment manufacturers and contract manufacturers in the electronic manufacturing and medical device sectors, with a focus on printed circuit board assembly operations. Its customers range from companies seeking capital equipment such as pick-and-place machines to those needing ESD control materials and packaging solutions. The firm's territory covers the entire New England region.
 
-Restronics emphasizes a consultative model built on credibility with both customers and represented manufacturers. All consulting services are offered at no charge, and the firm's mobile approach brings assessments directly to the client's production floor. The organization positions itself as an educational resource, publishing technical articles on topics such as SMT pick-and-place machines, antistatic packaging, and foreign object debris prevention.
+The company emphasizes its credibility with both customers and principals as its primary asset, built on long-term relationships and honest, timely information. Its no-fee, mobile service model is designed to help manufacturers improve processes, increase throughput, and reduce field failures without upfront consulting costs.
 
 ## Known for
-- No-charge consulting and assessment services
-- Mobile on-site service throughout New England
-- 35 years of industry experience (Hunter Adams)
-- Represents leading electronic manufacturing equipment manufacturers
-- Consultative OEM sales representation with distribution channel management
+- No-charge consulting services for customers and prospects
+- Mobile on-site assessments at client facilities
+- Consultative representation of manufacturer partners
+- Credibility with customers and principals as primary asset
+- 35 years of industry experience (Managing Partner)
 
 ## Capabilities
-- Manufacturers' representation
-- OEM sales representation
-- Distribution channel management
-- ESD facility assessment
+- ESD assessment
 - Workstation ESD assessment
-- Assembly line consultation (SMT and through-hole)
-- Process improvement consulting
-- Capital investment payback analysis
-- End-customer activity reporting
+- Assembly line consultation
+- Manufacturers' representation
+- Distribution channel management
+- OEM sales representation
 
 ## Industries
 - Electronic manufacturing
 - Medical device manufacturing
 - PCB manufacturing
-- Electronic manufacturing equipment and supplies
 
 ## Company details
-- **Company Type:** Other
+- **Company Type:** Distributor / reseller
 - **Headquarters:** Framingham, Massachusetts
 
 <details><summary>Sources</summary>
 
-- Headquarters: Framingham, Massachusetts -> db
-- Manufacturers' representative firm -> /, /about-us
-- Managing Partner Hunter Adams, 35 years experience -> /about-us
-- Territory: six New England states -> /about-us
-- Services: ESD assessment, workstation assessment, assembly line consultation -> /, /services, /about-us
-- Services offered at no charge, mobile -> /
-- Represents leading manufacturers of electronic manufacturing equipment and supplies -> /, /about-us
-- Focus on PCB and medical device manufacturing -> /
-- Team includes Scott O'Donnell -> /about-us
+- HQ: Framingham, Massachusetts -> db
+- Managing Partner: Hunter Adams -> /about-us
+- 35 years experience (Hunter Adams) -> /about-us
+- Services offered at no charge -> /
+- Mobile services (come to facility) -> /
+- Territory: MA, RI, CT, NH, VT, ME -> /about-us
+- Represents leading manufacturers in electronic manufacturing -> /
 - Consultative OEM sales rep organization -> /about-us
-- Manages distribution channel relationships -> /about-us
-- Provides end-customer activity reporting -> /about-us
-- Publishes technical articles on SMT, antistatic packaging, FOD -> /
+- ESD assessment service -> /services
+- Workstation assessment service -> /services
+- Assembly line consultation for SMT and through-hole -> /services
+- Industries: electronic manufacturing, medical device manufacturing -> /
+- PCB manufacturing focus -> /
+- Scott O'Donnell, Manufacturers' Representative -> /about-us
+- Blog articles on FOD, SMT pick-and-place, antistatic packaging -> /
 </details>
 
 ---

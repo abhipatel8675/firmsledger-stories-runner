@@ -251,40 +251,39 @@ The founder's stated goal has been to provide top-notch service with a personal 
 **Old description:** Building creative engineering and manufacturing solutions for every customer
 
 ## About
-Sierra Peaks Corporation is headquartered in Albuquerque, New Mexico, with additional facilities in Fairfax, Virginia, and Lemon Grove, California. The company has been designing, engineering, and manufacturing custom system solutions for over four decades, though a specific founding year is not publicly disclosed. Ownership details and founder names have not been shared in available materials.
+Sierra Peaks Corporation is headquartered in Albuquerque, New Mexico, with additional facilities in Fairfax, Virginia, and Lemon Grove, California. The company has been designing, engineering, and manufacturing unique system solutions for more than 40 years, though a specific founding year is not publicly stated. Ownership details and founder names are not disclosed in available sources.
 
-The firm provides full-service engineering and manufacturing, spanning mechanical, electrical, systems, and software design through to machining, welding, electromechanical assembly, modeling, sewing, and custom cable fabrication. Its three sites collectively offer more than 50,000 square feet of manufacturing and program management space, all maintained to NISPOM security standards for restricted programs. Capabilities also include first-article prototyping, inspection simulations, and integration services.
+The company operates over 50,000 square feet of combined manufacturing and program management space across its three locations. Its capabilities span full-service machining, welding, electromechanical assembly, modeling, sewing, custom cable fabrication, and inspection simulations, supported by in-house mechanical, electrical, systems, and software engineering teams. Sierra Peaks also provides rapid prototyping, first-article production, and project management services, delivering projects on schedule and within budget.
 
-Sierra Peaks serves the defense, intelligence, aerospace, maritime, energy, audio, and research sectors, with highlighted work in national security and aerospace. Customers range from government agencies to commercial organizations requiring highly customized hardware and software solutions, such as aerostructures, automated test equipment, and specialized particulate sampling systems.
+Sierra Peaks serves the defense, intelligence, aerospace, maritime, energy, audio, and research sectors, including national security programs. Its customer base includes government and commercial clients requiring highly customized hardware and software solutions. Representative products include aerostructures and automated test equipment, alongside standard product lines that can be tailored to specific needs.
 
-The company emphasizes that no two solutions are alike, positioning its differentiation on end-to-end collaboration—from concept and line drawings through prototyping, production, and testing—delivered on time and on budget by dedicated project managers. Its facilities are configured for rapid prototyping, manufacturing, and testing under security clearances.
+The company differentiates itself through NISPOM-compliant facilities cleared for restricted programs, end-to-end project management, and the ability to engage at any project phase—from initial concept through production. Its engineers emphasize designing for manufacturability and functionality, aiming to deliver exactly what each customer envisions.
 
 ## Known for
-- 50,000+ sq ft manufacturing space across three NISPOM-compliant facilities
+- Over 50,000 sq ft of manufacturing space across three states
+- NISPOM-compliant facilities for restricted programs
 - In-house mechanical, electrical, systems, and software engineering
-- Full-service machine shop with machining, welding, and electromechanical assembly
-- Custom cable fabrication and first-article prototyping
-- Project management focused on on-time, on-budget delivery
+- Full-service machine shop and custom cable fabrication
+- Project management with on-time, on-budget execution
 
 ## Capabilities
-- Mechanical engineering
-- Electrical engineering
-- Systems engineering
-- Software engineering
+- Full-service inspection simulations
+- Custom engineering & integration
+- Full-service machine shop
+- Custom cable fabrication
 - Machining
 - Welding
 - Electromechanical assembly
 - Modeling
 - Sewing
-- Custom cable fabrication
-- Full-service machine shop
-- Inspection simulations
-- Engineering integration
-- First article prototyping
-- Project management
 - Rapid prototyping
+- Mechanical engineering
+- Electrical engineering
+- Systems engineering
+- Software engineering
+- Project management
+- First article prototyping
 - Testing
-- NISPOM-compliant manufacturing
 
 ## Industries
 - Defense
@@ -297,7 +296,7 @@ The company emphasizes that no two solutions are alike, positioning its differen
 - National Security
 
 ## Certifications
-- NISPOM
+- NISPOM compliant
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -305,17 +304,19 @@ The company emphasizes that no two solutions are alike, positioning its differen
 
 <details><summary>Sources</summary>
 
-- Headquartered in Albuquerque, NM with facilities in Fairfax, VA and Lemon Grove, CA -> /about
-- Over 50,000 sq ft manufacturing space across three states -> /about
-- NISPOM compliant facilities for restricted programs -> /about
-- Design, engineering, manufacturing of custom system solutions for over 40 years -> /about
-- Industries served: defense, intelligence, aerospace, maritime, energy, audio, research -> /
-- Processes: machining, welding, electromechanical assembly, modeling, sewing -> /
-- Engineering disciplines: mechanical, electrical, systems, software -> /
-- Products: Aerostructures, Automated Test Equipment, Harvester Particulate Sampling -> /
-- Capabilities: Full-service inspection simulations, Custom Engineering & Integration, Full-service machine shop, Custom cable fabrication -> db
-- First article/first of production prototyping -> /
-- Project management emphasis -> /
+- Headquartered in Albuquerque, NM -> /about
+- Two additional facilities in Fairfax, VA, and Lemon Grove, CA -> /about
+- Over 50,000 square feet of manufacturing and program management space -> /about
+- More than 40 years in business -> /about
+- Design, development, and manufacturing of unique system solutions -> /
+- Industries: defense, intelligence, aerospace, maritime, energy, audio, research -> /
+- Capabilities: machining, welding, electromechanical assembly, modeling, sewing -> /
+- Full-service machine shop, custom cable fabrication, inspection simulations, engineering & integration -> db
+- NISPOM compliant facilities -> /about
+- Project management, on-time on-budget execution -> /
+- Standard products and custom engineered solutions -> /
+- Products: Aerostructures, Automated Test Equipment -> /
+- Team includes mechanical, electrical, systems, software engineers -> /
 </details>
 
 ---
@@ -384,39 +385,37 @@ _skipped: not enough facts_
 **Old description:** we have helped independent and emerging designers create fashion. We specialize in Quality and Efficiency and are 100% made in Los Angeles.
 
 ## About
-Silkhands Inc. operates from Los Angeles, California, and was founded in 2006. The company began as a fashion development and production house focused on helping independent and emerging designers bring their designs to life.
+Silkhands Inc. was founded in 2006 in Los Angeles, California. The company operates a fashion development and production facility in the city's garment district.
 
-The facility provides end-to-end garment manufacturing services, including pattern making, sample development, fabric cutting, pattern grading, marker making, production sewing, finishing, inspection, pressing, steaming, folding, bagging, labeling, and boxing. All work is performed in-house by the company's staff, with production cut on-site and sent to sewing and finishing departments.
+The company provides end-to-end apparel manufacturing services, including pattern making, sampling, cutting, grading, marker making, and full production runs. Its in-house team handles everything from initial pattern development through finishing, which includes trimming, dual inspections, pressing, steaming, folding, bagging, labeling, and boxing. The facility works with a wide range of fabrics and produces categories such as men's and women's apparel, swimwear, underwear, lingerie, and children's wear.
 
-Silkhands serves independent and emerging designers across a range of apparel categories, including men's, women's, teen's, and baby apparel, as well as men's and women's swimwear, men's underwear, and delicate lingerie. The company acts as a one-stop shop, guiding clients through each step from pattern to finished goods.
+Silkhands primarily serves independent and emerging fashion designers who need a domestic production partner. Clients range from startups launching first collections to established labels requiring small-to-medium volume runs. The company's service packages bundle patterns, samples, fittings, and adjustments to streamline the pre-production process.
 
-The company emphasizes quality and efficiency, highlighting its 100% Los Angeles-based production, contractual guarantees on specifications and delivery dates, and a standard production lead time of four to eight weeks.
+Silkhands emphasizes that all work is performed in its Los Angeles factory by its own staff, a model it says ensures quality control and efficiency. Standard production lead times are quoted at four to eight weeks, with a 50 percent deposit due at contract signing and the balance on delivery.
 
 ## Known for
 - 100% made in Los Angeles
-- All production completed in-house by staff
+- All production completed in-house by company staff
+- In-house patternmaker for pattern creation and adjustments
 - Standard production lead time of 4-8 weeks
-- Contractual guarantee on specifications and delivery dates
-- One-stop shop from pattern making to finished goods
+- 50% deposit at contract signing, 50% due on delivery
 
 ## Capabilities
 - Pattern making
-- Sample development
-- Fabric cutting
-- Pattern grading
+- Sampling
+- Cutting
+- Grading
 - Marker making
 - Production sewing
-- Finishing and inspection
-- Pressing and steaming
-- Folding, bagging, labeling, and boxing
+- Finishing (trimming, inspection, pressing, steaming, folding, bagging, labeling, boxing)
 
 ## Industries
 - Apparel manufacturing
+- Fashion design
 - Swimwear
-- Intimate apparel
+- Underwear
+- Lingerie
 - Children's apparel
-- Men's apparel
-- Women's apparel
 
 ## Company details
 - **Company Type:** Contract manufacturer / job shop
@@ -426,15 +425,12 @@ The company emphasizes quality and efficiency, highlighting its 100% Los Angeles
 <details><summary>Sources</summary>
 
 - Founded in 2006 -> db
-- Headquartered in Los Angeles, California -> db
-- Services: pattern making, sampling, cutting, grading, marker making, production -> /
-- All projects completed in-house by staff -> /
+- Headquarters in Los Angeles, California -> db
+- Services include pattern making, sampling, cutting, grading, marker making, and production -> /
 - Standard production lead time 4-8 weeks -> /
+- All production completed in-house by staff -> /
 - Serves independent and emerging designers -> /
-- Garment categories: men's apparel, women's apparel, teen's apparel, baby apparel, men's swimwear, women's swimwear, men's underwear, delicate lingerie -> /
-- Contractual basis guaranteeing specifications and delivery dates -> /
-- Payment terms: 50% deposit, 50% on delivery -> /
-- One-stop shop from pattern to production -> /
+- Produces men's/women's apparel, swimwear, underwear, lingerie, children's wear -> /
 </details>
 
 ---
@@ -444,20 +440,20 @@ The company emphasizes quality and efficiency, highlighting its 100% Los Angeles
 **Old description:** sourcing, inventory management, or control panel manufacturing challenges
 
 ## About
-Simcona Electronics Corporation was founded in 1962 by Louis Iacona and Simon Braitman in Rochester, New York. The family-owned business began as a component distribution company operating from an 1,800-square-foot loft opposite Kodak Park. Leadership transitioned to the second generation in 1999, and Marc Iacona acquired sole ownership in 2011.
+Simcona Electronics Corporation was founded in 1962 by Louis Iacona and Simon Braitman in Rochester, New York. The pair opened an 1,800-square-foot loft opposite Kodak Park as a component distribution company. The business remains family-owned and operated, transitioning to second-generation leadership in 1999 and sole ownership under Marc Iacona in 2011.
 
-Today the company operates across three facilities totaling 130,000 square feet and employs more than 70 people. Simcona provides three core services: build-to-print industrial control panel manufacturing certified to UL 508A and UL 698, electronic component distribution leveraging a network of over 200 suppliers, and cable and wire solutions sourced from manufacturers such as Southwire, Belden, and Lapp. Capabilities include prototyping, high-mix/low-volume and scalable production runs, engineering support with DFM recommendations, AI-enabled procurement, kitting, inventory management, and 100% functional testing under an ISO 9001:2015 quality system.
+Today Simcona operates as both an electronic component distributor and a contract manufacturer of industrial control panels. Its 130,000-square-foot footprint spans three facilities in Rochester and supports a staff of more than 70. The company maintains a network of over 200 component suppliers and offers build-to-print panel manufacturing certified to UL 508A and UL 698, with capabilities ranging from single prototypes to high-mix, scalable production runs. Services also include prototyping, design-for-manufacturing support, kitting, inventory management, and 100% functional testing under an ISO 9001:2015 quality system.
 
-Customers span aerospace, healthcare, military, data infrastructure, commercial entertainment, industrial, and oil and gas sectors. Testimonials reference clients in each of these verticals, and the company primarily serves the eastern United States.
+Customers span aerospace, healthcare, military and defense, data infrastructure, commercial entertainment, general industrial, and oil and gas sectors. Testimonials reference clients in each of these verticals, and the company's blog highlights fiber-optic applications for the oil and gas industry. Simcona primarily serves the eastern United States.
 
-Simcona emphasizes long-term relationships, guided by core values of caring, collaboration, passion, loyalty, innovation, and integrity. The firm invests in Lean Six Sigma training, project management certification, and purpose-built facilities to maintain a specialist workforce and a resilient supplier ecosystem.
+Simcona emphasizes long-term relationships and invests heavily in workforce development, requiring Lean Six Sigma belts for operations and engineering staff, along with project management and UL 508A certifications. The company cites its purpose-built facilities, AI-enabled sourcing tools, and a culture of caring, collaboration, passion, loyalty, innovation, and integrity as key differentiators.
 
 ## Known for
-- UL 508A and UL 698 certified panel building
-- Supplier network of 200+ top component manufacturers
-- ISO 9001:2015 certified quality management system
-- Family-owned and operated since 1962
-- AI-enabled sourcing tools for procurement
+- UL 508A and UL 698 certified control panel manufacturing
+- 200+ supplier network for hard-to-find components
+- Lean Six Sigma certified operations and engineering staff
+- AI-enabled sourcing tools for pricing and availability
+- 100% functional testing on every panel
 
 ## Capabilities
 - Build-to-print control panel manufacturing
@@ -465,31 +461,34 @@ Simcona emphasizes long-term relationships, guided by core values of caring, col
 - UL 698 certified panel building
 - High-mix/low-volume production
 - Scalable production runs
+- Full documentation and traceability
 - Prototyping and new product introduction (NPI)
-- Engineering and documentation support
-- Design-for-Manufacturing (DFM) recommendations
-- Digital work instructions with photos, drawings, and 3D models
-- Procurement and supply chain management
-- AI-enabled sourcing
+- Fast-turnaround prototyping
+- Design for manufacturability (DFM) recommendations
+- Digital work instructions with 3D models
+- Engineering support for control panel design and compliance
+- Supplier network management (200+ partners)
+- AI-enabled component sourcing
 - Kitting and inventory management
 - Global and domestic sourcing strategies
-- 100% functional testing of every panel
-- Continuity and compliance checks
-- ISO 9001:2015 quality management system
+- 100% functional testing
+- Continuity and compliance testing
+- ISO 9001:2015 quality management
+- Customer audit support
 - Electronic component distribution
-- Cable and wire distribution
-- Custom cable manufacturing
-- Inventory management and warehousing
-- Forecasting and supply chain services
+- Industrial cable and wire distribution
+- Custom cable assembly
+- Supply chain management
+- Warehousing and forecasting
 
 ## Industries
 - Aerospace
 - Healthcare
-- Military
-- Data infrastructure
-- Commercial products / entertainment
+- Military/Defense
+- Data Infrastructure
+- Commercial Products/Entertainment
 - Industrial
-- Oil & gas
+- Oil & Gas
 
 ## Certifications
 - ISO 9001:2015
@@ -500,7 +499,7 @@ Simcona emphasizes long-term relationships, guided by core values of caring, col
 - **Company Type:** Contract manufacturer / job shop
 - **Founded:** 1962
 - **Employees:** 70+
-- **Ownership:** Family-owned and operated
+- **Ownership:** Family-owned
 - **Headquarters:** Rochester, New York
 
 <details><summary>Sources</summary>
@@ -508,20 +507,48 @@ Simcona emphasizes long-term relationships, guided by core values of caring, col
 - Founded 1962 by Louis Iacona and Simon Braitman -> /about
 - Family-owned and operated -> /about
 - Headquarters Rochester, NY -> /about
-- 130,000 sq ft across three locations, 70+ employees (2024) -> /about
-- UL 508A and UL 698 certified panel building -> /capabilities
+- 70+ employees -> /about
+- 130,000 sq ft across three locations -> /about
 - ISO 9001:2015 certified -> /capabilities
-- Supplier network 200+ -> /
-- Build-to-print, prototyping, NPI, engineering support, procurement, testing -> /capabilities
-- Industries: aerospace, healthcare, military, data infrastructure, commercial/entertainment, industrial, oil & gas -> / and /about
-- Core values: caring, collaboration, passion, loyalty, innovation, integrity -> /about
-- Lean 6-sigma belts, project management certification -> /
+- UL 508A certified -> /capabilities
+- UL 698 certified -> /capabilities
+- 200+ supplier network -> /
+- Control panel manufacturing -> /capabilities
+- Electronic component distribution -> /
+- Cable and wire distribution -> /
+- Industries served: Aerospace, Healthcare, Military, Data Infrastructure, Commercial/Entertainment, Industrial, Oil & Gas -> /
+- Lean Six Sigma belts required -> /
 - AI-enabled sourcing tools -> /capabilities
-- Cable/wire distribution with Southwire, Belden, Lapp -> /about
+- 100% functional testing -> /capabilities
+- Prototyping and NPI -> /capabilities
+- DFM recommendations -> /capabilities
+- Digital work instructions -> /capabilities
+- Kitting and inventory management -> /capabilities
+- Global and domestic sourcing -> /capabilities
+- Customer audits welcomed -> /capabilities
+- Build-to-print expertise -> /capabilities
+- High-mix/low-volume production -> /capabilities
+- Scalable production runs -> /capabilities
+- Full documentation and traceability -> /capabilities
+- Fast turnaround prototypes -> /capabilities
+- Engineering support for control panel design -> /capabilities
+- Supply chain management -> /
+- Warehousing and forecasting -> /about
+- Custom cable assembly -> /
+- Fiber-optic products for oil & gas -> /
+- Long-term relationships focus -> /
+- Core values: caring, collaboration, passion, loyalty, innovation, integrity -> /about
+- Leadership training -> /
+- Project and supply chain management certification -> /
+- Purpose-built facilities -> /
+- Second generation leadership transition 1999 -> /about
+- Marc Iacona sole ownership 2011 -> /about
+- New panel manufacturing facility 2022 -> /about
+- Expansion to 130,000 sq ft 2024 -> /about
 </details>
 
 ---
 
 # Simply Wood Studios Workshop
 
-_skipped: not enough facts_
+_skipped: The read operation timed out_

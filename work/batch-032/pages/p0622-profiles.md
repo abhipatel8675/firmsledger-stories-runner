@@ -119,53 +119,54 @@ RAS differentiates itself through its patented valuation technology and online s
 **Old description:** Having trouble finding high quality furniture that fits your space, is durable and customizable?
 
 ## About
-Redefined Woodworking Co. operates from Menifee, California. The company was founded by Eric and Sara Ruby after Eric's woodworking hobby, encouraged by his wife, grew into a business venture. Eric, a U.S. Naval Academy graduate with a mechanical engineering background, and Sara, a former teacher and mentor, relocated with the Navy before settling in Southern California to establish the shop.
+Redefined Woodworking Co. operates from Menifee, California, where founders Eric and Sara Ruby established the business after their marriage in 2017. Eric, a U.S. Naval Academy graduate with a mechanical engineering degree, and Sara, a former teacher with a teaching credential from Cal Poly San Luis Obispo, turned Eric’s woodworking hobby into a venture while he continued his Navy service. The couple relocated twice with the military before settling in Southern California to build the company.
 
-The workshop produces custom furniture with a focus on dining tables, using heirloom-quality materials and experienced craftsmanship. Services include furniture design consulting, wood species education, delivery and assembly of finished pieces, and woodworking classes for enthusiasts. The operation is a small, husband-and-wife team; no facility size, headcount, or production volumes are disclosed.
+The workshop produces handcrafted, American-made furniture with a focus on custom dining tables, along with other bespoke pieces. Services include furniture design consulting, wood species education, material selection guidance, and woodworking classes for enthusiasts. Each project moves through an inquiry, consultation, and delivery phase, with the team handling assembly on-site. No facility size or headcount figures are disclosed.
 
-The primary customers are residential clients seeking bespoke furniture that fits their space and aesthetic, particularly families wanting a durable gathering table. The company also serves individuals interested in learning woodworking through hands-on classes. Concrete examples from the input include clients who request custom tables with specific dimensions, wood species, and design details, as well as students enrolling in woodworking education.
+The company serves residential clients seeking heirloom-quality furniture tailored to their spaces, as well as hobbyists attending woodworking classes. Customers are typically families and homeowners who value durable, customizable pieces made from solid wood. The Rubys’ emphasis on the dining table as a gathering point shapes their primary market.
 
-The founders' stated philosophy is "Invest in things that last." They emphasize an extensive consultation process to ensure client desires are fully understood and aim to exceed expectations. The business was started to provide structurally sound, generational furniture and to share the joy of woodworking through education.
+The Rubys cite their consultation process and Eric’s engineering background as differentiators, aiming to exceed client expectations through structural soundness and functional design. Their philosophy, “Invest in things that last,” reflects a commitment to educating buyers on wood properties, cost trade-offs, and long-term value.
 
 ## Known for
-- Excellent consultation process ensuring desires fully understood
-- Heirloom-quality materials and experienced craftsmanship
-- Wood species education and design consulting
-- Delivery and assembly included
-- Woodworking classes offered
+- Heirloom-quality materials and wood species education
+- Furniture design consulting with a focus on structural soundness
+- Eric Ruby’s mechanical engineering background applied to functional design
+- In-home delivery and assembly included
+- Woodworking classes offered alongside custom production
 
 ## Capabilities
 - Custom furniture manufacturing
-- Woodworking
 - Furniture design consulting
-- Wood species education
-- Delivery and assembly
+- Wood species education and material selection
 - Woodworking classes
+- In-home delivery and assembly
+- Bespoke dining table fabrication
 
 ## Industries
-- Custom furniture
 - Residential furniture
+- Custom woodworking
 - Woodworking education
 
 ## Company details
 - **Company Type:** Manufacturer
-- **Ownership:** Family-owned (husband-wife team)
+- **Ownership:** Husband-and-wife owned
 - **Headquarters:** Menifee, California
 
 <details><summary>Sources</summary>
 
-- Location: Menifee, California -> /about
+- Location: Menifee, California -> db
 - Founders: Eric and Sara Ruby -> /about
-- Business origin: Eric's woodworking hobby encouraged by Sara -> /about
-- Eric's background: U.S. Naval Academy 2010, BS Mechanical Engineering -> /about
-- Sara's background: Cal Poly San Luis Obispo 2012, Teaching Credential -> /about
+- Eric Ruby: US Naval Academy 2010, BS Mechanical Engineering -> /about
+- Sara Ruby: Cal Poly San Luis Obispo 2012, Teaching Credential -> /about
+- Married April 22, 2017 -> /about
+- Relocated with Navy twice -> /about
 - Specializes in dining tables -> /about
-- Offers furniture design consulting, wood species education, delivery and assembly, woodworking classes -> /, /about
+- Offers custom furniture, woodworking classes -> /
+- Services: craftsmanship, materials education, design consulting, customizable options -> /
+- Process: inquire, consult, deliver/assemble -> /
 - Philosophy: Invest in things that last -> /about
-- Excellent consultation process -> /about
-- Heirloom quality materials -> /
-- Handcrafted, American-made -> /
-- Customizable options -> /
+- Eric's dad self-taught engineer -> /about
+- Met in San Diego March 2015 -> /about
 </details>
 
 ---
@@ -328,13 +329,17 @@ Reel Power Industrial distinguishes itself through a focus on speed, automation,
 **Old description:** Manufactures electric motors, generators, and mechanical power transmission components.
 
 ## About
-Regal Rexnord is headquartered in Milwaukee, Wisconsin, and was founded in 1955. The company operates as a manufacturer of electric motors, generators, and mechanical power transmission components. Ownership details and founder names are not publicly disclosed in the available data.
+Regal Rexnord is headquartered in Milwaukee, Wisconsin, and traces its origins to 1955. The company operates as a large-scale manufacturer of electric motors, generators, and mechanical power transmission components, serving global markets from its Wisconsin base.
 
-The company produces electric motors, generators, and mechanical power transmission components. With a workforce of approximately 30,000 employees, Regal Rexnord operates at a large industrial scale, though specific facility sizes, production volumes, and part number counts are not provided in the source data.
+The company produces a broad range of electric motors, generators, and mechanical power transmission components for industrial and commercial applications. With a global workforce of approximately 30,000 employees, Regal Rexnord operates multiple manufacturing facilities worldwide, though specific facility sizes and production volumes are not publicly disclosed.
 
-Regal Rexnord serves the alternative energy sector, among other industries. The company's industry list includes "Alternative Energy" and indicates a broad market reach with the phrase "Any Industry, Any Challenge," though specific customer examples are not detailed in the input.
+Regal Rexnord serves a diverse set of industries, including alternative energy, as indicated by its published industry focus. Its products are used in applications ranging from industrial automation to energy generation, though specific customer names are not disclosed. The company also markets its capabilities to "any industry, any challenge," suggesting a broad industrial reach.
 
-The input does not state a specific founding mission or stated differentiator for Regal Rexnord.
+The company positions itself around increasing energy efficiency and addressing challenges across any industry, reflecting a focus on versatile, efficient power transmission solutions. No specific founding mission or unique differentiator beyond this broad positioning is stated in available sources.
+
+## Known for
+- Focus on increasing energy efficiency
+- Broad applicability across any industry
 
 ## Capabilities
 - Electric motor manufacturing
@@ -352,11 +357,11 @@ The input does not state a specific founding mission or stated differentiator fo
 
 <details><summary>Sources</summary>
 
-- Founded in 1955 -> db
 - Headquartered in Milwaukee, Wisconsin -> db
+- Founded in 1955 -> db
 - Employee count 30,000 -> db
 - Manufactures electric motors, generators, and mechanical power transmission components -> db
-- Serves alternative energy industry -> db
+- Industries served include Alternative Energy -> db
 </details>
 
 ---
@@ -508,34 +513,34 @@ The company's differentiation traces to its founding principles: durability over
 **Old description:** Rencher Industries specializes in unique products for motion picture, broadcast, and new media
 
 ## About
-Rencher Industries operates from Winston-Salem, North Carolina, where it focuses on boutique manufacturing for the camera department. The company does not disclose its founding year, ownership structure, or founders' names in the available materials.
+Rencher Industries operates from Winston-Salem, North Carolina. The company's founding year and ownership structure are not publicly disclosed, nor are its founders named in available sources. The business presents itself as a boutique manufacturer focused on the camera department of motion picture, broadcast, and new media productions.
 
-The firm designs and assembles all of its products in-house, with many components also fabricated internally. Its catalog includes power adapters such as the USB-Sink 28V and XLR Power Adapter, battery adapters like the PowerBlock USB-C PD and Arriflex SR Battery Adapter, voltage monitoring tools (Micro Voltmeter, Inline Voltmeter), a Mini Production Router, and custom-machined brass T-Studs. The company describes its approach as "boutique manufacturing" and emphasizes that items are "Designed and Assembled in USA."
+The company designs and assembles all of its products in-house, with many components also fabricated internally. Its catalog includes power adapters such as the USB‑Sink 28V (a USB‑C PD 3.1 trigger delivering 28 V at 5 A), battery adapters for Arri SR cameras, the PowerBlock USB‑C PD Battery Adapter, the BreakerBatt, and voltage monitoring tools like the Micro Voltmeter and Inline Voltmeter. It also offers a Mini Production Router and custom‑machined brass T‑Studs. The operation is described as boutique manufacturing, though facility size, headcount, and annual volumes are not specified.
 
-Rencher Industries serves the motion picture, broadcast, and new media sectors, specifically targeting camera department professionals. Its products address on-set power distribution, battery integration, and voltage monitoring needs. The company also invites custom work, directing inquiries to its sales email.
+Rencher serves the motion picture, broadcast, and new media industries, targeting camera departments and production crews. Concrete examples include the Arriflex SR Battery Adapter for Arri cinema cameras, the Intersex Plate for camera mounting, and the Mini Production Router for on‑set signal routing. The company also invites custom work, encouraging customers to request bespoke items.
 
-The company highlights several differentiators: domestic design and assembly, in-house component fabrication, insured shipping at no extra cost, and a willingness to produce custom items. These points are presented as the core reasons customers choose Rencher for specialized camera-department hardware.
+Rencher emphasizes that its products are designed and assembled in the USA, with insured shipping included at no extra cost. The boutique approach and in‑house control over design and component fabrication are positioned as its primary differentiators.
 
 ## Known for
-- Designed and Assembled in USA
-- Boutique manufacturing for camera department
-- All products designed and assembled in-house
-- Many components manufactured in-house
+- Designed and assembled in the USA
+- Boutique manufacturing focused on camera department needs
 - Insured shipping at no extra cost
-- Custom manufacturing available on request
+- In-house design, assembly, and component fabrication
+- Custom product development on request
 
 ## Capabilities
-- Product design
+- In-house product design
 - In-house assembly
-- In-house component machining
-- Custom manufacturing
-- Boutique/small-batch production
+- Custom machining (e.g., brass T‑Studs)
+- Electronics assembly (power adapters, battery adapters, voltmeters)
+- Custom product development
+- Insured order fulfillment
 
 ## Industries
 - Motion picture
 - Broadcast
 - New media
-- Camera department equipment
+- Camera department / film production
 
 ## Company details
 - **Company Type:** Manufacturer
@@ -543,16 +548,13 @@ The company highlights several differentiators: domestic design and assembly, in
 
 <details><summary>Sources</summary>
 
-- Location: Winston-Salem, North Carolina -> db
-- Specializes in motion picture, broadcast, new media products -> db, /
-- Designs and assembles all products in-house -> /
-- Many components made in-house -> /
-- Designed and Assembled in USA -> /
-- Boutique manufacturing for camera department -> /
-- Product examples: USB-Sink 28V, Intersex Plate, XLR Power Adapter, PowerBlock, BreakerBatt, Arriflex SR Battery Adapter, Micro Voltmeter, Inline Voltmeter, Mini Production Router, custom-machined brass T-Studs -> /
-- Offers custom work -> /
+- Headquarters: Winston-Salem, North Carolina -> db
+- Specialization: unique products for motion picture, broadcast, and new media -> /
+- In-house design and assembly, many components made in-house -> /
+- Custom work offered -> /
 - Insured shipping at no extra cost -> /
-- Sales contact: sales@rencherindustries.com -> /
+- Product examples: USB-Sink 28V, Intersex Plate, XLR Power Adapter, PowerBlock USB-C PD Battery Adapter, BreakerBatt, Arriflex SR Battery Adapter, Micro Voltmeter, Inline Voltmeter, Mini Production Router, custom-machined brass T-Studs -> /
+- Updates: Thanksgiving closure 2024, new product USB-Sink 28V Sep 2024, summer sale July 2024, Intersex Plate V5 features Aug 2023 -> /
 </details>
 
 ---
@@ -568,7 +570,7 @@ The company produces custom packaging on-site, offering structural design engine
 
 Rengo serves a broad customer base ranging from farmers and small businesses to international corporations across Hawaii. Its packaging solutions are tailored to agricultural producers, local retailers, and larger enterprises requiring shipping and protective packaging.
 
-The company differentiates itself through short lead times enabled by on-island manufacturing, comprehensive support from design through logistics, and a focus on total customer satisfaction with environmentally responsible operations.
+The company differentiates itself through on-island manufacturing that enables short lead times, a professional local service team with decades of experience, and a focus on sustainable, high-tech packaging solutions. It positions itself as Hawaii’s packaging source, offering end-to-end support from design to logistics.
 
 ## Known for
 - Short lead times via on-island manufacturing
