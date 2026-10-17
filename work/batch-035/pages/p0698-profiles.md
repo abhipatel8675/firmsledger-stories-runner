@@ -75,7 +75,7 @@ _skipped: not enough facts_
 
 # Bowen Design
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # BradyPLUS - Formerly Idaho Package Co
 
@@ -83,15 +83,15 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Brass Sales Co
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Brazos Biomedical, LLC
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Brick City Fab
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Bright Medical Technology, Inc.
 
@@ -168,8 +168,8 @@ Bright Medical emphasizes its family-owned heritage and a mission to treat every
 
 # Brothers Furniture Design
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Brown's Auto Salvage
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_

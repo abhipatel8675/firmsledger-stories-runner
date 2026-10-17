@@ -1,6 +1,57 @@
 # Alabama Wholesale Auto Parts (AWAP)
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** Excellent support and they helped confirm fitment before I ordered.
+
+## About
+Alabama Wholesale Auto Parts operates from Birmingham, Alabama, where it supplies OEM used auto parts for late-model cars, trucks, and SUVs. The company serves both local customers in the Birmingham area and ships select parts nationwide, focusing on components that are often difficult to locate at other salvage yards.
+
+The business dismantles late-model vehicles to harvest a broad inventory that includes engines, transmissions, body panels, lighting, suspension components, electrical modules, interior parts, and a wide range of small hardware such as connectors, clips, sensors, and wiring. Its online catalog organizes parts by vehicle year, make, and model, and a “Cars for Parts” list shows specific donor vehicles available for dismantling, such as a 2019 Nissan Altima, a 2017 Chevrolet Cruze, and a 2020 Porsche Macan.
+
+Customers include individual vehicle owners, independent repair shops, mechanics, body shops, rebuilders, and franchised dealers who need original-equipment parts for repairs. The company also accepts part requests through an online form for items not immediately listed in inventory.
+
+Alabama Wholesale Auto Parts emphasizes clear communication, honest service, and a commitment to helping customers find the right part, including the small details that can delay a repair. It positions itself as a source for hard-to-find OEM components at competitive prices, aiming to become a trusted partner for both local and nationwide buyers.
+
+## Known for
+- OEM used parts sourced directly from late-model donor vehicles
+- Competitive pricing on both major components and small hard-to-find hardware
+- Nationwide shipping available for select parts
+- Clear communication and fitment confirmation before purchase
+- Focus on parts that other salvage yards often do not stock
+
+## Capabilities
+- Vehicle dismantling and parts harvesting
+- OEM used parts inventory management
+- Online parts catalog with year/make/model search
+- Part request service for unlisted items
+- Local pickup and select nationwide shipping
+- Fitment confirmation support
+
+## Industries
+- Automotive repair
+- Collision repair
+- Auto dealerships
+- Vehicle rebuilding
+- Automotive recycling
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Headquarters:** Birmingham, Alabama
+
+<details><summary>Sources</summary>
+
+- Based in Birmingham, Alabama -> /about
+- Specializes in OEM used auto parts for late-model cars, trucks, SUVs -> /about
+- Serves local Birmingham area and select nationwide -> /about
+- Supplies engines, transmissions, body parts, lighting, suspension, electrical, interior, small hardware -> /about
+- Serves car owners, repair shops, mechanics, body shops, rebuilders, dealers -> /about
+- Online catalog with year/make/model search -> /
+- Cars for Parts List shows donor vehicles (e.g., 2019 Nissan Altima, 2017 Chevrolet Cruze, 2020 Porsche Macan) -> /
+- Part request form available -> /about
+- Phone 205-538-2538, address Birmingham, AL 35211 -> /about
+- Categories: Air & Fuel, Axle & Brakes, Body, Electrical, Engine, Glass, Heating & Cooling, Interior, Light Lamps, Steering & Suspension, Transmission Drivetrain -> /
+</details>
+
+---
 
 # Alabama Woodworkers Guild, Inc.
 
@@ -277,4 +328,4 @@ The company highlights its collaborative approach, pointing to partnerships with
 
 # All American Poly
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_

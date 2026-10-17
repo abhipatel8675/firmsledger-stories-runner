@@ -4,7 +4,7 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Allmatic Transmission Parts
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Alpha-Stim, by Electromedical Products International
 

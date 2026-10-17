@@ -12,19 +12,81 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # B&J Medical Inc
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # B-D Sheet Metal
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # BE Plastics Inc
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** We are committed to the reduction of harmful carbon emissions. Our recycling and innovation center produces materials from PCR content which allows us to support global net-zero goals.
+
+## About
+BE Plastics Inc. is headquartered in The Woodlands, Texas, near the Port of Houston, with a recycling and innovation center in Cleveland, Texas. The company provides polymer sales, plastics recycling, compounding, and trading solutions to manufacturers, converters, and brand owners worldwide.
+
+The firm supplies prime, near-prime, off-grade, and recycled resins including polyethylene, polypropylene, polystyrene, PET, PVC, polycarbonate, ABS, and polyethylene wax in forms ranging from granules and powders to lumps and regrind. It directly processes scrap and post-consumer recycled (PCR) materials at its Cleveland facility, where compounding and extrusion lines are operated. Annual throughput exceeds 75,000 metric tons shipped to as many as 35 countries, and a new PCR production line is being commissioned with a planned capacity of 15 million pounds per year.
+
+Customers include domestic and international manufacturers, converters, and large brands across the plastics supply chain. The company also manages cross-trade transactions, moving non-U.S.-origin materials between Asia, Europe, Africa, and the Americas.
+
+BE Plastics emphasizes a commitment to reducing carbon emissions by producing PCR-content resins that support net-zero targets. Its expert procurement, sales, and logistics team manages the full transaction lifecycle to secure competitive pricing and transit times, while market analysis and intermodal logistics expertise underpin its service offering.
+
+## Known for
+- Recycling & Innovation Center producing PCR-content resins
+- Expert procurement, sales, and logistics management for competitive transit times
+- Direct processing of scrap and PCR materials with compounding and extrusion lines
+- Global cross-trade network across Asia, Europe, Africa, and the Americas
+- Commitment to net-zero goals through carbon emission reduction
+
+## Capabilities
+- Polymer sales
+- Plastics recycling
+- Compounding
+- Trading
+- Scrap processing
+- PCR resin production
+- Extrusion
+- Cross-trade logistics
+- Procurement and logistics management
+
+## Industries
+- Plastics manufacturing
+- Recycling
+- Polymer trading
+
+## Equipment
+- compounding lines
+- extrusion lines
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** The Woodlands, Texas
+
+<details><summary>Sources</summary>
+
+- Headquarters in The Woodlands, Texas -> /about-us
+- Recycling & Innovation Center in Cleveland, Texas -> /about-us
+- Moves over 75,000 MT per annum to 35 countries -> /about-us
+- Planned PCR production capacity 15 million LBS per annum -> /about-us
+- Staff has over 20 years combined experience -> /about-us
+- Provides polymer sales, plastics recycling, compounding, and trading -> /about-us
+- Supplies prime, near-prime, off-grade, recycled resins and PE wax -> /
+- Committed to reduction of carbon emissions, PCR content supports net-zero goals -> /
+- Full lifecycle managed by expert team of procurement, sales, & logistics -> /
+- World-class customer service and integrity -> /
+- Cross-trade in Asia, Europe, Africa, North America, South America -> /about-us
+- Run compounding and extrusion lines -> /about-us
+- Supplies specific resins: PE, PP, PS, HIPS, PET, PVC, PC, ABS, PMMA, POM, PA, PBT, EVA, HDPE, LDPE, LLDPE, GPPS, PE Wax -> /
+- Supplies scrap of PE, PP, PS, PC, POM, PA, PET -> /about-us
+- Supplies non-prime, off-grade, wide spec resin in granular and powder form -> /about-us
+- Packaging from 25 KG bags, super sacks to sea bulk -> /about-us
+</details>
+
+---
 
 # BEAM Truck Parts
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # BK Plastics Industry, Inc.
 
@@ -105,8 +167,66 @@ The company emphasizes its in-house tooling capability, experienced machinists w
 
 # BLUEWAVE Technologies, Inc.
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** “One of the biggest blind spots in wound care is the device itself.
+
+## About
+BLUEWAVE Technologies, Inc. is headquartered in New York, New York. The company does not publicly disclose its founding year, founders, or ownership structure. It was established to address a gap in wound care: the risk of infection from contaminated orthotic and prosthetic (O&P) devices used by patients with diabetes, limb loss, or immune deficiency.
+
+The company manufactures the BLUEWAVE disinfection system, an FDA Class II cleared home-based device that uses proprietary vacuum-infusion technology to deliver activated oxygen deep into porous materials such as liners, diabetic shoes, offloading boots, and ankle-foot orthoses. The process requires no water, detergents, or harsh chemicals; users place the device in a reusable treatment bag and select a 6-, 15-, or 30-minute automated cycle for disinfection and deodorization.
+
+BLUEWAVE serves the wound care, orthotics and prosthetics, diabetic care, and home healthcare markets. Its customers include patients managing chronic conditions at home, clinicians in outpatient and inpatient settings, and payers seeking to reduce downstream complications from device-related infections. The system is designed for use on diabetic footwear, prosthetic sockets and liners, offloading boots, AFOs, and other orthopedic devices.
+
+The company states its mission is to protect patients, control costs, and enhance lives. It differentiates itself as the only FDA Class II home-based disinfection system specifically designed for O&P device odor and bacteria, backed by patented vacuum-infusion technology and a set of values emphasizing safety, integrity, innovation, accountability, collaboration, and excellence.
+
+## Known for
+- Only FDA Class II home-based disinfection system for O&P devices
+- Proprietary vacuum-infusion activated oxygen technology
+- No chemicals, detergents, or skin-irritating residue
+- Automated 6-, 15-, and 30-minute disinfection cycles
+- Portable, lightweight design for home, clinic, and hospital use
+
+## Capabilities
+- Medical-grade disinfection of orthotic and prosthetic devices
+- Deodorization via activated oxygen
+- Vacuum-infusion process for porous materials
+- Automated disinfection cycles (6, 15, 30 minutes)
+- Home-based, portable disinfection system operation
+
+## Industries
+- Wound care
+- Orthotics and prosthetics (O&P)
+- Diabetic care
+- Home healthcare
+- Clinical care
+- Hospital care
+
+## Equipment
+- BLUEWAVE disinfection system (vacuum-infusion device)
+
+## Certifications
+- FDA Class II clearance
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** New York, NY
+
+<details><summary>Sources</summary>
+
+- Headquarters in New York, NY -> db
+- FDA Class II home-based disinfection system for O&P devices -> /
+- Proprietary vacuum-infusion activated oxygen technology -> /
+- Treats diabetic footwear, prosthetic sockets, liners, offloading boots, AFOs -> /
+- Automated 6-, 15-, 30-minute cycles -> /
+- No chemicals, detergents, or harsh chemicals -> /
+- Portable, lightweight design for home, clinic, hospital use -> /
+- Mission: protect patients, control costs, enhance lives -> /about
+- Values: safety, integrity, innovation, accountability, collaboration, excellence -> /about
+- Only FDA Class II home-based disinfection system for O&P devices -> /
+- Patented vacuum-infusion technology -> /
+</details>
+
+---
 
 # BNA Fabrication and Repair
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_

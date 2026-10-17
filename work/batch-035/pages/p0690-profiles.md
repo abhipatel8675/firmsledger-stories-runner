@@ -4,7 +4,7 @@ _skipped: not enough facts_
 
 # Atomic Threads
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Attends Healthcare Products
 
@@ -112,7 +112,7 @@ The business emphasizes timely, professional workmanship and aims to complete jo
 - Services: welding, fabrication, handrails, guardrails, fencing -> /
 - Pricing: by hour for welding, by foot for linear services -> /
 - Business hours: Mon-Fri 9am-5pm -> /
-- Phone: (504) 858-5855 -> /
+- Phone:  -> /
 - Website: augustafab.com -> db
 - New customer discount: 10% off -> /
 - Emphasis on timely, professional, quality work -> /
@@ -130,7 +130,7 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Aurora Products
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Auto Parts Outlet - Baltimore
 

@@ -28,7 +28,7 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Advanced Textile Corporation
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Ag Technologies Inc
 

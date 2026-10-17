@@ -4,7 +4,7 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Apex Plastics & Tooling
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Apogee Foods
 
@@ -60,7 +60,7 @@ The company emphasizes its certifications — SQF, kosher, and gluten-free — a
 
 # Apollo Energy
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Apparel Machinery & Supply Co
 
@@ -72,7 +72,7 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Aqel Sheet Metal
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Arbor Medical Innovations
 

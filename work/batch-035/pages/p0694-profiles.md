@@ -1,14 +1,14 @@
 # Barrette Fabrication, LLC
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Baseline Solar Solutions
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Bauer Electronics
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Bauer Welding & Metal Fabricators, Inc
 
@@ -16,7 +16,7 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Baum Textile Mills, Inc
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Bay State Wire & Cable Co
 
@@ -150,4 +150,4 @@ Beekley emphasizes that its products should make a meaningful difference for bot
 
 # Behling Racing Equipment
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_

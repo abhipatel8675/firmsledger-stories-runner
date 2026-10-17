@@ -33,7 +33,7 @@ No public information is available regarding the company’s founding date, owne
 - Headquarters Riverton, Utah -> db
 - Website davisdistributing.com/engine-components -> db
 - Two physical locations in Salt Lake City and Bluffdale, Utah -> /
-- Phone numbers 801-487-8596 and 801-572-3630 and email sales@davisdistributing.com -> /
+- Phone numbers  and  and email  -> /
 - Product category ENGINE COMPONENTS -> db and /
 - Dealer program BECOME A DEALER -> /
 - Capability Customer Service -> db
@@ -48,15 +48,15 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Astrawatt Solar
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Atchison Furniture Company
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Atec Inc
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Atlanta Plastic Injection Molding, LLC
 
@@ -64,7 +64,7 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Atlanta Wire & Cable
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Atlantic Aluminum Products, Inc.
 

@@ -1,18 +1,18 @@
 # Billie-Ann Plastics Packaging Corp.
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Billows Electric Supply
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # BioWave – Smarter Pain Blocking Technology
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Birmingham Piston Warehouse
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Birmingham Wood Works
 
@@ -28,7 +28,7 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Blackwell Plastics, LP
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Blankenship Woodworks
 

@@ -8,11 +8,77 @@ _skipped: HTTP Error 429: Too Many Requests_
 
 # BSC Industries
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Bachoco USA Plants - OKC
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** Founded more than 80 years ago, OK Foods has grown from a livestock and poultry feed manufacturer to join one of the world’s leading chicken producers, Bachoco.
+
+## About
+Bachoco USA operates a poultry processing plant in Oklahoma City, Oklahoma, as part of a vertically integrated business that traces its roots back more than 80 years. The operation originated as OK Foods, a livestock and poultry feed manufacturer in the Fort Smith, Arkansas region, before becoming part of Industrias Bachoco, one of the world's largest chicken producers. The company is a subsidiary of the Mexican conglomerate and runs USDA‑certified facilities across the United States.
+
+The facility produces a range of chicken products under the Bachoco®, Tenderbird® and Top Chick® brands, including boneless skinless breasts (IQF, hormone‑free), seasoned bone‑in thighs, fully cooked strips and party wings. Processing steps cover slaughter, deboning, individually quick freezing, marinating, cooking, seasoning and packaging. The company reports 4,000‑plus team members company‑wide and emphasizes a farm‑to‑table supply chain that controls feed, breeding, hatching, grow‑out and processing.
+
+Customers span food‑service distributors, quick‑service restaurant chains, retail grocery accounts, commodity buyers and private‑label programs. The business‑to‑business side sells bulk and portioned items to distributors and national QSR accounts, while the retail arm places branded trays in supermarkets nationwide.
+
+Bachoco states that its differentiation rests on vertical integration, animal‑welfare standards, sustainability initiatives and a food‑safety program that delivers antibiotic‑free, hormone‑free chicken verified by USDA inspection and third‑party testing.
+
+## Known for
+- Vertically integrated farm‑to‑table supply chain
+- USDA‑certified facilities with antibiotic‑free, hormone‑free verification
+- Private‑label and custom product development for food‑service and retail
+- Premium retail brands (Bachoco, Tenderbird, Top Chick) distributed nationally
+- Animal‑welfare and sustainability commitments embedded in production
+
+## Capabilities
+- Poultry slaughter and deboning
+- Individually quick frozen (IQF) processing
+- Marinating and seasoning
+- Fully cooked chicken production
+- Private label manufacturing
+- Food service portioning and packaging
+- Retail tray packaging
+- Animal welfare auditing
+- Sustainable farming practices
+- USDA food safety compliance
+
+## Industries
+- Food service distribution
+- Quick service restaurants (QSR)
+- Retail grocery chains
+- Commodity poultry markets
+- Private label manufacturing
+- Consumer retail
+
+## Certifications
+- USDA Certified facilities
+- Antibiotic-Free Verified
+
+## Company details
+- **Company Type:** Manufacturer
+- **Employees:** 4,000+
+- **Ownership:** Subsidiary of Industrias Bachoco (Mexico)
+- **Headquarters:** Oklahoma City, Oklahoma
+
+<details><summary>Sources</summary>
+
+- Founded more than 80 years ago as OK Foods -> db description
+- Part of Industrias Bachoco, a leading global chicken producer -> db description
+- Plant located in Oklahoma City, Oklahoma -> db hq_city, hq_state_label
+- 4,000+ team members company-wide -> homepage
+- USDA certified facilities -> homepage
+- Vertically integrated farm-to-table operation -> homepage
+- Brands: Bachoco, Tenderbird, Top Chick -> homepage
+- Products: IQF boneless skinless breasts, seasoned bone-in thighs, fully cooked strips, party wings -> homepage
+- Processes: IQF freezing, marinating, cooking, seasoning, packaging -> homepage
+- Serves food service, QSR, retail chains, commodities, private label, distributors -> homepage and db capabilities
+- Antibiotic-free, no added hormones or steroids -> homepage
+- Animal welfare and sustainability commitments -> homepage
+- Address: P.O. Box 1787, Fort Smith, AR 72902 -> homepage
+- Mission statement -> homepage
+</details>
+
+---
 
 # Bad Ass Metal Fab
 
@@ -195,8 +261,8 @@ The firm emphasizes integrity and problem-solving on the spot, drawing on a comb
 
 # Balfour Farm
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Banyan Food Service
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_

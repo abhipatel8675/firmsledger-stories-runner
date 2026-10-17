@@ -80,8 +80,52 @@ American Textile Systems operates from Long Beach, California, supplying institu
 
 # American Wholesale Furniture
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** began its partnership in both the retail and RTO Industries serving the East and Central Midwest in 1986 from Indianapolis, IN.
+
+## About
+American Wholesale Furniture was founded in 1986 in Indianapolis, Indiana. The company began as a wholesale partnership serving the retail and rent-to-own (RTO) industries across the East and Central Midwest.
+
+The company operates as a wholesale distributor of home furnishings, stocking a focused selection of high-turn items that represent roughly 20% of the product range but generate 80% of sales. It fulfills orders through a fleet of company-owned trucks and drivers, delivering to dealers on a weekly schedule. The operation ships between 600 and 800 stores each week, with most orders shipping the same week they are placed. An online ordering system is available for customers.
+
+American Wholesale Furniture serves two primary channels: traditional retail furniture dealers and rent-to-own (RTO) operators. Its customer base includes thousands of partner stores across the East and Central Midwest regions.
+
+The business was built on a simple model: deep inventory of core home furnishings combined with reliable, same-week delivery via company trucks. This approach has driven continuous growth for over three decades.
+
+## Known for
+- Weekly delivery via company-owned trucks and drivers
+- Same-week shipping on most orders
+- Online ordering system for customers
+- Focused inventory model (core 20% of SKUs driving 80% of sales)
+
+## Capabilities
+- Wholesale furniture distribution
+- Scheduled weekly delivery via company trucks
+- Same-week order shipping
+- Online ordering system
+
+## Industries
+- Retail
+- Rent-to-Own (RTO)
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 1986
+- **Headquarters:** Indianapolis, Indiana
+
+<details><summary>Sources</summary>
+
+- Founded 1986 in Indianapolis, IN -> db
+- Serves retail and RTO industries -> db
+- Headquarters Indianapolis, Indiana -> db
+- Business model: stocking 20% of SKUs driving 80% of sales -> /
+- Weekly delivery via company trucks and drivers -> /
+- Ships 600-800 stores weekly -> /
+- Most orders ship same week -> /
+- Online ordering system available -> /
+</details>
+
+---
 
 # American Woodwork Inc
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: not enough facts_

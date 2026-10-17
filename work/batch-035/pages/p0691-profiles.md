@@ -1,6 +1,41 @@
 # Auto Parts of Greenwood
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** Our Greenwood Location: 8316 Greenwood Rd, Greenwood, DE 19950
+
+## About
+Auto Parts of Greenwood operates a retail and salvage location in Greenwood, Delaware, at 8316 Greenwood Road. The business also maintains a presence in Bridgeville, Delaware, at 20416 Sussex Highway. The company’s website is hosted under the LKQ Parts network, suggesting an affiliation with the larger automotive recycler LKQ Corporation, though the exact corporate relationship is not detailed on the site.
+
+The facility functions as a self-service auto parts yard, offering customers an online inventory search, a part request form, and scheduled yard tours for pulling their own components. The site also lists whole vehicles for sale, indicating a secondary business line in used vehicle retail. No information is provided about facility size, employee count, or annual throughput.
+
+The operation serves automotive repair shops, collision centers, and individual vehicle owners seeking replacement parts or project cars. The online tools suggest a focus on both walk-in and remote customers, but specific industry segments or major accounts are not disclosed.
+
+The company does not publish a founding date, ownership structure, or a stated mission that differentiates it from other salvage yards. The copyright notice references Bridgeville Auto Center, which may indicate a shared management or branding arrangement.
+
+## Capabilities
+- Online inventory search
+- Part request service
+- Self-service yard access
+- Used vehicle sales
+- Auto parts retail
+
+## Company details
+- **Company Type:** Retailer
+- **Headquarters:** Greenwood, Delaware
+
+<details><summary>Sources</summary>
+
+- Company name: Auto Parts of Greenwood -> db
+- Location: Greenwood, DE -> db
+- Address: 8316 Greenwood Rd, Greenwood, DE 19950 -> db
+- Website: http://www.lkqparts.net/auto-parts-of-greenwood-home.html -> db
+- Phone: (302) 337-3100 -> /
+- Address: 20416 Sussex Hwy, Bridgeville, DE 19933 -> /
+- Copyright: Bridgeville Auto Center -> /
+- Designed by Techno Goober -> /
+- Menu items: Inventory Search, Request a Part, Yard Tour, Directions, Autos for Sale, Contact Us -> /
+</details>
+
+---
 
 # Automated Assembly
 
@@ -148,7 +183,7 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Avila Textiles, Inc
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Avis Furniture
 
@@ -156,7 +191,7 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Aviva Automotive
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # B & B Sheet Metal
 
