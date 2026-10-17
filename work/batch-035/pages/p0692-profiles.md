@@ -1,14 +1,14 @@
 # B Schoenberg & Co
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # B and D Foods
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # B&C Sheet Metal Inc
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # B&J Medical Inc
 
@@ -16,7 +16,7 @@ _skipped: HTTP Error 429: Too Many Requests_
 
 # B-D Sheet Metal
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # BE Plastics Inc
 
@@ -86,7 +86,7 @@ BE Plastics emphasizes a commitment to reducing carbon emissions by producing PC
 
 # BEAM Truck Parts
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # BK Plastics Industry, Inc.
 
@@ -229,4 +229,4 @@ The company states its mission is to protect patients, control costs, and enhanc
 
 # BNA Fabrication and Repair
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_

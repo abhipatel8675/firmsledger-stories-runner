@@ -1,10 +1,74 @@
 # BNR Automotive Equipment Sales, LLC
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # BOMME STUDIO Clothing Manufacturer
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** Cut-and-sew production • Custom artist merchandise • Private label • High-volume programs
+
+## About
+BOMME STUDIO operates as a clothing manufacturer in Los Angeles, California. The company provides full-package production, cut-make-trim (CMT) services, private label programs, and custom merchandise solutions for established brands. While its founding year and ownership structure are not publicly disclosed, the studio has built a reputation for managing the complete apparel manufacturing lifecycle from development through final delivery.
+
+Its core capabilities span product development, technical design, patternmaking and digitizing, sampling and fit development, cutting, sewing, assembly, quality control, finishing, and bulk production management. The company coordinates both domestic and international factory partners, offering fabric and trim sourcing for full-package programs. Minimum order quantities start at 150 units per style for cut-and-sew work and 600 units per style for full-package production, with high-volume programs also supported.
+
+BOMME STUDIO serves fashion, music, and performance apparel brands, including activewear, athleisure, loungewear, streetwear, underwear, premium t-shirts, hoodies, and sweatshirts. Clients range from high-growth lifestyle labels to artists and tours requiring custom merch. The studio’s private label catalog provides ready-made blanks in 100% cotton and other fabrics for brands seeking faster market entry.
+
+The company emphasizes disciplined workflows, transparent communication, and rigorous quality control across all stages. Its Los Angeles base allows hands-on oversight, while a vetted network of U.S. and global factories ensures category-specific expertise and scalable capacity. Standard timelines run two to six weeks for development, two to four weeks for sampling, and six to twelve weeks for bulk production, with accelerated options available when capacity permits.
+
+## Known for
+- Full-package production managing development, sourcing, sampling, and bulk manufacturing under one workflow
+- CMT execution-only for brands with materials already secured
+- MOQ 150 units/style (cut & sew) and 600 units/style (full-package)
+- Vetted USA and global factory network selected for category fit and consistency
+- Rigorous quality control across development, sampling, and final production
+
+## Capabilities
+- Product development & technical design
+- Patternmaking & digitizing
+- Sampling & fit development
+- Cutting, sewing & assembly
+- Quality control & finishing
+- Packing & bulk production management
+- USA & global manufacturing options
+- Fabric sourcing
+- Trim sourcing
+- Private label programs
+- Custom merch design & production
+- Screen printing
+- Embroidery
+- CMT (cut-make-trim)
+
+## Industries
+- Fashion
+- Music
+- Performance apparel
+- Activewear
+- Athleisure
+- Loungewear
+- Streetwear
+- Underwear
+- Premium t-shirts
+- Hoodies & sweatshirts
+
+## Company details
+- **Company Type:** Contract manufacturer / job shop
+- **Headquarters:** Los Angeles, California
+
+<details><summary>Sources</summary>
+
+- Location: Los Angeles, California -> db
+- Services: full-package production, CMT, private label, custom merch -> /
+- Capabilities: product development, technical design, patternmaking, digitizing, sampling, fit development, cutting, sewing, assembly, quality control, finishing, packing, bulk production management -> /
+- MOQ: 150 units/style cut & sew, 600 units/style full-package -> /
+- Timeline: development 2-6 weeks, sampling 2-4 weeks, bulk 6-12 weeks -> /
+- Industries served: fashion, music, performance apparel, activewear, athleisure, loungewear, streetwear, underwear, premium t-shirts, hoodies, sweatshirts -> /
+- Materials: performance fabrics, premium knits, denim, fleece, trims, specialty components, 100% cotton blanks -> /, /services
+- Private label benefits: faster to market, economical, reduced time, ethical production -> /services
+- USA and global factory partners vetted for category fit -> /
+- Fabric and trim sourcing for full-package programs -> /
+</details>
+
+---
 
 # BSC Industries
 
@@ -82,7 +146,56 @@ Bachoco states that its differentiation rests on vertical integration, animal‑
 
 # Bad Ass Metal Fab
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** 5lb Propane tank bracket for Flame King style (only works with 5lb tanks)
+
+## About
+Bad Ass Metal Fab, operating under the BAMF brand, is based in Grass Valley, California. The company's founding year and ownership structure are not publicly disclosed, and no founders are named in available sources.
+
+The shop centers on CNC laser cutting and tube laser cutting, offering custom design and prototyping services alongside a proprietary product line. That line includes carbon steel cookware — 10x10 and 10x20 griddles and grill pans — and truck accessories such as a behind-the-grille light bar bracket for 2005–2023 Toyota Tacomas and a 5 lb propane tank bracket for Flame King tanks. Facility size, headcount, and annual volumes are not published.
+
+The business serves two primary markets: outdoor cooking enthusiasts who buy griddles direct through the company's e-commerce site, and truck owners seeking model-specific mounting hardware. The Tacoma bracket and propane tank bracket illustrate the automotive aftermarket focus, while the griddle series targets the backyard and camp cooking segment.
+
+The company positions itself on "meticulous detail, unapologetic attitude, and technical mastery" and promotes the ability to make "complex shapes easy" through its laser cutting capabilities. It emphasizes custom design and prototyping as a core offering for customers who push limits and demand more.
+
+## Known for
+- CNC laser cutting and tube laser cutting capabilities
+- Custom design and prototyping services
+- Carbon steel cookware product line (griddles, grill pans)
+- Model-specific truck accessory brackets (e.g., Tacoma light bar mount)
+- Direct-to-consumer e-commerce fulfillment
+
+## Capabilities
+- CNC laser cutting
+- Tube laser cutting
+- Custom design
+- Prototyping
+- Carbon steel fabrication
+- Truck accessory fabrication
+
+## Industries
+- Outdoor cooking equipment
+- Automotive aftermarket
+- Truck accessories
+
+## Equipment
+- CNC laser cutter
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Grass Valley, California
+
+<details><summary>Sources</summary>
+
+- Company name Bad Ass Metal Fab (BAMF) -> db
+- Headquarters Grass Valley, California -> db
+- Capabilities: Laser Cutting, Tube Laser Cutting, Carbon Steel Cookware, Truck Accessories -> db
+- Description: 5lb Propane tank bracket for Flame King style -> db
+- Homepage text: Complex shapes made easy, CNC LASER CUTTING, Custom design and prototyping -> /
+- Homepage products: 10x10 Griddle $79.95, 10x10 Griddle pan $109.95, 10x20 Griddle $139.95, Tacoma light bar bracket $99.95 -> /
+- Homepage tagline: Meticulous detail, unapologetic attitude, and technical mastery -> /
+</details>
+
+---
 
 # Badger Steel USA.WI LLC
 
@@ -261,8 +374,8 @@ The firm emphasizes integrity and problem-solving on the spot, drawing on a comb
 
 # Balfour Farm
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Banyan Food Service
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_

@@ -47,7 +47,7 @@ Alabama Wholesale Auto Parts emphasizes clear communication, honest service, and
 - Online catalog with year/make/model search -> /
 - Cars for Parts List shows donor vehicles (e.g., 2019 Nissan Altima, 2017 Chevrolet Cruze, 2020 Porsche Macan) -> /
 - Part request form available -> /about
-- Phone 205-538-2538, address Birmingham, AL 35211 -> /about
+- Phone , address Birmingham, AL 35211 -> /about
 - Categories: Air & Fuel, Axle & Brakes, Body, Electrical, Engine, Glass, Heating & Cooling, Interior, Light Lamps, Steering & Suspension, Transmission Drivetrain -> /
 </details>
 
@@ -117,7 +117,53 @@ The guild’s stated mission is to promote and administer programs that benefit 
 
 # Alamance Steel Fabricators Inc
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** 5926 Prospect St. / Archdale, North Carolina / Office: 
+
+## About
+Alamance Steel Fabricators, Inc. operates from 5926 Prospect Street in Archdale, North Carolina, where it has provided metal fabrication services for over three decades. The company’s founding year and ownership structure are not publicly disclosed, nor are the names of any founders.
+
+The shop specializes in custom metal fabrication for residential and commercial projects, producing hand rails, fencing, gates, stairs, structural buildings, and miscellaneous fabrications. Each job is treated as a specialty, with emphasis on close tolerances and dimensional symmetry to create visually pleasing results. No facility size, headcount, or annual volume figures are published.
+
+Alamance Steel serves customers across North Carolina and surrounding states, supplying fabricated metal components for both residential and commercial construction applications. The company notes that its reputation has grown through a focus on quality across products, performance, and service.
+
+The company states that quality is the benchmark of its efforts, covering products, performance, and service, and that its reputation has been built on meeting customer expectations for precision and reliability. This commitment to quality is cited as the reason Alamance Steel has become a reputable company in the region.
+
+## Known for
+- Every job treated as a specialty in the shop
+- Close tolerances and dimensional symmetry emphasized
+- Quality positioned as benchmark for products, performance, and service
+- Reputation built across North Carolina and surrounding states
+
+## Capabilities
+- Metal fabrication
+- Hand rail fabrication
+- Fencing fabrication
+- Gate fabrication
+- Stair fabrication
+- Structural building fabrication
+- Miscellaneous metal fabrication
+
+## Industries
+- Residential construction
+- Commercial construction
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Archdale, North Carolina
+
+<details><summary>Sources</summary>
+
+- Metal fabrication company based in Archdale, NC -> /
+- Over 30 years experience -> /
+- Specializes in hand rails, fencing, gates, stairs, structural buildings, miscellaneous fabrications -> /
+- Serves residential and commercial applications -> /
+- Emphasis on close tolerances and dimensional symmetry -> /
+- Quality as benchmark for products, performance, service -> /
+- Reputable in North Carolina and surrounding states -> /
+- Address: 5926 Prospect St., Archdale, North Carolina -> /
+</details>
+
+---
 
 # Alamo Food Equipment-Supplies
 
@@ -186,11 +232,109 @@ Alamo positions itself as a single source for new and used equipment alongside a
 
 # Alaska Chicks Company - Wasilla
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** We offer Priority or Ground Advantage shipping option at checkout! Note: Ground Advantage deliveries may take up to 3 weeks to arrive.
+
+## About
+Alaska Chicks Company operates three retail locations in the Matanuska-Susitna Valley: its flagship store in Wasilla, a second in Eagle River, and a third in Palmer, Alaska. The company’s founding year and ownership structure are not publicly disclosed, and the founder’s name does not appear in the available materials.
+
+The business sells a range of Alaska-themed apparel and accessories for women, men, and children, along with drinkware, stickers, and gift items. Merchandise is offered through both brick-and-mortar stores and an e-commerce site that provides Priority and Ground Advantage shipping options. A wholesale program allows other retailers to carry the brand, and the company hosts personalized shopping events at its locations.
+
+Customers include individual shoppers visiting the physical stores and wholesale buyers such as boutiques and gift shops seeking Alaska-branded merchandise. The wholesale section of the website invites other businesses to stock the company’s collections, and a “Find Us” page lists additional retailers that carry the products.
+
+The company emphasizes its local roots and community engagement, promoting Alaska Vintage Markets and personalized shopping events as ways to connect with customers. Its differentiators are the combination of multiple physical storefronts, a dedicated wholesale channel, and a shipping policy that offers both expedited and economy options for online orders.
+
+## Known for
+- Three retail locations in Wasilla, Eagle River, and Palmer
+- Priority and Ground Advantage shipping options
+- Ground Advantage delivery up to 3 weeks
+- Wholesale program for other retailers
+- Personalized in-store shopping events
+
+## Capabilities
+- In-store retail sales
+- E-commerce order fulfillment
+- Wholesale distribution
+- Personalized shopping events
+
+## Industries
+- Retail apparel
+- Wholesale apparel
+- Gift and souvenir retail
+
+## Company details
+- **Company Type:** Retailer
+- **Headquarters:** Wasilla, Alaska
+
+<details><summary>Sources</summary>
+
+- Headquarters city/state: Wasilla, Alaska -> db
+- Additional store locations: Eagle River, Palmer -> page "/"
+- Shipping options: Priority and Ground Advantage -> page "/"
+- Ground Advantage delivery up to 3 weeks -> page "/"
+- Wholesale program exists -> page "/"
+- Personalized shopping events offered -> page "/"
+- Product categories: women's, men's, kids apparel, accessories, drinkware, stickers -> page "/"
+- Community engagement: Alaska Vintage Markets -> page "/"
+- Retail store hours and addresses -> page "/"
+</details>
+
+---
 
 # Alaska Log Furnishings
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** Alaska Log Furnishings — Hand-Made Log Furniture, Wasilla AK
+
+## About
+Alaska Log Furnishings operates from a shop in Wasilla, Alaska, where founder Chad Stuber has been building log furniture by hand since 2003. The business began with a focus on using locally salvaged timber — black spruce recovered after wildfires and beetle-kill white spruce — and has remained a one-person operation for over two decades.
+
+Stuber produces heirloom beds, dressers, dining sets, railings, tables, cabinets, and on-site woodwork, each piece cut and joined by hand using drawknives and traditional joinery. The portfolio documents 132 completed pieces across categories including 45 beds, 29 dressers and nightstands, 17 tables, and 13 cabinets. Typical lead times run six to fourteen weeks from design to delivery, with every joint cut and every baluster drawknifed in the shop — no flat-pack components or shortcuts.
+
+The customer base is primarily residential, serving Alaska homeowners and cabin owners who want custom log furniture built from native woods. Projects range from single beds and benches to full bedroom suites, bunk configurations, and built-in cabinetry for kitchens and living rooms. Stuber also collaborates on site-specific installations such as railings and custom storage, and ships via enclosed trailer on the road system or coordinates with bush freight forwarders for remote locations.
+
+The differentiator is the material sourcing and the pace: every piece starts with logs salvaged from fire or beetle damage, and the build process is deliberately slow, emphasizing hand craftsmanship over volume. Stuber describes the approach as "twenty-three years of doing this one way: slowly, by hand, in Alaska."
+
+## Known for
+- Hand-built by a single maker in Wasilla, Alaska
+- Uses salvaged black spruce and beetle-kill white spruce
+- No flat-pack components; every joint cut and drawknifed by hand
+- Typical lead time 6–14 weeks
+- Delivers to door on road system; bush freight forwarders welcome
+
+## Capabilities
+- Custom log furniture design
+- Hand joinery
+- Drawknifing
+- On-site woodwork installation
+- Custom cabinetry
+- Furniture delivery and setup
+
+## Industries
+- Residential furniture
+- Custom woodwork
+- Hospitality and lodge furnishings
+
+## Company details
+- **Company Type:** Manufacturer
+- **Founded:** 2003
+- **Employees:** 1
+- **Ownership:** Sole proprietorship
+- **Headquarters:** Wasilla, Alaska
+
+<details><summary>Sources</summary>
+
+- Founded 2003 -> /
+- Located in Wasilla, Alaska -> /
+- Single maker Chad Stuber -> /
+- Uses salvaged black spruce and beetle-kill white spruce -> /
+- Produces heirloom beds, dressers, dining sets, railings, tables, cabinets, on-site woodwork -> /
+- Portfolio of 132 pieces across categories -> /
+- Lead time 6-14 weeks typical -> /
+- Hand-built, no flat-pack, every joint cut and drawknifed -> /
+- Delivers via enclosed trailer on road system, bush freight forwarders welcome -> /
+- Serves residential Alaska homeowners and cabin owners -> /
+</details>
+
+---
 
 # Alaska Spiritwear LLC/ FISHAK
 

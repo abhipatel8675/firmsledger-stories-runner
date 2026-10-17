@@ -1,10 +1,10 @@
 # Antolin Illinois
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Apex Plastics & Tooling
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Apogee Foods
 
@@ -64,11 +64,11 @@ _skipped: HTTP Error 429: Too Many Requests_
 
 # Apparel Machinery & Supply Co
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Aptiv
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Aqel Sheet Metal
 
@@ -124,8 +124,8 @@ Arbor Medical Innovations was founded to address the gap between episodic clinic
 
 # Architectural Metal Supply
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Arctic Food Equipment
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_

@@ -1,6 +1,6 @@
 # All Metal Fab, Inc
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # All Solar
 
@@ -230,4 +230,4 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Alliant Biotech
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_

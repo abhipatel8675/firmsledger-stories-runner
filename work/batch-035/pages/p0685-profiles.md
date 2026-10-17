@@ -1,6 +1,6 @@
 # America's Best Apparel Inc
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # American Cable Co Inc
 
@@ -8,7 +8,7 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # American Electronic Components
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # American Food Equipment & Supply
 
@@ -16,15 +16,15 @@ _skipped: not enough facts_
 
 # American Laser Fab
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # American Molding and Plastics, LLC
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # American Plastics LLC
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # American Textile Systems
 

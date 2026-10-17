@@ -219,7 +219,7 @@ The company emphasizes same-day cutting for most orders, no minimum order quanti
 
 # Bernard Woodworking
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Bernatello's Foods
 
@@ -264,19 +264,69 @@ The company says its differentiation lies in "The Bernatello's Way," a culture c
 
 # Bespoke Home Design - Decorating Den Interiors
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Best Craft Furniture, Inc.
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Bestec Inc
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** We represent Transformer, Switchgear, and Electrical Manufacturers  for NC,  SC, & VA
+
+## About
+Based in Garner, North Carolina, Bestec Inc operates as a manufacturer's representative for transformer, switchgear, and electrical equipment makers across North Carolina, South Carolina, and Virginia. The firm brings 36 years of industry experience to its role serving electrical distributors in the Carolinas.
+
+The company provides stock distribution transformer solutions, including liquid-filled and dry-type units, and arranges expedited custom transformer solutions for specialized requirements. Its services include technical assistance for distributors and contractors, as well as application support for transformer and switchgear projects.
+
+Bestec serves customers in hyperscale data center and renewable energy project markets, along with electrical distributors and contractors throughout its three-state territory. The firm focuses on the specification and supply of transformers and switchgear for utility, commercial, and industrial installations.
+
+The company emphasizes its long-tenured application expertise and ability to deliver both stocked and custom transformer solutions on accelerated timelines.
+
+## Known for
+- 36 years of transformer and switchgear application experience
+- Stock distribution transformer solutions (liquid and dry)
+- Expedited custom transformer solutions
+- Technical assistance for distributors and contractors
+- Service territory covering North Carolina, South Carolina, and Virginia
+
+## Capabilities
+- Manufacturer representation
+- Stock distribution transformer solutions
+- Expedited custom transformer solutions
+- Technical assistance for distributors and contractors
+- Transformer and switchgear application support
+
+## Industries
+- Hyperscale data centers
+- Renewable energy projects
+- Electrical distribution
+- Contractors
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Headquarters:** Garner, North Carolina
+
+<details><summary>Sources</summary>
+
+- Location: Garner, NC -> /
+- Represents transformer, switchgear, electrical manufacturers for NC, SC, VA -> /
+- Serves electrical distributors in NC/SC -> /
+- Offers stock distribution transformer solutions (liquid, dry) -> /
+- Provides expedited custom transformer solutions -> /
+- Serves hyperscale data and renewable energy projects -> /
+- Provides technical assistance to distributors and contractors -> /
+- 36 years of transformer and switchgear application experience -> /
+- Address: 141 Technology Dr, Garner, NC 27529 -> /
+- Phone: 800-849-8988, (919) 790-8988 -> /
+- Hours: Mon-Fri 8am-5pm -> /
+</details>
+
+---
 
 # Betatron Electronics Inc.
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Big Island Living - Teak, Hardwood Furniture & Art Gallery
 

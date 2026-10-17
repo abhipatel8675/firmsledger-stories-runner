@@ -1,6 +1,62 @@
 # Ascent Battery Supply LLC
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** Create your account to gain access to view commercial products, volume pricing, account servicing, on-site assessments and more.
+
+## About
+Ascent Battery Supply LLC operates from Glendale, Wisconsin, as the logistics and supply chain division of Batteries Plus. The division was launched in 2003, building on a retail network that began with a single store in Green Bay, Wisconsin, in 1988. Today the parent company runs more than 700 locations across all 50 states and Puerto Rico.
+
+Ascent Battery Supply focuses on commercial and business-to-business sales, offering batteries, lighting, and related power products through a dedicated business account program. The division provides volume pricing, on-site assessments, fleet battery services, rebate assistance, and a dedicated advisor for each account. Its product lineup includes proprietary brands such as X2Power, Werker, Nuon, and UltraLast, alongside major national brands.
+
+The division serves industries including property management, healthcare, construction, education, and government. Customers range from facility managers needing backup power and lighting upgrades to fleet operators requiring battery testing and replacement programs.
+
+The company emphasizes a partnership model rather than simple product sales, highlighting dedicated advisor support, fast local delivery, and simplified billing as key differentiators. Its technicians hold WISE certification, and select stores offer genuine Apple and Samsung parts for device repairs, extending the service capability beyond power products.
+
+## Known for
+- Competitive volume pricing for business accounts
+- Dedicated advisor support and simplified billing
+- Fast local delivery through 700+ store network
+- On-site assessments and fleet battery services
+- Proprietary brands X2Power, Werker, Nuon, UltraLast
+
+## Capabilities
+- Commercial battery distribution
+- Volume pricing
+- Account management
+- On-site assessments
+- Fleet battery services
+- Rebate assistance
+- Dedicated advisor support
+- Battery testing and installation
+- Key fob programming
+- Device repair (phone, tablet, gaming console)
+- Watch battery replacement
+- Recycling services
+
+## Industries
+- Property management
+- Healthcare
+- Construction
+- Education
+- Government
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Founded:** 2003
+- **Headquarters:** Glendale, Wisconsin
+
+<details><summary>Sources</summary>
+
+- Founded 2003 as logistics and supply chain division of Batteries Plus -> /about
+- Headquartered in Glendale, Wisconsin -> db
+- Parent company operates 700+ stores across 50 states and Puerto Rico -> /about
+- Offers commercial products, volume pricing, account servicing, on-site assessments -> db
+- Serves property management, healthcare, construction, education, government -> /about
+- Provides dedicated advisor support, fast local delivery, simplified billing -> /about
+- Proprietary brands include X2Power, Werker, Nuon, UltraLast -> /about
+- Technicians are WISE Certified; select stores offer genuine Apple and Samsung parts -> /about
+</details>
+
+---
 
 # Ascent Diesel Formerly ASC Warehouse
 
@@ -44,15 +100,72 @@ No public information is available regarding the company’s founding date, owne
 
 # Ashley Furniture Industries Manufacturing and Distribution Center
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Astrawatt Solar
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** Ponemos el sol a trabajar para ti. Nuestro equipo de expertos instala sistemas solares basados en tu necesidad para reducir tus facturas de energía y aumentar el valor de tu propiedad.
+
+## About
+Astrawatt Solar operates from Oklahoma City, Oklahoma. The company’s founding year and ownership structure are not publicly disclosed. It began as a solar installation firm focused on delivering customized energy solutions for homes and businesses.
+
+The company designs and installs photovoltaic systems for residential, commercial, and industrial clients. Its services include rooftop and ground-mount solar arrays, battery storage integration using Tesla and Enphase products, electric-vehicle charger installation, and smart panel upgrades. Astrawatt also arranges financing with no upfront cost and handles roof assessments and any necessary removal or reinstallation of panels for roof repairs.
+
+Customers range from homeowners seeking lower utility bills to businesses and industrial facilities aiming to cut operating costs and meet sustainability targets. The firm cites residential projects that reduced electricity costs by nearly 85 percent, commercial installations that improve energy independence, and industrial projects that redirect savings toward core missions.
+
+Astrawatt differentiates itself through a “5-Star Commitment” that promises personalized consultation, long-term partnership, no space limitations, customer education, and direct support without third-party subcontractors. The company emphasizes transparent pricing, certified panels, and a single point of contact throughout the project lifecycle.
+
+## Known for
+- Personalized consultation for each project
+- Sustainable long-term partnership model
+- No space limitations on system design
+- Customer education throughout the process
+- 5-Star Commitment with direct support (no third-party installers)
+
+## Capabilities
+- Residential solar installation
+- Commercial solar installation
+- Industrial solar installation
+- Battery energy storage integration (Tesla, Enphase)
+- Electric vehicle charger installation
+- Smart panel upgrades
+- Solar financing (no upfront cost)
+- Roof assessment and structural evaluation
+- Panel removal and reinstallation for roof repairs
+- System monitoring and maintenance
+
+## Industries
+- Residential
+- Commercial
+- Industrial
+
+## Equipment
+- Tesla battery storage systems
+- Enphase battery storage systems
+
+## Company details
+- **Company Type:** Installer / service company
+- **Headquarters:** Oklahoma City, Oklahoma
+
+<details><summary>Sources</summary>
+
+- Headquarters: Oklahoma City, Oklahoma -> db
+- Services: residential, commercial, industrial solar installation -> /
+- Battery brands: Tesla, Enphase -> /
+- EV charger installation -> /
+- Smart panel upgrades -> /
+- Financing: no upfront cost, flexible plans -> /
+- Roof assessment and repair coordination -> /
+- Differentiators: personalized consultation, sustainable partnership, no space limitations, customer education, 5-Star Commitment -> /
+- Industries served: residential, commercial, industrial -> /
+- Customer testimonials referencing cost reduction, energy independence -> /
+</details>
+
+---
 
 # Atchison Furniture Company
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Atec Inc
 
@@ -60,11 +173,11 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Atlanta Plastic Injection Molding, LLC
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Atlanta Wire & Cable
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Atlantic Aluminum Products, Inc.
 

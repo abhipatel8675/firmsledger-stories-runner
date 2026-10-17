@@ -1,6 +1,46 @@
 # Action Fabricators & Erectors
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** Our work specializes in residential, commercial and industrial areas.
+
+## About
+Based in Hyattsville, Maryland, Action Fabricators & Erectors operates a metal fabrication shop serving the greater Washington, D.C. metropolitan area. The company's founding year and ownership structure are not publicly disclosed.
+
+The firm maintains over 15,000 square feet of shop space equipped for metal fabrication and repair, with a focus on ornamental iron and miscellaneous metal work. Its capabilities span custom fabrication, welding, and repair services for structural and decorative metal components.
+
+Action Fabricators serves residential, commercial, and industrial clients, providing everything from custom railings and gates for homeowners to structural steel and miscellaneous metals for commercial construction and industrial facilities.
+
+The company emphasizes its shop capacity and breadth of fabrication services as key to meeting diverse project requirements, though it does not publish specific differentiators such as lead times or certification standards.
+
+## Known for
+- Over 15,000 sq ft of fabrication shop space
+- Ornamental iron and miscellaneous metal fabrication expertise
+- Residential, commercial, and industrial project experience
+
+## Capabilities
+- Metal fabrication
+- Metal repair
+- Ornamental iron fabrication
+- Miscellaneous metal fabrication
+
+## Industries
+- Residential
+- Commercial
+- Industrial
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Hyattsville, Maryland
+
+<details><summary>Sources</summary>
+
+- Headquarters in Hyattsville, Maryland -> db
+- Over 15,000 sq ft shop space -> website
+- Metal fabrication and repair services -> website
+- Ornamental iron and miscellaneous metal fabrication -> website
+- Serves residential, commercial, and industrial sectors -> website
+</details>
+
+---
 
 # Acuity Brands
 
@@ -28,7 +68,47 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Advanced Textile Corporation
 
-_skipped: HTTP Error 429: Too Many Requests_
+**Old description:** None
+
+## About
+Advanced Textile Corporation operates a fully vertical textile mill in Scranton, Pennsylvania. The company draws on decades of textile experience, though a specific founding year is not publicly disclosed. Ownership details and founder names have not been shared.
+
+ATC produces custom-woven and proprietary fabrics tailored to end-user specifications. Its capabilities include warping, coating, and the ability to deliver a wide range of fabric widths and weights. The facility is described as a modern manufacturing operation, but headcount, floor space, and annual volume figures are not published.
+
+The company serves a variety of markets through its "Markets Served" program, though specific industries or customer names are not listed on its website. Its fabrics are designed for applications that require custom material development.
+
+ATC emphasizes quick reaction to customer demands as a key differentiator, positioning itself against traditional fabric producers. It also highlights industry-leading warping and coating processes, along with a commitment to value and quality, as the foundation of its competitive edge.
+
+## Known for
+- Fully vertical textile manufacturing
+- Industry-leading warping and coating
+- Quick reaction to customer demands
+- Custom-woven fabrics in diverse sizes, styles, and materials
+- Proprietary fabrics designed to end-user requirements
+
+## Capabilities
+- Warping
+- Coating
+- Custom weaving
+- Custom fabric design
+- Wide range of fabric widths and weights
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Scranton, Pennsylvania
+
+<details><summary>Sources</summary>
+
+- Fully vertical textile manufacturer in Scranton, Pennsylvania -> /
+- Decades of textile experience -> /
+- Produces custom-woven and proprietary fabrics -> /
+- Capabilities include warping, coating, range of widths and weights -> /
+- Emphasizes quick reaction to customer demands -> /
+- Industry-leading warping and coating claimed -> /
+- Headquarters at 700 E Parker Street, Scranton, PA 18509 -> /
+</details>
+
+---
 
 # Ag Technologies Inc
 

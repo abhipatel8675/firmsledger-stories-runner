@@ -1,6 +1,6 @@
 # Arena Food Processors
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Arizona Manufacturing and Embroidery, Inc
 
@@ -65,7 +65,7 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Arkansas Crafts
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Arkansas Furniture
 
@@ -149,11 +149,59 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Arnott Inc
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** Get exclusive updates and special offers delivered to your inbox.
+
+## About
+Arnott Inc operates from Merritt Island, Florida, where it designs and manufactures aftermarket air and adaptive suspension components for the global automotive market. The company does not disclose its founding year or ownership structure in the available materials.
+
+The firm produces replacement air springs, struts, compressors, and coil-spring conversion kits, covering approximately 93 percent of vehicles worldwide. Its manufacturing approach emphasizes meticulous engineering, premium material selection, and rigorous testing at every production stage. A global distribution network supports parts availability across North America, Europe, Asia, and Australia.
+
+Customers include independent repair shops, dealership technicians, and vehicle owners servicing brands such as Audi, Mercedes-Benz, Range Rover, and light trucks. Arnott also runs a free, industry-recognized certification program that trains technicians on air suspension diagnosis and repair in 90 minutes or less.
+
+The company states its differentiation lies in precision manufacturing combined with expert training and seamless support, aiming to reduce comebacks and dealer referrals while unlocking new revenue streams for service providers.
+
+## Known for
+- 93% vehicle coverage worldwide
+- Global distribution network
+- Free industry-recognized technician certification (90 minutes)
+- Precision manufacturing with rigorous multi-stage testing
+- Premium material selection for durability
+
+## Capabilities
+- Air suspension component manufacturing
+- Adaptive suspension component manufacturing
+- Coil-spring conversion kit manufacturing
+- Precision manufacturing
+- Multi-stage quality testing
+- Technical training and certification programs
+- Global parts distribution
+
+## Industries
+- Automotive aftermarket
+- Air suspension replacement
+- Vehicle repair and service
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Merritt Island, Florida
+
+<details><summary>Sources</summary>
+
+- Headquarters: Merritt Island, Florida -> db
+- Product focus: replacement air & adaptive suspension -> /
+- 93% vehicle coverage worldwide -> /
+- Global distribution network mentioned -> /
+- Free technician certification program (90 min) -> /
+- Precision manufacturing with premium materials and rigorous testing -> /
+- Customer examples: Audi, Mercedes-Benz, Range Rover, trucks -> /
+- Website supports 8 languages -> /
+</details>
+
+---
 
 # Arrotek Medical (formerly Needletech)
 
-_skipped: 'NoneType' object has no attribute 'group'_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Arrow Wire & Cable Inc
 

@@ -4,15 +4,15 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Baseline Solar Solutions
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Bauer Electronics
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Bauer Welding & Metal Fabricators, Inc
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Baum Textile Mills, Inc
 
@@ -88,7 +88,7 @@ Founder Donald Bayne emphasizes personal oversight on every job, stating that no
 
 # Bear Republic Brewing Co.
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Beekley Medical
 

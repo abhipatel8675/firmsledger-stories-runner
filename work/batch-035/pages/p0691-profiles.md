@@ -28,7 +28,7 @@ The company does not publish a founding date, ownership structure, or a stated m
 - Location: Greenwood, DE -> db
 - Address: 8316 Greenwood Rd, Greenwood, DE 19950 -> db
 - Website: http://www.lkqparts.net/auto-parts-of-greenwood-home.html -> db
-- Phone: (302) 337-3100 -> /
+- Phone:  -> /
 - Address: 20416 Sussex Hwy, Bridgeville, DE 19933 -> /
 - Copyright: Bridgeville Auto Center -> /
 - Designed by Techno Goober -> /
@@ -171,11 +171,67 @@ ACC differentiates itself through its New Product Introduction methodology, whic
 
 # Automotive Alliance, LLC.
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** Automotive Alliance is the industry leader for brand new Collision Parts
+
+## About
+Automotive Alliance, LLC operates from Hanover, Maryland, with an administrative office in Sunrise, Florida. The company was active by 2019, as indicated by its website copyright, though a founding year is not publicly disclosed. Ownership structure and founders are not specified in available sources.
+
+The company distributes brand‑new collision parts, OEM surplus parts, and aftermarket lamps for a wide range of vehicle makes. It provides VIN verification on every order and electronic ordering through platforms including CCC True Parts, Parts Trader, APU Solutions, and OPS TRAX, with real‑time inventory visibility. The staff collectively holds over 40 years of automotive parts experience. All parts carry a 12‑month warranty, and the company emphasizes guaranteed fitment to reduce shop cycle time.
+
+Automotive Alliance serves collision repair shops, estimators, and insurance‑linked workflows. Its parts are listed under the OPT‑OEM alternative category in major estimating systems such as CCC, Audatex, and Mitchell. The company also partners with Parts Trader as a premier supplier and stocks CAPA‑certified lamps and collision parts from brands including TYG, TYC, Depo, and Gordon.
+
+The company states its mission is to be the OE Surplus vendor of choice by delivering exceptional customer service and quality parts. It differentiates itself with same‑ or next‑day shipping, price matching against aftermarket alternatives, and a commitment to hassle‑free installation through certified parts.
+
+## Known for
+- VIN verification on every order
+- Electronic ordering via CCC True Parts, Parts Trader, APU, OPS TRAX
+- Real-time inventory visibility
+- 12-month warranty on all parts
+- Same- or next-day shipping
+
+## Capabilities
+- VIN Verification
+- Electronic Parts Ordering
+- Real-time Inventory
+- Parts Distribution
+- Warranty Service (12-month)
+- Price Matching
+- CAPA Certified Parts Sourcing
+
+## Industries
+- Collision Repair
+- Automotive Parts Distribution
+- Insurance Estimating
+
+## Company details
+- **Company Type:** Distributor / reseller
+- **Headquarters:** Hanover, Maryland
+
+<details><summary>Sources</summary>
+
+- Headquarters in Hanover, Maryland -> db
+- Administrative office in Sunrise, Florida -> /
+- Website copyright 2019 -> /
+- Distributes collision parts, OEM parts, aftermarket lamps -> /
+- VIN verification on every order -> /
+- Electronic ordering via CCC True Parts, Parts Trader, APU, OPS TRAX -> /
+- Real-time inventory via CCC True Parts -> /
+- Staff with over 40 years combined auto experience -> /
+- 12-month warranty on all products -> /
+- Same or next day delivery -> /
+- Price matching against aftermarket -> /
+- CAPA certified lamps and collision parts from TYG, TYC, Depo, Gordon -> /
+- Parts listed under OPT-OEM category in estimating platforms -> /
+- Premier Supplier for Parts Trader -> /
+- Works with Audatex, Mitchell, APU Solutions, OPS TRAX -> /
+- Mission to be OE Surplus vendor of choice -> /
+</details>
+
+---
 
 # Automotive Equipment Sales & Service Inc
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: not enough facts_
 
 # Automotive Supply Co
 
@@ -187,12 +243,12 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Avis Furniture
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Aviva Automotive
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # B & B Sheet Metal
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_

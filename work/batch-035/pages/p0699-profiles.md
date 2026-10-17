@@ -4,7 +4,7 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Brunton International
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Buckeye Metal Works, Inc
 
@@ -12,7 +12,7 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # BuildMore Workshop
 
-_skipped: HTTP Error 502: Bad Gateway_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Bunkie Wood Products Co. Inc
 
@@ -24,7 +24,7 @@ _skipped: HTTP Error 429: Too Many Requests_
 
 # Butcher Power Products
 
-_skipped: HTTP Error 429: Too Many Requests_
+_skipped: HTTP Error 503: Service Unavailable_
 
 # Butcher Supply & Repair Co.
 
@@ -36,4 +36,4 @@ _skipped: not enough facts_
 
 # C Mayo Inc. Custom Metal Fabrication
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_

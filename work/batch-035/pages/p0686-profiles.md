@@ -91,19 +91,19 @@ The company emphasizes its customer-friendly policies: custom cuts with no minim
 
 # Amerisewn
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Amish Country Furnishings
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Amphenol Printed Circuits
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Anchor Enterprises
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Anchor Semiconductor
 
@@ -175,11 +175,11 @@ Anchor emphasizes its vendor-neutral image processing technology as a key differ
 
 # Anderson Valley Brewing Company
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Anima Manufacturing Services
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Annapolis Metal Fabrication and Repair LLC
 
@@ -187,4 +187,4 @@ _skipped: not enough facts_
 
 # Anthela Foods Inc.
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_

@@ -80,11 +80,11 @@ Agiliti emphasizes a “Nationwide Support. Local Responsiveness.” model, aimi
 
 # Aimtron Corporation
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Aisin Automotive Casting
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Ajay Metal Fabricators
 
@@ -138,7 +138,7 @@ Ajay Metal Fabricators states its commitment to quality products, excellence in 
 
 # Akin Industries
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Akm Semiconductor
 
@@ -192,7 +192,7 @@ The business emphasizes parts quality that surpasses OE specifications and backs
 
 # Alabama Furniture Market
 
-_skipped: HTTP Error 503: Service Unavailable_
+_skipped: HTTP Error 429: Too Many Requests_
 
 # Alabama Metals
 
@@ -200,4 +200,60 @@ _skipped: HTTP Error 503: Service Unavailable_
 
 # Alabama Sawyer
 
-_skipped: HTTP Error 503: Service Unavailable_
+**Old description:** A 14-DAY GALLERY EXHIBITION CELEBRATING TEN RINGS 'ROUND THE TREE
+
+## About
+Alabama Sawyer operates from Birmingham, Alabama, where it has spent a decade milling and crafting furniture from reclaimed urban timber. The company began with a focus on turning locally sourced logs into finished pieces, offering a "Tree Concierge" service that manages the process from tree removal to final product.
+
+The shop produces a range of furniture including dining tables, benches, storage units, desks, and conference tables, along with home accessories such as charcuterie boards, trays, ice buckets, and the Noaway© compost caddy. Production is described as hand-crafted, using species like urban white oak, reclaimed pine, and shou sugi ban-treated wood, often combined with hand-cast bronze or pewter accents. The facility also handles commercial and hospitality projects, providing architectural elements and trade pricing for design professionals.
+
+Customers include residential buyers, commercial clients in the hospitality sector, and trade partners such as architects and interior designers who specify custom conference tables, seating, and built-in elements. The company also sells University of Alabama branded merchandise and operates a trade account program for industry buyers.
+
+Alabama Sawyer emphasizes its use of urban wood salvaged from local sources, framing each piece as having a story tied to the region. The "Tree to Table" service and a commitment to domestic manufacturing are presented as core differentiators, alongside free shipping on accessory orders over $150.
+
+## Known for
+- Free shipping on home accessory orders over $150
+- Tree Concierge Service managing tree removal to finished product
+- Tree to Table service for custom urban wood projects
+- Handcrafted in Birmingham from locally salvaged urban timber
+- Trade program for architects and designers
+
+## Capabilities
+- Tree Concierge Service
+- Tree to Table
+- Furniture manufacturing (dining tables, benches, storage, desks, conference tables)
+- Home accessories manufacturing (charcuterie boards, trays, ice buckets, compost bins)
+- Commercial & hospitality furniture
+- Architectural elements
+- Custom milling and finishing
+- Shou Sugi Ban treatment
+- Metal casting (bronze, pewter) integration
+- Ceramic integration
+
+## Industries
+- Residential furniture
+- Commercial furniture
+- Hospitality
+- Trade (architects and designers)
+- Gifts and home accessories
+- Collegiate merchandise
+
+## Company details
+- **Company Type:** Manufacturer
+- **Headquarters:** Birmingham, Alabama
+
+<details><summary>Sources</summary>
+
+- Location: Birmingham, Alabama -> db (hq_city, hq_state_label) and homepage text
+- Decade of operation (10 years) -> homepage text: 'A DECADE: MILLING + MAKING'
+- Tree Concierge Service and Tree to Table -> db capabilities and homepage navigation
+- Product categories: furniture, home accessories, kitchen, commercial & hospitality -> homepage navigation and text
+- Materials: urban white oak, reclaimed pine, shou sugi ban, bronze, pewter, ceramic -> homepage text (WINSTON TABLE, LEGACY TABLE, RECLAIMED PINE + SHOU SUGI BAN, Star Tray)
+- Free shipping on home accessory orders over $150 -> homepage banner
+- Trade program and commercial/hospitality focus -> homepage navigation (Commercial & Hospitality, To The Trade, Apply for a Trade Account)
+- University of Alabama merchandise -> homepage navigation (Official U of A)
+- Handcrafted in Birmingham from sustainably-sourced urban wood -> homepage text
+- Noaway© Compost Bin and Star Tray products -> db products and homepage
+</details>
+
+---
